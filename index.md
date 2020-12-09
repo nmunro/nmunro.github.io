@@ -8,6 +8,7 @@ I'm a software engineer/tutor in the North West of England, where I work for [Co
 
 I've been programming in one form or another for the last twenty years, with a BSc in computer science and ten years experience in the industry. My primary programming language is Python, which I started using in 2008 and have continued to use ever since.
 
+In addition to teaching the core curriculum, I also have a [Common Lisp](https://www.youtube.com/channel/UC1J47RqBfY6VgLUZ5YSYkqw) video tutorial series on YouTube, feel free to check it out.
 
 ### Employment
 
@@ -21,7 +22,10 @@ I've been programming in one form or another for the last twenty years, with a B
 
 ### Education
 
-In addition to teaching the core curriculum, I also have a [Common Lisp](https://www.youtube.com/channel/UC1J47RqBfY6VgLUZ5YSYkqw) video tutorial series on YouTube, feel free to check it out.
+| From  | To      | Institution            | Course                   |
+| :---: | :------:| :--------------------: | :----------------------: |
+| 2005  | 2009    | University Of Teesside | BSc Computer Science     |
+| 2003  | 2005    | York College           | BTEC ND IT Practitioners |
 
 ### Skills
 
