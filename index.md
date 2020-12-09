@@ -1,3 +1,3 @@
-# [NMunro](about.md)
+# NMunro
 
-[Blog](blog.md)
+# [About](about.md) | [Blog](blog.md)
