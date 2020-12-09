@@ -12,12 +12,12 @@ In addition to teaching the core curriculum, I also have a [Common Lisp](https:/
 
 ### Employment
 
-| From  | To      | Company         |
-| :---: | :------:| :-------------: |
-| 2020  | Present | CodeNation      |
-| 2018  | 2020    | MirrorWeb       |
-| 2017  | 2018    | Farm            |
-| 2012  | 2017    | Global Graphics |
+| From  | To      | Company         | Role                   |
+| :---: | :------:| :-------------: | :--------------------: |
+| 2020  | Present | CodeNation      | Senior Instructor      |
+| 2018  | 2020    | MirrorWeb       | Senior Engineer        |
+| 2017  | 2018    | Farm            | Senior Engineer        |
+| 2012  | 2017    | Global Graphics | Software Test Engineer |
 
 
 ### Education
