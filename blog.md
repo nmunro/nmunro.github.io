@@ -1,4 +1,4 @@
-# Blog
+# [Home](index.md) | [Philosophy](philosophy.md)
 
 ---
 
