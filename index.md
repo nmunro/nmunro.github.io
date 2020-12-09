@@ -1,7 +1,3 @@
 # [NMunro](about.md)
 
----
-
-- Python
-- Common Lisp
-- JavaScript
+[Blog](blog.md)
