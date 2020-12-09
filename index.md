@@ -14,10 +14,12 @@ I've been programming in one form or another for the last twenty years, with a B
 
 ### Employment
 
-- 2020 - Present: CodeNation
-- 2018 - 2020:    MirrorWeb
-- 2017 - 2018:    Farm
-- 2012 - 2017:    Global Graphics
+| Start | To      | Company         |
+| :---: | :------:| :-------------: |
+| 2020  | Present | CodeNation      |
+| 2018  | 2020    | MirrorWeb       |
+| 2017  | 2018    | Farm            |
+| 2012  | 2017    | Global Graphics |
 
 ---
 
