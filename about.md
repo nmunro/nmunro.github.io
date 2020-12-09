@@ -1,4 +1,6 @@
-# NMunro
+# About Me
+
+---
 
 ## Employment
 
@@ -8,7 +10,7 @@ I'm a software engineer/tutor in the North West of England, I currently work for
 
 ## Education
 
-My YouTube channel
+My YouTube channel: [Common Lisp](https://www.youtube.com/channel/UC1J47RqBfY6VgLUZ5YSYkqw)
 
 ---
 
