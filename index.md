@@ -13,7 +13,7 @@ In addition to teaching the core curriculum, I also have a [Common Lisp](https:/
 ### Employment
 
 | From  | To      | Company         | Role                   |
-| :---: | :------:| :-------------: | :--------------------: |
+| :---: | :-----: | :-------------: | :--------------------: |
 | 2020  | Present | CodeNation      | Senior Instructor      |
 | 2018  | 2020    | MirrorWeb       | Senior Engineer        |
 | 2017  | 2018    | Farm            | Senior Engineer        |
@@ -23,7 +23,7 @@ In addition to teaching the core curriculum, I also have a [Common Lisp](https:/
 ### Education
 
 | From  | To      | Institution            | Course                   |
-| :---: | :------:| :--------------------: | :----------------------: |
+| :---: | :-----: | :--------------------: | :----------------------: |
 | 2005  | 2009    | University Of Teesside | BSc Computer Science     |
 | 2003  | 2005    | York College           | BTEC ND IT Practitioners |
 
