@@ -66,7 +66,7 @@ The writer option allows you to have a function created for you to change the va
         
     ; You can then use the function like so
     (let ((p (make-instance 'person)))
-        (set-name p "Fred")
+        (set-name "Fred" p)
         (format t "~A~%" (name p)))
         
 #### accessor
@@ -89,14 +89,13 @@ Determines if a `slot` exists on the `class` directly and is therefore shared am
 ##### Example
 
     (defclass person ()
-        ((name :allocation :instance :accessor name)
-        (species :allocation :class :accessor age))
+        ((name :initarg :name :allocation :instance :accessor name)
+        (species :initform "human" :allocation :class :accessor species)))
         
-    (let ((p (make-instance 'person))
-          (p1 (make-instance 'person)))
-        (setf (species p1) "human")  
-        (with-slots (name species) p
-            (format t "~A: ~A~%" name species)))
+    (let ((p  (make-instance 'person :name "Fred"))
+          (p1 (make-instance 'person :name "Bob")))
+        (setf (species p1) "not human")
+        (format t "~A: ~A~%" (name p) (species p)))
 
 #### documentation
 
