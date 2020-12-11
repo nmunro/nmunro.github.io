@@ -46,6 +46,8 @@ The initform option is used to set the default value of `slots` at `class` `init
 
 The reader option allows you to have a function created for you to access the value stored in a `slot`. It is worth noting you can have as many `:reader` options as you like!
 
+##### Example
+
     (defclass person ()
         ((name :initarg :name :reader name)))
         
@@ -56,6 +58,8 @@ The reader option allows you to have a function created for you to access the va
 #### writer
 
 The writer option allows you to have a function created for you to change the value stored in a `slot`. It is worth noting you can have as many `:writer` options as you like!
+
+##### Example
 
     (defclass person ()
         ((name :initarg :name :reader name :writer set-name)))
@@ -98,12 +102,16 @@ Determines if a `slot` exists on the `class` directly and is therefore shared am
 
 The documentation option is to assist the programmer understand the purpose of a `slot`. Forgive such a trivial example below as what a name `slot` on a person `object` is going to be is pretty self-evident, but in other cases maybe not so much.
 
+##### Example
+
     (defclass person ()
         ((name :documentation "The persons name")))
 
 #### type
 
 The type option is another hint to programmers, it is important to note that despite appearances it is not an enforced type, it confused me at first but it's just a hint, alongside `:documentation`.
+
+##### Example
 
     (defclass person ()
         ((name :type string)))
