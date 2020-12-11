@@ -1,4 +1,4 @@
-# [Home](index.md) | [Blog](blog.md) | [Credentialss](creds.md) 
+# [Home](index.md) | [Blog](blog.md) | [Credentials](creds.md) 
 
 ## My ramblings...
 
