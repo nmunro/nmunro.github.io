@@ -1,4 +1,4 @@
-# [Blog](blog.md) | [Philosophy](philosophy.md)
+# [Blog](blog.md) | [Philosophy](philosophy.md) | [Credentials](creds.md) 
 
 ## About Me
 
@@ -10,22 +10,7 @@ I've been programming in one form or another for the last twenty years, with a B
 
 In addition to teaching the core curriculum, I also have a [Common Lisp](https://www.youtube.com/channel/UC1J47RqBfY6VgLUZ5YSYkqw) video tutorial series on YouTube, feel free to check it out.
 
-### Employment
-
-| From  | To      | Company         | Role                   |
-| :---: | :-----: | :-------------: | :--------------------: |
-| 2020  | Present | CodeNation      | Senior Instructor      |
-| 2018  | 2020    | MirrorWeb       | Senior Engineer        |
-| 2017  | 2018    | Farm            | Senior Engineer        |
-| 2012  | 2017    | Global Graphics | Software Test Engineer |
-
-
-### Education
-
-| From  | To      | Institution            | Course                   |
-| :---: | :-----: | :--------------------: | :----------------------: |
-| 2005  | 2009    | University Of Teesside | BSc Computer Science     |
-| 2003  | 2005    | York College           | BTEC ND IT Practitioners |
+I like lifting weights and axe throwing, not that I get the chance to throw axes especially often, mind.
 
 ### Skills
 
