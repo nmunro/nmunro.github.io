@@ -21,6 +21,8 @@ As mentioned however, this way of writing a class isn't especially practical, as
 
 The initarg option is used to set the value of `slots` at `class` `initilisation`, you do not have to use the same keyword as the slot name!
 
+##### Example
+
     (defclass person ()
         ((name :initarg :name)))
         
@@ -32,6 +34,8 @@ The initarg option is used to set the value of `slots` at `class` `initilisation
 #### initform
 
 The initform option is used to set the default value of `slots` at `class` `initilisation`, if no value is given.
+
+##### Example
 
     (defclass person ()
         ((name :initform "Fred")))
