@@ -2,7 +2,7 @@
 layout: post
 title:  "Common Lisp Tutorial 10b: Basic Classes"
 date:   2020-12-11 21:33:23 +0000
-Tags: CommonLisp Lisp tutorial YouTube
+tags: CommonLisp Lisp tutorial YouTube
 author: NMunro
 ---
 
@@ -17,14 +17,14 @@ In this tutorial I explain how to start using `classes` in Common Lisp, it is mo
 A simple (although impractical) `class` looks is created with the [defclass](http://clhs.lisp.se/Body/m_defcla.htm) `macro`:
 
 {% highlight common_lisp linenos %}
-    (defclass person ()
-      (name age))
+(defclass person ()
+  (name age))
 {% endhighlight %}
       
 It can be `initialised` with the following code, please be aware however that one does not use `new` or some `factory-pattern` named `function` to build an `instance`, Common Lisp has a different way, [make-instance](http://clhs.lisp.se/Body/f_mk_ins.htm):
 
 {% highlight common_lisp linenos %}
-    (make-instance 'person)
+(make-instance 'person)
 {% endhighlight %}
     
 As mentioned however, this way of writing a class isn't especially practical, as although the slots `name` and `age` are created, there's no way to set or get their values, there's more that one has to do to configure behaviour on the `slots`. In fact there are 8 options that can be passed to a slot, they are:
@@ -36,11 +36,11 @@ The initarg option is used to set the value of `slots` at `class` `initilisation
 ##### Example
 
 {% highlight common_lisp linenos %}
-    (defclass person ()
-        ((name :initarg :name)))
+(defclass person ()
+    ((name :initarg :name)))
         
-    ; When you create an object, you can set the slot value like so
-    (let ((p (make-instance 'person :name "Fred")))
+; When you create an object, you can set the slot value like so
+(let ((p (make-instance 'person :name "Fred")))
         (with-slots (name) p
             (format t "~A~%" name)))
 {% endhighlight %}
@@ -52,13 +52,13 @@ The initform option is used to set the default value of `slots` at `class` `init
 ##### Example
 
 {% highlight common_lisp linenos %}
-    (defclass person ()
-        ((name :initform "Fred")))
+(defclass person ()
+    ((name :initform "Fred")))
         
-    ; When you create an object, you can set the slot value like so
-    (let ((p (make-instance 'person)))
-        (with-slots (name) p
-            (format t "~A~%" name)))
+; When you create an object, you can set the slot value like so
+(let ((p (make-instance 'person)))
+    (with-slots (name) p
+        (format t "~A~%" name)))
 {% endhighlight %}
             
 
@@ -69,12 +69,12 @@ The reader option allows you to have a function created for you to access the va
 ##### Example
 
 {% highlight common_lisp linenos %}
-    (defclass person ()
-        ((name :initarg :name :reader name)))
+(defclass person ()
+    ((name :initarg :name :reader name)))
         
-    ; You can then use the function like so
-    (let ((p (make-instance 'person)))
-        (format t "~A~%" (name p)))
+; You can then use the function like so
+(let ((p (make-instance 'person)))
+    (format t "~A~%" (name p)))
 {% endhighlight %}
 
     
@@ -85,13 +85,13 @@ The writer option allows you to have a function created for you to change the va
 ##### Example
 
 {% highlight common_lisp linenos %}
-    (defclass person ()
-        ((name :initarg :name :reader name :writer set-name)))
+(defclass person ()
+    ((name :initarg :name :reader name :writer set-name)))
         
-    ; You can then use the function like so
-    (let ((p (make-instance 'person)))
-        (set-name "Fred" p)
-        (format t "~A~%" (name p)))
+; You can then use the function like so
+(let ((p (make-instance 'person)))
+    (set-name "Fred" p)
+    (format t "~A~%" (name p)))
 {% endhighlight %}
 
         
@@ -102,12 +102,12 @@ A [setf](http://clhs.lisp.se/Body/m_setf_.htm)-able function that can be used to
 ##### Example
 
 {% highlight common_lisp linenos %}
-    (defclass person ()
-        ((name :initarg :name :accessor name)))
+(defclass person ()
+    ((name :initarg :name :accessor name)))
     
-    (let ((p (make-instance 'person)))
-        (setf (name p) "Fred")
-        (format t "~A~%" (name p)))
+(let ((p (make-instance 'person)))
+    (setf (name p) "Fred")
+    (format t "~A~%" (name p)))
 {% endhighlight %}
 
 
@@ -118,14 +118,14 @@ Determines if a `slot` exists on the `class` directly and is therefore shared am
 ##### Example
 
 {% highlight common_lisp linenos %}
-    (defclass person ()
-        ((name :initarg :name :allocation :instance :accessor name)
-        (species :initform "human" :allocation :class :accessor species)))
+(defclass person ()
+    ((name :initarg :name :allocation :instance :accessor name)
+     (species :initform "human" :allocation :class :accessor species)))
         
-    (let ((p  (make-instance 'person :name "Fred"))
-          (p1 (make-instance 'person :name "Bob")))
-        (setf (species p1) "not human")
-        (format t "~A: ~A~%" (name p) (species p)))
+(let ((p  (make-instance 'person :name "Fred"))
+      (p1 (make-instance 'person :name "Bob")))
+    (setf (species p1) "not human")
+    (format t "~A: ~A~%" (name p) (species p)))
 {% endhighlight %}
 
 
@@ -136,8 +136,8 @@ The documentation option is to assist the programmer understand the purpose of a
 ##### Example
 
 {% highlight common_lisp linenos %}
-    (defclass person ()
-        ((name :documentation "The persons name")))
+(defclass person ()
+    ((name :documentation "The persons name")))
 {% endhighlight %}
 
 
@@ -148,7 +148,7 @@ The type option is another hint to programmers, it is important to note that des
 ##### Example
 
 {% highlight common_lisp linenos %}
-    (defclass person ()
-        ((name :type string)))
+(defclass person ()
+    ((name :type string)))
 {% endhighlight %}
 
