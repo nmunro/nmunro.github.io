@@ -2,7 +2,7 @@
 layout: post
 title:  "Common Lisp Tutorial 10b: Basic Classes"
 date:   2020-12-11 21:33:23 +0000
-Tags: CommonLisp Lisp tutorial youtube
+Tags: CommonLisp Lisp tutorial YouTube
 author: NMunro
 ---
 
@@ -16,14 +16,14 @@ In this tutorial I explain how to start using `classes` in Common Lisp, it is mo
 
 A simple (although impractical) `class` looks is created with the [defclass](http://clhs.lisp.se/Body/m_defcla.htm) `macro`:
 
-{% highlight common_lisp %}
+{% highlight common_lisp linenos %}
     (defclass person ()
       (name age))
 {% endhighlight %}
       
 It can be `initialised` with the following code, please be aware however that one does not use `new` or some `factory-pattern` named `function` to build an `instance`, Common Lisp has a different way, [make-instance](http://clhs.lisp.se/Body/f_mk_ins.htm):
 
-{% highlight common_lisp %}
+{% highlight common_lisp linenos %}
     (make-instance 'person)
 {% endhighlight %}
     
@@ -35,7 +35,7 @@ The initarg option is used to set the value of `slots` at `class` `initilisation
 
 ##### Example
 
-{% highlight common_lisp %}
+{% highlight common_lisp linenos %}
     (defclass person ()
         ((name :initarg :name)))
         
@@ -51,7 +51,7 @@ The initform option is used to set the default value of `slots` at `class` `init
 
 ##### Example
 
-{% highlight common_lisp %}
+{% highlight common_lisp linenos %}
     (defclass person ()
         ((name :initform "Fred")))
         
@@ -68,7 +68,7 @@ The reader option allows you to have a function created for you to access the va
 
 ##### Example
 
-{% highlight common_lisp %}
+{% highlight common_lisp linenos %}
     (defclass person ()
         ((name :initarg :name :reader name)))
         
@@ -84,7 +84,7 @@ The writer option allows you to have a function created for you to change the va
 
 ##### Example
 
-{% highlight common_lisp %}
+{% highlight common_lisp linenos %}
     (defclass person ()
         ((name :initarg :name :reader name :writer set-name)))
         
@@ -101,7 +101,7 @@ A [setf](http://clhs.lisp.se/Body/m_setf_.htm)-able function that can be used to
 
 ##### Example
 
-{% highlight common_lisp %}
+{% highlight common_lisp linenos %}
     (defclass person ()
         ((name :initarg :name :accessor name)))
     
@@ -117,7 +117,7 @@ Determines if a `slot` exists on the `class` directly and is therefore shared am
 
 ##### Example
 
-{% highlight common_lisp %}
+{% highlight common_lisp linenos %}
     (defclass person ()
         ((name :initarg :name :allocation :instance :accessor name)
         (species :initform "human" :allocation :class :accessor species)))
@@ -135,7 +135,7 @@ The documentation option is to assist the programmer understand the purpose of a
 
 ##### Example
 
-{% highlight common_lisp %}
+{% highlight common_lisp linenos %}
     (defclass person ()
         ((name :documentation "The persons name")))
 {% endhighlight %}
@@ -147,7 +147,7 @@ The type option is another hint to programmers, it is important to note that des
 
 ##### Example
 
-{% highlight common_lisp %}
+{% highlight common_lisp linenos %}
     (defclass person ()
         ((name :type string)))
 {% endhighlight %}
