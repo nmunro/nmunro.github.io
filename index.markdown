@@ -1,8 +1,10 @@
-# [Blog](blog.md) | [Philosophy](philosophy.md) | [Credentials](creds.md) 
+---
+layout: post
+date:   2020-12-11 21:33:23 +0000
+categories: jekyll update
+---
 
-## About Me
-
-### Personal
+## Personal
 
 I'm a software engineer/tutor in the North West of England, where I work for [CodeNation](https://wearecodenation.com/) as a senior instructor. I teach JavaScript, Python, git, testing, CI/CD, as well as techniques such as OOP and FP, it's challenging, but a lot of fun, very rewarding.
 
@@ -12,7 +14,7 @@ In addition to teaching the core curriculum, I also have a [Common Lisp](https:/
 
 I like lifting weights and axe throwing, not that I get the chance to throw axes especially often, mind.
 
-### Skills
+## Skills
 
 - Python
 - Common Lisp

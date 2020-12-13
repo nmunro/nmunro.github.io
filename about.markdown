@@ -1,4 +1,9 @@
-# [Home](index.md) | [Blog](blog.md) | [Philosophy](philosophy.md)
+---
+layout: post
+title:  "About"
+date:   2020-12-11 21:33:23 +0000
+categories: jekyll update
+---
 
 ## My career so far
 
