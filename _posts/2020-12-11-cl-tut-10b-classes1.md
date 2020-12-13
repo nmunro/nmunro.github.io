@@ -6,9 +6,6 @@ categories: jekyll update
 author: Munro
 ---
 
-# [Home](index.markdown) | [Blog](blog.markdown) | [About](about.markdown)
-
-
 ## Introduction
 
 In this tutorial I explain how to start using `classes` in Common Lisp, it is mostly focused on learning about `slots` (properties), how to use them, what options are available on `slots` and how to `initialise` a `class`.
