@@ -1,8 +1,6 @@
 ---
-layout: home
-title: "index"
-date:   2020-12-11 21:33:23 +0000
-categories: jekyll update
+layout: default
+title: "Home"
 ---
 
 [About](about.markdown) | [Blog](blog.markdown)
