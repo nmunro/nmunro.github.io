@@ -30,7 +30,7 @@ twitter_username: Neil_Munro
 github_username:  nmunro
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
