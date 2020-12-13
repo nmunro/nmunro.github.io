@@ -169,4 +169,4 @@ The code from the video is listed here for your convenience.
 
   (let ((p3 (make-instance 'person :name "Fred" :age 34)))
     (format nil "~A: ~A (~A)" (name p3) (age p3) (species p3))))
-{% end highlight %}
+{% endhighlight %}
