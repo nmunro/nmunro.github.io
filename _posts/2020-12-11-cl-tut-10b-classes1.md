@@ -152,3 +152,21 @@ The type option is another hint to programmers, it is important to note that des
     ((name :type string)))
 {% endhighlight %}
 
+
+### Tutorial
+
+The code from the video is listed here for your convenience.
+
+{% highlight common_lisp linenos %}
+(defclass person ()
+  ((name :initarg    :name    :initform "Bob"   :accessor name    :allocation :instance :type string  :documentation "Stores a persons name")
+   (age  :initarg    :age     :initform 18      :accessor age     :allocation :instance :type integer :documentation "Stores a persons age")
+   (species :initarg :species :initform "human" :accessor species :allocation :class)))
+
+(let ((p (make-instance 'person :name 145))
+      (p2 (make-instance 'person :name "Bob" :age 45)))
+  (setf (species p2) "not-human")
+
+  (let ((p3 (make-instance 'person :name "Fred" :age 34)))
+    (format nil "~A: ~A (~A)" (name p3) (age p3) (species p3))))
+{% end highlight %}
