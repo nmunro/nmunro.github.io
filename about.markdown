@@ -3,7 +3,8 @@ layout: default
 title:  "About"
 ---
 
-# [Home](index.markdown) | [Blog](blog.markdown)
+# [Home](index.markdown) | [Blog](blog.markdown) | [Philosophy](philosophy.markdown)
+
 
 ## My career so far
 
