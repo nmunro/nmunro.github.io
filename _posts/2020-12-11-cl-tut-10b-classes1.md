@@ -2,7 +2,7 @@
 layout: post
 title:  "Common Lisp Tutorial 10b: Basic Classes"
 date:   2020-12-11 21:33:23 +0000
-categories: jekyll update
+Tags: CommonLisp Lisp tutorial youtube
 author: NMunro
 ---
 
