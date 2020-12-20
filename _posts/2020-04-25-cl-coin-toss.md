@@ -126,6 +126,8 @@ The `if` special form is likewise used again, here the `string=` function is use
 
 #### Bringing it all together
 
+Below is a complete example of the three functions bringing together a simple coin toss guessing game that will be playable, for reference you can see a working version [here](https://github.com/nmunro/cl-coin-toss/blob/master/src/main.lisp). I hope that was helpful and served as a bit of a taste for Common Lisp, see you next time!
+
 {% highlight common_lisp linenos %}
 (defun toss-coin ()
   "Generate a random heads or tails"
@@ -155,8 +157,6 @@ The `if` special form is likewise used again, here the `string=` function is use
       (format t "You Win!~%")
       (format t "You Loose!~%")))
 {% endhighlight %}
-
-Above is a complete example of the three functions bringing together a simple coin toss guessing game that will be playable, for reference you can see a working version [here](https://github.com/nmunro/cl-coin-toss/blob/master/src/main.lisp). I hope that was helpful and served as a bit of a taste for Common Lisp, see you next time!
 
 ### References
 
