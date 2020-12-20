@@ -145,6 +145,31 @@ The documentation option is to assist the programmer understand the purpose of a
 
 The type option is another hint to programmers, it is important to note that despite appearances it is not an enforced type, it confused me at first but it's just a hint, alongside `:documentation`.
 
+##### Correction
+
+[zellerin](https://github.com/zellerin) has very kindly corrected this particular section, thank you!
+
+To quote the [HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Body/m_defcla.htm)
+
+ > The :type slot option specifies that the contents of the slot will always be of the specified data type. It effectively declares the result type of the reader generic function when applied to an object of this class. The consequences of attempting to store in a slot a value that does not satisfy the type of the slot are undefined. The :type slot option is further discussed in Section 7.5.3 (Inheritance of Slots and Slot Options). 
+ 
+ So be warned, this is not a hint to programmers, it is a promise to the compiler, and if you break that promise, anything can happen.
+ 
+ That being said, for example [sbcl](http://www.sbcl.org/manual/#Declarations-as-Assertions) manual says:
+ 
+ > Types declared using the :type slot option in defclass are asserted if and only if the class was defined in safe code and the slot access location is in safe code as well. This laxness does not pose any internal consistency issues, as the CLOS slot types are not available for the type inferencer, nor do CLOS slot types provide any efficiency benefits.
+
+So what you observed is what you really get in sbcl outside of safe code:
+
+{% highlight common_lisp linenos %}
+(locally (declare (optimize (safety 3)))
+  (defclass foo () ((a :initarg :a :type integer)))
+  (make-instance 'foo :a 'a))
+{% endhighlight %}
+
+Throws an appropriate type error.
+
+
 ##### Example
 
 {% highlight common_lisp linenos %}
@@ -170,3 +195,7 @@ The code from the video is listed here for your convenience.
   (let ((p3 (make-instance 'person :name "Fred" :age 34)))
     (format nil "~A: ~A (~A)" (name p3) (age p3) (species p3))))
 {% endhighlight %}
+
+### References
+
+- [defclass]()
