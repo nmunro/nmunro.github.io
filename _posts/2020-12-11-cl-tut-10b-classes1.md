@@ -27,7 +27,7 @@ It can be `initialised` with the following code, please be aware however that on
 (make-instance 'person)
 {% endhighlight %}
 
-It is possible to get started with code this simple, it is possible to use the `slot-value` function with `setf` to get/set the values stored in the slots:
+It is possible to get started with code this simple, using the `slot-value` function with `setf` to get/set the values stored in the slots:
 
 {% highlight common_lisp lineos %}
 (defclass person ()
@@ -37,6 +37,19 @@ It is possible to get started with code this simple, it is possible to use the `
   (setf (slot-value p 'name) 'bob)
   (setf (slot-value p 'age) 24)
   (format nil "~A: ~A" (slot-value p 'name) (slot-value p 'age)))
+{% endhighlight %}
+
+Alternatively one can also use `with-slots` to achieve the same result, the slot names are `setf`-able and can be read and written to easily!
+
+{% highlight common_lisp lineos %}
+(defclass person ()
+  (name age))
+
+(let ((p (make-instance 'person)))
+  (with-slots (name age) p
+    (setf name 'bob)
+    (setf age 28)
+    (format nil "~A: ~A" name age)))
 {% endhighlight %}
     
 There's a lot more one can do with classes though, in fact there are 8 options that can be passed to a slot, each extend the behavior in useful ways and are listed below:
