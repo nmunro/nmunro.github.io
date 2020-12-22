@@ -14,7 +14,7 @@ In this tutorial I explain how to start using `classes` in Common Lisp, it is mo
 
 ### A simple example
 
-A simple (although impractical) `class` looks is created with the [defclass](http://clhs.lisp.se/Body/m_defcla.htm) `macro`:
+A simple `class` can be created with the [defclass](http://clhs.lisp.se/Body/m_defcla.htm) `macro`:
 
 {% highlight common_lisp linenos %}
 (defclass person ()
@@ -26,8 +26,24 @@ It can be `initialised` with the following code, please be aware however that on
 {% highlight common_lisp linenos %}
 (make-instance 'person)
 {% endhighlight %}
+
+It is possible to get started with code this simple, it is possible to use the `slot-value` function with `setf` to get/set the values stored in the slots:
+
+{% highlight common_lisp lineos %}
+(defclass person ()
+  (name age))
+
+(let ((p (make-instance 'person)))
+  (setf (slot-value p 'name) 'bob)
+  (setf (slot-value p 'age) 24)
+  (format nil "~A: ~A" (slot-value p 'name) (slot-value p 'age)))
+{% endhighlight %}
     
-As mentioned however, this way of writing a class isn't especially practical, as although the slots `name` and `age` are created, there's no way to set or get their values, there's more that one has to do to configure behaviour on the `slots`. In fact there are 8 options that can be passed to a slot, they are:
+There's a lot more one can do with classes though, in fact there are 8 options that can be passed to a slot, each extend the behavior in useful ways and are listed below:
+
+#### Correction
+
+A previous version of this [article](https://github.com/nmunro/nmunro.github.io/commit/a7f24ac6e213a9cdef61ae58b8e0b36c9bc98cbd) incorrectly claimed there was no way to get/set the slots.
 
 #### initarg
 
@@ -181,14 +197,23 @@ The code from the video is listed here for your convenience.
    (age  :initarg    :age     :initform 18      :accessor age     :allocation :instance :type integer :documentation "Stores a persons age")
    (species :initarg :species :initform "human" :accessor species :allocation :class)))
 
-(let ((p (make-instance 'person :name 145))
-      (p2 (make-instance 'person :name "Bob" :age 45)))
-  (setf (species p2) "not-human")
+(let ((p1 (make-instance 'person :name 145)))
+  (setf (species p1) "not-human")
 
-  (let ((p3 (make-instance 'person :name "Fred" :age 34)))
-    (format nil "~A: ~A (~A)" (name p3) (age p3) (species p3))))
+  (let ((p2 (make-instance 'person :name "Fred" :age 34)))
+    (format nil "~A: ~A (~A)" (name p2) (age p2) (species p2))))
 {% endhighlight %}
 
 ### References
 
-- [defclass]()
+- [declare](http://clhs.lisp.se/Body/s_declar.htm)
+- [defclass](http://clhs.lisp.se/Body/m_defcla.htm)
+- [format](http://clhs.lisp.se/Body/f_format.htm)
+- [let](http://clhs.lisp.se/Body/s_let_l.htm)
+- [locally](http://clhs.lisp.se/Body/s_locall.htm)
+- [make-instance](http://clhs.lisp.se/Body/f_mk_ins.htm)
+- [optimize](http://clhs.lisp.se/Body/d_optimi.htm)
+- [safety](http://clhs.lisp.se/Body/d_optimi.htm#safety)
+- [setf](http://clhs.lisp.se/Body/m_setf_.htm)
+- [slot-value](http://clhs.lisp.se/Body/f_slt_va.htm)
+- [with-slots](http://clhs.lisp.se/Body/m_w_slts.htm)
