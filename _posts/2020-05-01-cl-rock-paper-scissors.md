@@ -39,7 +39,7 @@ We begin by defining a function, we will name it "get-player-choice" and it will
 
 Note: As discussed in the previous video using `force-output` is required on some implementations of Common Lisp to ensure the text is displayed correctly, so when I expect to receive user input I make sure I have a call to `force-output`, just in case a different implementation does things a little bit different.
 
-The next thing would be to then accept some user input, there's a function called `read-line` that can be used to get input and will be used in combination with the `let` macro introduced in the previous tutorial and bind the input to a variable called "choice". As we learned in the previous tutorial, the last expression in a function will be what the function returns, so in the example below we can simply return the result of `read-line`.
+The next thing would be to then accept some user input, there's a function called `read-line` that can be used to get input. As we learned in the previous tutorial, the last expression in a function will be what the function returns, so in the example below we can simply return the result of `read-line`.
 
 {% highlight common_lisp linenos %}
 (defun get-player-choice (options)
