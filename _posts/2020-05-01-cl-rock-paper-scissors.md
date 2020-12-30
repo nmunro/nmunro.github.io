@@ -27,9 +27,7 @@ That's really all the logic the game needs to do, there's obviously things like 
 
 The first thing that needs to be done is get input from the player, ordinarily this would be simple enough, but with input needing to be specific some checks will be needed to ensure only valid input is allowable. There's a recursive implementation here, what this means is that the function calls itself under certain conditions, specifically, if the entered option is invalid.
 
-We begin by defining a function, we will name it "get-player-choice" and it will accept a single argument "options" and this will be a list containing the three strings "rock", "paper" and "scissors", nothing is ever built immediately, and when I don't know how to solve a problem, I solve it piece by piece until the whole puzzle comes together, so I started by writing an initial implementation that takes the options argument and prints them out, it looks like this:
-
-Note: As discussed in the previous video using `force-output` is required on some implementations of Common Lisp to ensure the text is displayed correctly, so when I expect to receive user input I make sure I have a call to `force-output`, just in case a different implementation does things a little bit different.
+We begin by defining a function, we will name it "get-player-choice" and it will accept a single argument "options" and this will be a list containing the three strings "rock", "paper" and "scissors", nothing is ever built immediately, and when I don't know how to solve a problem, I solve it piece by piece until the whole puzzle comes together, so I started by writing an initial implementation that takes the options argument and prints them out, it looks like this.
 
 {% highlight common_lisp linenos %}
 (defun get-player-choice (options)
@@ -38,6 +36,8 @@ Note: As discussed in the previous video using `force-output` is required on som
   
 (get-player-choice '("rock" "paper" "scissors"))
 {% endhighlight %}
+
+Note: As discussed in the previous video using `force-output` is required on some implementations of Common Lisp to ensure the text is displayed correctly, so when I expect to receive user input I make sure I have a call to `force-output`, just in case a different implementation does things a little bit different.
 
 The next thing would be to then accept some user input, there's a function called `read-line` that can be used to get input and will be used in combination with the `let` macro introduced in the previous tutorial and bind the input to a variable called "choice". As we learned in the previous tutorial, the last expression in a function will be what the function returns, so in the example below we can simply return the result of `read-line`.
 
