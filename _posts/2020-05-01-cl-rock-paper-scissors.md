@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Common Lisp Tutorial 1: Rock, Paper, Scissors"
+title:  "Common Lisp Tutorial 2: Rock, Paper, Scissors"
 date:   2020-05-01 12:30:00 +0000
 tags: CommonLisp Lisp tutorial YouTube
 author: NMunro
