@@ -50,19 +50,19 @@ The next thing would be to then accept some user input, there's a function calle
 (get-player-choice '("rock" "paper" "scissors"))
 {% endhighlight %}
 
-Finally we need to implement a means to check if what the user has entered is valid input, now if you have programmed before, you'll know that "this" is different from "This" which is different from "THIS" and that when you are dealing with strings, casing matters. Fortunately this is something we don't have to worry about so much, there's two functions we can use specifically for compating strings `string=` which compares strings in a case sensitive manner, however `string-equal` will compare strings in a case insensitive manner. So, to improve the user experience we will use the `string-equal` function and not have to worry about casing.
+We need to implement a means to check if what the user has entered is valid input, now if you have programmed before, you'll know that "this" is different from "This" which is different from "THIS" and that when you are dealing with strings, casing matters. Fortunately this is something we don't have to worry about so much, there's two functions we can use specifically for compating strings `string=` which compares strings in a case sensitive manner, however `string-equal` will compare strings in a case insensitive manner. So, to improve the user experience we will use the `string-equal` function and not have to worry about casing.
 
 I meantion this because there is a function `find` that determines if a value exists in a list, however there's different ways to determine object equality, and the `find` function can be told to use different equality functions, this is where the `string-equal` function comes in! Find returns `nil` if (using the test function) the item could not be found otherwise it returns the item. There is a bit of syntax that might be unusual in the example below, the `#'string-equal`, this hash quote business is to do with the fact that in Common Lisp variables and functions are seperate from one another, so we are simply pointing to the function known as `string-equal` rather than a variable. This is what's known as a lisp-2, this means that functions and variables don't shadow each other.
 
 An example of how to use `find`:
 
 {% highlight common_lisp linenos %}
-(find 1 '(3 2 1))
+(find 1 '(3 2 1)) ; returns 1
 (find "rock" '("rock" "paper" "scissors")) ; this returns nil
 (find "rock" '("rock" "paper" "scissors") :test #'string-equal) ; this returns "rock"
 {% endhighlight %}
 
-Finally, a simplification from the video is to use the `or` `macro` from last time, as we learned it returns the first non-nil value or the last value, knowing that our code must return a user entered string that exists in the 'options' variable or try again, we can simply use a recursive function call (a function that calls itself) as a loop. For reasons explained in a later session recursion isn't optimized in Common Lisp and shouldn't be used as heavily as other languages like Scheme, however for our purposes it is good enough. With the `find` function call as the first item to `or` and a function call to the get-player-choice function as the second we can either return what the player entered (if it is valid) or return the the result of calling the function again.
+Finally, a simplification from the video is to use the `or` `macro` from last time, as we learned it returns the first non-`nil` value or the last value, knowing that our code must return a user entered string that exists in the 'options' variable or try again, we can simply use a recursive function call (a function that calls itself) as a loop. For reasons explained in a later session recursion isn't optimized in Common Lisp and shouldn't be used as heavily as other languages like Scheme, however for our purposes it is good enough. With the `find` function call as the first item to `or` and a function call to the get-player-choice function as the second we can either return what the player entered (if it is valid) or return the the result of calling the function again.
 
 {% highlight common_lisp linenos %}
 (defun get-player-choice (options)
@@ -225,7 +225,9 @@ Below is a complete example of the code bringing together a simple rock, paper, 
        (format nil "You entered ~A, CPU entered ~A. You loose!" player-choice cpu-choice)))))
 {% endhighlight %}
 
-I hope that you have found this tutorial fun and informative, if you spot an error please do not hesitate to get in touch, I do welcome corrections! Happy Lisping!
+I hope that you have found this tutorial fun and informative, if you spot an error please do not hesitate to get in touch, I do welcome corrections!
+
+If you want to take this further you can extend this to a variant of Rock, Paper, Scissors into Rock, Paper, Scissors, Lizard, Spock which you can read about [here](https://en.wikipedia.org/wiki/Rock_paper_scissors#Additional_weapons), happy Lisping!
 
 ### References
 
