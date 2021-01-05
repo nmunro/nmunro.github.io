@@ -21,10 +21,10 @@ The player reaches one of these two conditions by playing a round, whereby they 
 
 Unlike previous tutorials, as this game has 'rounds' and a true 'game loop' there is state that must be maintained throughout each round, this adds complexity, but it is necessary, thankfully we do not need to do that all at once, there's a lot of other problems in this program to solve first. So let's break down core concepts for this program:
 
-1: CPU selects a word/phrase at random for the game and starts.
-2: CPU checks if there are remaining lives or the word is not yet revealed, if not, the game is over.
-3: CPU prints a (partially) hidden word/phrase and prompts user for a letter. It is added to the list of guessed letters (if it is not already), if it exists in the word/phrase it is revealed, else a life is deducted.
-4: GOTO 2
+1. CPU selects a word/phrase at random for the game and starts.
+2. CPU checks if there are remaining lives or the word is not yet revealed, if not, the game is over.
+3. CPU prints a (partially) hidden word/phrase and prompts user for a letter. It is added to the list of guessed letters (if it is not already), if it exists in the word/phrase it is revealed, else a life is deducted.
+4. GOTO 2
 
 This is a very basic analysis, but it gives us enough to begin, we can start with a simple `let` block and have the CPU randomly select a sitcom from a list of sitcoms, we saw this before in previous tutorials, so it won't be covered in too much depth.
 
