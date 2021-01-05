@@ -30,9 +30,9 @@ This is a very basic analysis, but it gives us enough to begin, we can start wit
 
 ## Picking a random sitcom
 
-A simple 'pick-sitcom' function is written that accepts a list of sitcoms and using a technique similar to last time select the `nth` item from the list of sitcoms, where the `nth` is determined randomly by using `random` and `length` (with `make-random-state` to ensure that it's less likely the CPU will select items in a predictable manner).
+A simple 'pick-sitcom' function will accept a list of sitcoms and using a technique similar to last time select the `nth` item from the list of sitcoms, where the `nth` is determined randomly by using `random` and `length` (with `make-random-state` to ensure that it's less likely the CPU will select items in a predictable manner).
 
-Using the `let` block on line 4 we create a variable called 'sitcoms' which is a list of strings (remembering that adding a single `'` character in front of a set of parenthesis makes it a list). It then uses the 'pick-sitcom' function to display the randomly chosen sitcom.
+Using the `let` block on line 5 we create a variable called 'sitcoms' which is a list of strings (remembering that adding a single `'` character in front of a set of parenthesis makes it a list). It then uses the 'pick-sitcom' function to display the randomly chosen sitcom.
 
 Try it a few times an observe how you should get a random sitcom, but be aware that with only six items you may get the same one selected several times in a row!
 
@@ -71,17 +71,16 @@ Lines 4 is just test code to verify the status function works as intended, try a
 (defun status (scrambled-sitcom lives guessed-letters)
   (format nil "Lives: ~A~%Letters: ~{~A~^, ~}~%Sitcom: ~A" lives guessed-letters scrambled-sitcom))
   
-; Some test code to ensure it does what we want
 (status "_____ __ _____" 10 '("E" "A"))
 {% endhighlight %}
 
 ## Determine game over
 
-The next thing to look at is how to determine when the game is over, it isn't a difficult function to write, we know the game will be over if there are no more remaining lives or the word/phrase has been revealed. `or` is our friend here. Often functions that are used to check something that return either `t` or `nil` are known as predicate functions and often spell out the purpose with a '-p' suffix, in our case here 'game-over-p', in effect this function will return `t` if the game is over else `nil`.
+The next thing to look at is how to determine when the game is over, it isn't a difficult function to write, we know the game will be over if there are no more remaining lives or the word/phrase has been revealed. `or` is our friend here, often functions that are used to check something that return either `t` or `nil` are known as `predicate functions` and often spell out the purpose with a '-p' suffix, in our case here 'game-over-p', in effect this function will return `t` if the game is over else `nil`.
 
 It does this by using the `or` function on line 2, we have already seen `or` in previous tutorials, so let's focus our attention to the arguments to `or`: `>=` will determine if `0` is bigger than the 'lives' variable, and the `eq` that will check if the result of '(position #\_ scrambled-sitcom)' is `nil`.
 
-Something to note about that call to `position` is that the first argument (#\_) is a `character`, unlike, JavaScript or Python the `string` and `character` data types are distinct in Common Lisp and there's a special syntax for representing characters, that would be the `#\` prefix. In this example the underscore (_) character is being represented here and its presence is being checked for in a string, other examples of characters would be #\A (for A), #\a (for a) #\Space (for a space), #\NewLine (for a new line character). `position` will return a non-negative number representing where in the string the character is first found (there's more to it than that, but we don't need the other features right now), or `nil` if the character does not exist in the string.
+Something to note about that call to `position` is that the first argument (`#\_`) is a `character`, unlike, JavaScript or Python the `string` and `character` data types are distinct in Common Lisp and there's a special syntax for representing characters, that would be the `#\` prefix. In this example the underscore (_) character is being represented here and its presence is being checked for in a string, other examples of characters would be `#\A` (for A), `#\a` (for a) `#\Space` (for a space), `#\NewLine` (for a new line character). `position` will return a non-negative number representing where in the string the character is first found (there's more to it than that, but we don't need the other features right now), or `nil` if the character does not exist in the string.
 
 However, we must remember that position 0 in a string is perfectly valid as a position for the _ character to be and so we must explicitly check that `position` has returned `nil`.
 
@@ -122,11 +121,11 @@ The final utility function before beginning the game loop is how to get user inp
 
 Line 5 starts a `let` block (which should be starting to be familiar now) and reads some user input, lowercases it and binds it to a local variable known as 'user-input'.
 
-Line 6 opens a `cond` block, if you are familiar with switch-case in other programming languages then `cond` fills a similar role. The first condition on line 8 determines if the length of the user-input is 0, and recursively calls 'get-letter' again (line 9), this would be the condition that the user has hit the enter key without actually typing something.
+Line 6 opens a `cond` block, if you are familiar with switch-case in other programming languages then `cond` fills a similar role. The first condition on line 7 determines if the length of the user-input is 0, and recursively calls 'get-letter' again (line 8), this would be the condition that the user has hit the enter key without actually typing something.
 
-Line 11 then checks to see if the first character the user has entered already exists in the guessed-letters list, if so, line 12 then recursively calls the 'get-letter' function, much like before.
+Line 10 then checks to see if the first character the user has entered already exists in the guessed-letters list, if so, line 11 then recursively calls the 'get-letter' function, much like before.
 
-Finally line 14 assumes that everything is ok and takes the first character the user has entered and simply returns it.
+Finally line 13 assumes that everything is ok and takes the first character the user has entered and simply returns it (line 14).
 
 {% highlight common_lisp linenos %}
 (defun get-letter (guessed-letters)
