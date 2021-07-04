@@ -62,7 +62,7 @@ This function does indeed have a small modification, that is `equal` is changed 
 
 ### Checking for game over
 
-Another function that is modified slightly from the previous tutorial is the game-over-p function. It's actually smaller (which is good cos it's a larger large function already) and actually performs better by exiting early (when possible), thus saving time and resources. Where previously in the `flet` the draw-p function used to determine if the game is over resulting in a draw a counter was used and if the counter would be used to track how many `'-` symbols were found and if it was `0` then it was a draw; this version is simpler, looping over the x and y (just like before) but without a counter, instead this version uses `return-from` to return from the function early and returning the value `nil`. That is to say if there is a `'-` symbol found then the game is NOT over, however if the draw-p function goes all the way through the grid and does not find the `'-` symbol then it will return `t` and the game will be assumed to be a draw.
+Another function that is modified slightly from the previous tutorial is the game-over-p function. It's actually smaller (which is good cos it's a rather large function already) and actually performs better by exiting early (when possible), thus saving time and resources. Where previously in the `flet` the draw-p function used to determine if the game is over resulting in a draw a counter was used and if the counter would be used to track how many `'-` symbols were found and if it was `0` then it was a draw; this version is simpler, looping over the x and y (just like before) but without a counter, instead this version uses `return-from` to return from the function early and returning the value `nil`. That is to say if there is a `'-` symbol found then the game is NOT over, however if the draw-p function goes all the way through the grid and does not find the `'-` symbol then it will return `t` and the game will be assumed to be a draw.
 
 The draw-p function is only used if no victory condition is found first, so the large `cond` structure from the previous version of this tutorial is still used, just the draw-p function is optimized.
 
@@ -128,9 +128,9 @@ We will see how this method dispatch works below, after seeing how subclasses ar
 
 Above are subclasses, observe how, unlike with the player class, there's a player class listed in the subclasses list and there's also no slots listed in the subclass. These are simple, direct subclasses of the player class.
 
-Now, onto those methods...
+Now, onto those turn methods...
 
-### Player turn method
+### Generic turn method
 
 In order to use the `method dispatch` described previously we first need to write something known as a `generic method`, a generic method doesn't really do much in itself, mostly it just sets up and describes WHAT a method should do, but not HOW it is done. Since the type of object dispatching on my require different implementations. Here we define a turn `generic method` which other methods will specialize on specific types of objects.
 
@@ -141,13 +141,11 @@ In our example below we use the `:documentation` to describe what a turn method 
   (:documentation "Executes a player turn"))
 {% endhighlight %}
 
+### Player turn method
+
 We will now look at the player turn, to specialise on something that was created with `defgeneric` a new macro is used `defmethod`. Something to notice about this method is that the argument list is constructed slightly differently: `((player human) board)`. Here we begin to see how methods specialise on a `generic method`, it was defined as having two parameters, player, and board. You will notice that the player argument is wrapped in parentheses and has 'human', this is how we specify what data type the argument is expected to be. It is possible to specialise on multiple parameters, which is super cool, but in this instance we only need to specialise on the player parameter. A note on specialism, it is the parameter name first and then the type! Also we can tell that the board parameter is not being specialised on because it is on its own and is not in a list.
 
 This method is different from the function created in the last tutorial, while the Common Lisp implementation I use (SBCL) has [Tail Call](https://en.wikipedia.org/wiki/Tail_call) Elimination, not all Common Lisp implementations do and I have adjusted the code to not be recursive in nature.
-
-Here the method begins with an `flet`, which is much like a `let` but for functions instead of simple variables. Inside the `flet` a function called 'get-pos' is created, it takes a parameter called 'character' that represents an axis (either X or Y), it will prompt the user to enter. Within the `flet` a `do*` begins that will loop, we have seen the `do` function in the last tutorial, to recap a number of variables can be set up, each having an initial value and an expression that represents how to generate a value on each loop iteration. In this example there's three variables that are set up (X, Y, and coords). X and Y will be set to the value of the 'get-pos' function both initially and on each loop iteration, the coords variable will be initially set to be a `plist` that contain the `:x` symbol and the value of x and the symbol `:y` and the value of y, this will also be set on each loop iteration.
-
-As we saw with `do`, `do*` has an 'end test condition', when this becomes true the `do` will end, and when that occurs a 'result' condition may be returned, and in this case the coords variable is used as the result form. This means just like in our previous tutorial the coordinates are returned from this method. The 'end test condition' is the line `((and (member x '(0 1 2)) (member y '(0 1 2)) (valid-position-p board coords))` this is checking to see if the player has entered a value for x that is either 0, 1, or 2, the same for the y coordinate, and finally the valid-position-p will ensure that there's no X or O at the given position. Just as `let` binds all variables at the same time and `let*` binds variables one by one, so too, does `do` and `do*` since we have the coords variable that depends on X and Y, we need to use `do*`.
 
 {% highlight common_lisp linenos %}
 (defmethod turn ((player human) board)
@@ -161,6 +159,10 @@ As we saw with `do`, `do*` has an 'end test condition', when this becomes true t
        ((and (member x '(0 1 2)) (member y '(0 1 2)) (valid-position-p board coords))
         coords))))
 {% endhighlight %}
+
+Here the method begins with an `flet`, which is much like a `let` but for functions instead of simple variables. Inside the `flet` a function called 'get-pos' is created, it takes a parameter called 'character' that represents an axis (either X or Y), it will prompt the user to enter. Within the `flet` a `do*` begins that will loop, we have seen the `do` function in the last tutorial, to recap a number of variables can be set up, each having an initial value and an expression that represents how to generate a value on each loop iteration. In this example there's three variables that are set up (X, Y, and coords). X and Y will be set to the value of the 'get-pos' function both initially and on each loop iteration, the coords variable will be initially set to be a `plist` that contain the `:x` symbol and the value of x and the symbol `:y` and the value of y, this will also be set on each loop iteration.
+
+As we saw with `do`, `do*` has an 'end test condition', when this becomes true the `do` will end, and when that occurs a 'result' condition may be returned, and in this case the coords variable is used as the result form. This means just like in our previous tutorial the coordinates are returned from this method. The 'end test condition' is the line `((and (member x '(0 1 2)) (member y '(0 1 2)) (valid-position-p board coords))` this is checking to see if the player has entered a value for x that is either 0, 1, or 2, the same for the y coordinate, and finally the valid-position-p will ensure that there's no X or O at the given position. Just as `let` binds all variables at the same time and `let*` binds variables one by one, so too, does `do` and `do*` since we have the coords variable that depends on X and Y, we need to use `do*`.
 
 ### CPU turn method
 
