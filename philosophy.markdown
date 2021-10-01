@@ -5,7 +5,7 @@ date:   2020-12-11 21:33:23 +0000
 categories: jekyll update
 ---
 
-# [Home](index.markdown) | [Blog](blog.markdown) | [About](about.markdown)
+# [Home](index.markdown) | [Blog](blog.markdown) | [About](about.markdown) | [Projects](projects.markdown)
 
 ## My ramblings...
 
