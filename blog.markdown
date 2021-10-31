@@ -8,6 +8,7 @@ categories: jekyll update
 # [Home](index.markdown) | [About](about.markdown) | [Projects](projects.markdown) | [Philosophy](philosophy.markdown)
 
 - [2020/12/11 - Common Lisp Tutorial 10b: Basic Classes](_posts/2020-12-11-cl-tut-10b-classes1.md)
+- [2020/05/30 - Common Lisp Tutorial 5a: Condition System (p1)](_posts/2020-05-30-cl-condition-system-pt1.md)
 - [2020/05/22 - Common Lisp Tutorial 4b: Tic Tac Toe (pt2)](_posts/2020-05-22-cl-tic-tac-toe-pt2.md)
 - [2020/05/15 - Common Lisp Tutorial 4a: Tic Tac Toe (pt1)](_posts/2020-05-15-cl-tic-tac-toe-pt1.md)
 - [2020/05/10 - Common Lisp Tutorial 0: Setup](_posts/2020-05-10-cl-setup.md)
