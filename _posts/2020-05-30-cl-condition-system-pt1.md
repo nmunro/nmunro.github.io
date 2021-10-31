@@ -86,14 +86,14 @@ Conditions in CL are not just errors/exceptions they may represent any, well, `c
     
     new MyError("Something went wrong");
     
-It is, of course possible to create a custom error on Common Lisp!
+It is, of course possible to create a custom error in Common Lisp!
 
     (define-condition my-error (error)
       ((message :initarg :message :reader message)))
       
-Something that's important to bear in mind is that, while Common Lisp is object orientated error objects like the one above do **not** inherit from the `standard-object`, we can still define `readers` and `accessors, it's not important to what we will be doing here, but it was worth mentioning for completeness.
+Something that's important to bear in mind is that, while Common Lisp is object orientated, error objects like the one above do **not** inherit from the `standard-object`, we can still define `readers` and `accessors`, it's not important to what we will be doing here, but it was worth mentioning for completeness.
 
-In my tutorial video some conditions were created to demonstrate how handlers and restarts work, so the two conditions are as follows, please note that the names are just examples and are not actually representitve of named errors:
+In the tutorial video some `conditions` were created to demonstrate how `handlers` and `restarts` work, so the two `conditions` are as follows, please note that the names are just examples and are not actually representitve of named `errors`:
 
     (define-condition file-io-error (error)
       ((message :initarg :message :reader message)))
@@ -103,7 +103,7 @@ In my tutorial video some conditions were created to demonstrate how handlers an
 
 ## Handlers
 
-In order to demonstrate an example of handling an error we will write a function that will either randomly (to simulate an unexpected error) or deliberately (so it can be tested) signal an error using the types defined in the previous section.
+In order to demonstrate an example of handling an `error` we will write a `function` that will either randomly (to simulate an unexpected error) or deliberately (so it can be tested) signal an `error` using the types defined in the previous section.
 
     (defun fake-io (&key (fail nil fail-p) (message "Nope!"))
       (cond
@@ -117,23 +117,23 @@ In order to demonstrate an example of handling an error we will write a function
     
         (t "success")))
         
-I hope that by now, some of this is beginning to make sense, however, I always like to make sure everything is explained. We define a function with `defun` called fake-io, the purpose of this function is to emulate some sort of i/o error, it accepts two key parameters a `fail` and a `message` the fail parameter will be set to nil by default and has a `fail-p` (fail provided) and will be a flag to explicitly signal an error, the message parameter is simply a means to help identify errors. A `cond` expression will check to see if an error has not been provided and if not will, randomly, trigger an error with the message passed in (or the default), however if an error object *was* passed into the a different type of error will be signalled with the provided message, finally, if `nil` was passed to the `fail` parameter then no error will ever be triggered and the function will not signal an error.
+I hope that by now, some of this is beginning to make sense from earlier tutorials, however, I always like to make sure everything is explained. We define a `function` with `defun` called fake-io, the purpose of this `function` is to emulate some sort of i/o `error`, it defines two `key` parameters a `fail` and a `message` the fail parameter will be set to `nil` by default and has a `fail-p` (fail provided) and will be a flag to explicitly signal an `error`, the message `parameter` is simply a means to help identify errors. A `cond` expression will check to see if an `error` has not been provided and if not will, randomly, trigger an `error` with the message passed in (or the default), however if an `error` object *was* passed into the a different type of `error` will be signalled with the provided message, finally, if `nil` was passed to the `fail` parameter then the `function` will not signal an `error`.
 
-To take advantage of this function and test it with a handler can be done with the following:
+To take advantage of this `function` and test it with a handler can be done with the following:
 
     (handler-case (fake-io :fail t)
       (file-io-error () (fake-io :fail nil))
       (another-file-io-error () (fake-io :fail nil)))
       
-Here the `handler-case` expression attempts to run the fake-io function from above, you are free to pass differing arguments into the `(fake-io)` function call to demonstrate how `handler-case`  works. If the fake-io function signals a `file-io-error` (our first custom condition) then the fake-io function will be called in a way that will *not* signal a condition, likewise if instead the `another-file-io-error` condition is signaled (our second custom condition) then it will also call fake-io in a way that will not signal an error condition.
+Here the `handler-case` expression attempts to run the fake-io `function` from above, you are free to pass differing arguments into the `(fake-io)` `function` call to demonstrate how `handler-case`  works. If the fake-io `function` signals a `file-io-error` (our first custom condition) then the fake-io `function` will be called in a way that will *not* signal a `condition`, likewise if instead the `another-file-io-error` `condition` is signaled (our second custom condition) then it will also call fake-io in a way that will not signal an `error condition`.
 
-Please do experiment with signaling one, both and no conditions and see how `handler-case` can be used to clean up when a condition is signaled.
+Please do experiment with signaling one, both, and no `conditions` and see how `handler-case` can be used to clean up when a `condition` is signaled.
 
 ## Restarts
 
-Restarts are something that other error handling systems you may be familiar with don't have, when a `condition` is `signaled` in Common Lisp a debugger with a number of options is presented to the user to decide what to do. When something goes wrong the condition system does not have the program and interpreter crash, in other languages this would be the case, but here there may be some defaults to pick from as a means to recovery, we have seen earlier how it's possible to immediately handle an error, however in addition to handling an error, it is possible to restart an operation, using either the defaults or define a way to restart and select from it when something does go wrong.
+`Restarts` are something that other `error` handling systems you may be familiar with don't have, when a `condition` is `signaled` in Common Lisp a debugger with a number of options is presented to the user to decide what to do. When something goes wrong the `condition` system does not have the program and interpreter crash (in other languages this would be the case), but here there may be some defaults to pick from as a means to recovery, we have seen earlier how it's possible to immediately handle an `error`, however in addition to handling an `error`, it is possible to `restart` an operation, using either the defaults or define a way to `restart` and select from it when something does go wrong.
 
-Consider the fail function that has been created, we know passing in the `key` argument 'fail' of `nil` will not `signal` a `condition`, in our particular case we may have the function `signal` a `condition` or not `signal` a `condition`, or, alternatively we may choose to ignore the issue altogether and give ourselves, say, a string indicating our disinterest in the failure. Of course in a more real-world app, any return value could be given, but we have a nice, simple, use-case, in our code we will write only two `restarts`.
+Consider the fail function that has been created, we know passing in the `key` argument 'fail' of `nil` will not `signal` a `condition`, in our particular case we may have the `function` `signal` a `condition` or not `signal` a `condition`, or, alternatively we may choose to ignore the issue altogether and give ourselves, say, a string indicating our disinterest in the failure. Of course in a more real-world app, any return value could be given, but we have a nice, simple, use-case, in our code we will write only two `restarts`.
 
     (let ((fail t))
       (restart-case (fake-io :fail fail)
@@ -147,11 +147,11 @@ Consider the fail function that has been created, we know passing in the `key` a
         (fake-io :fail new-fail))))
     
 
-In this example a variable known as 'fail' is declared as `t` (in a `let` block) that will be passed into our 'fake-io' function, within this a `restart-case` block begins, I find this similar to a `handler-case` block (which I suppose is similar to a `cond` block), but slightly more involved. The first thing that is provided to `restart-case` is a `form` that may `signial` a `condition`, in our case this is a call to 'fake-io' that is known to `signal` a `condition`.
+In this example a variable known as 'fail' is declared as `t` (in a `let` block) that will be passed into our 'fake-io' `function`, within this a `restart-case` block begins, I find this similar to a `handler-case` block (which I suppose is similar to a `cond` block), but slightly more involved. The first thing that is provided to `restart-case` is a `form` that may `signial` a `condition`, in our case this is a call to 'fake-io' that is known to `signal` a `condition`.
 
-What follows are a number of `forms` unlike `handler-case` or `cond` the `forms` can be a little more complicated. As described previously, two `restarts` will be set up, the first will be `do-nothing` which will, as its name may suggest, do nothing, well, that's not _quite_ exactly right, it'll `return` a string. The second will be called `restart-with-user-input` which will attempt to re-try the operation under different circumstances. As part of this another function will be defined "read-new-value" all this function will do is prompt for a new value and return it, when the `restart` "retry-with-user-input" is triggered.
+What follows are a number of `forms` unlike `handler-case` or `cond` the `forms` can be a little more complicated. As described previously, two `restarts` will be set up, the first will be `do-nothing` which will, as its name may suggest, do nothing, well, that's not _quite_ exactly right, it'll `return` a string. The second will be called `restart-with-user-input` which will attempt to re-try the operation under different circumstances. As part of this another `function` will be defined "read-new-value" all this `function` will do is prompt for a new value and return it, when the `restart` "retry-with-user-input" is triggered.
 
-The way these `forms` are written is, a name for the `restart` is given, there's a number of `key` arguments that may be passed, in our "do-nothing" retart we will use the `:report` `key` argument, this really is just the human readable descriptive message the restart will be shown with. This do nothing will permit a user to literally do nothing when this `condition` is `signalled` (remember this is just an academic example and your exact use case may differ). If you run the above code, you will be dropped into the `debugger` and will be given a number of ways to recover (or `restart`), by selecting the "do-nothing" `restart` you will see that the text placed in the `:report` `key` argument elaborates on what the `restart` will do, and the `string` "Done with this" will be `returned` from the `restart`. 
+The way these `forms` are written is, a name for the `restart` is given, there's a number of `key` arguments that may be passed, in our "do-nothing" retart we will use the `:report` `key` argument, this really is just the human readable descriptive message the `restart` will be shown with. This do nothing will permit a user to literally do nothing when this `condition` is `signalled` (remember this is just an academic example and your exact use case may differ). If you run the above code, you will be dropped into the `debugger` and will be given a number of ways to recover (or `restart`), by selecting the "do-nothing" `restart` you will see that the text placed in the `:report` `key` argument elaborates on what the `restart` will do, and the `string` "Done with this" will be `returned` from the `restart`. 
 
 The second `restart` is a _little_ more complicated, but not by much, in our example here, we provide a `:report` `key` argument (as before), because we will be accepting user input we will state this as part of the `restart` report. Unlike the previous "no-nothing" `restart` the "restart-with-user-input" will allow interactive `restarting`, the "read-new-value" `function` will be used to prompt for the value from user input.
 
@@ -162,9 +162,9 @@ The definition for the "read-new-value" `function` is as follows:
       (force-output)
       (multiple-value-list (eval (read))))
       
-With this `function` defined we can use this to prompt for and provides a value for the `restart` with the `:interactive` `key` argument. Now, in our example here we can use the first s-expression to (re-)set the variable known as "fail", unlike the "do-nothing" `restart`, the "retry-with-user-input" `restart` accepts an argument, this will be the value `returned` from the `function` defined by the `:interactive` `key` argument, in our case "read-new-value". The "retry-with-user-input" function then may run arbitrary s-expressions, in our example we take the "new-fail" variable passed into the `restart` and use it as the argument to our "fake-io" function with the line `(fake-io :fail new-fail)`
+With this `function` defined we can use this to prompt for and provides a value for the `restart` with the `:interactive` `key` argument. Unlike the "do-nothing" `restart`, the "retry-with-user-input" `restart` accepts an argument, this will be the value `returned` from the `function` defined by the `:interactive` `key` argument, in our case "read-new-value". The "retry-with-user-input" `function` then may run arbitrary s-expressions, in our example we take the "new-fail" variable passed into the `restart` and use it as the argument to our "fake-io" function with the line `(fake-io :fail new-fail)`
 
-It perhaps may be a little unintuitive to consider the program flow here, however, reading the "restart-with-user-input" `restart` defines an `:interactive` means to provide an argument to itself, which then may be used in the body of the `form`. However, due to the fact that it is not known which `restart` will be selected ahead of time, then each restart must provide a means by which it may do what it needs to do. When a user selects this `restart` they will be prompted (via the interactive key argument that specifies the function "read-new-value") to enter a value via direct input that will be used as a new value to pass into the "fake-io" function.
+It perhaps may be a little unintuitive to consider the program flow here, however, reading the "restart-with-user-input" `restart` defines an `:interactive` means to provide an argument to itself, which then may be used in the body of the `form`. However, due to the fact that it is not known which `restart` will be selected ahead of time, then each `restart` must provide a means by which it may do what it needs to do. When a user selects this `restart` they will be prompted (via the interactive key argument that specifies the `function` "read-new-value") to enter a value via direct input that will be used as a new value to pass into the "fake-io" function.
 
 ### Self Study Activity
 
