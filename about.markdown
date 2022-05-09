@@ -12,12 +12,13 @@ In case you were wondering...
 
 ### Employment
 
-| From  | To      | Company         | Role                   |
-| :---: | :-----: | :-------------: | :--------------------: |
-| 2020  | Present | CodeNation      | Senior Instructor      |
-| 2018  | 2020    | MirrorWeb       | Senior Engineer        |
-| 2017  | 2018    | Farm            | Senior Engineer        |
-| 2012  | 2017    | Global Graphics | Software Test Engineer |
+| From  | To      | Company         | Role                         |
+| :---: | :-----: | :-------------: | :--------------------------: |
+| 2022  | Present | Elixir          | Head of Back-End Engineering |
+| 2020  | 2022    | CodeNation      | Senior Instructor            |
+| 2018  | 2020    | MirrorWeb       | Senior Engineer              |
+| 2017  | 2018    | Farm            | Senior Engineer              |
+| 2012  | 2017    | Global Graphics | Software Test Engineer       |
 
 
 ### Education
