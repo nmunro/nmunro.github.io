@@ -172,48 +172,56 @@ Consider adding a restart that passes `nil` to "fake-io", give it a go!
 
 ## Complete Listing
 
-    (defpackage condition-system-5a
-      (:use :cl))
-    (in-package :condition-system-5a)
-    
-    (define-condition file-io-error (error)
-      ((message :initarg :message :reader message)))
-    
-    (define-condition another-file-io-error (error)
-      ((message :initarg :message :reader message)))
-    
-    (defun fake-io (&key (fail nil fail-p) (message "Nope!"))
-      (cond
-        ((not fail-p)
-         (if (evenp (random 100))
-             (error 'file-io-error :message message)
-             "Success"))
-    
-        (fail
-         (error 'another-file-io-error :message message))
-    
-        (t "success")))
-    
-    (defun read-new-value ()
-      (format t "Enter a new value: ")
-      (force-output)
-      (multiple-value-list (eval (read))))
+```cl
+(defpackage condition-system-5a
+  (:use :cl))
 
-    (let ((fail t))
-      (restart-case (fake-io :fail fail)
-        (do-nothing ()
-          :report "Return String"
-          "Done with this")
+(in-package :condition-system-5a)
 
-      (retry-with-user-input (new-fail)
-        :report "Accept User Input"
-        :interactive read-new-value
-        (fake-io :fail new-fail))))
-   
-    (handler-case (fake-io :fail t)
-      (file-io-error () (fake-io :fail nil))
-      (another-file-io-error () (fake-io :fail nil)))
-      
+(define-condition file-io-error (error)
+  ((message :initarg :message :reader message)))
+
+(define-condition another-file-io-error (error)
+  ((message :initarg :message :reader message)))
+
+(defun fake-io (&key (fail nil fail-p) (message "Nope!"))
+  (cond
+    ((not fail-p)
+      (if (evenp (random 100))
+          (error 'file-io-error :message message)
+          "Success"))
+
+    (fail
+      (error 'another-file-io-error :message message))
+
+    (t "success")))
+
+(defun read-new-value ()
+  (format t "Enter a new value: ")
+  (force-output)
+  (multiple-value-list (eval (read))))
+
+(let ((fail t))
+  (restart-case (fake-io :fail fail)
+    (do-nothing ()
+      :report "Return String"
+      "Done with this")
+
+    (retry-with-user-input (new-fail)
+      :report "Accept User Input"
+      :interactive read-new-value
+      (fake-io :fail new-fail))))
+
+(handler-case (fake-io :fail t)
+  (file-io-error (err)
+    (format t "~A~%" (message err))
+    (fake-io :fail nil))
+    
+  (another-file-io-error (err)
+    (format t "~A~%" (message err))
+    (fake-io :fail nil)))
+```
+    
 ## Conclusion
 
 As we can see there's quite a bit more going on in Common Lisp and its condition system than you may be familiar with, there's certainly a lot more to explore. We looked at the three major pieces, `conditions`, `handlers` and `restarts`, what each of them does and how they interact with each other on a fundamental level. `Conditions` represent some sort of state, it may be a `warning` or an `error` (or maybe something else) that may be `handled` by a `handler`, or if the process ought to be re-attempted a `restart` may be invoked to recover the situation and pick up where it left off. 
@@ -226,7 +234,7 @@ Take care everyone!
 
 ## Corrections of `handler-case` (2020-06-04)
 
-According to the (documentation)[http://clhs.lisp.se/Body/m_hand_1.htm] the `handler-case` is broken down into at least one error-clause or a no-error clause (the BNF can be a little confusing to read if you are unfamiliar) where error-clauses can take an error object and what is, ultimately a body, so taking the code from the previous session that did look like this (please do see the previous [post](https://nmunro.github.io/2020/05/30/cl-condition-system-pt1.html) for a complete listing):
+According to the (documentation)[http://clhs.lisp.se/Body/m_hand_1.htm] the `handler-case` is broken down into at least one error-clause or a no-error clause (the BNF can be a little confusing to read if you are unfamiliar) where error-clauses can take an error object and what is, ultimately a body, the changed code is below and the complete listing has been updated and the original post can be found (here)[https://github.com/nmunro/nmunro.github.io/blob/2ed1f0e321d2725b714aed58790aeb2397d53748/_posts/2020-05-30-cl-condition-system-pt1.md]
 
 ```cl
 (handler-case (fake-io :fail t)
