@@ -224,6 +224,47 @@ Thank you for your time, I hope this tutorial has served you well and you had fu
 
 Take care everyone!
 
+## Corrections of `handler-case` (2020-06-04)
+
+According to the (documentation)[http://clhs.lisp.se/Body/m_hand_1.htm] the `handler-case` is broken down into at least one error-clause or a no-error clause (the BNF can be a little confusing to read if you are unfamiliar) where error-clauses can take an error object and what is, ultimately a body, so taking the code from the previous session that did look like this (please do see the previous [post](https://nmunro.github.io/2020/05/30/cl-condition-system-pt1.html) for a complete listing):
+
+```cl
+(handler-case (fake-io :fail t)
+  (file-io-error () (fake-io :fail nil))
+  (another-file-io-error () (fake-io :fail nil)))
+```
+  
+It can be modified to look like the following:
+
+```cl
+(handler-case (fake-io :fail t)
+  (file-io-error (err)
+    (format t "~A~%" (message err))
+    (fake-io :fail nil))
+    
+  (another-file-io-error (err)
+    (format t "~A~%" (message err))
+    (fake-io :fail nil)))
+```
+
+Getting the error object allows us to inspect the error and do something with it, if we want to. Remember that the `handler-case` is a way to trigger some code in the event that a `condition` is signalled allowing us to by-pass having to select a particular `restart` from the debugger.
+
+The `fake-io` function that was written to test the errors would look like the following:
+
+```cl
+(defun fake-io (&key (fail nil fail-p))
+  (cond
+    ((not fail-p)
+      (if (evenp (random 100))
+        (error 'file-io-error :message "Error 1")
+        "success"))
+        
+    (fail (error 'another-file-io-error :message "Error 2"))
+    (t "success")))
+```
+
+This will allow one to determine which of the two branches the function went down to trigger errors, in the `handler-case` block above one can omit (or unset) the `:fail` key argument to force (or not) a specific kind of failure (for demonstration purposes).
+
 ### References
 
 - [&key](http://clhs.lisp.se/Body/03_da.htm)
