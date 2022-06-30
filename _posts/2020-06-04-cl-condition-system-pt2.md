@@ -10,6 +10,8 @@ author: NMunro
 
 In this session we will continue with the Common Lisp condition system, in this session an example of dividing by zero will be used to show how a number of constructs could be used to recover from error states in your programs. 
 
+The companion video tutorial is:  [Common Lisp Tutorial 5b: Condition System (pt2)](https://www.youtube.com/watch?v=FsNzDC0vaks)
+
 Note: 
 
 Upon reflection, this blog post simplifies the code and removes the 'handle-infinite' function, as it wasn't needed.
