@@ -16,7 +16,7 @@ Note:
 
 Upon reflection, this blog post simplifies the code and removes the 'handle-infinite' function, as it wasn't needed.
 
-## Invoke-restart
+## Conditions
 
 Initially a condition will be defined that will be used throughout this example code for handling what might happen if a number is divided by zero, a condition like the following is good enough:
 
@@ -28,6 +28,8 @@ Initially a condition will be defined that will be used throughout this example 
 We have looked at how to define `conditions` [last time](https://nmunro.github.io/2020/05/30/cl-condition-system-pt1.html), but to recap, the `define-condition` macro accepts a name (in this case "div-zero-error") and a type to subclass from (here it is the "error" object), a message `slot` is defined on the condition that can be set/read.
 
 Once this has been defined a simple `restart` could be used, using the `restart-case` macro that we looked at last time.
+
+## Restarts
 
 Instead however, we are going to look at `invoke-restart`; a macro that the programmer may use to automatically trigger a given `restart`. `invoke-restart` will (upon a signaled condition) do what it suggests, automatically invoke a restart, without having to go through the debugger.
 
@@ -67,6 +69,8 @@ This function can be called like so:
 ```
 
 However... because the restarts are not interactive they won't work and don't have a way to enter a value from the debugger, but that's ok because we're wanting to do something different.
+
+## Handlers
 
 What we're going to do is define three functions that will use `invoke-restart` to automatically trigger a `restart` when a `condition` is signaled. Each of the functions is basically the same, they just differ in the error they log and `restart` they invoke.
 
