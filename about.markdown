@@ -3,8 +3,7 @@ layout: default
 title:  "About"
 ---
 
-# [Home](index.markdown) | [Blog](blog.markdown) | [Projects](projects.markdown) | [Philosophy](philosophy.markdown)
-
+# [Home](index.markdown) | [Magic: The Gathering](mtg.markdown) | [Blog](blog.markdown) | [Projects](projects.markdown)
 
 ## My career so far
 

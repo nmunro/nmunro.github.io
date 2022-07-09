@@ -3,7 +3,7 @@ layout: default
 title:  "Projects"
 ---
 
-# [Home](index.markdown) | [About](about.markdown) | [Blog](blog.markdown) | [Philosophy](philosophy.markdown)
+# [Home](index.markdown) | [About](about.markdown) | [Blog](blog.markdown) | [Magic: The Gathering](mtg.markdown)
 
 ## Projects
 
