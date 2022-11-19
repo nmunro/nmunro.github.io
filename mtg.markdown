@@ -5,3045 +5,3712 @@ title:  "Magic: The Gathering"
 
 # [Home](index.markdown) | [About](about.markdown) | [Blog](blog.markdown) | [Projects](projects.markdown)
 
-| Name                                                    | Quantity | Rarity   | Set Name                                    |
-|---------------------------------------------------------|----------|----------|---------------------------------------------|
-| Arcanis the Omnipotent                                  | 1        | mythic   | Duel Decks: Speed vs. Cunning               |
-| Call to Mind                                            | 2        | uncommon | Magic 2011                                  |
-| Island                                                  | 1        | common   | Innistrad: Midnight Hunt                    |
-| Sisay's Ring                                            | 2        | common   | Commander Legends                           |
-| Tolarian Kraken                                         | 1        | uncommon | Core Set 2021                               |
-| Archmage Ascension                                      | 1        | rare     | Zendikar                                    |
-| Skywatcher Adept                                        | 2        | common   | Rise of the Eldrazi                         |
-| Echo Mage                                               | 1        | rare     | Rise of the Eldrazi                         |
-| Island                                                  | 2        | common   | Zendikar                                    |
-| Elixir of Immortality                                   | 1        | uncommon | Magic 2014                                  |
-| Coralhelm Commander                                     | 1        | rare     | Rise of the Eldrazi                         |
-| Island                                                  | 4        | common   | Magic 2011                                  |
-| Beacon of Tomorrows                                     | 1        | rare     | Duel Decks: Mind vs. Might                  |
-| Mysteries of the Deep                                   | 1        | common   | Worldwake                                   |
-| Inkwell Leviathan                                       | 1        | rare     | Conflux                                     |
-| Alrund's Epiphany                                       | 1        | mythic   | Kaldheim                                    |
-| Hada Spy Patrol                                         | 1        | uncommon | Rise of the Eldrazi                         |
-| Island                                                  | 2        | common   | Zendikar                                    |
-| Mnemonic Deluge                                         | 1        | mythic   | Commander Legends                           |
-| Snow-Covered Island                                     | 5        | common   | Kaldheim                                    |
-| Wall of Frost                                           | 1        | uncommon | Magic 2011                                  |
-| Time Warp                                               | 1        | mythic   | Strixhaven Mystical Archive                 |
-| Island                                                  | 4        | common   | Magic 2011                                  |
-| Crab Umbra                                              | 1        | uncommon | Rise of the Eldrazi                         |
-| "Jace, the Mind Sculptor"                               | 1        | mythic   | Worldwake                                   |
-| Reliquary Tower                                         | 1        | rare     | Love Your LGS 2020                          |
-| Lighthouse Chronologist                                 | 1        | mythic   | Rise of the Eldrazi                         |
-| Island                                                  | 1        | common   | Magic 2010                                  |
-| Swiftfoot Boots                                         | 1        | uncommon | Magic 2012                                  |
-| Nevinyrral's Disk                                       | 1        | rare     | Commander Legends                           |
-| Training Grounds                                        | 1        | rare     | Rise of the Eldrazi                         |
-| Snow-Covered Island                                     | 4        | common   | Kaldheim                                    |
-| Anticognition                                           | 2        | common   | Zendikar Rising                             |
-| Mnemonic Wall                                           | 1        | common   | Rise of the Eldrazi                         |
-| Counterspell                                            | 1        | uncommon | Modern Horizons 2                           |
-| Jace's Ingenuity                                        | 2        | uncommon | Magic 2011                                  |
-| Cancel                                                  | 2        | common   | Zendikar                                    |
-| Pull from the Deep                                      | 1        | uncommon | Journey into Nyx                            |
-| Deepglow Skate                                          | 1        | rare     | Commander Anthology Volume II               |
-| Island                                                  | 3        | common   | Magic 2010                                  |
-| Lose Focus                                              | 2        | common   | Modern Horizons 2                           |
-| Thought Vessel                                          | 1        | common   | Commander Anthology Volume II               |
-| Tidal Barracuda                                         | 1        | rare     | Commander 2020                              |
-| Sky Diamond                                             | 2        | common   | Commander Legends                           |
-| The Reality Chip                                        | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Commander's Sphere                                      | 3        | common   | Commander Legends                           |
-| Timestream Navigator                                    | 1        | mythic   | Rivals of Ixalan                            |
-| Island                                                  | 1        | common   | Streets of New Capenna                      |
-| Blue Sun's Zenith                                       | 1        | rare     | Commander 2013                              |
-| Island                                                  | 1        | common   | Theros                                      |
-| Island                                                  | 2        | common   | Magic 2011                                  |
-| Island                                                  | 1        | common   | Zendikar                                    |
-| Island                                                  | 2        | common   | Magic 2010                                  |
-| Island                                                  | 2        | common   | Zendikar                                    |
-| Silent Arbiter                                          | 1        | rare     | Commander 2020                              |
-| Stormtide Leviathan                                     | 1        | rare     | Magic 2011                                  |
-| Triskaidekaphile                                        | 1        | rare     | Innistrad: Midnight Hunt                    |
-| Narset's Reversal                                       | 1        | rare     | War of the Spark                            |
-| Steady Progress                                         | 3        | common   | Scars of Mirrodin                           |
-| Psychosis Crawler                                       | 1        | rare     | Mirrodin Besieged                           |
-| Venser's Journal                                        | 1        | rare     | Scars of Mirrodin                           |
-| Rite of Replication                                     | 1        | rare     | Zendikar                                    |
-| Burnished Hart                                          | 1        | uncommon | Commander Legends                           |
-| Divination                                              | 1        | common   | Magic 2010                                  |
-| "Jace, Wielder of Mysteries"                            | 1        | rare     | War of the Spark                            |
-| Grand Architect                                         | 2        | rare     | Scars of Mirrodin                           |
-| Pili-Pala                                               | 3        | common   | Shadowmoor                                  |
-| Mirari                                                  | 1        | rare     | Commander 2013                              |
-| Enclave Cryptologist                                    | 1        | uncommon | Rise of the Eldrazi                         |
-| Venerated Teacher                                       | 1        | common   | Rise of the Eldrazi                         |
-| Sphinx of Magosi                                        | 1        | rare     | Welcome Deck 2016                           |
-| Rhystic Study                                           | 1        | common   | Prophecy                                    |
-| Wizard Class                                            | 1        | uncommon | Adventures in the Forgotten Realms          |
-| Wonder                                                  | 1        | uncommon | Commander Anthology Volume II               |
-| Karn's Temporal Sundering                               | 1        | rare     | Dominaria                                   |
-| Anchor to Reality                                       | 4        | uncommon | Kamigawa: Neon Dynasty                      |
-| The Magic Mirror                                        | 1        | mythic   | Throne of Eldraine                          |
-| Halimar Wavewatch                                       | 1        | common   | Rise of the Eldrazi                         |
-| Silver Myr                                              | 3        | common   | Scars of Mirrodin                           |
-| Solemn Simulacrum                                       | 1        | rare     | Commander 2019                              |
-| Whispersilk Cloak                                       | 1        | uncommon | Magic 2010                                  |
-| Snow-Covered Island                                     | 1        | common   | Modern Horizons                             |
-| Island                                                  | 2        | common   | Zendikar                                    |
-| "Hanna, Ship's Navigator"                               | 1        | rare     | Masters 25                                  |
-| Gold Myr                                                | 1        | common   | Scars of Mirrodin                           |
-| Mycosynth Lattice                                       | 1        | rare     | Darksteel                                   |
-| Commander's Sphere                                      | 1        | common   | Forgotten Realms Commander                  |
-| Myr Retriever                                           | 1        | uncommon | Mirrodin                                    |
-| Gift of Immortality                                     | 1        | rare     | Theros                                      |
-| Sky Diamond                                             | 2        | uncommon | Seventh Edition                             |
-| Trophy Mage                                             | 1        | uncommon | Aether Revolt Promos                        |
-| Island                                                  | 144      | common   | Commander Legends: Battle for Baldur's Gate |
-| Snow-Covered Plains                                     | 4        | common   | Kaldheim                                    |
-| Leyline of Sanctity                                     | 1        | rare     | Core Set 2020                               |
-| Mycosynth Wellspring                                    | 1        | common   | New Phyrexia                                |
-| Hindering Light                                         | 1        | common   | Shards of Alara                             |
-| Stuffy Doll                                             | 1        | rare     | Time Spiral Remastered                      |
-| Cancel                                                  | 1        | common   | Magic 2011                                  |
-| Myr Galvanizer                                          | 1        | uncommon | Scars of Mirrodin                           |
-| Throne of Geth                                          | 1        | uncommon | Scars of Mirrodin                           |
-| Platinum Emperion                                       | 1        | mythic   | Scars of Mirrodin                           |
-| Mindslaver                                              | 1        | mythic   | Scars of Mirrodin                           |
-| Expedition Map                                          | 1        | common   | Zendikar                                    |
-| Arcane Signet                                           | 1        | common   | Forgotten Realms Commander                  |
-| Memnarch                                                | 1        | rare     | Archenemy                                   |
-| Snow-Covered Plains                                     | 5        | common   | Kaldheim                                    |
-| Radiant Fountain                                        | 2        | common   | Core Set 2021                               |
-| Replicating Ring                                        | 3        | uncommon | Kaldheim                                    |
-| Foundry Inspector                                       | 1        | common   | Commander Legends                           |
-| Plague Myr                                              | 1        | uncommon | Mirrodin Besieged                           |
-| Nevinyrral's Disk                                       | 1        | rare     | Modern Horizons 2                           |
-| Tezzeret the Seeker                                     | 1        | mythic   | Duel Decks: Elspeth vs. Tezzeret            |
-| Darksteel Citadel                                       | 1        | common   | Darksteel                                   |
-| Kuldotha Forgemaster                                    | 1        | rare     | Double Masters                              |
-| Mirrodin Besieged                                       | 1        | rare     | Modern Horizons                             |
-| Guildless Commons                                       | 1        | uncommon | Commander Legends                           |
-| Darksteel Forge                                         | 1        | mythic   | Magic 2014                                  |
-| Platinum Angel                                          | 1        | mythic   | Magic 2011                                  |
-| Solemnity                                               | 1        | rare     | Hour of Devastation                         |
-| Unwinding Clock                                         | 1        | rare     | New Phyrexia                                |
-| Sol Ring                                                | 1        | uncommon | "Heads I Win, Tails You Lose"               |
-| Marble Diamond                                          | 3        | common   | Commander Legends                           |
-| Crucible of Worlds                                      | 1        | mythic   | Core Set 2019                               |
-| Staff of Domination                                     | 1        | rare     | Fifth Dawn                                  |
-| Conjurer's Bauble                                       | 2        | common   | Fifth Dawn                                  |
-| Ring of Three Wishes                                    | 1        | mythic   | Magic 2014                                  |
-| Pariah                                                  | 1        | rare     | Conspiracy: Take the Crown                  |
-| Freed from the Real                                     | 1        | common   | Saviors of Kamigawa                         |
-| Academy Ruins                                           | 1        | rare     | Time Spiral                                 |
-| Mishra's Self-Replicator                                | 1        | rare     | Dominaria                                   |
-| Sanctum Gargoyle                                        | 1        | common   | Commander 2021                              |
-| Palladium Myr                                           | 1        | uncommon | Scars of Mirrodin                           |
-| Mechanized Production                                   | 1        | mythic   | Aether Revolt                               |
-| Countermand                                             | 1        | common   | Journey into Nyx                            |
-| Command Beacon                                          | 1        | rare     | Commander Legends                           |
-| Burnished Hart                                          | 1        | uncommon | Forgotten Realms Commander                  |
-| Leonin Abunas                                           | 3        | rare     | Mirrodin                                    |
-| Island                                                  | 1        | common   | New Phyrexia                                |
-| Eldrazi Monument                                        | 1        | mythic   | Commander Anthology                         |
-| Cloudsteel Kirin                                        | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Crashing Drawbridge                                     | 2        | common   | Throne of Eldraine                          |
-| Snow-Covered Plains                                     | 1        | common   | Coldsnap                                    |
-| Seat of the Synod                                       | 1        | common   | Mirrodin                                    |
-| Ancient Den                                             | 1        | common   | The List                                    |
-| Alloy Myr                                               | 1        | common   | Mystery Booster                             |
-| Myr Battlesphere                                        | 1        | rare     | Scars of Mirrodin                           |
-| Steel Overseer                                          | 1        | rare     | Commander 2021                              |
-| Hangarback Walker                                       | 1        | rare     | Love Your LGS 2020                          |
-| Myr Turbine                                             | 1        | rare     | Mirrodin Besieged                           |
-| Gates of Istfell                                        | 2        | uncommon | Kaldheim                                    |
-| Blasting Station                                        | 1        | uncommon | Fifth Dawn                                  |
-| Fieldmist Borderpost                                    | 1        | common   | Alara Reborn                                |
-| Plains                                                  | 1        | common   | Innistrad: Midnight Hunt                    |
-| Stoic Rebuttal                                          | 1        | common   | Scars of Mirrodin                           |
-| Override                                                | 2        | common   | Mirrodin                                    |
-| Walking Ballista                                        | 1        | rare     | Aether Revolt                               |
-| Guilty Conscience                                       | 1        | common   | Scourge                                     |
-| Decree of Silence                                       | 1        | rare     | Scourge                                     |
-| Archaeomender                                           | 1        | common   | Jumpstart                                   |
-| Unbender Tine                                           | 1        | uncommon | Alara Reborn                                |
-| Roadside Reliquary                                      | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Hall of Heliod's Generosity                             | 1        | rare     | Modern Horizons                             |
-| High Market                                             | 1        | rare     | Forgotten Realms Commander                  |
-| Razortide Bridge                                        | 2        | common   | Modern Horizons 2                           |
-| "Etrata, the Silencer"                                  | 1        | rare     | Guilds of Ravnica                           |
-| Strionic Resonator                                      | 1        | rare     | Magic 2014                                  |
-| Drake-Skull Cameo                                       | 1        | uncommon | Invasion                                    |
-| Court of Cunning                                        | 1        | rare     | Commander Legends                           |
-| Helm of the Host                                        | 1        | rare     | Dominaria                                   |
-| "Tezzeret, Master of the Bridge"                        | 1        | mythic   | War of the Spark                            |
-| Capsize                                                 | 2        | common   | Tempest                                     |
-| Command Tower                                           | 1        | common   | Commander Legends                           |
-| Mystic Sanctuary                                        | 2        | common   | Throne of Eldraine                          |
-| Prosperous Thief                                        | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Bloodchief Ascension                                    | 1        | rare     | Zendikar                                    |
-| Island                                                  | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Nemesis of Reason                                       | 1        | rare     | Alara Reborn                                |
-| Psychotic Haze                                          | 1        | common   | Torment                                     |
-| Island                                                  | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Clone                                                   | 1        | rare     | Magic 2014                                  |
-| Cabal Coffers                                           | 1        | mythic   | Modern Horizons 2                           |
-| Deprive                                                 | 1        | common   | Rise of the Eldrazi                         |
-| Rite of Replication                                     | 2        | rare     | Commander 2021                              |
-| Fleet Swallower                                         | 1        | rare     | Ixalan                                      |
-| Blade of Selves                                         | 1        | rare     | Commander Legends: Battle for Baldur's Gate |
-| Unsubstantiate                                          | 1        | uncommon | Core Set 2021                               |
-| Swamp                                                   | 1        | common   | Zendikar                                    |
-| Snow-Covered Swamp                                      | 1        | common   | Kaldheim                                    |
-| Sunken Hollow                                           | 1        | rare     | Forgotten Realms Commander                  |
-| Sol Ring                                                | 1        | uncommon | Forgotten Realms Commander                  |
-| Time Stop                                               | 1        | rare     | Champions of Kamigawa                       |
-| Moon-Circuit Hacker                                     | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Unsummon                                                | 2        | common   | Magic 2010                                  |
-| Strider Harness                                         | 1        | uncommon | Oath of the Gatewatch                       |
-| Phantom Steed                                           | 1        | rare     | Forgotten Realms Commander                  |
-| Phyrexian Metamorph                                     | 1        | rare     | Double Masters                              |
-| Kormus Bell                                             | 1        | rare     | Revised Edition                             |
-| Mirror Gallery                                          | 2        | rare     | Betrayers of Kamigawa                       |
-| Renegade Doppelganger                                   | 1        | rare     | Rise of the Eldrazi                         |
-| Mukotai Ambusher                                        | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Demonic Tutor                                           | 1        | mythic   | Strixhaven Mystical Archive                 |
-| Walker of Secret Ways                                   | 1        | uncommon | Betrayers of Kamigawa                       |
-| Mirror Box                                              | 2        | rare     | Kamigawa: Neon Dynasty                      |
-| Admiral's Order                                         | 1        | rare     | Rivals of Ixalan                            |
-| Swamp                                                   | 180      | common   | Commander Legends: Battle for Baldur's Gate |
-| Field of Ruin                                           | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| "Urborg, Tomb of Yawgmoth"                              | 1        | rare     | Time Spiral Remastered                      |
-| Vault of Whispers                                       | 1        | common   | Mirrodin                                    |
-| Diabolic Revelation                                     | 1        | rare     | Magic 2013                                  |
-| Choked Estuary                                          | 1        | rare     | Forgotten Realms Commander                  |
-| Mistblade Shinobi                                       | 1        | common   | Betrayers of Kamigawa                       |
-| Clever Impersonator                                     | 2        | mythic   | Commander 2019                              |
-| Planar Incision                                         | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Leaden Myr                                              | 2        | common   | Scars of Mirrodin                           |
-| Diabolic Tutor                                          | 2        | uncommon | Magic 2010                                  |
-| Snow-Covered Swamp                                      | 5        | common   | Kaldheim                                    |
-| Charcoal Diamond                                        | 1        | common   | Commander Legends                           |
-| Silver-Fur Master                                       | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Dokuchi Shadow-Walker                                   | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Ninja of the Deep Hours                                 | 1        | common   | Betrayers of Kamigawa                       |
-| Nezumi Prowler                                          | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Thousand-Faced Shadow                                   | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Witch's Cottage                                         | 2        | common   | Throne of Eldraine                          |
-| Biting-Palm Ninja                                       | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Satoru Umezawa                                          | 2        | rare     | Kamigawa: Neon Dynasty                      |
-| Moonsnare Specialist                                    | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Mindcrank                                               | 1        | uncommon | Iconic Masters                              |
-| Covert Technician                                       | 4        | uncommon | Kamigawa: Neon Dynasty                      |
-| Consuming Aberration                                    | 2        | rare     | Zendikar Rising Commander                   |
-| Silent-Blade Oni                                        | 1        | rare     | Commander 2018                              |
-| Swiftfoot Boots                                         | 1        | uncommon | Kaldheim Commander                          |
-| Cancel                                                  | 2        | common   | Magic 2010                                  |
-| Lithoform Engine                                        | 1        | mythic   | Zendikar Rising                             |
-| Psychic Corrosion                                       | 1        | uncommon | Core Set 2019                               |
-| Dimir Aqueduct                                          | 1        | uncommon | Midnight Hunt Commander                     |
-| Skullsnatcher                                           | 1        | common   | Betrayers of Kamigawa                       |
-| Sky Diamond                                             | 1        | common   | Kaldheim Commander                          |
-| Dismal Backwater                                        | 4        | common   | Ikoria: Lair of Behemoths                   |
-| Seal of Removal                                         | 1        | uncommon | Modern Horizons 2                           |
-| "Orvar, the All-Form"                                   | 1        | mythic   | Kaldheim                                    |
-| Bloodline Pretender                                     | 1        | uncommon | Kaldheim                                    |
-| Lightning-Core Excavator                                | 4        | common   | Jumpstart                                   |
-| Altar Golem                                             | 1        | rare     | Eventide                                    |
-| Solemn Simulacrum                                       | 1        | rare     | Forgotten Realms Commander                  |
-| Meteor Golem                                            | 1        | uncommon | Forgotten Realms Commander                  |
-| Precursor Golem                                         | 1        | rare     | Scars of Mirrodin                           |
-| Mind Flayer                                             | 1        | rare     | Commander Legends: Battle for Baldur's Gate |
-| Mnemonic Wall                                           | 1        | common   | Theros                                      |
-| Quicksilver Gargantuan                                  | 1        | mythic   | Scars of Mirrodin                           |
-| Salvager of Secrets                                     | 1        | common   | Core Set 2019                               |
-| Crafty Cutpurse                                         | 1        | rare     | Commander 2021                              |
-| Shipwreck Dowser                                        | 1        | uncommon | Core Set 2021                               |
-| Scholar of the Ages                                     | 1        | uncommon | Commander Legends                           |
-| Ornithopter of Paradise                                 | 1        | common   | Modern Horizons 2                           |
-| Archaeomancer                                           | 1        | common   | Magic 2014                                  |
-| Peregrine Drake                                         | 1        | common   | Eternal Masters                             |
-| Diluvian Primordial                                     | 1        | rare     | Commander 2021                              |
-| Confounding Conundrum                                   | 1        | rare     | Zendikar Rising                             |
-| Frozen Aether                                           | 1        | uncommon | Planar Chaos                                |
-| Unnatural Selection                                     | 1        | rare     | Apocalypse                                  |
-| Paradise Plume                                          | 1        | uncommon | Commander 2021                              |
-| Thought Vessel                                          | 1        | common   | Commander 2015                              |
-| Arcane Signet                                           | 1        | uncommon | Commander Legends                           |
-| Wayfarer's Bauble                                       | 1        | common   | Forgotten Realms Commander                  |
-| Arcane Encyclopedia                                     | 2        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Panharmonicon                                           | 1        | rare     | Kaladesh                                    |
-| Maskwood Nexus                                          | 1        | rare     | Kaldheim                                    |
-| Delay                                                   | 1        | uncommon | Time Spiral Remastered                      |
-| Counterspell                                            | 1        | common   | Ice Age                                     |
-| Whirlwind Denial                                        | 1        | uncommon | Strixhaven Mystical Archive                 |
-| Abjure                                                  | 4        | common   | Weatherlight                                |
-| Sublime Epiphany                                        | 1        | rare     | Core Set 2021                               |
-| Tortoise Formation                                      | 1        | common   | Shards of Alara                             |
-| Masterful Replication                                   | 1        | rare     | Core Set 2020                               |
-| Clone Legion                                            | 1        | mythic   | New Capenna Commander                       |
-| Clear the Mind                                          | 1        | common   | Ravnica Allegiance                          |
-| Release to the Wind                                     | 1        | rare     | Rivals of Ixalan                            |
-| Mind Games                                              | 2        | common   | Stronghold                                  |
-| Learn from the Past                                     | 1        | uncommon | Dragons of Tarkir                           |
-| Teferi's Time Twist                                     | 1        | common   | War of the Spark                            |
-| Aether Tradewinds                                       | 1        | common   | Worldwake                                   |
-| Clockspinning                                           | 1        | common   | Time Spiral                                 |
-| Whim of Volrath                                         | 1        | rare     | Tempest                                     |
-| Standardize                                             | 1        | rare     | Onslaught                                   |
-| Peer Pressure                                           | 1        | rare     | Onslaught                                   |
-| Slip Through Space                                      | 1        | common   | Oath of the Gatewatch                       |
-| High Tide                                               | 1        | common   | Fallen Empires                              |
-| Aquitect's Will                                         | 4        | common   | Duel Decks: Merfolk vs. Goblins             |
-| Moonlace                                                | 1        | rare     | Time Spiral                                 |
-| Cerulean Wisps                                          | 1        | common   | Shadowmoor                                  |
-| Ghostly Flicker                                         | 1        | common   | Modern Masters 2017                         |
-| Regress                                                 | 2        | common   | Rise of the Eldrazi                         |
-| Reality Strobe                                          | 1        | uncommon | Future Sight                                |
-| Dread Statuary                                          | 1        | uncommon | Worldwake                                   |
-| Mirrorpool                                              | 1        | mythic   | Oath of the Gatewatch                       |
-| Glimmerpost                                             | 4        | common   | Scars of Mirrodin                           |
-| Lotus Field                                             | 1        | rare     | Core Set 2020                               |
-| Detection Tower                                         | 1        | rare     | Core Set 2019                               |
-| Cloudpost                                               | 1        | common   | Mirrodin                                    |
-| Reliquary Tower                                         | 1        | uncommon | Commander 2021                              |
-| Halimar Depths                                          | 1        | common   | Worldwake                                   |
-| Coat of Arms                                            | 1        | rare     | Duel Decks: Mind vs. Might                  |
-| Fabricate                                               | 1        | uncommon | Magic 2010                                  |
-| Mulldrifter                                             | 1        | uncommon | Forgotten Realms Commander                  |
-| Path of Ancestry                                        | 1        | common   | Forgotten Realms Commander                  |
-| Spark Double                                            | 1        | rare     | War of the Spark                            |
-| Nexus of Fate                                           | 1        | mythic   | Core Set 2019                               |
-| "Anowon, the Ruin Thief"                                | 1        | mythic   | Zendikar Rising Commander                   |
-| Nighthowler                                             | 1        | rare     | Zendikar Rising Commander                   |
-| Mind Stone                                              | 1        | uncommon | Zendikar Rising Commander                   |
-| Soaring Thought-Thief                                   | 5        | uncommon | Zendikar Rising                             |
-| Marang River Prowler                                    | 1        | uncommon | Zendikar Rising Commander                   |
-| Slither Blade                                           | 1        | common   | Zendikar Rising Commander                   |
-| "Sygg, River Cutthroat"                                 | 1        | rare     | Zendikar Rising Commander                   |
-| Bonehoard                                               | 1        | rare     | Zendikar Rising Commander                   |
-| Jwar Isle Refuge                                        | 1        | uncommon | Zendikar Rising Commander                   |
-| Spinal Embrace                                          | 1        | rare     | Zendikar Rising Commander                   |
-| Stolen Identity                                         | 1        | rare     | Zendikar Rising Commander                   |
-| In Garruk's Wake                                        | 1        | rare     | Zendikar Rising Commander                   |
-| Invisible Stalker                                       | 1        | uncommon | Zendikar Rising Commander                   |
-| Marsh Flitter                                           | 1        | uncommon | Zendikar Rising Commander                   |
-| Necromantic Selection                                   | 1        | rare     | Zendikar Rising Commander                   |
-| Arcane Signet                                           | 1        | common   | Zendikar Rising Commander                   |
-| Murder                                                  | 1        | common   | Zendikar Rising Commander                   |
-| Rise from the Grave                                     | 1        | uncommon | Zendikar Rising Commander                   |
-| Extract from Darkness                                   | 1        | uncommon | Zendikar Rising Commander                   |
-| Whispersteel Dagger                                     | 1        | rare     | Zendikar Rising Commander                   |
-| Fated Return                                            | 1        | rare     | Zendikar Rising Commander                   |
-| Enigma Thief                                            | 1        | rare     | Zendikar Rising Commander                   |
-| Endless Obedience                                       | 1        | uncommon | Zendikar Rising Commander                   |
-| Blackblade Reforged                                     | 1        | rare     | Zendikar Rising Commander                   |
-| Stinkdrinker Bandit                                     | 1        | uncommon | Zendikar Rising Commander                   |
-| Obelisk of Urd                                          | 1        | rare     | Zendikar Rising Commander                   |
-| Ogre Slumlord                                           | 1        | rare     | Zendikar Rising Commander                   |
-| Notorious Throng                                        | 1        | rare     | Zendikar Rising Commander                   |
-| Zulaport Cutthroat                                      | 1        | uncommon | Zendikar Rising Commander                   |
-| Heirloom Blade                                          | 1        | uncommon | Zendikar Rising Commander                   |
-| Oona's Blackguard                                       | 1        | uncommon | Zendikar Rising Commander                   |
-| Open into Wonder                                        | 1        | uncommon | Zendikar Rising Commander                   |
-| "Lazav, Dimir Mastermind"                               | 1        | mythic   | Zendikar Rising Commander                   |
-| Sepulchral Primordial                                   | 1        | rare     | Zendikar Rising Commander                   |
-| "Oona, Queen of the Fae"                                | 1        | rare     | Zendikar Rising Commander                   |
-| Silumgar's Command                                      | 1        | rare     | Zendikar Rising Commander                   |
-| Fact or Fiction                                         | 1        | uncommon | Zendikar Rising Commander                   |
-| Dimir Locket                                            | 1        | common   | Zendikar Rising Commander                   |
-| Commander's Sphere                                      | 1        | common   | Zendikar Rising Commander                   |
-| Faerie Vandal                                           | 1        | uncommon | Zendikar Rising Commander                   |
-| Triton Shorestalker                                     | 1        | common   | Zendikar Rising Commander                   |
-| Frogtosser Banneret                                     | 1        | common   | Zendikar Rising Commander                   |
-| Sure-Footed Infiltrator                                 | 1        | uncommon | Zendikar Rising                             |
-| Scytheclaw                                              | 1        | rare     | Zendikar Rising Commander                   |
-| Military Intelligence                                   | 1        | uncommon | Zendikar Rising Commander                   |
-| Latchkey Faerie                                         | 1        | common   | Zendikar Rising Commander                   |
-| Rogue's Passage                                         | 1        | uncommon | Commander 2021                              |
-| "Syr Konrad, the Grim"                                  | 1        | uncommon | Zendikar Rising Commander                   |
-| Master Thief                                            | 4        | uncommon | Zendikar Rising Commander                   |
-| Sol Ring                                                | 1        | uncommon | Zendikar Rising Commander                   |
-| Dimir Signet                                            | 1        | common   | Zendikar Rising Commander                   |
-| Dismal Backwater                                        | 1        | common   | Zendikar Rising Commander                   |
-| Dimir Guildgate                                         | 1        | common   | Zendikar Rising Commander                   |
-| Whirler Rogue                                           | 1        | uncommon | Zendikar Rising Commander                   |
-| Changeling Outcast                                      | 1        | common   | Zendikar Rising Commander                   |
-| Submerged Boneyard                                      | 1        | uncommon | Zendikar Rising Commander                   |
-| Nightveil Sprite                                        | 1        | uncommon | Zendikar Rising Commander                   |
-| Price of Fame                                           | 1        | uncommon | Zendikar Rising Commander                   |
-| Myriad Landscape                                        | 1        | uncommon | Zendikar Rising Commander                   |
-| Scourge of Fleets                                       | 1        | rare     | Zendikar Rising Commander                   |
-| "Gonti, Lord of Luxury"                                 | 1        | rare     | Zendikar Rising Commander                   |
-| Command Tower                                           | 1        | common   | Zendikar Rising Commander                   |
-| Dimir Aqueduct                                          | 1        | uncommon | Zendikar Rising Commander                   |
-| Dimir Keyrune                                           | 1        | uncommon | Zendikar Rising Commander                   |
-| Soul Manipulation                                       | 1        | uncommon | Zendikar Rising Commander                   |
-| Distant Melody                                          | 1        | common   | Zendikar Rising Commander                   |
-| Notion Thief                                            | 1        | rare     | Zendikar Rising Commander                   |
-| Aetherize                                               | 1        | uncommon | Zendikar Rising Commander                   |
-| Merfolk Windrobber                                      | 5        | uncommon | Zendikar Rising                             |
-| "Kotori, Pilot Prodigy"                                 | 1        | mythic   | Neon Dynasty Commander                      |
-| Aeronaut Admiral                                        | 1        | uncommon | Neon Dynasty Commander                      |
-| Crush Contraband                                        | 1        | uncommon | Neon Dynasty Commander                      |
-| Dispatch                                                | 1        | uncommon | Neon Dynasty Commander                      |
-| Reality Shift                                           | 1        | uncommon | Neon Dynasty Commander                      |
-| Sol Ring                                                | 1        | uncommon | New Capenna Commander                       |
-| Exotic Orchard                                          | 1        | rare     | Neon Dynasty Commander                      |
-| Plains                                                  | 193      | common   | Commander Legends: Battle for Baldur's Gate |
-| Command Tower                                           | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Dance of the Manse                                      | 1        | rare     | Neon Dynasty Commander                      |
-| Skycloud Expanse                                        | 1        | rare     | New Capenna Commander                       |
-| Prairie Stream                                          | 1        | rare     | New Capenna Commander                       |
-| Armed and Armored                                       | 1        | uncommon | Neon Dynasty Commander                      |
-| Spire of Industry                                       | 1        | rare     | Neon Dynasty Commander                      |
-| Release to Memory                                       | 1        | rare     | Neon Dynasty Commander                      |
-| Peacewalker Colossus                                    | 1        | rare     | Neon Dynasty Commander                      |
-| Thoughtcast                                             | 1        | common   | Neon Dynasty Commander                      |
-| Ironsoul Enforcer                                       | 1        | rare     | Neon Dynasty Commander                      |
-| Research Thief                                          | 1        | rare     | Neon Dynasty Commander                      |
-| "Raff Capashen, Ship's Mage"                            | 1        | uncommon | Neon Dynasty Commander                      |
-| Aerial Surveyor                                         | 1        | rare     | Neon Dynasty Commander                      |
-| "Jace, Architect of Thought"                            | 1        | mythic   | Neon Dynasty Commander                      |
-| Cultivator's Caravan                                    | 1        | rare     | Neon Dynasty Commander                      |
-| Silver Myr                                              | 1        | common   | Neon Dynasty Commander                      |
-| Universal Surveillance                                  | 1        | rare     | Neon Dynasty Commander                      |
-| "Emry, Lurker of the Loch"                              | 2        | rare     | Neon Dynasty Commander                      |
-| Parhelion II                                            | 1        | rare     | Neon Dynasty Commander                      |
-| "Sai, Master Thopterist"                                | 1        | rare     | Neon Dynasty Commander                      |
-| Access Denied                                           | 1        | rare     | Neon Dynasty Commander                      |
-| "Hanna, Ship's Navigator"                               | 1        | rare     | Neon Dynasty Commander                      |
-| Shimmer Myr                                             | 2        | uncommon | Neon Dynasty Commander                      |
-| Kappa Cannoneer                                         | 1        | rare     | Neon Dynasty Commander                      |
-| Imperial Recovery Unit                                  | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Foundry Inspector                                       | 1        | common   | Neon Dynasty Commander                      |
-| Organic Extinction                                      | 1        | rare     | Neon Dynasty Commander                      |
-| "Katsumasa, the Animator"                               | 1        | rare     | Neon Dynasty Commander                      |
-| Solemn Simulacrum                                       | 1        | rare     | Commander Legends: Battle for Baldur's Gate |
-| Generous Gift                                           | 1        | uncommon | New Capenna Commander                       |
-| Vedalken Engineer                                       | 1        | common   | Neon Dynasty Commander                      |
-| Raiders' Karve                                          | 5        | common   | Neon Dynasty Commander                      |
-| Surgehacker Mech                                        | 2        | rare     | Kamigawa: Neon Dynasty                      |
-| Smuggler's Copter                                       | 1        | rare     | Neon Dynasty Commander                      |
-| Fellwar Stone                                           | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| "Sram, Senior Edificer"                                 | 1        | rare     | Neon Dynasty Commander                      |
-| Myrsmith                                                | 1        | uncommon | Neon Dynasty Commander                      |
-| "Skysovereign, Consul Flagship"                         | 1        | mythic   | Neon Dynasty Commander                      |
-| Indomitable Archangel                                   | 1        | mythic   | Neon Dynasty Commander                      |
-| Thopter Spy Network                                     | 1        | rare     | Neon Dynasty Commander                      |
-| Cyberdrive Awakener                                     | 1        | rare     | Neon Dynasty Commander                      |
-| Azorius Signet                                          | 1        | uncommon | New Capenna Commander                       |
-| Temple of Enlightenment                                 | 1        | rare     | Neon Dynasty Commander                      |
-| Swift Reconfiguration                                   | 1        | rare     | Neon Dynasty Commander                      |
-| Whirler Rogue                                           | 1        | uncommon | New Capenna Commander                       |
-| Mobilizer Mech                                          | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Gold Myr                                                | 1        | common   | Neon Dynasty Commander                      |
-| Imposter Mech                                           | 1        | rare     | Neon Dynasty Commander                      |
-| Arcane Signet                                           | 2        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Prodigy's Prototype                                     | 3        | uncommon | Kamigawa: Neon Dynasty                      |
-| "Shorikai, Genesis Engine"                              | 1        | mythic   | Neon Dynasty Commander                      |
-| Swords to Plowshares                                    | 1        | uncommon | New Capenna Commander                       |
-| Arcanist's Owl                                          | 1        | uncommon | Neon Dynasty Commander                      |
-| Etherium Sculptor                                       | 1        | common   | Neon Dynasty Commander                      |
-| Port Town                                               | 1        | rare     | New Capenna Commander                       |
-| Cataclysmic Gearhulk                                    | 2        | mythic   | Neon Dynasty Commander                      |
-| Weatherlight                                            | 1        | mythic   | Neon Dynasty Commander                      |
-| Colossal Plow                                           | 1        | uncommon | Neon Dynasty Commander                      |
-| Drumbellower                                            | 1        | rare     | Neon Dynasty Commander                      |
-| Riddlesmith                                             | 1        | uncommon | Neon Dynasty Commander                      |
-| "Teshar, Ancestor's Apostle"                            | 1        | rare     | Neon Dynasty Commander                      |
-| Mirage Mirror                                           | 1        | rare     | Neon Dynasty Commander                      |
-| Master of Etherium                                      | 1        | rare     | Neon Dynasty Commander                      |
-| Bone Saw                                                | 1        | common   | Oath of the Gatewatch                       |
-| Spidersilk Net                                          | 1        | common   | Zendikar                                    |
-| Psychogenic Probe                                       | 1        | rare     | Mirrodin                                    |
-| Bonesplitter                                            | 1        | common   | Mystery Booster                             |
-| Ceremonial Knife                                        | 1        | common   | Innistrad: Crimson Vow                      |
-| Spellbook                                               | 1        | uncommon | Magic 2010                                  |
-| Jack-o'-Lantern                                         | 1        | common   | Innistrad: Midnight Hunt                    |
-| Scroll of Griselbrand                                   | 1        | common   | Avacyn Restored                             |
-| Jawbone Skulkin                                         | 1        | common   | Eventide                                    |
-| Trusty Machete                                          | 2        | uncommon | Zendikar                                    |
-| Explorer's Scope                                        | 2        | common   | Zendikar                                    |
-| Universal Solvent                                       | 1        | common   | Commander Legends                           |
-| Mana Cylix                                              | 1        | common   | Conflux                                     |
-| Barbed Sextant                                          | 2        | common   | Coldsnap Theme Decks                        |
-| Witches' Eye                                            | 1        | uncommon | Theros                                      |
-| Flayer Husk                                             | 1        | common   | Mirrodin Besieged                           |
-| Weathered Runestone                                     | 3        | uncommon | Kaldheim                                    |
-| Universal Solvent                                       | 1        | common   | Commander Legends                           |
-| Weathered Runestone                                     | 1        | uncommon | Kaldheim                                    |
-| Trailblazer's Boots                                     | 1        | uncommon | Zendikar                                    |
-| Raven Wings                                             | 7        | common   | Kaldheim                                    |
-| Contagion Clasp                                         | 4        | uncommon | Scars of Mirrodin                           |
-| Goldvein Pick                                           | 3        | common   | Kaldheim                                    |
-| Stuffed Bear                                            | 3        | common   | Innistrad: Midnight Hunt                    |
-| Blight Sickle                                           | 3        | common   | Shadowmoor                                  |
-| Tormentor's Trident                                     | 2        | uncommon | Avacyn Restored                             |
-| Wurm's Tooth                                            | 2        | uncommon | Magic 2010                                  |
-| Codex Shredder                                          | 1        | uncommon | Commander Legends                           |
-| Bubbling Cauldron                                       | 1        | uncommon | Magic 2014                                  |
-| Angel's Feather                                         | 1        | uncommon | Magic 2010                                  |
-| Armory of Iroas                                         | 1        | common   | Commander Legends                           |
-| Lich's Mirror                                           | 1        | mythic   | Mystery Booster Retail Edition Foils        |
-| Sunset Pyramid                                          | 1        | uncommon | Commander Legends                           |
-| Pyre of Heroes                                          | 1        | rare     | Kaldheim                                    |
-| Altar of Dementia                                       | 1        | rare     | Modern Horizons                             |
-| Spell Satchel                                           | 1        | uncommon | Strixhaven: School of Mages                 |
-| Cloak and Dagger                                        | 1        | uncommon | Morningtide                                 |
-| Iron Apprentice                                         | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Kitesail                                                | 1        | common   | Worldwake                                   |
-| Warmonger's Chariot                                     | 1        | uncommon | Rise of the Eldrazi                         |
-| Wooden Stake                                            | 1        | common   | Innistrad                                   |
-| Necrogen Censer                                         | 1        | common   | Scars of Mirrodin                           |
-| Bloodline Pretender                                     | 1        | uncommon | Kaldheim                                    |
-| Letter of Acceptance                                    | 2        | common   | Strixhaven: School of Mages                 |
-| Spectral Searchlight                                    | 1        | common   | Commander Legends                           |
-| Mana Geode                                              | 1        | common   | Jumpstart                                   |
-| Pirate's Cutlass                                        | 1        | common   | Commander Legends                           |
-| Runed Crown                                             | 1        | uncommon | Kaldheim                                    |
-| Obelisk of Naya                                         | 1        | common   | Shards of Alara                             |
-| Grifter's Blade                                         | 1        | uncommon | Ravnica: City of Guilds                     |
-| Ronin Warclub                                           | 1        | uncommon | Betrayers of Kamigawa                       |
-| Papercraft Decoy                                        | 6        | common   | Kamigawa: Neon Dynasty                      |
-| Dungeon Map                                             | 1        | uncommon | Adventures in the Forgotten Realms          |
-| Searchlight Companion                                   | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Walking Atlas                                           | 1        | common   | Worldwake                                   |
-| Cold Storage                                            | 1        | rare     | Tempest                                     |
-| Skinwing                                                | 2        | uncommon | Mirrodin Besieged                           |
-| Bonehoard                                               | 1        | rare     | Mirrodin Besieged                           |
-| Containment Construct                                   | 3        | uncommon | Kamigawa: Neon Dynasty                      |
-| Skull Catapult                                          | 1        | uncommon | Coldsnap Theme Decks                        |
-| Cursed Rack                                             | 1        | uncommon | Fourth Edition                              |
-| Strandwalker                                            | 2        | uncommon | Mirrodin Besieged                           |
-| Brainstone                                              | 1        | uncommon | Modern Horizons 2                           |
-| Seer's Sundial                                          | 1        | rare     | Zendikar Rising Commander                   |
-| Loreseeker's Stone                                      | 1        | uncommon | Commander Legends                           |
-| Dreamstone Hedron                                       | 2        | uncommon | Commander Legends                           |
-| Extruder                                                | 1        | uncommon | Modern Horizons 2                           |
-| Trigon of Rage                                          | 1        | uncommon | Scars of Mirrodin                           |
-| Trigon of Corruption                                    | 1        | uncommon | Scars of Mirrodin                           |
-| Trigon of Thought                                       | 1        | uncommon | Scars of Mirrodin                           |
-| Colossal Plow                                           | 3        | uncommon | Kaldheim                                    |
-| Funeral Longboat                                        | 4        | common   | Kaldheim                                    |
-| Brute Suit                                              | 5        | common   | Kamigawa: Neon Dynasty                      |
-| High-Speed Hoverbike                                    | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Thundersteel Colossus                                   | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Dragonfly Suit                                          | 5        | common   | Kamigawa: Neon Dynasty                      |
-| Shrine Steward                                          | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Stonework Packbeast                                     | 1        | common   | Zendikar Rising                             |
-| Myr Sire                                                | 2        | common   | Mirrodin Besieged                           |
-| Perilous Myr                                            | 1        | common   | Commander Legends                           |
-| Bronze Sable                                            | 1        | common   | Theros                                      |
-| Runed Servitor                                          | 1        | uncommon | Rise of the Eldrazi                         |
-| Fang Skulkin                                            | 1        | common   | Eventide                                    |
-| Wall of Tanglecord                                      | 1        | common   | Scars of Mirrodin                           |
-| Hedron Scrabbler                                        | 1        | common   | Zendikar                                    |
-| Void Mirror                                             | 1        | rare     | Modern Horizons 2                           |
-| Scorn Effigy                                            | 4        | common   | Kaldheim                                    |
-| Scorn Effigy                                            | 1        | common   | Kaldheim                                    |
-| Filigree Familiar                                       | 3        | common   | Commander Legends                           |
-| Fodder Tosser                                           | 2        | common   | Modern Horizons 2                           |
-| Reinforced Bulwark                                      | 2        | common   | Rise of the Eldrazi                         |
-| Phyrexian Ironfoot                                      | 1        | uncommon | Coldsnap                                    |
-| Fellwar Stone                                           | 1        | uncommon | Forgotten Realms Commander                  |
-| Rust Tick                                               | 1        | uncommon | Scars of Mirrodin                           |
-| Howling Golem                                           | 1        | common   | Commander Legends                           |
-| Thaumaturge's Familiar                                  | 1        | common   | Theros Beyond Death                         |
-| Stonework Puma                                          | 1        | common   | Zendikar                                    |
-| Blood Servitor                                          | 1        | common   | Innistrad: Crimson Vow                      |
-| Hoof Skulkin                                            | 1        | common   | Eventide                                    |
-| Crossroads Candleguide                                  | 1        | common   | Innistrad: Midnight Hunt                    |
-| Hedron Rover                                            | 1        | common   | Worldwake                                   |
-| Patagia Golem                                           | 1        | uncommon | Seventh Edition                             |
-| Patagia Golem                                           | 1        | uncommon | Eighth Edition                              |
-| Pierce Strider                                          | 2        | uncommon | Mirrodin Besieged                           |
-| Clockwork Condor                                        | 1        | common   | Mirrodin                                    |
-| Chrome Steed                                            | 1        | common   | Scars of Mirrodin                           |
-| Biblioplex Assistant                                    | 2        | common   | Strixhaven: School of Mages                 |
-| Strionic Resonator                                      | 1        | rare     | New Capenna Commander                       |
-| Soliton                                                 | 1        | common   | Scars of Mirrodin                           |
-| Tangle Hulk                                             | 1        | common   | Mirrodin Besieged                           |
-| Mantis Engine                                           | 1        | uncommon | Tenth Edition                               |
-| Lumengrid Gargoyle                                      | 2        | common   | Commander Legends                           |
-| Razorfield Rhino                                        | 1        | common   | Mirrodin Besieged                           |
-| Gold-Forged Sentinel                                    | 1        | uncommon | Journey into Nyx                            |
-| Thopter Assembly                                        | 1        | rare     | Duel Decks: Elves vs. Inventors             |
-| Steel Hellkite                                          | 1        | rare     | Scars of Mirrodin                           |
-| Lightning Greaves                                       | 1        | uncommon | Forgotten Realms Commander                  |
-| Locthwain Gargoyle                                      | 1        | common   | Throne of Eldraine                          |
-| Sandstone Oracle                                        | 1        | uncommon | Commander Legends                           |
-| Hexplate Golem                                          | 1        | common   | Mirrodin Besieged                           |
-| Maelstrom Colossus                                      | 1        | common   | Commander Legends                           |
-| Filigree Angel                                          | 1        | rare     | Alara Reborn                                |
-| Nullstone Gargoyle                                      | 1        | rare     | Ravnica: City of Guilds                     |
-| Traveler's Amulet                                       | 2        | common   | Theros                                      |
-| Bronze Cudgels                                          | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Pilgrim's Eye                                           | 1        | common   | Worldwake                                   |
-| Armillary Sphere                                        | 1        | common   | Commander Legends                           |
-| Ecologist's Terrarium                                   | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Lotus Petal                                             | 1        | common   | Tempest                                     |
-| Grindclock                                              | 1        | rare     | Magic 2015                                  |
-| Patchwork Automaton                                     | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Coldsteel Heart                                         | 1        | uncommon | Coldsnap                                    |
-| Culling Dais                                            | 1        | uncommon | Scars of Mirrodin                           |
-| Circuit Mender                                          | 3        | uncommon | Kamigawa: Neon Dynasty                      |
-| Millikin                                                | 1        | uncommon | Modern Horizons 2                           |
-| Network Terminal                                        | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Dramatist's Puppet                                      | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Towashi Guide-Bot                                       | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Ominous Parcel                                          | 1        | common   | Streets of New Capenna                      |
-| Triskelion                                              | 1        | rare     | Duel Decks: Elspeth vs. Tezzeret            |
-| Walking Skyscraper                                      | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Sparkhunter Masticore                                   | 1        | rare     | Core Set 2021                               |
-| Sea Gate Colossus                                       | 1        | common   | Zendikar Rising                             |
-| Runaway Trash-Bot                                       | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Mycosynth Golem                                         | 1        | rare     | Fifth Dawn                                  |
-| Tormod's Crypt                                          | 1        | uncommon | Core Set 2021                               |
-| Golem Foundry                                           | 1        | common   | Scars of Mirrodin                           |
-| Crystal Ball                                            | 1        | uncommon | Magic 2011                                  |
-| Liquimetal Coating                                      | 1        | uncommon | Scars of Mirrodin                           |
-| Tower of Eons                                           | 1        | rare     | Mirrodin                                    |
-| Forgotten Sentinel                                      | 1        | common   | Core Set 2021                               |
-| Chrome Replicator                                       | 1        | uncommon | Core Set 2021                               |
-| Enormous Energy Blade                                   | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Undercity Scrounger                                     | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Chainflail Centipede                                    | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Poet's Quill                                            | 1        | rare     | Strixhaven: School of Mages                 |
-| Witch's Cauldron                                        | 1        | uncommon | Core Set 2021                               |
-| Wand of Orcus                                           | 1        | rare     | Forgotten Realms Commander                  |
-| Mind Carver                                             | 1        | uncommon | Zendikar Rising                             |
-| Malefic Scythe                                          | 2        | uncommon | Core Set 2021                               |
-| Draugr's Helm                                           | 4        | uncommon | Kaldheim                                    |
-| Reaper's Talisman                                       | 1        | uncommon | Adventures in the Forgotten Realms          |
-| Staff of the Death Magus                                | 1        | uncommon | Magic 2015                                  |
-| Cosmos Elixir                                           | 1        | rare     | Kaldheim                                    |
-| Virus Beetle                                            | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Contagion Engine                                        | 1        | rare     | Scars of Mirrodin                           |
-| Dimir Cluestone                                         | 1        | common   | Dragon's Maze                               |
-| Ironhoof Boar                                           | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Simian Sling                                            | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Experimental Synthesizer                                | 5        | common   | Kamigawa: Neon Dynasty                      |
-| Dragonspark Reactor                                     | 3        | uncommon | Kamigawa: Neon Dynasty                      |
-| Ogre-Head Helm                                          | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Lizard Blades                                           | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Towashi Songshaper                                      | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Bronzeplate Boar                                        | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Unstoppable Ogre                                        | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Scrapyard Steelbreaker                                  | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Rabbit Battery                                          | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Tormentor's Helm                                        | 4        | common   | Kaldheim                                    |
-| Meteoric Mace                                           | 1        | uncommon | Commander Legends                           |
-| Dwarven Hammer                                          | 2        | uncommon | Kaldheim                                    |
-| Fire Diamond                                            | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Scavenged Blade                                         | 1        | common   | Zendikar Rising                             |
-| Twinshot Sniper                                         | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Glittering Stockpile                                    | 1        | uncommon | Streets of New Capenna                      |
-| Goldhound                                               | 1        | common   | Streets of New Capenna                      |
-| Arcbound Whelp                                          | 1        | uncommon | Modern Horizons 2                           |
-| Enthusiastic Mechanaut                                  | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Oni-Cult Anvil                                          | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Arcbound Slasher                                        | 1        | common   | Modern Horizons 2                           |
-| Webspinner Cuff                                         | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Bramble Armor                                           | 1        | common   | Innistrad: Crimson Vow                      |
-| Elven Bow                                               | 1        | uncommon | Kaldheim                                    |
-| Skyclave Pick-Axe                                       | 1        | uncommon | Zendikar Rising                             |
-| Combine Chrysalis                                       | 1        | uncommon | Modern Horizons 2                           |
-| Icebind Pillar                                          | 3        | uncommon | Kaldheim                                    |
-| Moonsnare Prototype                                     | 6        | common   | Kamigawa: Neon Dynasty                      |
-| Futurist Sentinel                                       | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Parasitic Strix                                         | 5        | common   | Double Masters                              |
-| Giant's Amulet                                          | 1        | uncommon | Kaldheim                                    |
-| Mnemonic Sphere                                         | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Armguard Familiar                                       | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Saiba Trespassers                                       | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Mirrorshell Crab                                        | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Midnight Clock                                          | 1        | rare     | Throne of Eldraine                          |
-| Network Disruptor                                       | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Mindlink Mech                                           | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Moonfolk Puzzlemaker                                    | 6        | common   | Kamigawa: Neon Dynasty                      |
-| Master Transmuter                                       | 1        | rare     | Double Masters                              |
-| Acquisition Octopus                                     | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Folio of Fancies                                        | 1        | rare     | Throne of Eldraine                          |
-| Spined Thopter                                          | 4        | common   | New Phyrexia                                |
-| Vantress Gargoyle                                       | 2        | rare     | Throne of Eldraine                          |
-| Scornful Aether-Lich                                    | 2        | uncommon | Conflux                                     |
-| Faerie Mechanist                                        | 4        | common   | Double Masters                              |
-| Mukotai Ambusher                                        | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Mukotai Ambusher                                        | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Salvage Slasher                                         | 1        | common   | Conflux                                     |
-| Wayfarer's Bauble                                       | 2        | common   | Commander Legends: Battle for Baldur's Gate |
-| Suspicious Bookcase                                     | 1        | uncommon | Streets of New Capenna                      |
-| Quick-Draw Dagger                                       | 1        | common   | Streets of New Capenna                      |
-| Chrome Cat                                              | 1        | common   | Streets of New Capenna                      |
-| Vectis Gloves                                           | 1        | uncommon | Modern Horizons 2                           |
-| Darksteel Ingot                                         | 1        | uncommon | Magic 2014                                  |
-| Meteor Golem                                            | 1        | uncommon | Commander Legends                           |
-| Scalding Cauldron                                       | 1        | common   | Throne of Eldraine                          |
-| Psychosis Crawler                                       | 1        | rare     | Commander 2018                              |
-| Mimic Vat                                               | 1        | rare     | New Capenna Commander                       |
-| Bottle Golems                                           | 1        | common   | Modern Horizons 2                           |
-| Zuran Orb                                               | 1        | uncommon | Modern Horizons 2                           |
-| Magistrate's Scepter                                    | 1        | rare     | Core Set 2019                               |
-| Meteorite                                               | 1        | uncommon | Core Set 2021                               |
-| Mirage Mirror                                           | 1        | rare     | Hour of Devastation                         |
-| Steel Dromedary                                         | 1        | uncommon | Modern Horizons 2                           |
-| Arcbound Mouser                                         | 2        | common   | Modern Horizons 2                           |
-| Valkyrie's Sword                                        | 3        | uncommon | Kaldheim                                    |
-| Arcbound Javelineer                                     | 1        | uncommon | Modern Horizons 2                           |
-| Opaline Unicorn                                         | 1        | common   | Theros                                      |
-| Bronze Walrus                                           | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Mighty Servant of Leuk-o                                | 1        | rare     | Commander Legends: Battle for Baldur's Gate |
-| Sol Ring                                                | 1        | uncommon | Commander Anthology Volume II               |
-| Paradise Plume                                          | 1        | uncommon | Time Spiral Remastered                      |
-| Chrome Courier                                          | 1        | common   | Modern Horizons 2                           |
-| Ethersworn Sphinx                                       | 1        | uncommon | Modern Horizons 2                           |
-| Nettlecyst                                              | 1        | rare     | Modern Horizons 2                           |
-| Golem Artisan                                           | 1        | uncommon | Commander Legends                           |
-| Prismite                                                | 1        | common   | Core Set 2021                               |
-| "Livio, Oathsworn Sentinel"                             | 1        | rare     | Commander Legends                           |
-| "Ardenn, Intrepid Archaeologist"                        | 1        | uncommon | Commander Legends                           |
-| "Jadar, Ghoulcaller of Nephalia"                        | 1        | rare     | Innistrad: Midnight Hunt                    |
-| "Brigid, Hero of Kinsbaile"                             | 1        | rare     | Lorwyn                                      |
-| "Daxos, Blessed by the Sun"                             | 1        | uncommon | Theros Beyond Death                         |
-| "Taranika, Akroan Veteran"                              | 1        | rare     | Theros Beyond Death                         |
-| Raksha Golden Cub                                       | 1        | rare     | Fifth Dawn                                  |
-| Triad of Fates                                          | 1        | rare     | Theros                                      |
-| Ascendant Evincar                                       | 1        | rare     | Tenth Edition                               |
-| "Narfi, Betrayer King"                                  | 2        | uncommon | Kaldheim                                    |
-| "Narfi, Betrayer King"                                  | 1        | uncommon | Kaldheim                                    |
-| "Narfi, Betrayer King"                                  | 1        | uncommon | Kaldheim                                    |
-| "Narfi, Betrayer King"                                  | 1        | uncommon | Kaldheim                                    |
-| King Narfi's Betrayal                                   | 2        | rare     | Kaldheim                                    |
-| "Esior, Wardwing Familiar"                              | 1        | uncommon | Commander Legends                           |
-| "Inniaz, the Gale Force"                                | 1        | rare     | Jumpstart                                   |
-| "Thada Adel, Acquisitor"                                | 1        | rare     | Worldwake                                   |
-| "Siani, Eye of the Storm"                               | 1        | uncommon | Commander Legends                           |
-| "Eligeth, Crossroads Augur"                             | 1        | rare     | Commander Legends                           |
-| "Glacian, Powerstone Engineer"                          | 1        | uncommon | Commander Legends                           |
-| Ghost of Ramirez DePietro                               | 1        | uncommon | Commander Legends                           |
-| "Svella, Ice Shaper"                                    | 2        | uncommon | Kaldheim                                    |
-| The Prismatic Piper                                     | 2        | special  | Commander Legends                           |
-| Isperia the Inscrutable                                 | 1        | rare     | Dissension                                  |
-| "Toski, Bearer of Secrets"                              | 1        | rare     | Kaldheim                                    |
-| "Fynn, the Fangbearer"                                  | 2        | uncommon | Kaldheim                                    |
-| "Fynn, the Fangbearer"                                  | 1        | uncommon | Kaldheim                                    |
-| "Fynn, the Fangbearer"                                  | 1        | uncommon | Kaldheim                                    |
-| Jedit Ojanen of Efrava                                  | 3        | rare     | Planar Chaos                                |
-| "Halana, Kessig Ranger"                                 | 1        | uncommon | Commander Legends                           |
-| "Toggo, Goblin Weaponsmith"                             | 1        | uncommon | Commander Legends                           |
-| "Krenko, Mob Boss"                                      | 1        | rare     | Duel Decks: Speed vs. Cunning               |
-| "Fblthp, the Lost"                                      | 1        | rare     | War of the Spark                            |
-| "Breeches, Brazen Plunderer"                            | 2        | uncommon | Commander Legends                           |
-| Zurgo Helmsmasher                                       | 1        | mythic   | Duel Decks: Speed vs. Cunning               |
-| "Jared Carthalion, True Heir"                           | 1        | rare     | Commander Legends                           |
-| Eutropia the Twice-Favored                              | 1        | uncommon | Theros Beyond Death                         |
-| "Obeka, Brute Chronologist"                             | 1        | rare     | Commander Legends                           |
-| "Juri, Master of the Revue"                             | 1        | uncommon | Commander Legends                           |
-| "Hamza, Guardian of Arashin"                            | 1        | uncommon | Commander Legends                           |
-| "Hamza, Guardian of Arashin"                            | 1        | uncommon | Commander Legends                           |
-| Abomination of Llanowar                                 | 1        | uncommon | Commander Legends                           |
-| "Dalakos, Crafter of Wonders"                           | 1        | rare     | Theros Beyond Death                         |
-| Gallia of the Endless Dance                             | 1        | rare     | Theros Beyond Death                         |
-| Tuya Bearclaw                                           | 1        | uncommon | Commander Legends                           |
-| Hans Eriksson                                           | 1        | rare     | Commander Legends                           |
-| "Tergrid, God of Fright // Tergrid's Lantern"           | 1        | rare     | Kaldheim                                    |
-| "Tormod, the Desecrator"                                | 1        | uncommon | Commander Legends                           |
-| "Olivia, Crimson Bride"                                 | 1        | mythic   | Innistrad: Crimson Vow                      |
-| "Imoti, Celebrant of Bounty"                            | 1        | uncommon | Commander Legends                           |
-| "Tevesh Szat, Doom of Fools"                            | 1        | mythic   | Commander Legends                           |
-| Sefris of the Hidden Ways                               | 1        | mythic   | Forgotten Realms Commander                  |
-| Nihiloor                                                | 1        | mythic   | Forgotten Realms Commander                  |
-| "Svella, Ice Shaper"                                    | 1        | uncommon | Kaldheim                                    |
-| "Vega, the Watcher"                                     | 1        | uncommon | Kaldheim                                    |
-| "Vega, the Watcher"                                     | 2        | uncommon | Kaldheim                                    |
-| "Toralf, God of Fury // Toralf's Hammer"                | 1        | mythic   | Kaldheim                                    |
-| "Toralf, God of Fury // Toralf's Hammer"                | 1        | mythic   | Kaldheim                                    |
-| "Aegar, the Freezing Flame"                             | 1        | uncommon | Kaldheim                                    |
-| "Kardur, Doomscourge"                                   | 2        | uncommon | Kaldheim                                    |
-| "Koll, the Forgemaster"                                 | 1        | uncommon | Kaldheim                                    |
-| "Subira, Tulzidi Caravanner"                            | 1        | rare     | Core Set 2021                               |
-| "Alrund, God of the Cosmos // Hakka, Whispering Raven"  | 1        | mythic   | Kaldheim                                    |
-| "Kolvori, God of Kinship // The Ringhart Crest"         | 1        | rare     | Kaldheim                                    |
-| "Zagras, Thief of Heartbeats"                           | 1        | rare     | Zendikar Rising                             |
-| "Hama Pashar, Ruin Seeker"                              | 1        | uncommon | Adventures in the Forgotten Realms          |
-| "Jin-Gitaxias, Progress Tyrant"                         | 1        | mythic   | Kamigawa: Neon Dynasty                      |
-| "Zareth San, the Trickster"                             | 3        | rare     | Zendikar Rising                             |
-| "Varragoth, Bloodsky Sire"                              | 1        | rare     | Kaldheim                                    |
-| "Firja, Judge of Valor"                                 | 1        | uncommon | Kaldheim                                    |
-| "Harald, King of Skemfar"                               | 1        | uncommon | Kaldheim                                    |
-| "Aegar, the Freezing Flame"                             | 2        | uncommon | Kaldheim                                    |
-| "Rankle, Master of Pranks"                              | 2        | mythic   | Throne of Eldraine                          |
-| Inga Rune-Eyes                                          | 2        | uncommon | Kaldheim                                    |
-| Inga Rune-Eyes                                          | 1        | uncommon | Kaldheim                                    |
-| "Ragavan, Nimble Pilferer"                              | 1        | mythic   | Modern Horizons 2                           |
-| Arni Brokenbrow                                         | 1        | rare     | Kaldheim                                    |
-| "Jorn, God of Winter // Kaldring, the Rimestaff"        | 1        | rare     | Kaldheim                                    |
-| "Minn, Wily Illusionist"                                | 1        | rare     | Forgotten Realms Commander                  |
-| "Naomi, Pillar of Order"                                | 3        | uncommon | Kamigawa: Neon Dynasty                      |
-| "Maja, Bretagard Protector"                             | 2        | uncommon | Kaldheim                                    |
-| "Sydri, Galvanic Genius"                                | 1        | mythic   | Commander 2016                              |
-| "Raiyuu, Storm's Edge"                                  | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| "Esika, God of the Tree // The Prismatic Bridge"        | 1        | mythic   | Kaldheim                                    |
-| "Koma, Cosmos Serpent"                                  | 1        | mythic   | Kaldheim                                    |
-| Moritte of the Frost                                    | 2        | uncommon | Kaldheim                                    |
-| "Light-Paws, Emperor's Voice"                           | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| "Shaile, Dean of Radiance // Embrose, Dean of Shadow"   | 1        | rare     | Strixhaven: School of Mages                 |
-| Mirri the Cursed                                        | 1        | rare     | Planar Chaos                                |
-| "Heiko Yamazaki, the General"                           | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| "Heiko Yamazaki, the General"                           | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Vedalken Outlander                                      | 1        | common   | Conflux                                     |
-| Shield of the Righteous                                 | 1        | uncommon | Alara Reborn                                |
-| Ethercaste Knight                                       | 2        | uncommon | Modern Masters 2015                         |
-| Esper Cormorants                                        | 4        | common   | Conflux                                     |
-| Glassdust Hulk                                          | 1        | common   | Alara Reborn                                |
-| Sanctum Plowbeast                                       | 2        | common   | Alara Reborn                                |
-| Ethersworn Shieldmage                                   | 1        | common   | Archenemy                                   |
-| Rod of Ruin                                             | 1        | uncommon | Ninth Edition                               |
-| Vectis Agents                                           | 2        | common   | Conflux                                     |
-| Enigma Sphinx                                           | 1        | rare     | Commander 2018                              |
-| Etherwrought Page                                       | 1        | uncommon | Alara Reborn                                |
-| Sludge Strider                                          | 4        | uncommon | Planechase                                  |
-| Esper Sojourners                                        | 3        | common   | Alara Reborn                                |
-| Steelclaw Lance                                         | 1        | uncommon | Throne of Eldraine                          |
-| Veinfire Borderpost                                     | 1        | common   | Alara Reborn                                |
-| Wildfield Borderpost                                    | 1        | common   | Alara Reborn                                |
-| Firewild Borderpost                                     | 1        | common   | Alara Reborn                                |
-| Vectis Dominator                                        | 1        | common   | Alara Reborn                                |
-| Beckon Apparition                                       | 3        | common   | Eventide                                    |
-| Edge of the Divinity                                    | 4        | common   | Eventide                                    |
-| Nip Gwyllion                                            | 4        | common   | Eventide                                    |
-| Mourning Thrull                                         | 3        | common   | Guildpact                                   |
-| Nightsky Mimic                                          | 3        | common   | Eventide                                    |
-| Fracture                                                | 2        | uncommon | Strixhaven: School of Mages                 |
-| Nacatl Outlander                                        | 3        | common   | Conflux                                     |
-| Crystallization                                         | 2        | common   | Alara Reborn                                |
-| Drown in the Loch                                       | 3        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Bant Sureblade                                          | 2        | common   | Alara Reborn                                |
-| Castigate                                               | 2        | common   | Guildpact                                   |
-| Azorius First-Wing                                      | 2        | common   | Dissension                                  |
-| Silverquill Apprentice                                  | 1        | uncommon | Strixhaven: School of Mages                 |
-| Silverquill Apprentice                                  | 1        | uncommon | Strixhaven: School of Mages                 |
-| Soul Diviner                                            | 1        | rare     | War of the Spark                            |
-| Monk Class                                              | 1        | rare     | Adventures in the Forgotten Realms          |
-| Rogue Class                                             | 1        | rare     | Adventures in the Forgotten Realms          |
-| Corpse Cobble                                           | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Goblin Deathraiders                                     | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Sangrite Backlash                                       | 1        | common   | Alara Reborn                                |
-| Grizzled Leotau                                         | 1        | common   | Alara Reborn                                |
-| Lightning Helix                                         | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Reborn Hope                                             | 1        | uncommon | Alara Reborn                                |
-| Unmake                                                  | 3        | common   | Eventide                                    |
-| Rise of Extus                                           | 2        | common   | Strixhaven: School of Mages                 |
-| Lorehold Apprentice                                     | 1        | uncommon | Strixhaven: School of Mages                 |
-| Prismari Pledgemage                                     | 1        | common   | Strixhaven: School of Mages                 |
-| Teach by Example                                        | 1        | common   | Strixhaven: School of Mages                 |
-| Quandrix Apprentice                                     | 1        | uncommon | Strixhaven: School of Mages                 |
-| Decisive Denial                                         | 2        | uncommon | Strixhaven: School of Mages                 |
-| Restless Apparition                                     | 2        | uncommon | Eventide                                    |
-| Souls of the Faultless                                  | 2        | uncommon | Guildpact                                   |
-| Wall of Denial                                          | 1        | uncommon | Alara Reborn                                |
-| Plumes of Peace                                         | 2        | common   | Dissension                                  |
-| Bloodied Ghost                                          | 1        | uncommon | Eventide                                    |
-| Gwyllion Hedge-Mage                                     | 2        | uncommon | Eventide                                    |
-| Talon Trooper                                           | 2        | common   | Alara Reborn                                |
-| Rendclaw Trow                                           | 2        | common   | Eventide                                    |
-| Adaptive Shimmerer                                      | 1        | common   | Ikoria: Lair of Behemoths                   |
-| Stalker Hag                                             | 2        | uncommon | Eventide                                    |
-| Winged Coatl                                            | 2        | common   | Alara Reborn                                |
-| Jund Sojourners                                         | 2        | common   | Alara Reborn                                |
-| Lorescale Coatl                                         | 2        | uncommon | Alara Reborn                                |
-| Minister of Impediments                                 | 1        | common   | Dissension                                  |
-| Jhessian Balmgiver                                      | 1        | uncommon | Conflux                                     |
-| Obsessive Stitcher                                      | 1        | uncommon | Forgotten Realms Commander                  |
-| Pest Summoning                                          | 2        | common   | Strixhaven: School of Mages                 |
-| Spirit Summoning                                        | 2        | common   | Strixhaven: School of Mages                 |
-| Necrotic Sliver                                         | 1        | uncommon | Forgotten Realms Commander                  |
-| Silverquill Pledgemage                                  | 1        | common   | Strixhaven: School of Mages                 |
-| Spectacle Mage                                          | 1        | common   | Strixhaven: School of Mages                 |
-| Stonebound Mentor                                       | 1        | common   | Strixhaven: School of Mages                 |
-| Lorehold Pledgemage                                     | 1        | common   | Strixhaven: School of Mages                 |
-| Brushfire Elemental                                     | 1        | uncommon | Zendikar Rising                             |
-| Violent Outburst                                        | 1        | common   | Alara Reborn                                |
-| Vithian Renegades                                       | 1        | uncommon | Alara Reborn                                |
-| Shambling Remains                                       | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Kathari Bomber                                          | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Wilderness Elemental                                    | 1        | uncommon | Coldsnap                                    |
-| Godtracker of Jund                                      | 1        | common   | Alara Reborn                                |
-| Blood Researcher                                        | 1        | common   | Strixhaven: School of Mages                 |
-| Biomathematician                                        | 1        | common   | Strixhaven: School of Mages                 |
-| Voracious Hatchling                                     | 3        | uncommon | Eventide                                    |
-| Bant Sojourners                                         | 2        | common   | Alara Reborn                                |
-| Leonin Armorguard                                       | 2        | common   | Alara Reborn                                |
-| Steam Augury                                            | 1        | rare     | Duel Decks: Speed vs. Cunning               |
-| Exploding Borders                                       | 1        | common   | Conflux                                     |
-| Moldering Karok                                         | 2        | common   | Strixhaven: School of Mages                 |
-| Stormcaller's Boon                                      | 1        | common   | Alara Reborn                                |
-| Hussar Patrol                                           | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Hostage Taker                                           | 1        | rare     | Forgotten Realms Commander                  |
-| Exhilarating Elocution                                  | 2        | common   | Strixhaven: School of Mages                 |
-| Maelstrom Muse                                          | 1        | uncommon | Strixhaven: School of Mages                 |
-| Vanish into Memory                                      | 1        | uncommon | Forgotten Realms Commander                  |
-| Midnight Pathlighter                                    | 1        | rare     | Forgotten Realms Commander                  |
-| Reconstruct History                                     | 1        | uncommon | Strixhaven: School of Mages                 |
-| Elemental Expressionist                                 | 1        | rare     | Strixhaven: School of Mages                 |
-| Utter End                                               | 1        | rare     | Forgotten Realms Commander                  |
-| Harvest Gwyllion                                        | 1        | common   | Eventide                                    |
-| Eureka Moment                                           | 1        | common   | Strixhaven: School of Mages                 |
-| Knight of New Alara                                     | 1        | rare     | Alara Reborn                                |
-| Horizon Chimera                                         | 1        | uncommon | Theros                                      |
-| Desecrator Hag                                          | 1        | common   | Eventide                                    |
-| Rhox Brute                                              | 1        | common   | Alara Reborn                                |
-| Spellbreaker Behemoth                                   | 1        | rare     | Alara Reborn                                |
-| Captured Sunlight                                       | 1        | common   | Alara Reborn                                |
-| Lightning Angel                                         | 1        | rare     | Duel Decks: Speed vs. Cunning               |
-| Flame-Kin Zealot                                        | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Drain the Well                                          | 1        | common   | Eventide                                    |
-| Quandrix Cultivator                                     | 1        | uncommon | Strixhaven: School of Mages                 |
-| Stormchaser Chimera                                     | 1        | uncommon | Journey into Nyx                            |
-| Sky Hussar                                              | 2        | uncommon | Dissension                                  |
-| Cloudblazer                                             | 1        | uncommon | Forgotten Realms Commander                  |
-| Marrow Chomper                                          | 2        | uncommon | Alara Reborn                                |
-| Elemental Summoning                                     | 1        | common   | Strixhaven: School of Mages                 |
-| Practical Research                                      | 1        | uncommon | Strixhaven: School of Mages                 |
-| Extract Brain                                           | 1        | rare     | Forgotten Realms Commander                  |
-| Oggyar Battle-Seer                                      | 1        | common   | Strixhaven: School of Mages                 |
-| Deadshot Minotaur                                       | 2        | common   | Alara Reborn                                |
-| Gorger Wurm                                             | 2        | common   | Alara Reborn                                |
-| Introduction to Annihilation                            | 1        | common   | Strixhaven: School of Mages                 |
-| Sentry of the Underworld                                | 1        | uncommon | Theros                                      |
-| Pharika's Mender                                        | 1        | uncommon | Theros                                      |
-| Rhox Bodyguard                                          | 1        | common   | Conflux                                     |
-| Relic Sloth                                             | 1        | common   | Strixhaven: School of Mages                 |
-| Deathbringer Liege                                      | 3        | rare     | Eventide                                    |
-| Naya Sojourners                                         | 1        | common   | Alara Reborn                                |
-| Rakeclaw Gargantuan                                     | 1        | common   | Shards of Alara                             |
-| Carrion Thrash                                          | 1        | common   | Shards of Alara                             |
-| Environmental Sciences                                  | 1        | common   | Strixhaven: School of Mages                 |
-| Trapjaw Kelpie                                          | 2        | common   | Eventide                                    |
-| Pale Recluse                                            | 1        | common   | Alara Reborn                                |
-| Sigiled Behemoth                                        | 2        | common   | Alara Reborn                                |
-| Valley Rannet                                           | 2        | common   | Alara Reborn                                |
-| Dragon Appeasement                                      | 1        | uncommon | Alara Reborn                                |
-| Vagrant Plowbeasts                                      | 3        | uncommon | Conflux                                     |
-| Ashen Rider                                             | 1        | mythic   | Forgotten Realms Commander                  |
-| Duskmantle Guildmage                                    | 1        | uncommon | Gatecrash                                   |
-| The Raven's Warning                                     | 1        | rare     | Kaldheim                                    |
-| The Raven's Warning                                     | 1        | rare     | Kaldheim                                    |
-| Kardur's Vicious Return                                 | 3        | uncommon | Kaldheim                                    |
-| The Trickster-God's Heist                               | 2        | uncommon | Kaldheim                                    |
-| Binding the Old Gods                                    | 2        | uncommon | Kaldheim                                    |
-| Harald Unites the Elves                                 | 1        | rare     | Kaldheim                                    |
-| Fall of the Impostor                                    | 3        | uncommon | Kaldheim                                    |
-| Forging the Tyrite Sword                                | 4        | uncommon | Kaldheim                                    |
-| Ascent of the Worthy                                    | 4        | uncommon | Kaldheim                                    |
-| Battle for Bretagard                                    | 1        | rare     | Kaldheim                                    |
-| Elspeth Resplendent                                     | 1        | mythic   | Streets of New Capenna                      |
-| Niko Defies Destiny                                     | 1        | uncommon | Kaldheim                                    |
-| "Rocco, Cabaretti Caterer"                              | 1        | uncommon | Streets of New Capenna                      |
-| Dire Undercurrents                                      | 1        | rare     | Shadowmoor                                  |
-| "Evelyn, the Covetous"                                  | 1        | rare     | Streets of New Capenna                      |
-| "Norika Yamazaki, the Poet"                             | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| "Ugin, the Spirit Dragon"                               | 1        | mythic   | Core Set 2021                               |
-| The Wandering Emperor                                   | 1        | mythic   | Kamigawa: Neon Dynasty                      |
-| Kodama of the West Tree                                 | 1        | mythic   | Kamigawa: Neon Dynasty                      |
-| "Syr Alin, the Lion's Claw"                             | 1        | uncommon | Throne of Eldraine                          |
-| "Tatsunari, Toad Rider"                                 | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| "Jolrael, Mwonvuli Recluse"                             | 1        | rare     | Core Set 2021                               |
-| "Ghalta, Primal Hunger"                                 | 1        | rare     | Jumpstart                                   |
-| "Birgi, God of Storytelling // Harnfel, Horn of Bounty" | 1        | rare     | Kaldheim                                    |
-| "Mr. Orfeo, the Boulder"                                | 1        | uncommon | Streets of New Capenna                      |
-| "Syr Carah, the Bold"                                   | 1        | uncommon | Throne of Eldraine                          |
-| "Zahid, Djinn of the Lamp"                              | 1        | rare     | Dominaria                                   |
-| "Satsuki, the Living Lore"                              | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| "Kaima, the Fractured Calm"                             | 1        | mythic   | Neon Dynasty Commander                      |
-| "Atsushi, the Blazing Sky"                              | 1        | mythic   | Kamigawa: Neon Dynasty                      |
-| "Hinata, Dawn-Crowned"                                  | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Kessig Naturalist // Lord of the Ulvenwald              | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Twinblade Assassins                                     | 1        | uncommon | Core Set 2021                               |
-| Experimental Overload                                   | 1        | uncommon | Core Set 2021                               |
-| Invigorating Hot Spring                                 | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Eiganjo Uprising                                        | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Lightning Helix                                         | 1        | rare     | Strixhaven Mystical Archive                 |
-| Dawnhart Wardens                                        | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Quandrix Pledgemage                                     | 1        | common   | Strixhaven: School of Mages                 |
-| Quandrix Command                                        | 1        | rare     | Strixhaven: School of Mages                 |
-| Tainted Indulgence                                      | 1        | uncommon | Streets of New Capenna                      |
-| Glamorous Outlaw                                        | 1        | common   | Streets of New Capenna                      |
-| Spara's Adjudicators                                    | 1        | common   | Streets of New Capenna                      |
-| Body Dropper                                            | 1        | common   | Streets of New Capenna                      |
-| Jetmir's Fixer                                          | 1        | common   | Streets of New Capenna                      |
-| Shattered Seraph                                        | 1        | common   | Streets of New Capenna                      |
-| Riveteers Charm                                         | 1        | uncommon | Streets of New Capenna                      |
-| Syndicate Infiltrator                                   | 1        | uncommon | Streets of New Capenna                      |
-| Dihada's Ploy                                           | 1        | common   | Modern Horizons 2                           |
-| Terminal Agony                                          | 1        | common   | Modern Horizons 2                           |
-| Prophetic Titan                                         | 1        | uncommon | Modern Horizons 2                           |
-| Rakdos Headliner                                        | 1        | uncommon | Modern Horizons 2                           |
-| Foundry Helix                                           | 1        | common   | Modern Horizons 2                           |
-| Glamorous Outlaw                                        | 1        | common   | Streets of New Capenna                      |
-| Goblin Anarchomancer                                    | 1        | common   | Modern Horizons 2                           |
-| Graceful Restoration                                    | 1        | uncommon | Modern Horizons 2                           |
-| Wavesifter                                              | 1        | common   | Modern Horizons 2                           |
-| Lazotep Chancellor                                      | 1        | uncommon | Modern Horizons 2                           |
-| Snooping Newsie                                         | 1        | common   | Streets of New Capenna                      |
-| Invasion of the Giants                                  | 1        | uncommon | Kaldheim                                    |
-| Inspiring Veteran                                       | 1        | uncommon | Throne of Eldraine                          |
-| Fire // Ice                                             | 1        | rare     | Modern Horizons 2                           |
-| Drey Keeper                                             | 1        | common   | Modern Horizons 2                           |
-| Goblin Anarchomancer                                    | 1        | common   | Modern Horizons 2                           |
-| Faceless One                                            | 1        | special  | Commander Legends: Battle for Baldur's Gate |
-| Go-Shintai of Shared Purpose                            | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Go-Shintai of Boundless Vigor                           | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Go-Shintai of Ancient Wars                              | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Go-Shintai of Lost Wisdom                               | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Go-Shintai of Hidden Cruelty                            | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Distant Melody                                          | 2        | common   | Premium Deck Series: Slivers                |
-| Coat of Arms                                            | 1        | rare     | Premium Deck Series: Slivers                |
-| Virulent Sliver                                         | 2        | common   | Premium Deck Series: Slivers                |
-| Sliver Overlord                                         | 1        | mythic   | Premium Deck Series: Slivers                |
-| Necrotic Sliver                                         | 1        | uncommon | Premium Deck Series: Slivers                |
-| Spined Sliver                                           | 1        | uncommon | Premium Deck Series: Slivers                |
-| Amoeboid Changeling                                     | 1        | common   | Premium Deck Series: Slivers                |
-| Brood Sliver                                            | 1        | rare     | Premium Deck Series: Slivers                |
-| Armor Sliver                                            | 1        | uncommon | Premium Deck Series: Slivers                |
-| Heartstone                                              | 1        | uncommon | Premium Deck Series: Slivers                |
-| Wild Pair                                               | 1        | rare     | Premium Deck Series: Slivers                |
-| Aphetto Dredging                                        | 1        | common   | Premium Deck Series: Slivers                |
-| Metallic Sliver                                         | 2        | common   | Premium Deck Series: Slivers                |
-| Rupture Spire                                           | 2        | common   | Premium Deck Series: Slivers                |
-| Rootbound Crag                                          | 1        | rare     | Premium Deck Series: Slivers                |
-| Ancient Ziggurat                                        | 2        | uncommon | Premium Deck Series: Slivers                |
-| Terramorphic Expanse                                    | 2        | common   | Premium Deck Series: Slivers                |
-| Vivid Grove                                             | 2        | uncommon | Premium Deck Series: Slivers                |
-| Vivid Creek                                             | 2        | uncommon | Premium Deck Series: Slivers                |
-| Forest                                                  | 5        | common   | Premium Deck Series: Slivers                |
-| Swamp                                                   | 2        | common   | Premium Deck Series: Slivers                |
-| Mountain                                                | 3        | common   | Premium Deck Series: Slivers                |
-| Plains                                                  | 2        | common   | Premium Deck Series: Slivers                |
-| Island                                                  | 2        | common   | Premium Deck Series: Slivers                |
-| Hibernation Sliver                                      | 1        | uncommon | Premium Deck Series: Slivers                |
-| Victual Sliver                                          | 1        | uncommon | Premium Deck Series: Slivers                |
-| Crystalline Sliver                                      | 1        | uncommon | Premium Deck Series: Slivers                |
-| Muscle Sliver                                           | 2        | common   | Premium Deck Series: Slivers                |
-| Gemhide Sliver                                          | 2        | common   | Premium Deck Series: Slivers                |
-| Acidic Sliver                                           | 1        | uncommon | Premium Deck Series: Slivers                |
-| Might Sliver                                            | 1        | uncommon | Premium Deck Series: Slivers                |
-| Fungus Sliver                                           | 1        | rare     | Premium Deck Series: Slivers                |
-| Quick Sliver                                            | 1        | common   | Premium Deck Series: Slivers                |
-| Clot Sliver                                             | 1        | common   | Premium Deck Series: Slivers                |
-| Frenzy Sliver                                           | 1        | common   | Premium Deck Series: Slivers                |
-| Spectral Sliver                                         | 2        | uncommon | Premium Deck Series: Slivers                |
-| Homing Sliver                                           | 1        | common   | Premium Deck Series: Slivers                |
-| Barbed Sliver                                           | 1        | uncommon | Premium Deck Series: Slivers                |
-| Fury Sliver                                             | 1        | uncommon | Premium Deck Series: Slivers                |
-| Heart Sliver                                            | 1        | common   | Premium Deck Series: Slivers                |
-| Winged Sliver                                           | 1        | common   | Premium Deck Series: Slivers                |
-| Decanter of Endless Water                               | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| "Oji, the Exquisite Blade"                              | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Duke Ulder Ravengard                                    | 1        | rare     | Commander Legends: Battle for Baldur's Gate |
-| Raised by Giants                                        | 1        | rare     | Commander Legends: Battle for Baldur's Gate |
-| Scion of Halaster                                       | 2        | common   | Commander Legends: Battle for Baldur's Gate |
-| "Sivriss, Nightmare Speaker"                            | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| "Lozhan, Dragons' Legacy"                               | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Fraying Line                                            | 1        | rare     | Commander Legends: Battle for Baldur's Gate |
-| Decanter of Endless Water                               | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Universal Solvent                                       | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Ghost Lantern // Bind Spirit                            | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Llanowar Elves                                          | 3        | common   | Seventh Edition                             |
-| Llanowar Elves                                          | 1        | common   | Magic 2010                                  |
-| Llanowar Elves                                          | 1        | common   | Magic 2011                                  |
-| Twinblade Slasher                                       | 2        | uncommon | Eventide                                    |
-| Scattershot Archer                                      | 2        | common   | Conflux                                     |
-| Elvish Berserker                                        | 1        | common   | Tenth Edition                               |
-| Jaspera Sentinel                                        | 5        | common   | Kaldheim                                    |
-| Fyndhorn Elves                                          | 1        | common   | Commander Legends                           |
-| Elvish Pioneer                                          | 1        | common   | Eighth Edition                              |
-| Treetop Scout                                           | 1        | common   | Scourge                                     |
-| Elvish Lyrist                                           | 1        | uncommon | Eighth Edition                              |
-| Arbor Elf                                               | 1        | common   | Worldwake                                   |
-| Norwood Ranger                                          | 2        | common   | Ninth Edition                               |
-| Nettle Sentinel                                         | 1        | common   | Eventide                                    |
-| Wild Nacatl                                             | 1        | common   | Shards of Alara                             |
-| Portcullis Vine                                         | 2        | common   | Core Set 2021                               |
-| Snarling Wolf                                           | 2        | common   | Innistrad: Midnight Hunt                    |
-| Renowned Weaver                                         | 1        | common   | Journey into Nyx                            |
-| Scythe Tiger                                            | 1        | common   | Zendikar                                    |
-| Avacyn's Pilgrim                                        | 1        | common   | Innistrad                                   |
-| River Boa                                               | 4        | uncommon | Zendikar                                    |
-| Nissa's Chosen                                          | 1        | common   | Zendikar                                    |
-| Guardian Gladewalker                                    | 5        | common   | Kaldheim                                    |
-| Jukai Trainee                                           | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Masked Vandal                                           | 5        | common   | Kaldheim                                    |
-| Viridian Emissary                                       | 1        | common   | Mirrodin Besieged                           |
-| Voracious Wurm                                          | 2        | uncommon | Magic 2014                                  |
-| Sculptor of Winter                                      | 4        | common   | Kaldheim                                    |
-| Reckless Amplimancer                                    | 2        | common   | Strixhaven: School of Mages                 |
-| Kappa Tech-Wrecker                                      | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Kappa Tech-Wrecker                                      | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Orochi Merge-Keeper                                     | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Boreal Centaur                                          | 1        | common   | Coldsnap                                    |
-| Ambush Viper                                            | 2        | common   | Commander Legends                           |
-| Quirion Dryad                                           | 1        | uncommon | Core Set 2021                               |
-| Coiling Stalker                                         | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Drowsing Tyrannodon                                     | 1        | common   | Core Set 2021                               |
-| Vine Trellis                                            | 1        | common   | Eighth Edition                              |
-| Pestilent Wolf                                          | 1        | common   | Innistrad: Midnight Hunt                    |
-| Quilled Wolf                                            | 2        | common   | Shadows over Innistrad                      |
-| Kami of Transience                                      | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Harvesttide Sentry                                      | 1        | common   | Innistrad: Midnight Hunt                    |
-| Snarespinner                                            | 1        | common   | Core Set 2021                               |
-| Dawnhart Disciple                                       | 1        | common   | Innistrad: Crimson Vow                      |
-| Kalonian Tusker                                         | 1        | uncommon | Magic 2014                                  |
-| Grappler Spider                                         | 3        | common   | Worldwake                                   |
-| Drover of the Mighty                                    | 1        | uncommon | Jumpstart                                   |
-| Nacatl Savage                                           | 1        | common   | Conflux                                     |
-| Runeclaw Bear                                           | 1        | common   | Magic 2010                                  |
-| Overgrown Battlement                                    | 1        | common   | Rise of the Eldrazi                         |
-| Rushwood Dryad                                          | 1        | common   | Tenth Edition                               |
-| Nightshade Peddler                                      | 1        | common   | Avacyn Restored                             |
-| Rot Shambler                                            | 1        | uncommon | Battle for Zendikar                         |
-| Deadly Recluse                                          | 1        | common   | Magic 2010                                  |
-| Apprentice Sharpshooter                                 | 1        | common   | Innistrad: Crimson Vow                      |
-| Heir of the Ancient Fang                                | 5        | common   | Kamigawa: Neon Dynasty                      |
-| Wood Elves                                              | 1        | common   | Seventh Edition                             |
-| Wood Elves                                              | 1        | common   | Eighth Edition                              |
-| Boreal Outrider                                         | 3        | uncommon | Kaldheim                                    |
-| Kazandu Mammoth // Kazandu Valley                       | 1        | rare     | Zendikar Rising                             |
-| Icehide Troll                                           | 8        | common   | Kaldheim                                    |
-| Gnottvold Recluse                                       | 6        | common   | Kaldheim                                    |
-| Horizon Seeker                                          | 3        | common   | Kaldheim                                    |
-| Old-Growth Troll                                        | 2        | rare     | Kaldheim                                    |
-| Matca Rioters                                           | 2        | common   | Conflux                                     |
-| Pridemalkin                                             | 2        | common   | Core Set 2021                               |
-| Tilling Treefolk                                        | 4        | common   | Eventide                                    |
-| Sacellum Archers                                        | 3        | uncommon | Conflux                                     |
-| Sacellum Archers                                        | 1        | uncommon | Conflux                                     |
-| Llanowar Sentinel                                       | 1        | common   | Tenth Edition                               |
-| Centaur Courser                                         | 1        | common   | Magic 2010                                  |
-| Centaur Courser                                         | 1        | common   | Magic 2010                                  |
-| Orazca Frillback                                        | 1        | common   | Jumpstart                                   |
-| Dawnhart Mentor                                         | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Dawnhart Mentor                                         | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Lys Alana Bowmaster                                     | 2        | common   | Commander Legends                           |
-| Elvish Champion                                         | 1        | rare     | Eighth Edition                              |
-| Gloomwidow                                              | 1        | uncommon | Shadows over Innistrad                      |
-| Gloomwidow                                              | 1        | uncommon | Avacyn Restored                             |
-| Sporecap Spider                                         | 2        | common   | Rise of the Eldrazi                         |
-| Aura Gnarlid                                            | 2        | common   | Rise of the Eldrazi                         |
-| Pincher Beetles                                         | 1        | common   | Tenth Edition                               |
-| Hyrax Tower Scout                                       | 1        | common   | Theros Beyond Death                         |
-| Loathsome Chimera                                       | 1        | common   | Theros Beyond Death                         |
-| Realmwalker                                             | 1        | rare     | Kaldheim                                    |
-| Bird Admirer // Wing Shredder                           | 1        | common   | Innistrad: Midnight Hunt                    |
-| Eccentric Farmer                                        | 1        | common   | Innistrad: Midnight Hunt                    |
-| Honor Troll                                             | 1        | uncommon | Strixhaven: School of Mages                 |
-| Bounding Wolf                                           | 1        | common   | Innistrad: Midnight Hunt                    |
-| Spined Karok                                            | 1        | common   | Strixhaven: School of Mages                 |
-| Thrashing Brontodon                                     | 1        | uncommon | Core Set 2021                               |
-| Daggerback Basilisk                                     | 1        | common   | Rise of the Eldrazi                         |
-| Borderland Ranger                                       | 1        | common   | Magic 2010                                  |
-| Ember Weaver                                            | 1        | common   | Conflux                                     |
-| Leatherback Baloth                                      | 1        | uncommon | Worldwake                                   |
-| Splinterfright                                          | 1        | rare     | Innistrad                                   |
-| Brindle Boar                                            | 1        | common   | Magic 2014                                  |
-| Rootwalla                                               | 1        | common   | Tenth Edition                               |
-| Giant Badger                                            | 1        | common   | Eighth Edition                              |
-| Karplusan Strider                                       | 1        | uncommon | Coldsnap                                    |
-| Karplusan Strider                                       | 1        | uncommon | Tenth Edition                               |
-| Geothermal Kami                                         | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Wickerbough Elder                                       | 3        | common   | Eventide                                    |
-| Kozilek's Predator                                      | 2        | common   | Rise of the Eldrazi                         |
-| Timbermaw Larva                                         | 3        | common   | Zendikar                                    |
-| Elderleaf Mentor                                        | 6        | common   | Kaldheim                                    |
-| Broodhunter Wurm                                        | 2        | common   | Battle for Zendikar                         |
-| Spirit of the Aldergard                                 | 3        | uncommon | Kaldheim                                    |
-| Giant Mantis                                            | 1        | common   | Battle for Zendikar                         |
-| Sarulf's Packmate                                       | 6        | common   | Kaldheim                                    |
-| Mold Shambler                                           | 2        | common   | Zendikar                                    |
-| Joraga Bard                                             | 3        | common   | Zendikar                                    |
-| Graypelt Hunter                                         | 1        | common   | Worldwake                                   |
-| Mist Leopard                                            | 1        | common   | Magic 2010                                  |
-| Giant Spider                                            | 2        | common   | Magic 2010                                  |
-| Giant Spider                                            | 1        | common   | Magic 2011                                  |
-| Hookhand Mariner // Riphook Raider                      | 1        | common   | Innistrad: Crimson Vow                      |
-| Hookhand Mariner // Riphook Raider                      | 1        | common   | Innistrad: Crimson Vow                      |
-| Ravenous Leucrocota                                     | 1        | common   | Journey into Nyx                            |
-| Rumbling Baloth                                         | 1        | common   | Magic 2014                                  |
-| Sabertooth Mauler                                       | 2        | common   | Core Set 2021                               |
-| Cudgel Troll                                            | 1        | uncommon | Magic 2010                                  |
-| Littjara Glade-Warden                                   | 1        | uncommon | Kaldheim                                    |
-| Elder Druid                                             | 1        | rare     | Seventh Edition                             |
-| Ondu Giant                                              | 2        | common   | Rise of the Eldrazi                         |
-| Nantuko Disciple                                        | 1        | common   | Eighth Edition                              |
-| Wildheart Invoker                                       | 1        | common   | Commander Legends                           |
-| Master Symmetrist                                       | 1        | uncommon | Strixhaven: School of Mages                 |
-| Canopy Baloth                                           | 1        | common   | Zendikar Rising                             |
-| Summit Apes                                             | 1        | uncommon | Worldwake                                   |
-| Emerald Oryx                                            | 1        | common   | Magic 2010                                  |
-| Prized Unicorn                                          | 1        | uncommon | Magic 2010                                  |
-| Professor of Zoomancy                                   | 1        | common   | Strixhaven: School of Mages                 |
-| Briarhorn                                               | 1        | uncommon | Duel Decks: Nissa vs. Ob Nixilis            |
-| Armorcraft Judge                                        | 1        | uncommon | Commander Legends                           |
-| Ornery Dilophosaur                                      | 1        | common   | Core Set 2021                               |
-| Dawnhart Rejuvenator                                    | 1        | common   | Innistrad: Midnight Hunt                    |
-| Krosan Drover                                           | 1        | common   | Scourge                                     |
-| Wildheart Invoker                                       | 1        | common   | Rise of the Eldrazi                         |
-| Grizzled Outrider                                       | 4        | common   | Kaldheim                                    |
-| Rootless Yew                                            | 2        | uncommon | Kaldheim                                    |
-| Uktabi Wildcats                                         | 3        | rare     | Seventh Edition                             |
-| Sentinel Spider                                         | 4        | common   | Commander Legends                           |
-| Candlelit Cavalry                                       | 1        | common   | Innistrad: Midnight Hunt                    |
-| Spined Wurm                                             | 1        | common   | Ninth Edition                               |
-| Spined Wurm                                             | 1        | common   | Magic 2011                                  |
-| Beacon Behemoth                                         | 2        | common   | Conflux                                     |
-| Aerie Ouphes                                            | 2        | common   | Eventide                                    |
-| Molder Beast                                            | 1        | common   | Commander Legends                           |
-| Entourage of Trest                                      | 1        | common   | Commander Legends                           |
-| Pride of Lions                                          | 1        | uncommon | Seventh Edition                             |
-| Turntimber Ranger                                       | 1        | rare     | Zendikar                                    |
-| Garruk's Packleader                                     | 1        | uncommon | Magic 2011                                  |
-| Karok Wrangler                                          | 1        | uncommon | Strixhaven: School of Mages                 |
-| Tireless Hauler // Dire-Strain Brawler                  | 1        | common   | Innistrad: Midnight Hunt                    |
-| Marshdrinker Giant                                      | 2        | uncommon | Eventide                                    |
-| Pheres-Band Thunderhoof                                 | 1        | common   | Journey into Nyx                            |
-| Nema Siltlurker                                         | 1        | common   | Rise of the Eldrazi                         |
-| Thornhide Wolves                                        | 1        | common   | Shadows over Innistrad                      |
-| Zendikar Farguide                                       | 1        | common   | Zendikar                                    |
-| Stampeding Rhino                                        | 1        | common   | Magic 2010                                  |
-| Colossal Dreadmaw                                       | 1        | common   | Core Set 2021                               |
-| Soul of the Harvest                                     | 1        | rare     | Welcome Deck 2016                           |
-| Tovolar's Huntmaster // Tovolar's Packleader            | 1        | rare     | Innistrad: Midnight Hunt                    |
-| Fin-Clade Fugitives                                     | 1        | common   | Commander Legends                           |
-| Tangle Spider                                           | 1        | uncommon | Tenth Edition                               |
-| Vastwood Gorger                                         | 3        | common   | Zendikar                                    |
-| Craw Wurm                                               | 1        | common   | Ninth Edition                               |
-| Craw Wurm                                               | 1        | common   | Magic 2010                                  |
-| Woodcloaker                                             | 2        | common   | Scourge                                     |
-| Ravenous Lindwurm                                       | 5        | common   | Kaldheim                                    |
-| Annoyed Altisaur                                        | 2        | common   | Commander Legends                           |
-| Thorn Elemental                                         | 1        | rare     | Seventh Edition                             |
-| Walker of the Grove                                     | 1        | uncommon | Duel Decks: Nissa vs. Ob Nixilis            |
-| Sifter Wurm                                             | 1        | uncommon | Commander Legends                           |
-| Wirewood Guardian                                       | 2        | common   | Scourge                                     |
-| Pelakka Wurm                                            | 2        | uncommon | Rise of the Eldrazi                         |
-| Enormous Baloth                                         | 1        | uncommon | Ninth Edition                               |
-| Enormous Baloth                                         | 1        | uncommon | Magic 2010                                  |
-| Bamboo Grove Archer                                     | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Bearer of Memory                                        | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Jukai Preserver                                         | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Fang of Shigeki                                         | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Fang of Shigeki                                         | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Greater Tanuki                                          | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Weaver of Harmony                                       | 2        | rare     | Kamigawa: Neon Dynasty                      |
-| Weaver of Harmony                                       | 1        | rare     | Kamigawa: Neon Dynasty Promos               |
-| Heir of the Ancient Fang                                | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Jukai Trainee                                           | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Nyxborn Colossus                                        | 1        | common   | Theros Beyond Death                         |
-| Humbler of Mortals                                      | 1        | common   | Journey into Nyx                            |
-| Spirespine                                              | 1        | uncommon | Journey into Nyx                            |
-| Boseiju Reaches Skyward // Branch of Boseiju            | 3        | uncommon | Kamigawa: Neon Dynasty                      |
-| Azusa's Many Journeys // Likeness of the Seeker         | 6        | uncommon | Kamigawa: Neon Dynasty                      |
-| Jugan Defends the Temple // Remnant of the Rising Star  | 1        | mythic   | Kamigawa: Neon Dynasty                      |
-| Teachings of the Kirin // Kirin-Touched Orochi          | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Tales of Master Seshiro // Seshiro's Living Legacy      | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Sanctum of Fruitful Harvest                             | 1        | uncommon | Core Set 2021                               |
-| Path to the World Tree                                  | 1        | uncommon | Kaldheim                                    |
-| Roaring Earth                                           | 3        | uncommon | Kamigawa: Neon Dynasty                      |
-| In Search of Greatness                                  | 1        | rare     | Kaldheim                                    |
-| Font of Fertility                                       | 1        | common   | Journey into Nyx                            |
-| Omen of the Hunt                                        | 1        | common   | Theros Beyond Death                         |
-| Garruk's Uprising                                       | 1        | uncommon | Core Set 2021                               |
-| Grafted Growth                                          | 7        | common   | Kamigawa: Neon Dynasty                      |
-| Setessan Training                                       | 2        | common   | Core Set 2021                               |
-| Careful Cultivation                                     | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Trollhide                                               | 3        | common   | Magic 2014                                  |
-| Historian's Wisdom                                      | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Favor of Jukai                                          | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Howl of the Hunt                                        | 1        | common   | Innistrad: Midnight Hunt                    |
-| Glittering Frost                                        | 6        | common   | Kaldheim                                    |
-| Harmonious Emergence                                    | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Blanchwood Armor                                        | 2        | uncommon | Seventh Edition                             |
-| Blanchwood Armor                                        | 1        | uncommon | Ninth Edition                               |
-| Oakenform                                               | 1        | common   | Magic 2010                                  |
-| Oakenform                                               | 1        | common   | Welcome Deck 2016                           |
-| Savage Silhouette                                       | 2        | common   | Zendikar                                    |
-| Arachnoform                                             | 6        | common   | Kaldheim                                    |
-| Rune of Might                                           | 2        | uncommon | Kaldheim                                    |
-| Vastwood Zendikon                                       | 1        | common   | Worldwake                                   |
-| Spider Umbra                                            | 1        | common   | Rise of the Eldrazi                         |
-| Snake Umbra                                             | 1        | common   | Rise of the Eldrazi                         |
-| Gigantiform                                             | 1        | rare     | Zendikar                                    |
-| Canopy Cover                                            | 1        | uncommon | Worldwake                                   |
-| Dryad's Favor                                           | 1        | common   | Magic 2011                                  |
-| Gift of Paradise                                        | 1        | common   | Commander Legends                           |
-| Riveteers Decoy                                         | 1        | uncommon | Streets of New Capenna                      |
-| Attended Socialite                                      | 1        | common   | Streets of New Capenna                      |
-| Warm Welcome                                            | 1        | common   | Streets of New Capenna                      |
-| Caravan Vigil                                           | 1        | common   | Innistrad                                   |
-| Commune with Spirits                                    | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Commune with Dinosaurs                                  | 1        | common   | Jumpstart                                   |
-| Blizzard Brawl                                          | 4        | uncommon | Kaldheim                                    |
-| Reclaim the Wastes                                      | 1        | common   | Zendikar Rising                             |
-| Ancient Stirrings                                       | 1        | common   | Rise of the Eldrazi                         |
-| Irresistible Prey                                       | 2        | uncommon | Rise of the Eldrazi                         |
-| Channel                                                 | 1        | mythic   | Strixhaven Mystical Archive                 |
-| Devouring Tendrils                                      | 1        | uncommon | Strixhaven: School of Mages                 |
-| Roots of Wisdom                                         | 4        | common   | Kaldheim                                    |
-| Roots of Wisdom                                         | 1        | common   | Kaldheim                                    |
-| Rabid Bite                                              | 2        | common   | Zendikar Rising                             |
-| Rabid Bite                                              | 1        | common   | Shadows over Innistrad                      |
-| Rampant Growth                                          | 1        | common   | Ninth Edition                               |
-| Rampant Growth                                          | 2        | common   | Magic 2010                                  |
-| Monstrous Growth                                        | 2        | common   | Seventh Edition                             |
-| Adventure Awaits                                        | 1        | common   | Zendikar Rising                             |
-| Track Down                                              | 1        | common   | Core Set 2021                               |
-| Tapping at the Window                                   | 1        | common   | Innistrad: Midnight Hunt                    |
-| Cultivate                                               | 1        | uncommon | Strixhaven Mystical Archive                 |
-| King Harald's Revenge                                   | 5        | common   | Kaldheim                                    |
-| Scale the Heights                                       | 3        | common   | Zendikar Rising                             |
-| Cultivate                                               | 2        | uncommon | Core Set 2021                               |
-| Grow from the Ashes                                     | 1        | common   | Dominaria                                   |
-| Basic Conjuration                                       | 1        | rare     | Strixhaven: School of Mages                 |
-| Savage Stomp                                            | 1        | uncommon | Jumpstart                                   |
-| Field Trip                                              | 1        | common   | Strixhaven: School of Mages                 |
-| Struggle for Skemfar                                    | 6        | common   | Kaldheim                                    |
-| Feral Contest                                           | 4        | common   | Worldwake                                   |
-| Monstrify                                               | 2        | common   | Eventide                                    |
-| Blessing of Frost                                       | 1        | rare     | Kaldheim                                    |
-| Break Asunder                                           | 1        | common   | Scourge                                     |
-| Hunt the Weak                                           | 1        | common   | Magic 2014                                  |
-| Phosphorescent Feast                                    | 1        | uncommon | Eventide                                    |
-| Invoke the Ancients                                     | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Spider Spawning                                         | 1        | uncommon | Innistrad                                   |
-| Overrun                                                 | 1        | uncommon | Magic 2010                                  |
-| Strength of the Pack                                    | 1        | uncommon | Commander Legends                           |
-| Rise of the Ants                                        | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Howl of the Night Pack                                  | 1        | uncommon | Magic 2010                                  |
-| Howl of the Night Pack                                  | 1        | uncommon | Magic 2014                                  |
-| Skullwinder                                             | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Spinning Wheel Kick                                     | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Snakeskin Veil                                          | 4        | common   | Kaldheim                                    |
-| Might of Alara                                          | 2        | common   | Conflux                                     |
-| Charge Through                                          | 2        | common   | Strixhaven: School of Mages                 |
-| Giant Growth                                            | 1        | common   | Seventh Edition                             |
-| Giant Growth                                            | 4        | common   | Magic 2010                                  |
-| Tamiyo's Safekeeping                                    | 6        | common   | Kamigawa: Neon Dynasty                      |
-| Vastwood Fortification // Vastwood Thicket              | 1        | uncommon | Zendikar Rising                             |
-| Nature's Panoply                                        | 2        | common   | Journey into Nyx                            |
-| Groundswell                                             | 2        | common   | Worldwake                                   |
-| Leaf Arrow                                              | 2        | common   | Rise of the Eldrazi                         |
-| Ranger's Guile                                          | 1        | common   | Core Set 2021                               |
-| Warriors' Lesson                                        | 1        | uncommon | Theros                                      |
-| Fog                                                     | 1        | common   | Seventh Edition                             |
-| Withstand Death                                         | 1        | common   | Scars of Mirrodin                           |
-| Wing Puncture                                           | 1        | common   | Scars of Mirrodin                           |
-| Might of the Masses                                     | 1        | common   | Rise of the Eldrazi                         |
-| Run Afoul                                               | 1        | common   | Core Set 2021                               |
-| Return to Nature                                        | 1        | common   | Innistrad: Midnight Hunt                    |
-| Return to Nature                                        | 2        | common   | Core Set 2021                               |
-| Master's Rebuke                                         | 5        | common   | Kamigawa: Neon Dynasty                      |
-| Boon of Boseiju                                         | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Naturalize                                              | 1        | common   | Ninth Edition                               |
-| Naturalize                                              | 3        | common   | Magic 2010                                  |
-| Naturalize                                              | 1        | common   | Shards of Alara                             |
-| Tanglesap                                               | 3        | common   | Zendikar                                    |
-| Aim High                                                | 1        | common   | Shadows over Innistrad                      |
-| Ram Through                                             | 1        | common   | Ikoria: Lair of Behemoths                   |
-| Tangletrap                                              | 1        | common   | Strixhaven: School of Mages                 |
-| Duel for Dominance                                      | 2        | common   | Innistrad: Midnight Hunt                    |
-| Plummet                                                 | 1        | common   | Magic 2011                                  |
-| Plummet                                                 | 1        | common   | Battle for Zendikar                         |
-| Might of the Old Ways                                   | 1        | common   | Innistrad: Midnight Hunt                    |
-| Ancient Animus                                          | 1        | common   | Commander Legends                           |
-| Resounding Roar                                         | 1        | common   | Shards of Alara                             |
-| Aggressive Urge                                         | 1        | common   | Tenth Edition                               |
-| Titanic Growth                                          | 1        | common   | Core Set 2021                               |
-| Broken Wings                                            | 5        | common   | Streets of New Capenna                      |
-| Mammoth Growth                                          | 6        | common   | Kaldheim                                    |
-| Harrow                                                  | 2        | common   | Zendikar                                    |
-| Crushing Vines                                          | 2        | common   | Commander Legends                           |
-| Crushing Vines                                          | 1        | common   | Commander Legends                           |
-| Season of Renewal                                       | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Fully Grown                                             | 1        | common   | Ikoria: Lair of Behemoths                   |
-| Spidery Grasp                                           | 1        | common   | Innistrad                                   |
-| Crushing Canopy                                         | 1        | common   | Jumpstart                                   |
-| Pulse of Murasa                                         | 1        | common   | Oath of the Gatewatch                       |
-| Hunter's Insight                                        | 1        | uncommon | Commander Legends                           |
-| Living Destiny                                          | 2        | common   | Rise of the Eldrazi                         |
-| Natural Reclamation                                     | 2        | common   | Commander Legends                           |
-| Sylvan Bounty                                           | 2        | common   | Conflux                                     |
-| March of Burgeoning Life                                | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Bannerhide Krushok                                      | 1        | common   | Modern Horizons 2                           |
-| Funnel-Web Recluse                                      | 1        | common   | Modern Horizons 2                           |
-| Scurry Oak                                              | 2        | uncommon | Modern Horizons 2                           |
-| Rift Sower                                              | 1        | common   | Modern Horizons 2                           |
-| Duskshell Crawler                                       | 1        | common   | Modern Horizons 2                           |
-| Abundant Harvest                                        | 1        | common   | Modern Horizons 2                           |
-| Strength of Solidarity                                  | 1        | common   | Zendikar Rising                             |
-| Urban Daggertooth                                       | 1        | common   | Modern Horizons 2                           |
-| Deepwood Denizen                                        | 1        | common   | Modern Horizons 2                           |
-| Outmuscle                                               | 1        | common   | Throne of Eldraine                          |
-| Garenbrig Squire                                        | 1        | common   | Throne of Eldraine                          |
-| Sporecap Spider                                         | 1        | common   | Throne of Eldraine                          |
-| Tall as a Beanstalk                                     | 1        | common   | Throne of Eldraine                          |
-| Tuinvale Treefolk // Oaken Boon                         | 1        | common   | Throne of Eldraine                          |
-| Rosethorn Acolyte // Seasonal Ritual                    | 1        | common   | Throne of Eldraine                          |
-| Wildborn Preserver                                      | 1        | rare     | Throne of Eldraine                          |
-| Crack Open                                              | 2        | common   | Modern Horizons 2                           |
-| Jewel-Eyed Cobra                                        | 1        | common   | Modern Horizons 2                           |
-| Broken Wings                                            | 1        | common   | Kaldheim                                    |
-| Carefree Swinemaster                                    | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Owlbear Shepherd                                        | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Cloakwood Swarmkeeper                                   | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Colossal Badger // Dig Deep                             | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| "Viconia, Drow Apostate"                                | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Dungeon Delver                                          | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Duke Ulder Ravengard                                    | 2        | rare     | Commander Legends: Battle for Baldur's Gate |
-| "Jon Irenicus, Shattered One"                           | 1        | rare     | Commander Legends: Battle for Baldur's Gate |
-| "Oji, the Exquisite Blade"                              | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Moss Diamond                                            | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| "Ganax, Astral Hunter"                                  | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Fearless Pup                                            | 7        | common   | Kaldheim                                    |
-| Impulsive Pilferer                                      | 2        | common   | Commander Legends                           |
-| Hall Monitor                                            | 1        | uncommon | Strixhaven: School of Mages                 |
-| Akoum Hellhound                                         | 1        | common   | Zendikar Rising                             |
-| Grim Lavamancer                                         | 1        | rare     | Double Masters                              |
-| Frenzied Goblin                                         | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Vault Robber                                            | 7        | common   | Kaldheim                                    |
-| Frenzied Raider                                         | 2        | uncommon | Kaldheim                                    |
-| Immersturm Raider                                       | 5        | common   | Kaldheim                                    |
-| Goblin Trailblazer                                      | 3        | common   | Commander Legends                           |
-| Goblin Trailblazer                                      | 1        | common   | Commander Legends                           |
-| Axgard Cavalry                                          | 7        | common   | Kaldheim                                    |
-| Akki Ronin                                              | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Akki Ronin                                              | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Akki Ronin                                              | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Upriser Renegade                                        | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Upriser Renegade                                        | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Blood Petal Celebrant                                   | 1        | common   | Innistrad: Crimson Vow                      |
-| Falkenrath Perforator                                   | 1        | common   | Innistrad: Midnight Hunt                    |
-| Fearless Liberator                                      | 2        | uncommon | Kaldheim                                    |
-| Sokenzan Smelter                                        | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Sparkmage Apprentice                                    | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Careless Celebrant                                      | 1        | uncommon | Theros Beyond Death                         |
-| Thermo-Alchemist                                        | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Humble Defector                                         | 1        | uncommon | Commander 2021                              |
-| Champion of the Flame                                   | 1        | common   | Commander Legends                           |
-| Lambholt Harrier                                        | 1        | common   | Innistrad: Midnight Hunt                    |
-| Ashmouth Hound                                          | 1        | common   | Jumpstart                                   |
-| Festival Crasher                                        | 1        | common   | Innistrad: Midnight Hunt                    |
-| Blood Age General                                       | 1        | common   | Strixhaven: School of Mages                 |
-| Breakneck Berserker                                     | 5        | common   | Kaldheim                                    |
-| Scrap Welder                                            | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Scrap Welder                                            | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Peerless Samurai                                        | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Peerless Samurai                                        | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Tuskeri Firewalker                                      | 7        | common   | Kaldheim                                    |
-| Spelleater Wolverine                                    | 1        | common   | Ikoria: Lair of Behemoths                   |
-| Bloodrock Cyclops                                       | 1        | common   | Jumpstart                                   |
-| Hellraiser Goblin                                       | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Hell's Thunder                                          | 1        | rare     | Duel Decks: Speed vs. Cunning               |
-| Goblin Warchief                                         | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Harvesttide Infiltrator // Harvesttide Assailant        | 1        | common   | Innistrad: Midnight Hunt                    |
-| Stampede Rider                                          | 1        | common   | Theros Beyond Death                         |
-| Onakke Ogre                                             | 1        | common   | Core Set 2021                               |
-| Tome Shredder                                           | 1        | common   | Strixhaven: School of Mages                 |
-| Riot Devils                                             | 1        | common   | Innistrad                                   |
-| Molten Ravager                                          | 1        | common   | Jumpstart                                   |
-| Craven Hulk                                             | 6        | common   | Kaldheim                                    |
-| Basalt Ravager                                          | 3        | uncommon | Kaldheim                                    |
-| Spitfire Lagac                                          | 1        | common   | Zendikar Rising                             |
-| Cinder Elemental                                        | 1        | uncommon | Jumpstart                                   |
-| Calamity Bearer                                         | 2        | rare     | Kaldheim                                    |
-| Beetleback Chief                                        | 2        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Famished Foragers                                       | 2        | common   | Innistrad: Midnight Hunt                    |
-| Turret Ogre                                             | 2        | common   | Core Set 2021                               |
-| Ardent Elementalist                                     | 2        | common   | Innistrad: Midnight Hunt                    |
-| Pillardrop Warden                                       | 2        | common   | Strixhaven: School of Mages                 |
-| Kinetic Augur                                           | 1        | uncommon | Core Set 2021                               |
-| Brazen Freebooter                                       | 1        | common   | Commander Legends                           |
-| Mardu Heart-Piercer                                     | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Skophos Maze-Warden                                     | 1        | uncommon | Theros Beyond Death                         |
-| Ogre Battledriver                                       | 1        | rare     | Duel Decks: Speed vs. Cunning               |
-| Crimson Fleet Commodore                                 | 1        | common   | Commander Legends                           |
-| Thundering Raiju                                        | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Fuming Effigy                                           | 1        | common   | Strixhaven: School of Mages                 |
-| Fathom Fleet Swordjack                                  | 1        | uncommon | Commander Legends                           |
-| Kami of Industry                                        | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Hagi Mob                                                | 6        | common   | Kaldheim                                    |
-| Stirring Bard                                           | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Quakebringer                                            | 1        | mythic   | Kaldheim                                    |
-| Ardent Dustspeaker                                      | 1        | uncommon | Strixhaven: School of Mages                 |
-| Dragon-Style Twins                                      | 1        | rare     | Khans of Tarkir                             |
-| Purifying Dragon                                        | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Seismic Elemental                                       | 1        | uncommon | Jumpstart                                   |
-| Scourge Devil                                           | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Ripscale Predator                                       | 3        | common   | Commander Legends                           |
-| Boarding Party                                          | 1        | common   | Commander Legends                           |
-| Boarding Party                                          | 1        | common   | Commander Legends                           |
-| Bone Pit Brute                                          | 1        | common   | Core Set 2021                               |
-| Aurora Phoenix                                          | 1        | rare     | Commander Legends                           |
-| Oni of Wild Places                                      | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Doomskar Titan                                          | 1        | uncommon | Kaldheim                                    |
-| Cinderheart Giant                                       | 5        | common   | Kaldheim                                    |
-| Pugnacious Pugilist                                     | 1        | uncommon | Streets of New Capenna                      |
-| Wrecking Crew                                           | 1        | common   | Streets of New Capenna                      |
-| Oread of Mountain's Blaze                               | 1        | common   | Theros Beyond Death                         |
-| Akki Ember-Keeper                                       | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Frost Bite                                              | 6        | common   | Kaldheim                                    |
-| Shock                                                   | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Voltage Surge                                           | 4        | common   | Kamigawa: Neon Dynasty                      |
-| March of Reckless Joy                                   | 2        | rare     | Kamigawa: Neon Dynasty                      |
-| Raze the Effigy                                         | 2        | common   | Innistrad: Midnight Hunt                    |
-| Kindled Fury                                            | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Flame Discharge                                         | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Play with Fire                                          | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Academic Dispute                                        | 1        | uncommon | Strixhaven: School of Mages                 |
-| Tibalt's Trickery                                       | 2        | rare     | Kaldheim                                    |
-| Cathartic Pyre                                          | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Run Amok                                                | 6        | common   | Kaldheim                                    |
-| Kami's Flare                                            | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Thrill of Possibility                                   | 1        | common   | Theros Beyond Death                         |
-| Thrill of Possibility                                   | 2        | common   | Core Set 2021                               |
-| Volcanic Geyser                                         | 2        | uncommon | Core Set 2021                               |
-| Sudden Breakthrough                                     | 1        | common   | Strixhaven: School of Mages                 |
-| Unleash Fury                                            | 1        | uncommon | Core Set 2021                               |
-| Magma Jet                                               | 1        | uncommon | Jumpstart                                   |
-| "Livaan, Cultist of Tiamat"                             | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Abrade                                                  | 1        | common   | Innistrad: Crimson Vow                      |
-| Dual Strike                                             | 2        | uncommon | Kaldheim                                    |
-| First Day of Class                                      | 1        | common   | Strixhaven: School of Mages                 |
-| Magmaquake                                              | 1        | rare     | Jumpstart                                   |
-| Fire Prophecy                                           | 1        | common   | Ikoria: Lair of Behemoths                   |
-| Cinderclasm                                             | 1        | uncommon | Zendikar Rising                             |
-| Sure Strike                                             | 1        | common   | Core Set 2021                               |
-| Ambitious Assault                                       | 7        | common   | Kamigawa: Neon Dynasty                      |
-| Seismic Wave                                            | 3        | uncommon | Kamigawa: Neon Dynasty                      |
-| Seismic Wave                                            | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Open the Omenpaths                                      | 5        | common   | Kaldheim                                    |
-| Welding Sparks                                          | 1        | common   | Commander Legends                           |
-| Demon Bolt                                              | 5        | common   | Commander Legends: Battle for Baldur's Gate |
-| Soul's Fire                                             | 2        | common   | Commander Legends                           |
-| Moonrager's Slash                                       | 1        | common   | Innistrad: Midnight Hunt                    |
-| Neonate's Rush                                          | 1        | common   | Innistrad: Midnight Hunt                    |
-| Burn Bright                                             | 1        | common   | Core Set 2021                               |
-| Electric Revelation                                     | 1        | common   | Innistrad: Midnight Hunt                    |
-| Orcish Cannonade                                        | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Final Flare                                             | 1        | common   | Theros Beyond Death                         |
-| Heated Debate                                           | 1        | common   | Strixhaven: School of Mages                 |
-| Volcanic Fallout                                        | 1        | uncommon | Jumpstart                                   |
-| Fiery Cannonade                                         | 1        | common   | Commander Legends                           |
-| Inferno Trap                                            | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Goblin Wizardry                                         | 1        | common   | Core Set 2021                               |
-| Burn the Accursed                                       | 1        | common   | Innistrad: Midnight Hunt                    |
-| Provoke the Trolls                                      | 3        | uncommon | Kaldheim                                    |
-| Smashing Success                                        | 5        | common   | Kaldheim                                    |
-| Nemesis Phoenix                                         | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Patron of the Arts                                      | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Skophos Reaver                                          | 6        | common   | Modern Horizons 2                           |
-| Flametongue Yearling                                    | 1        | uncommon | Modern Horizons 2                           |
-| Harmonic Prodigy                                        | 1        | rare     | Modern Horizons 2                           |
-| Synchronized Spellcraft                                 | 1        | common   | Zendikar Rising                             |
-| Fiery Fall                                              | 2        | common   | Duel Decks: Speed vs. Cunning               |
-| Renegade Tactics                                        | 2        | common   | Commander Legends                           |
-| End the Festivities                                     | 1        | common   | Innistrad: Crimson Vow                      |
-| Banefire                                                | 1        | rare     | Duel Decks: Speed vs. Cunning               |
-| Reckless Abandon                                        | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Spitting Earth                                          | 1        | common   | Jumpstart                                   |
-| Arc Trail                                               | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Krenko's Command                                        | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Abandon the Post                                        | 1        | common   | Innistrad: Midnight Hunt                    |
-| Tormenting Voice                                        | 1        | common   | Zendikar Rising                             |
-| Explosive Entry                                         | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Shackles of Treachery                                   | 4        | common   | Kaldheim                                    |
-| Seize the Spoils                                        | 6        | common   | Kaldheim                                    |
-| Act of Treason                                          | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Tundra Fumarole                                         | 2        | rare     | Kaldheim                                    |
-| Crush the Weak                                          | 2        | uncommon | Kaldheim                                    |
-| Dragon's Approach                                       | 1        | common   | Strixhaven: School of Mages                 |
-| Traitorous Blood                                        | 1        | common   | Innistrad                                   |
-| Pack's Betrayal                                         | 1        | common   | Innistrad: Midnight Hunt                    |
-| Mascot Interception                                     | 1        | uncommon | Strixhaven: School of Mages                 |
-| Portent of Betrayal                                     | 1        | common   | Commander Legends                           |
-| Turn to Slag                                            | 3        | common   | Core Set 2021                               |
-| Seize the Storm                                         | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Lacerate Flesh                                          | 1        | common   | Innistrad: Crimson Vow                      |
-| Explosion of Riches                                     | 1        | uncommon | Commander Legends                           |
-| Fury of the Horde                                       | 1        | rare     | Duel Decks: Speed vs. Cunning               |
-| Light 'Em Up                                            | 1        | common   | Streets of New Capenna                      |
-| Dwarven Reinforcements                                  | 5        | common   | Kaldheim                                    |
-| Dragon Mantle                                           | 2        | common   | Commander Legends                           |
-| Akki War Paint                                          | 6        | common   | Kamigawa: Neon Dynasty                      |
-| Kumano Faces Kakkazan // Etching of Kumano              | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Kumano Faces Kakkazan // Etching of Kumano              | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Furor of the Bitten                                     | 1        | common   | Core Set 2021                               |
-| Omen of the Forge                                       | 1        | common   | Theros Beyond Death                         |
-| Goblin Bombardment                                      | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Rune of Speed                                           | 1        | uncommon | Kaldheim                                    |
-| Crackling Emergence                                     | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Undying Rage                                            | 1        | common   | Commander Legends                           |
-| Gift of Wrath                                           | 3        | common   | Kamigawa: Neon Dynasty                      |
-| The Shattered States Era // Nameless Conqueror          | 6        | common   | Kamigawa: Neon Dynasty                      |
-| Sticky Fingers                                          | 2        | common   | Streets of New Capenna                      |
-| Scorching Dragonfire                                    | 1        | common   | Throne of Eldraine                          |
-| Barge In                                                | 1        | common   | Throne of Eldraine                          |
-| Ferocity of the Wilds                                   | 1        | uncommon | Throne of Eldraine                          |
-| Thrill of Possibility                                   | 1        | common   | Throne of Eldraine                          |
-| Mount Velus Manticore                                   | 1        | common   | Modern Horizons 2                           |
-| Battle Plan                                             | 1        | common   | Modern Horizons 2                           |
-| Riveteers Requisitioner                                 | 1        | uncommon | Streets of New Capenna                      |
-| Warehouse Thief                                         | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Explosive Entry                                         | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Fire Giant's Fury                                       | 1        | uncommon | Kaldheim                                    |
-| Rob the Archives                                        | 1        | uncommon | Streets of New Capenna                      |
-| Flame Rift                                              | 1        | uncommon | Modern Horizons 2                           |
-| Glimpse of Tomorrow                                     | 1        | rare     | Modern Horizons 2                           |
-| Mine Collapse                                           | 1        | common   | Modern Horizons 2                           |
-| Faithless Salvaging                                     | 1        | common   | Modern Horizons 2                           |
-| Tavern Scoundrel                                        | 1        | common   | Modern Horizons 2                           |
-| Highland Berserker                                      | 1        | common   | Zendikar                                    |
-| Unholy Heat                                             | 1        | common   | Modern Horizons 2                           |
-| Revolutionist                                           | 1        | common   | Modern Horizons 2                           |
-| Sprouting Thrinax                                       | 1        | rare     | Wizards Play Network 2008                   |
-| Clan Crafter                                            | 1        | mythic   | Commander Legends: Battle for Baldur's Gate |
-| Memory Plunder                                          | 1        | rare     | Commander Legends: Battle for Baldur's Gate |
-| Invade the City                                         | 1        | uncommon | War of the Spark                            |
-| Havengul Lich                                           | 1        | mythic   | Commander 2017                              |
-| Sundial of the Infinite                                 | 1        | rare     | Magic 2012                                  |
-| Peel from Reality                                       | 1        | common   | Avacyn Restored                             |
-| Fading Hope                                             | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Rescue                                                  | 1        | common   | Dominaria                                   |
-| Larder Zombie                                           | 1        | common   | Innistrad: Midnight Hunt                    |
-| Wingcrafter                                             | 1        | common   | Avacyn Restored                             |
-| Phantasmal Bear                                         | 4        | common   | Magic 2012                                  |
-| Kraken Hatchling                                        | 2        | common   | Zendikar                                    |
-| Faerie Impostor                                         | 2        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Grixis Illusionist                                      | 1        | common   | Conflux                                     |
-| Brinebarrow Intruder                                    | 8        | common   | Kaldheim                                    |
-| Eidolon of Philosophy                                   | 1        | common   | Theros Beyond Death                         |
-| Delver of Secrets // Insectile Aberration               | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Wall of Runes                                           | 1        | common   | Core Set 2021                               |
-| Karfell Harbinger                                       | 7        | common   | Kaldheim                                    |
-| Maritime Guard                                          | 4        | common   | Magic 2011                                  |
-| Merfolk Looter                                          | 2        | common   | Tenth Edition                               |
-| Merfolk Looter                                          | 1        | uncommon | Forgotten Realms Commander                  |
-| Merfolk Looter                                          | 1        | common   | Magic 2010                                  |
-| Alchemist's Apprentice                                  | 3        | common   | Avacyn Restored                             |
-| Coral Eel                                               | 2        | common   | Ninth Edition                               |
-| Covetous Castaway // Ghostly Castigator                 | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Baithook Angler // Hook-Haunt Drifter                   | 1        | common   | Innistrad: Midnight Hunt                    |
-| Umara Entangler                                         | 1        | common   | Oath of the Gatewatch                       |
-| Deranged Assistant                                      | 2        | common   | Commander Legends                           |
-| Jhessian Lookout                                        | 1        | common   | Shards of Alara                             |
-| Fathom Seer                                             | 2        | common   | Duel Decks: Speed vs. Cunning               |
-| Shipwreck Sifters                                       | 1        | common   | Innistrad: Midnight Hunt                    |
-| Sigiled Starfish                                        | 1        | common   | Journey into Nyx                            |
-| Vortex Runner                                           | 1        | common   | Strixhaven: School of Mages                 |
-| Coral Trickster                                         | 2        | common   | Duel Decks: Speed vs. Cunning               |
-| Oculus                                                  | 3        | common   | Mirrodin Besieged                           |
-| Willbender                                              | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Omenspeaker                                             | 1        | common   | Theros                                      |
-| Jeskai Elder                                            | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Threnody Singer                                         | 1        | uncommon | Theros Beyond Death                         |
-| Thrummingbird                                           | 2        | uncommon | Scars of Mirrodin                           |
-| Keen Glidemaster                                        | 1        | common   | Core Set 2021                               |
-| Coralhelm Guide                                         | 1        | common   | Battle for Zendikar                         |
-| Halimar Excavator                                       | 1        | common   | Worldwake                                   |
-| Augury Owl                                              | 3        | common   | Planechase Anthology                        |
-| Welkin Tern                                             | 1        | common   | Global Series Jiang Yanggu & Mu Yanling     |
-| Sejiri Merfolk                                          | 1        | uncommon | Worldwake                                   |
-| Thousand Winds                                          | 1        | rare     | Duel Decks: Speed vs. Cunning               |
-| Neurok Commando                                         | 4        | uncommon | Mirrodin Besieged                           |
-| Neurok Invisimancer                                     | 1        | common   | Scars of Mirrodin                           |
-| Sea Gate Oracle                                         | 2        | common   | Rise of the Eldrazi                         |
-| Backstreet Bruiser                                      | 1        | common   | Streets of New Capenna                      |
-| Enclave Elite                                           | 1        | common   | Worldwake                                   |
-| Jwari Scuttler                                          | 3        | common   | Rise of the Eldrazi                         |
-| Aether Adept                                            | 2        | common   | Magic 2011                                  |
-| Aether Adept                                            | 3        | common   | Magic 2012                                  |
-| Frontline Sage                                          | 5        | common   | Conflux                                     |
-| Cloud Elemental                                         | 2        | common   | Magic 2011                                  |
-| Fettergeist                                             | 2        | uncommon | Avacyn Restored                             |
-| Ancient Crab                                            | 2        | common   | Oath of the Gatewatch                       |
-| Echo Tracer                                             | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Lantern Spirit                                          | 2        | uncommon | Innistrad                                   |
-| Mistral Singer                                          | 1        | common   | Core Set 2021                               |
-| Kathari Screecher                                       | 1        | common   | Shards of Alara                             |
-| Niblis of Dusk                                          | 1        | common   | Shadows over Innistrad                      |
-| Wind Drake                                              | 1        | common   | Magic 2010                                  |
-| Elite Instructor                                        | 1        | common   | Theros Beyond Death                         |
-| Survivor of the Unseen                                  | 1        | common   | Coldsnap                                    |
-| Horned Turtle                                           | 1        | common   | Magic 2010                                  |
-| Calcite Snapper                                         | 1        | common   | Worldwake                                   |
-| Brackwater Elemental                                    | 1        | common   | Conflux                                     |
-| Scroll Thief                                            | 1        | common   | Magic 2011                                  |
-| Component Collector                                     | 1        | common   | Innistrad: Midnight Hunt                    |
-| Raven Guild Initiate                                    | 1        | common   | Scourge                                     |
-| Stitched Mangler                                        | 1        | common   | Shadows over Innistrad                      |
-| Vedalken Anatomist                                      | 1        | uncommon | Mirrodin Besieged                           |
-| Draugr Thought-Thief                                    | 5        | common   | Kaldheim                                    |
-| Sailor of Means                                         | 2        | common   | Commander Legends                           |
-| Frost Trickster                                         | 1        | common   | Strixhaven: School of Mages                 |
-| Skilled Animator                                        | 1        | uncommon | Commander Legends                           |
-| Mirran Spy                                              | 1        | common   | Mirrodin Besieged                           |
-| Mistwalker                                              | 5        | common   | Kaldheim                                    |
-| Wretched Throng                                         | 1        | common   | Innistrad: Crimson Vow                      |
-| Clever Conjurer                                         | 1        | common   | Adventures in the Forgotten Realms          |
-| Azure Fleet Admiral                                     | 2        | common   | Commander Legends                           |
-| Phantasmal Dragon                                       | 3        | uncommon | Magic 2012                                  |
-| Moon Heron                                              | 3        | common   | Innistrad                                   |
-| Aquamorph Entity                                        | 2        | common   | Duel Decks: Speed vs. Cunning               |
-| Water Servant                                           | 2        | uncommon | Magic 2011                                  |
-| Darkslick Drake                                         | 1        | uncommon | Scars of Mirrodin                           |
-| Tide Skimmer                                            | 1        | uncommon | Core Set 2021                               |
-| Junk Winder                                             | 1        | uncommon | Modern Horizons 2                           |
-| Fatestitcher                                            | 1        | uncommon | Shards of Alara                             |
-| Vedalken Infuser                                        | 1        | uncommon | Mirrodin Besieged                           |
-| Azure Drake                                             | 1        | common   | Magic 2011                                  |
-| Cloud Manta                                             | 1        | common   | Battle for Zendikar                         |
-| Conundrum Sphinx                                        | 1        | rare     | Magic 2011                                  |
-| Sphinx of Lost Truths                                   | 1        | rare     | Zendikar                                    |
-| Merrow Levitator                                        | 1        | common   | Eventide                                    |
-| Giant Octopus                                           | 1        | common   | Ninth Edition                               |
-| Galedrifter // Waildrifter                              | 1        | common   | Innistrad: Midnight Hunt                    |
-| Kitesail Skirmisher                                     | 1        | common   | Commander Legends                           |
-| Snapping Drake                                          | 1        | common   | Core Set 2020                               |
-| Windrider Eel                                           | 1        | common   | Zendikar                                    |
-| Cloaked Siren                                           | 2        | common   | Journey into Nyx                            |
-| Cryptoplasm                                             | 1        | rare     | Mirrodin Besieged                           |
-| Mist Raven                                              | 2        | common   | Avacyn Restored                             |
-| Tidewater Minion                                        | 3        | common   | Ravnica: City of Guilds                     |
-| Prosperous Pirates                                      | 2        | common   | Commander Legends                           |
-| Surrakar Banisher                                       | 2        | common   | Worldwake                                   |
-| Roaming Ghostlight                                      | 3        | common   | Core Set 2021                               |
-| Oceanus Dragon                                          | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Air Servant                                             | 1        | uncommon | Welcome Deck 2016                           |
-| Air Servant                                             | 2        | uncommon | Magic 2011                                  |
-| Frostpyre Arcanist                                      | 2        | uncommon | Kaldheim                                    |
-| Sky-Eel School                                          | 2        | common   | Scars of Mirrodin                           |
-| Armored Cancrix                                         | 2        | common   | Magic 2011                                  |
-| Armored Cancrix                                         | 1        | common   | Magic 2014                                  |
-| Stormrider Spirit                                       | 1        | common   | Innistrad: Midnight Hunt                    |
-| Battleground Geist                                      | 1        | uncommon | Innistrad                                   |
-| Serpent of the Endless Sea                              | 1        | common   | Magic 2010                                  |
-| Living Tempest                                          | 1        | common   | Zendikar Rising                             |
-| Living Tempest                                          | 1        | common   | Zendikar Rising                             |
-| Faerie Invaders                                         | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Sea Gate Loremaster                                     | 1        | rare     | Zendikar                                    |
-| Replication Specialist                                  | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Lone Revenant                                           | 1        | rare     | Avacyn Restored                             |
-| Whitewater Naiads                                       | 1        | uncommon | Journey into Nyx                            |
-| Skaab Goliath                                           | 2        | common   | Commander Legends                           |
-| Havengul Skaab                                          | 1        | common   | Avacyn Restored                             |
-| Godhunter Octopus                                       | 1        | common   | Journey into Nyx                            |
-| Zephyr Spirit                                           | 1        | common   | Ravnica: City of Guilds                     |
-| Shoal Serpent                                           | 1        | common   | Zendikar                                    |
-| Harbor Serpent                                          | 2        | common   | Magic 2011                                  |
-| Undersea Invader                                        | 8        | common   | Kaldheim                                    |
-| Sphinx of Uthuun                                        | 1        | rare     | Duel Decks: Speed vs. Cunning               |
-| Triton Fortune Hunter                                   | 1        | uncommon | Theros                                      |
-| Burdened Aerialist                                      | 2        | common   | Modern Horizons 2                           |
-| Scornful Egotist                                        | 1        | common   | Scourge                                     |
-| Nyxborn Triton                                          | 1        | common   | Born of the Gods                            |
-| Risen Riptide                                           | 1        | common   | Zendikar Rising                             |
-| Frostpeak Yeti                                          | 6        | common   | Kaldheim                                    |
-| Soothsayer Adept                                        | 2        | common   | Strixhaven: School of Mages                 |
-| Frost Augur                                             | 3        | uncommon | Kaldheim                                    |
-| Berg Strider                                            | 6        | common   | Kaldheim                                    |
-| Waker of Waves                                          | 1        | uncommon | Core Set 2021                               |
-| Drownyard Amalgam                                       | 1        | common   | Innistrad: Midnight Hunt                    |
-| Spined Megalodon                                        | 2        | common   | Core Set 2021                               |
-| Augury Raven                                            | 6        | common   | Kaldheim                                    |
-| Curator of Mysteries                                    | 1        | rare     | Forgotten Realms Commander                  |
-| Frost Lynx                                              | 1        | common   | Ikoria: Lair of Behemoths                   |
-| Pollywog Symbiote                                       | 1        | uncommon | Ikoria: Lair of Behemoths                   |
-| Moon-Circuit Hacker                                     | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Reservoir Kraken                                        | 1        | rare     | Streets of New Capenna                      |
-| Murder of Crows                                         | 1        | uncommon | Forgotten Realms Commander                  |
-| Littjara Kinseekers                                     | 4        | common   | Kaldheim                                    |
-| Avalanche Caller                                        | 1        | uncommon | Kaldheim                                    |
-| Ascendant Spirit                                        | 1        | rare     | Kaldheim                                    |
-| Pilfering Hawk                                          | 3        | common   | Kaldheim                                    |
-| Sewer Crocodile                                         | 1        | common   | Streets of New Capenna                      |
-| Cosmos Charger                                          | 2        | rare     | Kaldheim                                    |
-| Teferi's Protege                                        | 1        | common   | Core Set 2021                               |
-| Skyswimmer Koi                                          | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Guardians of Oboro                                      | 6        | common   | Kamigawa: Neon Dynasty                      |
-| Guardians of Oboro                                      | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Futurist Operative                                      | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Prosperous Thief                                        | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Vodalian Arcanist                                       | 1        | common   | Core Set 2021                               |
-| Body of Knowledge                                       | 1        | rare     | Commander Legends                           |
-| Narcomoeba                                              | 1        | rare     | Guilds of Ravnica                           |
-| Omnispell Adept                                         | 1        | rare     | Guilds of Ravnica                           |
-| Lunar Mystic                                            | 1        | rare     | Avacyn Restored                             |
-| Grand Architect                                         | 2        | rare     | Double Masters                              |
-| Scholar of Stars                                        | 1        | common   | Commander Legends                           |
-| Deadeye Navigator                                       | 1        | rare     | Modern Masters 2017                         |
-| Mirror Image                                            | 1        | uncommon | Core Set 2019                               |
-| Spawnbroker                                             | 1        | rare     | Ravnica: City of Guilds                     |
-| Bastion Inventor                                        | 1        | common   | Aether Revolt                               |
-| Phantasmal Dreadmaw                                     | 1        | common   | Modern Horizons 2                           |
-| Aeromoeba                                               | 1        | common   | Modern Horizons 2                           |
-| Vantress Paladin                                        | 1        | common   | Throne of Eldraine                          |
-| Sakashima's Protege                                     | 1        | rare     | Commander Legends                           |
-| Stinging Barrier                                        | 1        | common   | Mercadian Masques                           |
-| Scourge of Fleets                                       | 1        | rare     | Journey into Nyx                            |
-| Wonder                                                  | 1        | rare     | Modern Horizons 2                           |
-| Sky Ruin Drake                                          | 1        | common   | Zendikar                                    |
-| Phantasmal Image                                        | 1        | rare     | Forgotten Realms Commander                  |
-| Library Larcenist                                       | 1        | common   | Core Set 2021                               |
-| Wishcoin Crab                                           | 1        | common   | Core Set 2021                               |
-| Foul Watcher                                            | 1        | common   | Modern Horizons 2                           |
-| Faerie Swarm                                            | 1        | uncommon | Shadowmoor                                  |
-| Aqueous Form                                            | 4        | common   | Commander Legends                           |
-| Bind the Monster                                        | 6        | common   | Kaldheim                                    |
-| Bind the Monster                                        | 2        | common   | Kaldheim                                    |
-| Curiosity                                               | 1        | uncommon | Innistrad                                   |
-| Controlled Instincts                                    | 1        | uncommon | Conflux                                     |
-| Psionic Gift                                            | 1        | common   | Odyssey                                     |
-| Locked in the Cemetery                                  | 1        | common   | Innistrad: Midnight Hunt                    |
-| Rune of Flight                                          | 1        | uncommon | Kaldheim                                    |
-| Eel Umbra                                               | 1        | common   | Rise of the Eldrazi                         |
-| Spreading Seas                                          | 1        | common   | Zendikar                                    |
-| Narcolepsy                                              | 2        | common   | Jumpstart                                   |
-| Mists of Littjara                                       | 6        | common   | Kaldheim                                    |
-| Pin to the Earth                                        | 1        | common   | Journey into Nyx                            |
-| Spectral Flight                                         | 1        | common   | Innistrad                                   |
-| Short Circuit                                           | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Rousing Read                                            | 1        | common   | Core Set 2021                               |
-| Fall from Favor                                         | 1        | common   | Commander Legends                           |
-| Claustrophobia                                          | 1        | common   | Magic 2014                                  |
-| So Shiny                                                | 1        | common   | Modern Horizons 2                           |
-| Paralyzing Grasp                                        | 2        | common   | Zendikar                                    |
-| Ocular Halo                                             | 2        | common   | Dissension                                  |
-| Capture Sphere                                          | 2        | common   | Core Set 2021                               |
-| Sleep Paralysis                                         | 2        | common   | Shadows over Innistrad                      |
-| Tamiyo's Compleation                                    | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Mind Control                                            | 4        | uncommon | Magic 2012                                  |
-| Mind Control                                            | 2        | uncommon | Magic 2011                                  |
-| Mind Control                                            | 1        | uncommon | Magic 2010                                  |
-| Confiscate                                              | 1        | uncommon | Commander Legends                           |
-| Awakened Awareness                                      | 3        | uncommon | Kamigawa: Neon Dynasty                      |
-| Escape Protocol                                         | 1        | uncommon | Ikoria: Lair of Behemoths                   |
-| Jace's Erasure                                          | 1        | common   | Magic 2011                                  |
-| Riddleform                                              | 1        | uncommon | Core Set 2021                               |
-| Ior Ruin Expedition                                     | 1        | common   | Commander Legends                           |
-| Font of Fortunes                                        | 2        | common   | Journey into Nyx                            |
-| Halcyon Glaze                                           | 1        | uncommon | Ravnica: City of Guilds                     |
-| Dictate of Kruphix                                      | 1        | rare     | Journey into Nyx                            |
-| Mirrormade                                              | 2        | rare     | Throne of Eldraine                          |
-| Sphinx's Tutelage                                       | 1        | uncommon | Magic Origins                               |
-| Mana Breach                                             | 1        | uncommon | Exodus                                      |
-| Propaganda                                              | 1        | uncommon | Forgotten Realms Commander                  |
-| Ominous Roost                                           | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Thopter Spy Network                                     | 1        | rare     | Magic Origins                               |
-| Ice Cave                                                | 1        | rare     | Apocalypse                                  |
-| Metallurgic Summonings                                  | 1        | mythic   | Kaladesh                                    |
-| Swarm Intelligence                                      | 1        | rare     | Commander 2021                              |
-| Cast Through Time                                       | 1        | mythic   | Rise of the Eldrazi                         |
-| The Modern Age // Vector Glider                         | 2        | common   | Kamigawa: Neon Dynasty                      |
-| The Mirari Conjecture                                   | 1        | rare     | Dominaria                                   |
-| Behold the Unspeakable // Vision of the Unspeakable     | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Inventive Iteration // Living Breakthrough              | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Twisted Image                                           | 1        | uncommon | Scars of Mirrodin                           |
-| Rookie Mistake                                          | 1        | common   | Core Set 2021                               |
-| Chain to Memory                                         | 1        | common   | Theros Beyond Death                         |
-| Shell Shield                                            | 1        | common   | Zendikar Rising                             |
-| Fleeting Distraction                                    | 1        | common   | Rise of the Eldrazi                         |
-| Leap                                                    | 1        | common   | Stronghold                                  |
-| Sapphire Charm                                          | 1        | common   | Mirage                                      |
-| Dream's Grip                                            | 1        | common   | Mirrodin                                    |
-| Mind Games                                              | 1        | common   | Stronghold                                  |
-| Mind Bend                                               | 1        | rare     | Tenth Edition                               |
-| Thermal Flux                                            | 4        | common   | Coldsnap                                    |
-| Dive Down                                               | 1        | common   | Ixalan                                      |
-| Triton Tactics                                          | 1        | uncommon | Theros                                      |
-| Crippling Chill                                         | 2        | common   | Avacyn Restored                             |
-| Chill of the Grave                                      | 1        | common   | Innistrad: Crimson Vow                      |
-| Frost Breath                                            | 1        | common   | Core Set 2021                               |
-| Frost Breath                                            | 4        | common   | Magic 2012                                  |
-| Cancel                                                  | 1        | common   | Core Set 2021                               |
-| Thirst for Meaning                                      | 1        | common   | Theros Beyond Death                         |
-| Catalog                                                 | 1        | common   | Shadows over Innistrad                      |
-| Hour of Need                                            | 1        | uncommon | Journey into Nyx                            |
-| Spell Contortion                                        | 1        | uncommon | Worldwake                                   |
-| Lazotep Plating                                         | 1        | uncommon | War of the Spark                            |
-| True Polymorph                                          | 1        | rare     | Adventures in the Forgotten Realms          |
-| Sweep Away                                              | 1        | common   | Oath of the Gatewatch                       |
-| Surging Aether                                          | 1        | common   | Coldsnap                                    |
-| Rain of Revelation                                      | 2        | uncommon | Core Set 2021                               |
-| Revenge of the Drowned                                  | 1        | common   | Innistrad: Midnight Hunt                    |
-| Fact or Fiction                                         | 1        | uncommon | Modern Horizons                             |
-| Lethargy Trap                                           | 1        | common   | Zendikar                                    |
-| Frantic Search                                          | 1        | common   | Commander 2020                              |
-| Traumatic Visions                                       | 2        | common   | Duel Decks: Speed vs. Cunning               |
-| Run Away Together                                       | 1        | common   | Commander Legends                           |
-| Run Away Together                                       | 1        | common   | Throne of Eldraine                          |
-| Siren's Ruse                                            | 1        | common   | Ixalan                                      |
-| Deny Existence                                          | 1        | common   | Shadows over Innistrad                      |
-| Into the Roil                                           | 1        | common   | Zendikar                                    |
-| Mental Journey                                          | 1        | common   | Modern Horizons 2                           |
-| Lost in the Mist                                        | 2        | common   | Innistrad                                   |
-| Disruption Protocol                                     | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Saw It Coming                                           | 1        | uncommon | Kaldheim                                    |
-| Alter Reality                                           | 1        | rare     | Torment                                     |
-| Said // Done                                            | 1        | uncommon | Modern Horizons 2                           |
-| Disdainful Stroke                                       | 7        | common   | Kaldheim                                    |
-| Contact Other Plane                                     | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Snap                                                    | 1        | common   | Duel Decks: Mind vs. Might                  |
-| Cackling Counterpart                                    | 1        | rare     | Innistrad                                   |
-| Depths of Desire                                        | 1        | common   | Ixalan                                      |
-| Twitch                                                  | 1        | common   | Worldwake                                   |
-| Repeal                                                  | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Blink of an Eye                                         | 1        | common   | Dominaria                                   |
-| Graven Lore                                             | 1        | rare     | Kaldheim                                    |
-| Opt                                                     | 1        | common   | Core Set 2021                               |
-| Opt                                                     | 1        | uncommon | Strixhaven Mystical Archive                 |
-| Mana Leak                                               | 4        | common   | Magic 2012                                  |
-| Mana Leak                                               | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Negate                                                  | 2        | common   | Zendikar Rising                             |
-| Negate                                                  | 3        | common   | Magic 2012                                  |
-| Negate                                                  | 3        | common   | Magic 2011                                  |
-| Run Ashore                                              | 5        | common   | Kaldheim                                    |
-| Galestrike                                              | 4        | common   | Commander Legends                           |
-| Mystic Reflection                                       | 2        | rare     | Kaldheim                                    |
-| Otherworldly Gaze                                       | 2        | common   | Innistrad: Midnight Hunt                    |
-| Precognitive Perception                                 | 1        | rare     | Ravnica Allegiance                          |
-| Fleeting Distraction                                    | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Unsummon                                                | 2        | common   | Magic 2012                                  |
-| Essence Scatter                                         | 1        | common   | Magic 2014                                  |
-| Essence Scatter                                         | 2        | common   | Magic 2010                                  |
-| Annul                                                   | 1        | common   | Mirrodin                                    |
-| Annul                                                   | 5        | common   | Kaldheim                                    |
-| Constricting Tendrils                                   | 4        | common   | Conflux                                     |
-| Enervate                                                | 1        | common   | Ice Age                                     |
-| Lost in a Labyrinth                                     | 1        | common   | Theros                                      |
-| Disperse                                                | 1        | common   | Core Set 2019                               |
-| Arcane Subtraction                                      | 2        | common   | Strixhaven: School of Mages                 |
-| Depart the Realm                                        | 7        | common   | Kaldheim                                    |
-| Behold the Multiverse                                   | 3        | common   | Kaldheim                                    |
-| Flashfreeze                                             | 1        | uncommon | Magic 2011                                  |
-| Flashfreeze                                             | 2        | uncommon | Magic 2012                                  |
-| Spell Pierce                                            | 1        | common   | Zendikar                                    |
-| Spell Pierce                                            | 5        | common   | Kamigawa: Neon Dynasty                      |
-| Hubris                                                  | 2        | common   | Journey into Nyx                            |
-| Suit Up                                                 | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Lofty Denial                                            | 3        | common   | Core Set 2021                               |
-| Thirst for Knowledge                                    | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Into the Story                                          | 2        | uncommon | Throne of Eldraine                          |
-| Test of Talents                                         | 1        | uncommon | Strixhaven: School of Mages                 |
-| Reject                                                  | 1        | common   | Strixhaven: School of Mages                 |
-| Unified Will                                            | 1        | uncommon | Rise of the Eldrazi                         |
-| Whiplash Trap                                           | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| View from Above                                         | 1        | uncommon | Conflux                                     |
-| Aetherspouts                                            | 1        | rare     | Midnight Hunt Commander                     |
-| Worldly Counsel                                         | 1        | common   | Conflux                                     |
-| Anticipate                                              | 1        | common   | Battle for Zendikar                         |
-| Secrets of the Key                                      | 1        | common   | Innistrad: Midnight Hunt                    |
-| Impulse                                                 | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Forbidden Alchemy                                       | 1        | uncommon | Forgotten Realms Commander                  |
-| Curate                                                  | 1        | common   | Strixhaven: School of Mages                 |
-| Aura Finesse                                            | 1        | common   | Rise of the Eldrazi                         |
-| Glacial Grasp                                           | 1        | common   | Zendikar Rising                             |
-| Gigadrowse                                              | 1        | common   | Guildpact                                   |
-| Refocus                                                 | 1        | common   | Fate Reforged                               |
-| Glint                                                   | 1        | common   | Dragons of Tarkir                           |
-| Crypsis                                                 | 1        | common   | Born of the Gods                            |
-| Jace's Scrutiny                                         | 1        | common   | Shadows over Innistrad                      |
-| Hydrosurge                                              | 1        | common   | Magic 2015                                  |
-| Mizzium Skin                                            | 1        | common   | Return to Ravnica                           |
-| Aerial Formation                                        | 1        | common   | Journey into Nyx                            |
-| Chilling Trap                                           | 1        | common   | Zendikar Rising                             |
-| Reality Heist                                           | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Prying Eyes                                             | 1        | common   | Commander Legends                           |
-| Out of the Way                                          | 1        | uncommon | Streets of New Capenna                      |
-| March of Swirling Mist                                  | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Saheeli's Artistry                                      | 1        | rare     | Kaladesh Promos                             |
-| Distortion Strike                                       | 1        | uncommon | Iconic Masters                              |
-| Shifting Loyalties                                      | 1        | uncommon | Fate Reforged                               |
-| Mystic Speculation                                      | 2        | uncommon | Future Sight                                |
-| Shrewd Negotiation                                      | 2        | uncommon | Kaladesh                                    |
-| Quasiduplicate                                          | 1        | rare     | Guilds of Ravnica                           |
-| Mercurial Transformation                                | 1        | uncommon | Strixhaven: School of Mages                 |
-| Mind Spring                                             | 1        | rare     | Commander 2020                              |
-| Flood of Tears                                          | 1        | rare     | Core Set 2020                               |
-| Interpret the Signs                                     | 1        | uncommon | Journey into Nyx                            |
-| Rooftop Nuisance                                        | 1        | common   | Streets of New Capenna                      |
-| Preordain                                               | 4        | common   | Magic 2011                                  |
-| Preordain                                               | 1        | common   | Commander Legends                           |
-| Into the Void                                           | 2        | uncommon | Avacyn Restored                             |
-| Glimpse the Cosmos                                      | 2        | uncommon | Kaldheim                                    |
-| Strategic Planning                                      | 6        | common   | Kaldheim                                    |
-| Foresee                                                 | 2        | common   | Time Spiral Remastered                      |
-| Vivisection                                             | 3        | common   | Mirrodin Besieged                           |
-| Vivisection                                             | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Ravenform                                               | 7        | common   | Kaldheim                                    |
-| Political Trickery                                      | 1        | rare     | Mirage                                      |
-| Undo                                                    | 1        | common   | Visions                                     |
-| Sleep                                                   | 1        | uncommon | Magic 2010                                  |
-| Sleep                                                   | 3        | uncommon | Magic 2011                                  |
-| Arcane Endeavor                                         | 1        | rare     | Forgotten Realms Commander                  |
-| Invoke the Winds                                        | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Talrand's Invocation                                    | 1        | uncommon | Jumpstart                                   |
-| Ugin's Insight                                          | 1        | rare     | Battle for Zendikar                         |
-| Pore Over the Pages                                     | 1        | uncommon | Shadows over Innistrad                      |
-| Interpret the Signs                                     | 1        | uncommon | Commander Legends                           |
-| Roiling Waters                                          | 1        | uncommon | Oath of the Gatewatch                       |
-| Step Through                                            | 1        | common   | Modern Horizons 2                           |
-| Tezzeret's Gambit                                       | 1        | rare     | Strixhaven Mystical Archive                 |
-| Time Warp                                               | 1        | mythic   | Explorers of Ixalan                         |
-| Hidden Strings                                          | 1        | common   | Dragon's Maze                               |
-| Compulsive Research                                     | 1        | rare     | Strixhaven Mystical Archive                 |
-| Tempt with Reflections                                  | 1        | rare     | Commander 2013                              |
-| Serpentine Curve                                        | 1        | common   | Strixhaven: School of Mages                 |
-| Void Snare                                              | 1        | common   | Magic 2015                                  |
-| Switcheroo                                              | 1        | uncommon | Core Set 2019                               |
-| Solve the Equation                                      | 1        | uncommon | Strixhaven: School of Mages                 |
-| Fractured Sanity                                        | 1        | rare     | Modern Horizons 2                           |
-| Ghostform                                               | 1        | common   | Avacyn Restored                             |
-| Stolen Identity                                         | 1        | rare     | Gatecrash                                   |
-| Artful Dodge                                            | 1        | common   | Dark Ascension                              |
-| Maddening Cacophony                                     | 1        | rare     | Zendikar Rising                             |
-| Mass Manipulation                                       | 1        | rare     | Ravnica Allegiance                          |
-| Treasure Hunt                                           | 1        | common   | Worldwake                                   |
-| Runic Repetition                                        | 1        | uncommon | Innistrad                                   |
-| Hotshot Mechanic                                        | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Maul of the Skyclaves                                   | 1        | rare     | Zendikar Rising                             |
-| "Elspeth, Undaunted Hero"                               | 1        | mythic   | Theros Beyond Death                         |
-| Court Homunculus                                        | 5        | common   | Conflux                                     |
-| Darklit Gargoyle                                        | 2        | common   | Conflux                                     |
-| Porcelain Legionnaire                                   | 4        | common   | New Phyrexia                                |
-| Immovable Rod                                           | 1        | rare     | Forgotten Realms Commander                  |
-| Bake into a Pie                                         | 1        | common   | Throne of Eldraine                          |
-| Vanquish the Weak                                       | 1        | common   | Zendikar Rising                             |
-| Deal Gone Bad                                           | 1        | common   | Streets of New Capenna                      |
-| Dig Up the Body                                         | 1        | common   | Streets of New Capenna                      |
-| Reckoner's Bargain                                      | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Finishing Blow                                          | 3        | common   | Core Set 2021                               |
-| Flunk                                                   | 1        | uncommon | Strixhaven: School of Mages                 |
-| Tergrid's Shadow                                        | 1        | uncommon | Kaldheim                                    |
-| Assassin's Ink                                          | 3        | uncommon | Kamigawa: Neon Dynasty                      |
-| March of Wretched Sorrow                                | 3        | rare     | Kamigawa: Neon Dynasty                      |
-| You Are Already Dead                                    | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Lethal Exploit                                          | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Return to Action                                        | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Return to Action                                        | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Debt to the Kami                                        | 5        | common   | Kamigawa: Neon Dynasty                      |
-| Tendrils of Corruption                                  | 2        | common   | Magic 2010                                  |
-| Blood Pact                                              | 1        | common   | Innistrad: Midnight Hunt                    |
-| Instill Infection                                       | 2        | common   | Scars of Mirrodin                           |
-| Crushing Disappointment                                 | 1        | common   | Strixhaven: School of Mages                 |
-| Crushing Disappointment                                 | 1        | common   | Strixhaven: School of Mages                 |
-| Feed the Serpent                                        | 5        | common   | Kaldheim                                    |
-| Feed the Serpent                                        | 1        | common   | Kaldheim                                    |
-| Drag Down                                               | 2        | common   | Conflux                                     |
-| Induce Despair                                          | 2        | common   | Rise of the Eldrazi                         |
-| Krovikan Rot                                            | 2        | uncommon | Coldsnap                                    |
-| Last Kiss                                               | 3        | common   | Rise of the Eldrazi                         |
-| Dark Banishing                                          | 2        | common   | Ice Age                                     |
-| Tomb Hex                                                | 3        | common   | Worldwake                                   |
-| Heartless Act                                           | 2        | uncommon | Ikoria: Lair of Behemoths                   |
-| Murder                                                  | 4        | common   | Commander Legends                           |
-| Murder                                                  | 1        | common   | Streets of New Capenna                      |
-| Poison the Cup                                          | 2        | uncommon | Kaldheim                                    |
-| Bladebrand                                              | 1        | common   | Innistrad: Midnight Hunt                    |
-| Bladebrand                                              | 2        | common   | Commander Legends                           |
-| Eliminate                                               | 3        | uncommon | Core Set 2021                               |
-| Eliminate                                               | 1        | uncommon | Strixhaven Mystical Archive                 |
-| Pharika's Cure                                          | 2        | common   | Theros                                      |
-| Grim Harvest                                            | 3        | common   | Coldsnap                                    |
-| Demonic Gifts                                           | 5        | common   | Kaldheim                                    |
-| Corpse Churn                                            | 3        | common   | Commander Legends                           |
-| Corpse Churn                                            | 1        | common   | Ikoria: Lair of Behemoths                   |
-| Raise the Draugr                                        | 5        | common   | Kaldheim                                    |
-| Doom Blade                                              | 3        | common   | Magic 2010                                  |
-| Doom Blade                                              | 2        | common   | Magic 2011                                  |
-| Doom Blade                                              | 2        | common   | Magic 2012                                  |
-| Doom Blade                                              | 1        | uncommon | Magic 2014                                  |
-| Professor's Warning                                     | 2        | common   | Strixhaven: School of Mages                 |
-| Cling to Dust                                           | 3        | uncommon | Theros Beyond Death                         |
-| Vampire's Bite                                          | 2        | common   | Zendikar                                    |
-| Village Rites                                           | 3        | common   | Kaldheim                                    |
-| Village Rites                                           | 1        | uncommon | Strixhaven Mystical Archive                 |
-| Wring Flesh                                             | 1        | common   | Magic 2014                                  |
-| Malakir Rebirth // Malakir Mire                         | 1        | uncommon | Zendikar Rising                             |
-| Supernatural Stamina                                    | 1        | common   | Commander Legends                           |
-| Tainted Strike                                          | 1        | common   | Scars of Mirrodin                           |
-| Disfigure                                               | 1        | common   | Zendikar                                    |
-| Rotten Reunion                                          | 1        | common   | Innistrad: Midnight Hunt                    |
-| Cruel Feeding                                           | 1        | common   | Journey into Nyx                            |
-| Stabbing Pain                                           | 1        | common   | Magic 2011                                  |
-| Olivia's Midnight Ambush                                | 1        | common   | Innistrad: Midnight Hunt                    |
-| Cast Down                                               | 1        | uncommon | Commander Legends                           |
-| Feast of Dreams                                         | 1        | common   | Journey into Nyx                            |
-| Altar's Reap                                            | 1        | common   | Innistrad                                   |
-| Rise of the Dread Marn                                  | 1        | rare     | Kaldheim                                    |
-| Defenestrate                                            | 1        | common   | Innistrad: Midnight Hunt                    |
-| Reaping the Graves                                      | 1        | common   | Scourge                                     |
-| Ravenous Trap                                           | 1        | uncommon | Zendikar                                    |
-| Grave Endeavor                                          | 1        | rare     | Forgotten Realms Commander                  |
-| Hideous End                                             | 1        | common   | Zendikar                                    |
-| Unburial Rites                                          | 1        | uncommon | Forgotten Realms Commander                  |
-| Desecrated Earth                                        | 1        | common   | Zendikar                                    |
-| Liturgy of Blood                                        | 1        | common   | Magic 2014                                  |
-| Voices from the Void                                    | 1        | uncommon | Conflux                                     |
-| Edgar's Awakening                                       | 1        | uncommon | Innistrad: Crimson Vow                      |
-| Spread the Sickness                                     | 1        | common   | Mirrodin Besieged                           |
-| Mind Sludge                                             | 1        | uncommon | Zendikar                                    |
-| Corrupt                                                 | 1        | uncommon | Magic 2011                                  |
-| Deadly Tempest                                          | 1        | rare     | Commander 2020                              |
-| Blood Tribute                                           | 1        | rare     | Zendikar                                    |
-| Bad Deal                                                | 1        | uncommon | Core Set 2021                               |
-| Necromantic Selection                                   | 1        | rare     | Forgotten Realms Commander                  |
-| Soul Burn                                               | 1        | common   | Ice Age                                     |
-| Confront the Past                                       | 1        | rare     | Strixhaven: School of Mages                 |
-| Incriminate                                             | 2        | common   | Streets of New Capenna                      |
-| Extract the Truth                                       | 1        | common   | Streets of New Capenna                      |
-| Weigh Down                                              | 7        | common   | Kaldheim                                    |
-| Illicit Shipment                                        | 1        | uncommon | Streets of New Capenna                      |
-| Mind Drain                                              | 2        | common   | Zendikar Rising                             |
-| Dark Petition                                           | 1        | rare     | Magic Origins                               |
-| Bone Shards                                             | 1        | common   | Modern Horizons 2                           |
-| Okiba Salvage                                           | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Consume Spirit                                          | 1        | uncommon | Magic 2010                                  |
-| Rise Again                                              | 1        | common   | Core Set 2021                               |
-| Rise from the Grave                                     | 1        | uncommon | Magic 2010                                  |
-| Crippling Fear                                          | 2        | rare     | Kaldheim                                    |
-| March of the Returned                                   | 1        | common   | Theros                                      |
-| Blood Price                                             | 1        | common   | Zendikar Rising                             |
-| Bitter Revelation                                       | 1        | common   | Commander Legends                           |
-| Essence Harvest                                         | 2        | common   | Avacyn Restored                             |
-| Call of the Death-Dweller                               | 1        | uncommon | Ikoria: Lair of Behemoths                   |
-| Dead Reckoning                                          | 1        | common   | Worldwake                                   |
-| Hunt for Specimens                                      | 1        | common   | Strixhaven: School of Mages                 |
-| Hunt for Specimens                                      | 1        | common   | Strixhaven: School of Mages                 |
-| Essence Feed                                            | 2        | common   | Rise of the Eldrazi                         |
-| Talara's Bane                                           | 1        | common   | Eventide                                    |
-| Funeral Rites                                           | 1        | common   | Jumpstart                                   |
-| No Way Out                                              | 1        | common   | Innistrad: Midnight Hunt                    |
-| Assassinate                                             | 1        | common   | Magic 2010                                  |
-| Marsh Casualties                                        | 1        | uncommon | Zendikar                                    |
-| Foul Play                                               | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Vampire's Kiss                                          | 1        | common   | Innistrad: Crimson Vow                      |
-| Disentomb                                               | 1        | common   | Magic 2011                                  |
-| Sign in Blood                                           | 1        | common   | Magic 2010                                  |
-| Grim Discovery                                          | 1        | common   | Zendikar                                    |
-| Kaito's Pursuit                                         | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Malicious Malfunction                                   | 4        | uncommon | Kamigawa: Neon Dynasty                      |
-| Invoke Despair                                          | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Invoke Despair                                          | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Blood on the Snow                                       | 2        | rare     | Kaldheim                                    |
-| Return Upon the Tide                                    | 3        | uncommon | Kaldheim                                    |
-| Sanguine Indulgence                                     | 2        | common   | Core Set 2021                               |
-| Skull Raid                                              | 5        | common   | Kaldheim                                    |
-| Skull Raid                                              | 1        | common   | Kaldheim                                    |
-| Soul Reap                                               | 2        | common   | Eventide                                    |
-| Syphon Life                                             | 3        | uncommon | Eventide                                    |
-| Agonizing Remorse                                       | 2        | uncommon | Theros Beyond Death                         |
-| Essence Infusion                                        | 3        | common   | Strixhaven: School of Mages                 |
-| Feast of Blood                                          | 4        | uncommon | Zendikar                                    |
-| Raven's Crime                                           | 4        | common   | Eventide                                    |
-| Mire's Toll                                             | 1        | common   | Worldwake                                   |
-| Reanimate                                               | 1        | rare     | Jumpstart                                   |
-| Eaten Alive                                             | 1        | common   | Innistrad: Midnight Hunt                    |
-| Bloodchief's Thirst                                     | 1        | uncommon | Zendikar Rising                             |
-| Horrifying Revelation                                   | 1        | common   | Mirrodin Besieged                           |
-| Spark Harvest                                           | 3        | common   | Commander Legends                           |
-| Bone Splinters                                          | 3        | common   | Shards of Alara                             |
-| Bone Splinters                                          | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Duress                                                  | 1        | common   | Magic 2010                                  |
-| Duress                                                  | 2        | common   | Magic 2011                                  |
-| Duress                                                  | 3        | common   | Core Set 2021                               |
-| Duress                                                  | 1        | uncommon | Strixhaven Mystical Archive                 |
-| Cauldron's Gift                                         | 1        | uncommon | Throne of Eldraine                          |
-| Memory Theft                                            | 1        | common   | Throne of Eldraine                          |
-| Summon Undead                                           | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Cloudkill                                               | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Forever Young                                           | 1        | common   | Throne of Eldraine                          |
-| Clawing Torment                                         | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Twisted Embrace                                         | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Withercrown                                             | 6        | common   | Kaldheim                                    |
-| Rune of Mortality                                       | 3        | uncommon | Kaldheim                                    |
-| Unholy Strength                                         | 1        | common   | Magic 2010                                  |
-| Unholy Strength                                         | 3        | common   | Tenth Edition                               |
-| Yoke of the Damned                                      | 2        | common   | Conflux                                     |
-| Yoke of the Damned                                      | 1        | common   | Conflux                                     |
-| Ordeal of Erebos                                        | 2        | uncommon | Theros                                      |
-| Casting of Bones                                        | 2        | common   | Coldsnap Theme Decks                        |
-| Necromancer's Magemark                                  | 3        | common   | Guildpact                                   |
-| Necrosynthesis                                          | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Necrosynthesis                                          | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Corrupted Roots                                         | 2        | uncommon | Conflux                                     |
-| Caustic Tar                                             | 1        | uncommon | Magic 2015                                  |
-| Lithoform Blight                                        | 1        | uncommon | Zendikar Rising                             |
-| Contaminated Bond                                       | 1        | common   | Mirrodin                                    |
-| Unhallowed Pact                                         | 1        | common   | Avacyn Restored                             |
-| Artificer's Hex                                         | 1        | uncommon | Magic 2014                                  |
-| Predator's Gambit                                       | 1        | common   | Avacyn Restored                             |
-| Fear                                                    | 1        | common   | Tenth Edition                               |
-| Brink of Disaster                                       | 1        | common   | Worldwake                                   |
-| Dragon Shadow                                           | 1        | common   | Scourge                                     |
-| Blanket of Night                                        | 1        | uncommon | Visions                                     |
-| Lingering Death                                         | 1        | common   | Scourge                                     |
-| Vow of Torment                                          | 1        | uncommon | Commander Legends                           |
-| Ghoulflesh                                              | 1        | common   | Avacyn Restored                             |
-| Quag Sickness                                           | 1        | common   | Magic 2011                                  |
-| Nyx Infusion                                            | 1        | common   | Journey into Nyx                            |
-| Inevitable End                                          | 1        | uncommon | Theros Beyond Death                         |
-| Demonic Embrace                                         | 1        | rare     | Core Set 2021                               |
-| Dogged Pursuit                                          | 6        | common   | Kaldheim                                    |
-| Soul Stair Expedition                                   | 1        | common   | Zendikar                                    |
-| Demonic Rising                                          | 1        | rare     | Avacyn Restored                             |
-| Ghoulish Procession                                     | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Homicidal Seclusion                                     | 1        | uncommon | Avacyn Restored                             |
-| Revel in Riches                                         | 1        | rare     | Ixalan                                      |
-| Omen of the Dead                                        | 1        | common   | Theros Beyond Death                         |
-| Triumph of Cruelty                                      | 1        | uncommon | Avacyn Restored                             |
-| Warlock Class                                           | 1        | uncommon | Adventures in the Forgotten Realms          |
-| Tribute to Horobi // Echo of Death's Wail               | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| The Long Reach of Night // Animus of Night's Reach      | 3        | uncommon | Kamigawa: Neon Dynasty                      |
-| Life of Toshiro Umezawa // Memory of Toshiro            | 3        | uncommon | Kamigawa: Neon Dynasty                      |
-| Okiba Reckoner Raid // Nezumi Road Captain              | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Duskwielder                                             | 5        | common   | Kaldheim                                    |
-| Fume Spitter                                            | 4        | common   | Scars of Mirrodin                           |
-| Asphodel Wanderer                                       | 2        | common   | Theros                                      |
-| Thieves' Guild Enforcer                                 | 3        | rare     | Core Set 2021                               |
-| Death Cultist                                           | 2        | common   | Rise of the Eldrazi                         |
-| Acolyte of Xathrid                                      | 2        | common   | Magic 2010                                  |
-| Deathgreeter                                            | 3        | common   | Shards of Alara                             |
-| Insidious Bookworms                                     | 2        | common   | Coldsnap Theme Decks                        |
-| Merrow Bonegnawer                                       | 3        | common   | Eventide                                    |
-| Sanitarium Skeleton                                     | 1        | common   | Commander Legends                           |
-| Sanitarium Skeleton                                     | 1        | common   | Jumpstart                                   |
-| Guul Draz Vampire                                       | 3        | common   | Zendikar                                    |
-| Serrated Scorpion                                       | 1        | common   | Ikoria: Lair of Behemoths                   |
-| Vampire Lacerator                                       | 1        | common   | Zendikar                                    |
-| Kjeldoran Dead                                          | 1        | common   | Ice Age                                     |
-| Pulse Tracker                                           | 1        | common   | Worldwake                                   |
-| Viscera Seer                                            | 1        | common   | Commander Legends                           |
-| Archfiend's Vessel                                      | 1        | uncommon | Core Set 2021                               |
-| Plagued Rusalka                                         | 1        | common   | Jumpstart                                   |
-| Child of Night                                          | 4        | common   | Magic 2010                                  |
-| Bloodsky Berserker                                      | 4        | uncommon | Kaldheim                                    |
-| Bloodcrazed Hoplite                                     | 1        | common   | Journey into Nyx                            |
-| Blood Seeker                                            | 3        | common   | Zendikar                                    |
-| Ruthless Cullblade                                      | 2        | common   | Worldwake                                   |
-| Rotting Rats                                            | 1        | common   | Conflux                                     |
-| Rotting Rats                                            | 1        | common   | Conflux                                     |
-| Blister Beetle                                          | 1        | common   | Shards of Alara                             |
-| Priest of the Haunted Edge                              | 4        | common   | Kaldheim                                    |
-| Dregscape Zombie                                        | 2        | common   | Duel Decks: Speed vs. Cunning               |
-| Mesmeric Fiend                                          | 3        | common   | Torment                                     |
-| Eternal Taskmaster                                      | 1        | uncommon | Jumpstart                                   |
-| Mire Triton                                             | 1        | uncommon | Jumpstart                                   |
-| Discordant Piper                                        | 1        | common   | Theros Beyond Death                         |
-| Inkrise Infiltrator                                     | 5        | common   | Kamigawa: Neon Dynasty                      |
-| Inkrise Infiltrator                                     | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Elvish Doomsayer                                        | 1        | common   | Commander Legends                           |
-| Novice Occultist                                        | 2        | common   | Innistrad: Midnight Hunt                    |
-| Returned Reveler                                        | 1        | common   | Journey into Nyx                            |
-| Crypt Creeper                                           | 1        | common   | Avacyn Restored                             |
-| Krovikan Scoundrel                                      | 1        | common   | Coldsnap                                    |
-| Gloom Surgeon                                           | 1        | rare     | Avacyn Restored                             |
-| Corrupt Court Official                                  | 1        | common   | Streets of New Capenna                      |
-| Drudge Skeletons                                        | 1        | common   | Magic 2010                                  |
-| Vampire Interloper                                      | 1        | common   | Innistrad: Midnight Hunt                    |
-| Gatekeeper of Malakir                                   | 2        | uncommon | Zendikar                                    |
-| Ghastly Gloomhunter                                     | 1        | common   | Zendikar Rising                             |
-| Bloodthrone Vampire                                     | 1        | common   | Rise of the Eldrazi                         |
-| Baleful Eidolon                                         | 1        | common   | Theros                                      |
-| Elderfang Disciple                                      | 4        | common   | Kaldheim                                    |
-| Reassembling Skeleton                                   | 1        | uncommon | Forgotten Realms Commander                  |
-| Leech Fanatic                                           | 1        | common   | Strixhaven: School of Mages                 |
-| Skemfar Avenger                                         | 1        | rare     | Kaldheim                                    |
-| Dream Devourer                                          | 1        | rare     | Kaldheim                                    |
-| Infernal Pet                                            | 6        | common   | Kaldheim                                    |
-| Grim Draugr                                             | 5        | common   | Kaldheim                                    |
-| Koma's Faithful                                         | 4        | common   | Kaldheim                                    |
-| Phyrexian Rager                                         | 1        | common   | Tenth Edition                               |
-| Phyrexian Rager                                         | 2        | common   | Mirrodin Besieged                           |
-| Phyrexian Rager                                         | 1        | common   | Commander Legends                           |
-| Moriok Reaver                                           | 2        | common   | Scars of Mirrodin                           |
-| Mogis's Marauder                                        | 1        | uncommon | Theros                                      |
-| Promising Duskmage                                      | 3        | common   | Strixhaven: School of Mages                 |
-| Vampire Nighthawk                                       | 5        | uncommon | Zendikar                                    |
-| Sedraxis Alchemist                                      | 6        | common   | Conflux                                     |
-| Blackbloom Rogue // Blackbloom Bog                      | 2        | uncommon | Zendikar Rising                             |
-| Nighthawk Scavenger                                     | 3        | rare     | Commander Legends: Battle for Baldur's Gate |
-| Gutless Ghoul                                           | 4        | common   | Coldsnap                                    |
-| Fleshbag Marauder                                       | 2        | uncommon | Shards of Alara                             |
-| Fleshbag Marauder                                       | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Vampire Aristocrat                                      | 3        | common   | Magic 2010                                  |
-| Gloomhunter                                             | 2        | common   | Rise of the Eldrazi                         |
-| Plaguecrafter                                           | 1        | uncommon | Forgotten Realms Commander                  |
-| Looming Shade                                           | 2        | common   | Magic 2010                                  |
-| Looming Shade                                           | 1        | common   | Tenth Edition                               |
-| Doomed Necromancer                                      | 1        | rare     | Forgotten Realms Commander                  |
-| Marauding Blight-Priest                                 | 1        | common   | Zendikar Rising                             |
-| Bloodrite Invoker                                       | 1        | common   | Duel Decks: Zendikar vs. Eldrazi            |
-| Liliana's Devotee                                       | 2        | uncommon | Core Set 2021                               |
-| Liliana's Devotee                                       | 1        | uncommon | Core Set 2021                               |
-| Silversmote Ghoul                                       | 2        | uncommon | Core Set 2021                               |
-| Yuan-Ti Fang-Blade                                      | 1        | common   | Adventures in the Forgotten Realms          |
-| Dutiful Attendant                                       | 2        | common   | Jumpstart                                   |
-| Liliana's Specter                                       | 1        | common   | Magic 2011                                  |
-| Bloodflow Connoisseur                                   | 1        | common   | Avacyn Restored                             |
-| Wall of Bone                                            | 2        | uncommon | Magic 2010                                  |
-| Nighthowler                                             | 1        | rare     | Theros                                      |
-| Mindless Null                                           | 2        | common   | Zendikar                                    |
-| Arrogant Outlaw                                         | 1        | common   | Innistrad: Midnight Hunt                    |
-| Cadaver Imp                                             | 1        | common   | Jumpstart                                   |
-| Cadaver Imp                                             | 1        | common   | Rise of the Eldrazi                         |
-| Pawn of Ulamog                                          | 1        | uncommon | Rise of the Eldrazi                         |
-| Giant Scorpion                                          | 2        | common   | Zendikar                                    |
-| Guul Draz Mucklord                                      | 1        | common   | Zendikar Rising                             |
-| Nadier's Nightblade                                     | 1        | uncommon | Commander Legends                           |
-| Defiant Salvager                                        | 2        | common   | Commander Legends                           |
-| Crow of Dark Tidings                                    | 1        | common   | Jumpstart                                   |
-| Crow of Dark Tidings                                    | 1        | common   | Commander Legends                           |
-| Hypnotic Specter                                        | 1        | rare     | Magic 2010                                  |
-| Warpath Ghoul                                           | 1        | common   | Magic 2010                                  |
-| Pestilent Kathari                                       | 1        | common   | Conflux                                     |
-| Shady Traveler // Stalking Predator                     | 1        | common   | Innistrad: Midnight Hunt                    |
-| Arrogant Bloodlord                                      | 1        | uncommon | Rise of the Eldrazi                         |
-| Barony Vampire                                          | 1        | common   | Magic 2011                                  |
-| Catapult Fodder // Catapult Captain                     | 1        | uncommon | Innistrad: Crimson Vow                      |
-| Fleshformer                                             | 1        | uncommon | Conflux                                     |
-| Covert Cutpurse // Covetous Geist                       | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Caged Zombie                                            | 3        | common   | Core Set 2021                               |
-| Scavenging Harpy                                        | 1        | common   | Theros Beyond Death                         |
-| Necroskitter                                            | 1        | rare     | Modern Masters 2015                         |
-| Graveyard Trespasser // Graveyard Glutton               | 1        | rare     | Innistrad: Midnight Hunt                    |
-| Jarl of the Forsaken                                    | 6        | common   | Kaldheim                                    |
-| Highborn Vampire                                        | 1        | common   | Zendikar Rising                             |
-| Highborn Vampire                                        | 1        | common   | Zendikar Rising                             |
-| Gravedigger                                             | 1        | common   | Tenth Edition                               |
-| Gravedigger                                             | 4        | uncommon | Core Set 2020                               |
-| Viscera Dragger                                         | 3        | common   | Shards of Alara                             |
-| Skinrender                                              | 2        | uncommon | Scars of Mirrodin                           |
-| Howling Banshee                                         | 1        | uncommon | Magic 2010                                  |
-| Howling Banshee                                         | 1        | uncommon | Magic 2011                                  |
-| Infectious Horror                                       | 5        | common   | Conflux                                     |
-| Specter of the Fens                                     | 2        | common   | Strixhaven: School of Mages                 |
-| Crypt Lurker                                            | 3        | common   | Core Set 2021                               |
-| Draugr Necromancer                                      | 1        | rare     | Kaldheim                                    |
-| Disciple of Tevesh Szat                                 | 3        | common   | Coldsnap                                    |
-| Undead Executioner                                      | 2        | common   | Avacyn Restored                             |
-| Draugr Recruiter                                        | 6        | common   | Kaldheim                                    |
-| Draugr Recruiter                                        | 1        | common   | Kaldheim                                    |
-| Bone Picker                                             | 1        | uncommon | Jumpstart                                   |
-| Blightcaster                                            | 1        | uncommon | Magic 2014                                  |
-| Bog Wraith                                              | 2        | uncommon | Magic 2010                                  |
-| Nimana Sell-Sword                                       | 1        | common   | Zendikar                                    |
-| Thorn of the Black Rose                                 | 2        | common   | Commander Legends                           |
-| Hagra Crocodile                                         | 1        | common   | Zendikar                                    |
-| Heartstabber Mosquito                                   | 1        | common   | Zendikar                                    |
-| Jagwasp Swarm                                           | 1        | common   | Worldwake                                   |
-| Balduvian Dead                                          | 1        | uncommon | Coldsnap Theme Decks                        |
-| Squelching Leeches                                      | 1        | uncommon | Journey into Nyx                            |
-| Corpse Traders                                          | 1        | uncommon | Avacyn Restored                             |
-| Evernight Shade                                         | 1        | uncommon | Avacyn Restored                             |
-| Baneblade Scoundrel // Baneclaw Marauder                | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Scavenger Drake                                         | 1        | uncommon | Shards of Alara                             |
-| Cavern Lampad                                           | 1        | common   | Theros                                      |
-| Erebos's Emissary                                       | 1        | uncommon | Theros                                      |
-| Zof Shade                                               | 1        | common   | Rise of the Eldrazi                         |
-| Oriq Loremage                                           | 1        | rare     | Strixhaven: School of Mages                 |
-| Blood Glutton                                           | 3        | common   | Core Set 2021                               |
-| Null Caller                                             | 1        | uncommon | Commander Legends                           |
-| Ashen Ghoul                                             | 1        | uncommon | Coldsnap Theme Decks                        |
-| Mage Hunter                                             | 1        | uncommon | Strixhaven: School of Mages                 |
-| Vengeful Reaper                                         | 2        | uncommon | Kaldheim                                    |
-| Falkenrath Noble                                        | 1        | uncommon | Innistrad                                   |
-| Skemfar Shadowsage                                      | 1        | uncommon | Kaldheim                                    |
-| Hailstorm Valkyrie                                      | 1        | uncommon | Kaldheim                                    |
-| Zombie Goliath                                          | 4        | common   | Magic 2010                                  |
-| Zombie Goliath                                          | 1        | common   | Magic 2013                                  |
-| Karfell Kennel-Master                                   | 4        | common   | Kaldheim                                    |
-| Zombie Cutthroat                                        | 1        | common   | Scourge                                     |
-| Liliana's Steward                                       | 1        | common   | Core Set 2021                               |
-| Wedding Security                                        | 1        | uncommon | Innistrad: Crimson Vow                      |
-| Caustic Crawler                                         | 2        | uncommon | Worldwake                                   |
-| Marrow Bats                                             | 2        | uncommon | Avacyn Restored                             |
-| Gravebreaker Lamia                                      | 1        | rare     | Theros Beyond Death                         |
-| Malakir Bloodwitch                                      | 1        | rare     | Zendikar                                    |
-| Morkrut Behemoth                                        | 1        | common   | Innistrad: Midnight Hunt                    |
-| Renegade Demon                                          | 2        | common   | Avacyn Restored                             |
-| Gilt-Leaf Winnower                                      | 1        | uncommon | Commander Legends                           |
-| Briarblade Adept                                        | 1        | common   | Commander Legends                           |
-| Creakwood Ghoul                                         | 1        | uncommon | Eventide                                    |
-| Keepsake Gorgon                                         | 1        | uncommon | Theros                                      |
-| Nightwing Shade                                         | 1        | common   | Magic 2011                                  |
-| Dreadbringer Lampads                                    | 1        | common   | Journey into Nyx                            |
-| Gristle Grinner                                         | 1        | uncommon | Jumpstart                                   |
-| Nefashu                                                 | 2        | rare     | Scourge                                     |
-| Void Maw                                                | 1        | rare     | Coldsnap                                    |
-| Dread Rider                                             | 5        | common   | Kaldheim                                    |
-| Maalfeld Twins                                          | 3        | common   | Commander Legends                           |
-| Caustic Hound                                           | 1        | common   | Mirrodin Besieged                           |
-| Loathsome Catoblepas                                    | 1        | common   | Theros                                      |
-| Tithebearer Giant                                       | 1        | common   | Jumpstart                                   |
-| Nightmare                                               | 1        | rare     | Magic 2010                                  |
-| Carnifex Demon                                          | 1        | rare     | Scars of Mirrodin                           |
-| Minotaur Abomination                                    | 1        | common   | Magic 2014                                  |
-| Tar Fiend                                               | 1        | rare     | Shards of Alara                             |
-| Twisted Abomination                                     | 1        | common   | Scourge                                     |
-| Corrupted Harvester                                     | 1        | uncommon | Scars of Mirrodin                           |
-| Goremand                                                | 1        | uncommon | Core Set 2021                               |
-| Extractor Demon                                         | 1        | rare     | Conflux                                     |
-| Umbra Stalker                                           | 1        | rare     | Eventide                                    |
-| Miasmic Mummy                                           | 1        | common   | Jumpstart                                   |
-| Nightshade Harvester                                    | 1        | rare     | Commander Legends                           |
-| Angel of Suffering                                      | 1        | mythic   | Streets of New Capenna                      |
-| Revel Ruiner                                            | 2        | common   | Streets of New Capenna                      |
-| Okiba-Gang Shinobi                                      | 1        | common   | Betrayers of Kamigawa                       |
-| Nezumi Bladeblesser                                     | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Skeleton Archer                                         | 1        | common   | Core Set 2021                               |
-| Cabal Initiate                                          | 2        | common   | Modern Horizons 2                           |
-| Archfiend of Sorrows                                    | 1        | uncommon | Modern Horizons 2                           |
-| Sinister Starfish                                       | 2        | common   | Modern Horizons 2                           |
-| Kami of Terrible Secrets                                | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Zhentarim Bandit                                        | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Gravelighter                                            | 3        | uncommon | Kamigawa: Neon Dynasty                      |
-| Kami of Restless Shadows                                | 5        | common   | Kamigawa: Neon Dynasty                      |
-| Massacre Wurm                                           | 1        | mythic   | Core Set 2021                               |
-| Dockside Chef                                           | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Shriekmaw                                               | 1        | uncommon | Forgotten Realms Commander                  |
-| Cabal Interrogator                                      | 1        | uncommon | Scourge                                     |
-| Intellect Devourer                                      | 1        | rare     | Commander Legends: Battle for Baldur's Gate |
-| Foulmire Knight // Profane Insight                      | 1        | uncommon | Throne of Eldraine                          |
-| Vile Entomber                                           | 1        | uncommon | Modern Horizons 2                           |
-| Lost Legion                                             | 1        | common   | Throne of Eldraine                          |
-| Malakir Blood-Priest                                    | 1        | common   | Zendikar Rising                             |
-| Loathsome Curator                                       | 1        | common   | Modern Horizons 2                           |
-| Vermin Gorger                                           | 1        | common   | Modern Horizons 2                           |
-| Deathknell Berserker                                    | 7        | common   | Kaldheim                                    |
-| Night Clubber                                           | 1        | uncommon | Streets of New Capenna                      |
-| Fetid Imp                                               | 1        | common   | Core Set 2021                               |
-| Walking Corpse                                          | 1        | common   | Core Set 2021                               |
-| Gloom Sower                                             | 1        | common   | Core Set 2021                               |
-| Unforgiving One                                         | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Patch Up                                                | 1        | uncommon | Streets of New Capenna                      |
-| Slash the Ranks                                         | 1        | rare     | Commander Legends                           |
-| Legion's Judgment                                       | 1        | common   | Core Set 2021                               |
-| Piercing Rays                                           | 1        | common   | Modern Horizons 2                           |
-| Sacred Nectar                                           | 1        | common   | Ninth Edition                               |
-| Banishing Slash                                         | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Reduce to Memory                                        | 1        | uncommon | Strixhaven: School of Mages                 |
-| Marshaling Cry                                          | 1        | common   | Future Sight                                |
-| Excommunicate                                           | 1        | common   | Shards of Alara                             |
-| Aerial Assault                                          | 1        | common   | Jumpstart                                   |
-| Vengeance                                               | 1        | uncommon | Ninth Edition                               |
-| Windborne Charge                                        | 1        | uncommon | Zendikar                                    |
-| Conqueror's Pledge                                      | 1        | rare     | Zendikar                                    |
-| Solemn Offering                                         | 1        | common   | Magic 2011                                  |
-| Solemn Offering                                         | 1        | common   | Magic 2014                                  |
-| Landbind Ritual                                         | 1        | uncommon | Zendikar                                    |
-| Doomskar                                                | 1        | rare     | Kaldheim                                    |
-| Brilliant Restoration                                   | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Open the Vaults                                         | 1        | rare     | Commander 2016                              |
-| Imperial Oath                                           | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Lucky Offering                                          | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Guiding Voice                                           | 2        | common   | Strixhaven: School of Mages                 |
-| Divine Gambit                                           | 2        | uncommon | Kaldheim                                    |
-| Divine Gambit                                           | 1        | uncommon | Strixhaven Mystical Archive                 |
-| Iona's Judgment                                         | 1        | common   | Commander Legends                           |
-| Iona's Judgment                                         | 1        | common   | Worldwake                                   |
-| Iona's Judgment                                         | 1        | common   | Worldwake                                   |
-| Three Dreams                                            | 1        | rare     | Planechase Anthology                        |
-| Secure the Scene                                        | 1        | common   | Core Set 2021                               |
-| Devout Invocation                                       | 1        | mythic   | Magic 2014                                  |
-| Heroes Remembered                                       | 1        | rare     | Planar Chaos                                |
-| Austere Command                                         | 2        | rare     | Commander Legends                           |
-| Soulscour                                               | 1        | rare     | Darksteel                                   |
-| Vanquish the Foul                                       | 2        | uncommon | Theros                                      |
-| Revivify                                                | 1        | rare     | Forgotten Realms Commander                  |
-| Unbounded Potential                                     | 1        | common   | Modern Horizons 2                           |
-| Blossoming Calm                                         | 1        | uncommon | Modern Horizons 2                           |
-| Pressure Point                                          | 1        | common   | Zendikar Rising                             |
-| Swift Response                                          | 1        | common   | Core Set 2021                               |
-| Revitalize                                              | 1        | common   | Core Set 2021                               |
-| Defiant Strike                                          | 2        | common   | Core Set 2021                               |
-| Allied Assault                                          | 1        | uncommon | Zendikar Rising                             |
-| Seize the Initiative                                    | 1        | common   | Scars of Mirrodin                           |
-| Luminesce                                               | 1        | uncommon | Tenth Edition                               |
-| Stave Off                                               | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Swift Justice                                           | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Swords to Plowshares                                    | 1        | uncommon | Forgotten Realms Commander                  |
-| Stand Firm                                              | 1        | common   | Fifth Dawn                                  |
-| Pitfall Trap                                            | 1        | uncommon | Zendikar                                    |
-| Shields of Velis Vel                                    | 1        | common   | Lorwyn                                      |
-| Practiced Tactics                                       | 1        | common   | Zendikar Rising                             |
-| Blessed Defiance                                        | 1        | common   | Innistrad: Midnight Hunt                    |
-| Condemn                                                 | 1        | uncommon | Magic 2011                                  |
-| Harm's Way                                              | 1        | uncommon | Magic 2010                                  |
-| Holy Day                                                | 1        | common   | Ninth Edition                               |
-| Shieldmate's Blessing                                   | 1        | common   | Zendikar                                    |
-| Ajani's Presence                                        | 1        | common   | Journey into Nyx                            |
-| Feeling of Dread                                        | 1        | common   | Innistrad                                   |
-| Show of Confidence                                      | 1        | uncommon | Strixhaven: School of Mages                 |
-| Celestial Purge                                         | 1        | uncommon | Conflux                                     |
-| Puncturing Light                                        | 1        | common   | Rise of the Eldrazi                         |
-| Soul's Grace                                            | 1        | common   | Shards of Alara                             |
-| Roar of the Kha                                         | 1        | uncommon | Mirrodin                                    |
-| To Arms!                                                | 1        | uncommon | Guildpact                                   |
-| Mighty Leap                                             | 1        | common   | Magic 2011                                  |
-| Whitesun's Passage                                      | 1        | common   | Scars of Mirrodin                           |
-| Aegis of the Heavens                                    | 1        | uncommon | Jumpstart                                   |
-| Battlewise Valor                                        | 1        | common   | Theros                                      |
-| Ritual of Hope                                          | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Pollen Lullaby                                          | 1        | uncommon | Lorwyn                                      |
-| Moment of Heroism                                       | 1        | common   | Innistrad                                   |
-| Angelsong                                               | 1        | common   | Shards of Alara                             |
-| Zealous Strike                                          | 1        | common   | Avacyn Restored                             |
-| Study Break                                             | 1        | common   | Strixhaven: School of Mages                 |
-| Beaming Defiance                                        | 1        | common   | Strixhaven: School of Mages                 |
-| Repel the Darkness                                      | 1        | common   | Rise of the Eldrazi                         |
-| Ray of Dissolution                                      | 1        | common   | Theros                                      |
-| Lapse of Certainty                                      | 1        | common   | Conflux                                     |
-| Skywhaler's Shot                                        | 1        | common   | Commander Legends                           |
-| Pulse of the Fields                                     | 1        | rare     | Darksteel                                   |
-| Sungold Barrage                                         | 1        | common   | Innistrad: Midnight Hunt                    |
-| Bold Defense                                            | 1        | common   | Zendikar                                    |
-| Reviving Dose                                           | 1        | common   | Tenth Edition                               |
-| March of Otherworldly Light                             | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Crib Swap                                               | 2        | uncommon | Lorwyn                                      |
-| Steeling Stance                                         | 1        | common   | Dissension                                  |
-| Narrow Escape                                           | 1        | common   | Zendikar                                    |
-| Neck Snap                                               | 1        | common   | Lorwyn                                      |
-| Semester's End                                          | 1        | rare     | Strixhaven: School of Mages                 |
-| Divine Verdict                                          | 1        | common   | Magic 2010                                  |
-| Harmless Assault                                        | 1        | common   | Rise of the Eldrazi                         |
-| Stir the Pride                                          | 1        | uncommon | Darksteel                                   |
-| Gleam of Resistance                                     | 1        | common   | Conflux                                     |
-| Coordinated Charge                                      | 1        | common   | Ikoria: Lair of Behemoths                   |
-| Rebuke                                                  | 2        | common   | Innistrad                                   |
-| Safe Passage                                            | 1        | common   | Magic 2011                                  |
-| Break Ties                                              | 2        | common   | Modern Horizons 2                           |
-| Light the Way                                           | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Repel the Vile                                          | 5        | common   | Kamigawa: Neon Dynasty                      |
-| Raise the Alarm                                         | 2        | common   | Commander Legends                           |
-| Thraben Exorcism                                        | 2        | common   | Innistrad: Midnight Hunt                    |
-| Karametra's Blessing                                    | 3        | common   | Theros Beyond Death                         |
-| Inquisitor's Snare                                      | 2        | common   | Shadowmoor                                  |
-| Brave the Elements                                      | 2        | uncommon | Magic 2014                                  |
-| Regent's Authority                                      | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Surge of Thoughtweft                                    | 3        | common   | Lorwyn                                      |
-| Wanderer's Intervention                                 | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Wanderer's Intervention                                 | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Last Breath                                             | 2        | common   | Theros                                      |
-| Fortify                                                 | 3        | common   | Magic 2014                                  |
-| Midnight Haunting                                       | 2        | uncommon | Innistrad                                   |
-| Dauntless Onslaught                                     | 1        | uncommon | Jumpstart                                   |
-| Dauntless Onslaught                                     | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Phalanx Tactics                                         | 2        | uncommon | Theros Beyond Death                         |
-| Return to Dust                                          | 2        | uncommon | Commander 2021                              |
-| Blacksmith's Skill                                      | 1        | common   | Modern Horizons 2                           |
-| Reward the Faithful                                     | 1        | uncommon | Scourge                                     |
-| Recuperate                                              | 1        | common   | Scourge                                     |
-| Patrician's Scorn                                       | 1        | common   | Future Sight                                |
-| Ephemerate                                              | 1        | rare     | Strixhaven Mystical Archive                 |
-| Hold the Line                                           | 2        | rare     | Duel Decks: Speed vs. Cunning               |
-| Hold the Line                                           | 1        | rare     | Champions of Kamigawa                       |
-| Gods Willing                                            | 1        | rare     | Strixhaven Mystical Archive                 |
-| Invoke the Divine                                       | 5        | common   | Kaldheim                                    |
-| Kaya's Onslaught                                        | 3        | uncommon | Kaldheim                                    |
-| Iron Verdict                                            | 4        | common   | Kaldheim                                    |
-| Wings of the Cosmos                                     | 6        | common   | Kaldheim                                    |
-| Revitalize                                              | 7        | common   | Kaldheim                                    |
-| Warhorn Blast                                           | 4        | common   | Kaldheim                                    |
-| Arrow Volley Trap                                       | 1        | uncommon | Zendikar                                    |
-| Arrow Volley Trap                                       | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Turn the Tables                                         | 1        | rare     | Darksteel                                   |
-| Feat of Resistance                                      | 1        | common   | Core Set 2021                               |
-| Sinstriker's Will                                       | 1        | uncommon | Guildpact                                   |
-| Cage of Hands                                           | 1        | common   | Commander Legends                           |
-| Guard Duty                                              | 1        | common   | Rise of the Eldrazi                         |
-| Battle Mastery                                          | 1        | uncommon | Lorwyn                                      |
-| Candletrap                                              | 1        | common   | Innistrad: Midnight Hunt                    |
-| Faith's Fetters                                         | 1        | uncommon | Core Set 2021                               |
-| Angelic Gift                                            | 1        | common   | Commander Legends                           |
-| Faith's Fetters                                         | 1        | common   | Ravnica: City of Guilds                     |
-| Heart of Light                                          | 1        | common   | Tenth Edition                               |
-| Ghostly Possession                                      | 1        | common   | Innistrad                                   |
-| Mortal Obstinacy                                        | 1        | common   | Journey into Nyx                            |
-| Spectral Steel                                          | 1        | uncommon | Kaldheim                                    |
-| Sky Tether                                              | 1        | uncommon | Jumpstart                                   |
-| Vow of Duty                                             | 1        | uncommon | Commander Legends                           |
-| Intercessor's Arrest                                    | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Nimbus Wings                                            | 1        | common   | Zendikar                                    |
-| Eland Umbra                                             | 1        | common   | Rise of the Eldrazi                         |
-| Serra's Embrace                                         | 2        | uncommon | Tenth Edition                               |
-| Nahiri's Binding                                        | 1        | common   | Zendikar Rising                             |
-| Hold for Ransom                                         | 1        | common   | Streets of New Capenna                      |
-| Benevolent Blessing                                     | 2        | common   | Commander Legends                           |
-| Divine Favor                                            | 1        | common   | Magic 2012                                  |
-| Divine Favor                                            | 1        | common   | Magic 2014                                  |
-| Holy Strength                                           | 2        | common   | Tenth Edition                               |
-| Recumbent Bliss                                         | 2        | common   | Eventide                                    |
-| Valor of the Worthy                                     | 4        | common   | Kaldheim                                    |
-| Dreadful Apathy                                         | 2        | common   | Theros Beyond Death                         |
-| Indomitable Will                                        | 2        | common   | Theros Beyond Death                         |
-| Dragon Scales                                           | 3        | common   | Scourge                                     |
-| Bound in Gold                                           | 7        | common   | Kaldheim                                    |
-| Bound in Gold                                           | 1        | common   | Kaldheim                                    |
-| Born to Drive                                           | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Pacifism                                                | 6        | common   | Magic 2010                                  |
-| Pacifism                                                | 1        | common   | Magic 2011                                  |
-| Pacifism                                                | 2        | common   | Magic 2012                                  |
-| Pacifism                                                | 4        | common   | Magic 2014                                  |
-| Angelic Accord                                          | 1        | uncommon | Magic 2014                                  |
-| Circle of Protection: Black                             | 1        | common   | Introductory Two-Player Set                 |
-| Circle of Protection: Red                               | 1        | common   | Seventh Edition                             |
-| Circle of Protection: Red                               | 1        | common   | Fourth Edition                              |
-| Circle of Protection: White                             | 1        | common   | Ice Age                                     |
-| Circle of Protection: White                             | 1        | common   | Fourth Edition                              |
-| Time of Heroes                                          | 1        | uncommon | Rise of the Eldrazi                         |
-| Oblivion Ring                                           | 3        | common   | Lorwyn                                      |
-| Oblivion Ring                                           | 1        | common   | Shards of Alara                             |
-| Rest in Peace                                           | 1        | rare     | Masters 25                                  |
-| Transcendence                                           | 1        | rare     | Torment                                     |
-| Fortifying Provisions                                   | 1        | common   | Throne of Eldraine                          |
-| The Fall of Lord Konda // Fragment of Konda             | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Michiko's Reign of Truth // Portrait of Michiko         | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Befriending the Moths // Imperial Moth                  | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Elspeth Conquers Death                                  | 2        | rare     | Theros Beyond Death                         |
-| Era of Enlightenment // Hand of Enlightenment           | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Hammers of Moradin                                      | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Goliath Paladin                                         | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Steadfast Unicorn                                       | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Fearless Fledgling                                      | 1        | uncommon | Zendikar Rising                             |
-| Icewind Stalwart                                        | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Rumor Gatherer                                          | 1        | uncommon | Streets of New Capenna                      |
-| Raffine's Informant                                     | 1        | common   | Streets of New Capenna                      |
-| Doomskar Oracle                                         | 6        | common   | Kaldheim                                    |
-| Observant Alseid                                        | 2        | common   | Theros                                      |
-| Hopeful Eidolon                                         | 2        | common   | Theros                                      |
-| Auramancer                                              | 1        | common   | Magic 2014                                  |
-| Kitsune Dawnblade                                       | 1        | common   | Saviors of Kamigawa                         |
-| Master Skald                                            | 4        | common   | Kaldheim                                    |
-| Rambunctious Mutt                                       | 2        | common   | Core Set 2021                               |
-| Gale Swooper                                            | 2        | common   | Core Set 2021                               |
-| Ajani's Chosen                                          | 1        | rare     | Magic 2014                                  |
-| Sungrace Pegasus                                        | 1        | common   | Magic 2015                                  |
-| Steeple Roc                                             | 1        | common   | Dragon's Maze                               |
-| Kitsune Healer                                          | 1        | common   | Champions of Kamigawa                       |
-| Alpine Watchdog                                         | 1        | common   | Core Set 2021                               |
-| Staunch Shieldmate                                      | 1        | common   | Core Set 2021                               |
-| Selfless Samurai                                        | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Golden-Tail Disciple                                    | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Kitsune Ace                                             | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Heliod's Emissary                                       | 1        | uncommon | Theros                                      |
-| Prized Griffin                                          | 1        | common   | Throne of Eldraine                          |
-| Mothrider Patrol                                        | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Eidolon of Inspiration                                  | 3        | uncommon | Theros Beyond Death                         |
-| Celestial Enforcer                                      | 2        | common   | Core Set 2021                               |
-| Eiganjo Exemplar                                        | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Eiganjo Exemplar                                        | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Vryn Wingmare                                           | 1        | uncommon | Core Set 2021                               |
-| Seven-Tail Mentor                                       | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Seven-Tail Mentor                                       | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Sunblade Samurai                                        | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Sunblade Samurai                                        | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Makeshift Battalion                                     | 1        | common   | Core Set 2021                               |
-| Imperial Subduer                                        | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Angel of Salvation                                      | 1        | rare     | Future Sight                                |
-| Rockcaster Platoon                                      | 1        | uncommon | Shards of Alara                             |
-| Eternal Dragon                                          | 1        | rare     | Forgotten Realms Commander                  |
-| Quarry Colossus                                         | 1        | uncommon | Journey into Nyx                            |
-| Paladin of Prahv                                        | 1        | uncommon | Duel Decks: Knights vs. Dragons             |
-| Sun Titan                                               | 1        | mythic   | Forgotten Realms Commander                  |
-| Radiant Solar                                           | 1        | rare     | Forgotten Realms Commander                  |
-| Jedit's Dragoons                                        | 1        | common   | Duel Decks: Venser vs. Koth                 |
-| Nacatl Hunt-Pride                                       | 3        | uncommon | Conflux                                     |
-| Archon of Falling Stars                                 | 2        | uncommon | Theros Beyond Death                         |
-| Shepherd of the Cosmos                                  | 1        | uncommon | Kaldheim                                    |
-| Noble Templar                                           | 2        | common   | Scourge                                     |
-| Gods' Hall Guardian                                     | 6        | common   | Kaldheim                                    |
-| Gods' Hall Guardian                                     | 1        | common   | Kaldheim                                    |
-| Gallows Warden                                          | 1        | uncommon | Innistrad                                   |
-| Geist-Honored Monk                                      | 1        | rare     | Innistrad                                   |
-| Soulbound Guardians                                     | 1        | uncommon | Rise of the Eldrazi                         |
-| Supply-Line Cranes                                      | 1        | common   | Journey into Nyx                            |
-| Blade-Blizzard Kitsune                                  | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Blade-Blizzard Kitsune                                  | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Kithkin Spellduster                                     | 1        | common   | Eventide                                    |
-| Tireless Missionaries                                   | 1        | common   | Magic 2011                                  |
-| Battle Hurda                                            | 1        | common   | Worldwake                                   |
-| Archon of Redemption                                    | 1        | rare     | Jumpstart                                   |
-| Archon of Justice                                       | 1        | rare     | Jumpstart                                   |
-| Soul-Guide Gryff                                        | 2        | common   | Innistrad: Midnight Hunt                    |
-| Cloudgoat Ranger                                        | 2        | uncommon | Lorwyn                                      |
-| Aerie Mystics                                           | 1        | uncommon | Conflux                                     |
-| Dromad Purebred                                         | 1        | common   | Ravnica: City of Guilds                     |
-| Caravan Hurda                                           | 1        | common   | Zendikar                                    |
-| Spirited Companion                                      | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Totem-Guide Hartebeest                                  | 2        | common   | Rise of the Eldrazi                         |
-| Pillardrop Rescuer                                      | 1        | common   | Strixhaven: School of Mages                 |
-| Dawnstrike Paladin                                      | 2        | common   | Magic 2014                                  |
-| Karmic Guide                                            | 1        | rare     | Forgotten Realms Commander                  |
-| Battlegrace Angel                                       | 1        | rare     | Shards of Alara                             |
-| Patron of the Valiant                                   | 2        | uncommon | Commander Legends                           |
-| Angel of the Dawn                                       | 1        | common   | Commander Legends                           |
-| Serra Angel                                             | 3        | uncommon | Magic 2014                                  |
-| Serra Angel                                             | 1        | rare     | Ninth Edition                               |
-| Squad Captain                                           | 2        | common   | Commander Legends                           |
-| Changeling Hero                                         | 2        | uncommon | Lorwyn                                      |
-| Daybreak Chimera                                        | 4        | common   | Theros Beyond Death                         |
-| Gavony Silversmith                                      | 1        | common   | Innistrad: Midnight Hunt                    |
-| Search Party Captain                                    | 1        | common   | Innistrad: Midnight Hunt                    |
-| Wakestone Gargoyle                                      | 1        | rare     | Dissension                                  |
-| Falconer Adept                                          | 1        | uncommon | Core Set 2021                               |
-| Duelcraft Trainer                                       | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Cloud Crusader                                          | 1        | common   | Magic 2011                                  |
-| Charging Griffin                                        | 1        | common   | Magic 2014                                  |
-| Ballynock Trapper                                       | 1        | common   | Eventide                                    |
-| Rhox Meditant                                           | 1        | common   | Conflux                                     |
-| Kinsbaile Balloonist                                    | 2        | common   | Lorwyn                                      |
-| Thoughtweft Trio                                        | 1        | rare     | Lorwyn                                      |
-| Aven Gagglemaster                                       | 1        | uncommon | Core Set 2021                               |
-| Kabira Outrider                                         | 1        | common   | Zendikar Rising                             |
-| Attended Healer                                         | 1        | uncommon | Zendikar Rising                             |
-| Daru Warchief                                           | 1        | uncommon | Scourge                                     |
-| Luminous Broodmoth                                      | 1        | mythic   | Ikoria: Lair of Behemoths                   |
-| Bartered Cow                                            | 1        | common   | Throne of Eldraine                          |
-| Combat Professor                                        | 1        | common   | Strixhaven: School of Mages                 |
-| Guardian Kirin                                          | 1        | common   | Modern Horizons 2                           |
-| Mausoleum Guard                                         | 1        | uncommon | Innistrad                                   |
-| Wall of Swords                                          | 1        | uncommon | Magic 2014                                  |
-| Keeper of the Accord                                    | 1        | rare     | Commander Legends                           |
-| Elspeth's Devotee                                       | 2        | rare     | Theros Beyond Death                         |
-| Prowling Felidar                                        | 1        | common   | Zendikar Rising                             |
-| Kor Cartographer                                        | 2        | common   | Zendikar                                    |
-| Skyhunter Patrol                                        | 1        | common   | Tenth Edition                               |
-| Stalwart Valkyrie                                       | 3        | common   | Kaldheim                                    |
-| Pillarfield Ox                                          | 4        | common   | Magic 2014                                  |
-| Axgard Braggart                                         | 5        | common   | Kaldheim                                    |
-| Battlewise Aven                                         | 4        | common   | Judgment                                    |
-| Hero of the Winds                                       | 1        | uncommon | Theros Beyond Death                         |
-| Elite Spellbinder                                       | 1        | rare     | Strixhaven: School of Mages                 |
-| Trusty Packbeast                                        | 1        | common   | Commander Legends                           |
-| Bane's Invoker                                          | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Paired Tactician                                        | 1        | uncommon | Zendikar Rising                             |
-| Treasure Hunter                                         | 1        | uncommon | Tenth Edition                               |
-| Helica Glider                                           | 1        | common   | Ikoria: Lair of Behemoths                   |
-| Warded Battlements                                      | 1        | common   | Core Set 2021                               |
-| Scholar of Athreos                                      | 1        | common   | Theros                                      |
-| Eagle of the Watch                                      | 1        | common   | Journey into Nyx                            |
-| Kindly Ancestor // Ancestor's Embrace                   | 1        | common   | Innistrad: Crimson Vow                      |
-| Kemba's Skyguard                                        | 1        | common   | Scars of Mirrodin                           |
-| Griffin Sentinel                                        | 1        | common   | Magic 2014                                  |
-| Kinsbaile Courier                                       | 1        | common   | Commander Legends                           |
-| Court Street Denizen                                    | 1        | common   | Commander Legends                           |
-| Ballynock Cohort                                        | 1        | common   | Shadowmoor                                  |
-| Hedron-Field Purists                                    | 1        | rare     | Rise of the Eldrazi                         |
-| Apex Hawks                                              | 1        | common   | Worldwake                                   |
-| Affa Guard Hound                                        | 1        | uncommon | Rise of the Eldrazi                         |
-| Wingsteed Rider                                         | 2        | common   | Theros                                      |
-| Gavony Dawnguard                                        | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Battershield Warrior                                    | 1        | uncommon | Kaldheim                                    |
-| Slith Ascendant                                         | 1        | common   | Commander Legends                           |
-| Knight Exemplar                                         | 1        | rare     | Magic 2011                                  |
-| Palace Guard                                            | 2        | common   | Magic 2010                                  |
-| Lagonna-Band Elder                                      | 2        | common   | Theros                                      |
-| Stonecloaker                                            | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Kithkin Harbinger                                       | 1        | uncommon | Lorwyn                                      |
-| Goldmaw Champion                                        | 3        | common   | Kaldheim                                    |
-| Makindi Shieldmate                                      | 2        | common   | Zendikar                                    |
-| Chapel Geist                                            | 2        | common   | Innistrad                                   |
-| Orzhov Advokist                                         | 2        | uncommon | Commander Legends                           |
-| Stoic Ephemera                                          | 2        | uncommon | Dissension                                  |
-| Priests of Norn                                         | 1        | common   | Mirrodin Besieged                           |
-| Voiceless Spirit                                        | 2        | common   | Innistrad                                   |
-| Wild Griffin                                            | 3        | common   | Tenth Edition                               |
-| Soulsworn Jury                                          | 2        | common   | Dissension                                  |
-| Mourning Patrol // Morning Apparition                   | 1        | common   | Innistrad: Midnight Hunt                    |
-| Resplendent Marshal                                     | 2        | mythic   | Kaldheim                                    |
-| Banisher Priest                                         | 3        | uncommon | Commander 2020                              |
-| Starnheim Courser                                       | 5        | common   | Kaldheim                                    |
-| Benevolent Ancestor                                     | 1        | common   | Ravnica: City of Guilds                     |
-| Zealous Inquisitor                                      | 2        | common   | Scourge                                     |
-| Aven Trailblazer                                        | 7        | common   | Conflux                                     |
-| Avian Changeling                                        | 2        | common   | Lorwyn                                      |
-| Skyhunter Skirmisher                                    | 1        | uncommon | Fifth Dawn                                  |
-| Skyhunter Prowler                                       | 2        | common   | Tenth Edition                               |
-| Skyhunter Prowler                                       | 1        | common   | Fifth Dawn                                  |
-| Kor Celebrant                                           | 1        | common   | Zendikar Rising                             |
-| Kor Sanctifiers                                         | 4        | common   | Zendikar                                    |
-| Kor Hookmaster                                          | 4        | common   | Zendikar                                    |
-| Kor Hookmaster                                          | 1        | common   | Zendikar                                    |
-| Paragon of the Amesha                                   | 3        | uncommon | Conflux                                     |
-| Bant Battlemage                                         | 3        | uncommon | Shards of Alara                             |
-| Cavalry Pegasus                                         | 1        | common   | Theros                                      |
-| Daybreak Charger                                        | 1        | common   | Core Set 2021                               |
-| Auriok Sunchaser                                        | 1        | common   | Scars of Mirrodin                           |
-| Squadron Hawk                                           | 1        | common   | Magic 2011                                  |
-| Thunderous Orator                                       | 1        | uncommon | Strixhaven: School of Mages                 |
-| Angelic Wall                                            | 1        | common   | Magic 2014                                  |
-| Inner-Chamber Guard                                     | 1        | uncommon | Saviors of Kamigawa                         |
-| Avacynian Priest                                        | 1        | common   | Innistrad                                   |
-| Concordia Pegasus                                       | 2        | common   | Core Set 2021                               |
-| Hero of the Pride                                       | 1        | common   | Theros Beyond Death                         |
-| Stalwart Shield-Bearers                                 | 1        | common   | Rise of the Eldrazi                         |
-| Beloved Beggar // Generous Soul                         | 1        | uncommon | Innistrad: Midnight Hunt                    |
-| Leonin Snarecaster                                      | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Steadfast Guard                                         | 2        | common   | Tenth Edition                               |
-| Oreskos Swiftclaw                                       | 1        | common   | Journey into Nyx                            |
-| Spectral Rider                                          | 2        | uncommon | Innistrad                                   |
-| Samite Healer                                           | 1        | common   | Tenth Edition                               |
-| Stonerise Spirit                                        | 1        | common   | Strixhaven: School of Mages                 |
-| Mistral Charger                                         | 2        | uncommon | Dissension                                  |
-| Armament Master                                         | 1        | rare     | Zendikar                                    |
-| Ondu Cleric                                             | 1        | common   | Zendikar                                    |
-| Kor Skyfisher                                           | 2        | common   | Zendikar                                    |
-| Kor Outfitter                                           | 1        | common   | Zendikar                                    |
-| Knight of Cliffhaven                                    | 1        | common   | Rise of the Eldrazi                         |
-| Knight of Meadowgrain                                   | 1        | uncommon | Lorwyn                                      |
-| Clarion Spirit                                          | 1        | uncommon | Kaldheim                                    |
-| Serra Disciple                                          | 1        | common   | Dominaria                                   |
-| Checkpoint Officer                                      | 1        | common   | Ikoria: Lair of Behemoths                   |
-| Strict Proctor                                          | 1        | rare     | Strixhaven: School of Mages                 |
-| Aven Squire                                             | 2        | common   | Conflux                                     |
-| Aven Farseer                                            | 1        | common   | Scourge                                     |
-| Kjeldoran Outrider                                      | 1        | common   | Coldsnap                                    |
-| Traveling Philosopher                                   | 2        | common   | Theros                                      |
-| Capashen Knight                                         | 2        | common   | Magic 2014                                  |
-| Setessan Battle Priest                                  | 1        | common   | Theros                                      |
-| Cathar Commando                                         | 1        | common   | Innistrad: Midnight Hunt                    |
-| Beacon Hawk                                             | 3        | common   | Dissension                                  |
-| Lone Missionary                                         | 2        | common   | Rise of the Eldrazi                         |
-| Lone Missionary                                         | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Cenn's Heir                                             | 1        | common   | Lorwyn                                      |
-| Wizened Cenn                                            | 2        | uncommon | Lorwyn                                      |
-| Leonin Squire                                           | 1        | common   | Fifth Dawn                                  |
-| Master Decoy                                            | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Soltari Monk                                            | 1        | uncommon | The List                                    |
-| Ronom Unicorn                                           | 1        | common   | Forgotten Realms Commander                  |
-| Kithkin Zealot                                          | 2        | common   | Eventide                                    |
-| Kithkin Greatheart                                      | 4        | common   | Lorwyn                                      |
-| Blinding Mage                                           | 1        | common   | Magic 2010                                  |
-| Blinding Mage                                           | 1        | common   | Magic 2011                                  |
-| Beskir Shieldmate                                       | 4        | common   | Kaldheim                                    |
-| Leonin of the Lost Pride                                | 3        | common   | Theros Beyond Death                         |
-| Story Seeker                                            | 6        | common   | Kaldheim                                    |
-| Kor Aeronaut                                            | 2        | uncommon | Zendikar                                    |
-| Giant Ox                                                | 5        | common   | Kaldheim                                    |
-| Ninth Bridge Patrol                                     | 2        | common   | Commander Legends                           |
-| Patrol Signaler                                         | 2        | uncommon | Eventide                                    |
-| Professor of Symbology                                  | 1        | uncommon | Strixhaven: School of Mages                 |
-| Wall of Omens                                           | 1        | uncommon | Rise of the Eldrazi                         |
-| Wall of Omens                                           | 1        | uncommon | Forgotten Realms Commander                  |
-| Stormfront Pegasus                                      | 2        | common   | Magic 2010                                  |
-| Leonin Shikari                                          | 2        | rare     | Darksteel                                   |
-| Sunlit Hoplite                                          | 4        | common   | Theros Beyond Death                         |
-| Glory Seeker                                            | 4        | common   | Ninth Edition                               |
-| Eager First-Year                                        | 2        | common   | Strixhaven: School of Mages                 |
-| Usher of the Fallen                                     | 2        | uncommon | Kaldheim                                    |
-| Lagonna-Band Trailblazer                                | 1        | common   | Journey into Nyx                            |
-| Gavony Trapper                                          | 1        | common   | Innistrad: Midnight Hunt                    |
-| Kitesail Cleric                                         | 1        | uncommon | Zendikar Rising                             |
-| Infantry Veteran                                        | 1        | common   | Duel Decks: Speed vs. Cunning               |
-| Kitesail Apprentice                                     | 1        | common   | Worldwake                                   |
-| Martyr of Sands                                         | 1        | common   | Coldsnap                                    |
-| Glittering Lynx                                         | 1        | common   | Prophecy                                    |
-| Frontline Strategist                                    | 1        | common   | Scourge                                     |
-| Safehold Sentry                                         | 1        | common   | Shadowmoor                                  |
-| Makindi Griffin                                         | 2        | common   | Rise of the Eldrazi                         |
-| Pillarfield Ox                                          | 1        | common   | Zendikar                                    |
-| Soul's Attendant                                        | 1        | common   | Rise of the Eldrazi                         |
-| Loam Lion                                               | 1        | uncommon | Worldwake                                   |
-| Selfless Savior                                         | 1        | uncommon | Core Set 2021                               |
-| Healer's Hawk                                           | 1        | common   | Jumpstart                                   |
-| Lunarch Veteran // Luminous Phantom                     | 1        | common   | Innistrad: Midnight Hunt                    |
-| Pious Wayfarer                                          | 1        | common   | Theros Beyond Death                         |
-| Suntail Hawk                                            | 2        | common   | Tenth Edition                               |
-| Goldmeadow Harrier                                      | 1        | common   | Lorwyn                                      |
-| Goldmeadow Stalwart                                     | 1        | uncommon | Lorwyn                                      |
-| Yoked Ox                                                | 1        | common   | Theros                                      |
-| Goldenglow Moth                                         | 1        | common   | Shadowmoor                                  |
-| Unholy Officiant                                        | 1        | common   | Innistrad: Crimson Vow                      |
-| Goldmeadow Dodger                                       | 1        | common   | Lorwyn                                      |
-| Star Pupil                                              | 1        | common   | Strixhaven: School of Mages                 |
-| Soulmender                                              | 2        | common   | Magic 2014                                  |
-| Leonin Elder                                            | 5        | common   | Mirrodin                                    |
-| Hada Freeblade                                          | 2        | uncommon | Worldwake                                   |
-| Kor Duelist                                             | 3        | uncommon | Zendikar                                    |
-| Doomed Traveler                                         | 2        | common   | Innistrad                                   |
-| Doomed Traveler                                         | 1        | common   | Commander Legends                           |
-| Battlefield Raptor                                      | 6        | common   | Kaldheim                                    |
-| Codespell Cleric                                        | 6        | common   | Kaldheim                                    |
-| Steppe Lynx                                             | 2        | common   | Zendikar                                    |
-| Valiant Guard                                           | 4        | common   | Conflux                                     |
-| Honor Guard                                             | 1        | common   | Ninth Edition                               |
-| Honor Guard                                             | 2        | common   | Tenth Edition                               |
-| Eager Cadet                                             | 1        | common   | Ninth Edition                               |
-| Hand of Emrakul                                         | 5        | common   | Rise of the Eldrazi                         |
-| Artisan of Kozilek                                      | 2        | uncommon | Rise of the Eldrazi                         |
-| Ulamog's Crusher                                        | 2        | common   | Rise of the Eldrazi                         |
-| Pathrazer of Ulamog                                     | 2        | uncommon | Rise of the Eldrazi                         |
-| Skittering Invasion                                     | 1        | uncommon | Rise of the Eldrazi                         |
-| Not of This World                                       | 1        | uncommon | Rise of the Eldrazi                         |
-| Eldrazi Conscription                                    | 1        | rare     | Rise of the Eldrazi                         |
-| Inkmoth Nexus                                           | 1        | rare     | Mirrodin Besieged                           |
-| The World Tree                                          | 1        | rare     | Kaldheim                                    |
-| Port of Karfell                                         | 3        | uncommon | Kaldheim                                    |
-| Highland Forest                                         | 3        | common   | Kaldheim                                    |
-| Surtland Frostpyre                                      | 3        | uncommon | Kaldheim                                    |
-| Rimewood Falls                                          | 2        | common   | Kaldheim                                    |
-| Gnottvold Slumbermound                                  | 2        | uncommon | Kaldheim                                    |
-| Immersturm Skullcairn                                   | 3        | uncommon | Kaldheim                                    |
-| Axgard Armory                                           | 2        | uncommon | Kaldheim                                    |
-| Shimmerdrift Vale                                       | 7        | common   | Kaldheim                                    |
-| Henge of Ramos                                          | 1        | uncommon | Mercadian Masques                           |
-| "Sokenzan, Crucible of Defiance"                        | 1        | rare     | Kamigawa: Neon Dynasty Promos               |
-| Haunted Ridge                                           | 1        | rare     | Innistrad: Midnight Hunt                    |
-| "Sokenzan, Crucible of Defiance"                        | 1        | rare     | Kamigawa: Neon Dynasty                      |
-| Glacial Floodplain                                      | 3        | common   | Kaldheim                                    |
-| Alpine Meadow                                           | 2        | common   | Kaldheim                                    |
-| Alpine Meadow                                           | 1        | common   | Kaldheim                                    |
-| Highland Forest                                         | 1        | common   | Kaldheim                                    |
-| Seafloor Debris                                         | 1        | common   | Odyssey                                     |
-| Saprazzan Skerry                                        | 1        | common   | Mercadian Masques                           |
-| Eye of Ugin                                             | 1        | mythic   | Worldwake                                   |
-| Arctic Treeline                                         | 3        | common   | Kaldheim                                    |
-| Darkbore Pathway // Slitherbore Pathway                 | 1        | rare     | Kaldheim                                    |
-| Blightstep Pathway // Searstep Pathway                  | 1        | rare     | Kaldheim                                    |
-| Hengegate Pathway // Mistgate Pathway                   | 1        | rare     | Kaldheim                                    |
-| Darkbore Pathway // Slitherbore Pathway                 | 1        | rare     | Kaldheim                                    |
-| Soaring Seacliff                                        | 3        | common   | Zendikar                                    |
-| Desert of the Mindful                                   | 1        | common   | Hour of Devastation                         |
-| Littjara Mirrorlake                                     | 1        | uncommon | Kaldheim                                    |
-| Maestros Theater                                        | 1        | common   | Streets of New Capenna                      |
-| Blightstep Pathway // Searstep Pathway                  | 1        | rare     | Kaldheim                                    |
-| Skyline Cascade                                         | 1        | common   | Battle for Zendikar                         |
-| Evolving Wilds                                          | 1        | common   | Battle for Zendikar                         |
-| Evolving Wilds                                          | 1        | common   | Innistrad: Midnight Hunt                    |
-| Evolving Wilds                                          | 1        | common   | Adventures in the Forgotten Realms          |
-| Evolving Wilds                                          | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Evolving Wilds                                          | 2        | common   | Duel Decks: Speed vs. Cunning               |
-| Command Tower                                           | 2        | common   | Commander Legends                           |
-| Command Tower                                           | 1        | common   | Forgotten Realms Commander                  |
-| Rupture Spire                                           | 1        | common   | Commander Legends                           |
-| Rupture Spire                                           | 3        | common   | Conflux                                     |
-| Terramorphic Expanse                                    | 5        | common   | Magic 2010                                  |
-| Terramorphic Expanse                                    | 1        | common   | Forgotten Realms Commander                  |
-| Terramorphic Expanse                                    | 2        | common   | Duel Decks: Speed vs. Cunning               |
-| Piranha Marsh                                           | 3        | common   | Zendikar                                    |
-| Dimir Aqueduct                                          | 1        | uncommon | Forgotten Realms Commander                  |
-| Darkwater Catacombs                                     | 1        | rare     | Forgotten Realms Commander                  |
-| Dimir Guildgate                                         | 1        | common   | Dragon's Maze                               |
-| Jwar Isle Refuge                                        | 1        | uncommon | Zendikar                                    |
-| Creeping Tar Pit                                        | 2        | rare     | Worldwake                                   |
-| Temple of Deceit                                        | 4        | rare     | Theros Beyond Death                         |
-| Dismal Backwater                                        | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Dismal Backwater                                        | 1        | common   | Core Set 2021                               |
-| Unstable Frontier                                       | 2        | uncommon | Conflux                                     |
-| Thriving Moor                                           | 2        | common   | Jumpstart                                   |
-| Thriving Moor                                           | 1        | common   | Forgotten Realms Commander                  |
-| Great Hall of Starnheim                                 | 3        | uncommon | Kaldheim                                    |
-| Desert of the Glorified                                 | 1        | common   | Hour of Devastation                         |
-| Mortuary Mire                                           | 1        | common   | Battle for Zendikar                         |
-| Cabal Stronghold                                        | 1        | rare     | Dominaria                                   |
-| Path of Ancestry                                        | 2        | common   | Commander Legends                           |
-| Mech Hangar                                             | 2        | uncommon | Kamigawa: Neon Dynasty                      |
-| Ancient Ziggurat                                        | 1        | uncommon | Conflux                                     |
-| Thriving Heath                                          | 1        | common   | Jumpstart                                   |
-| Thriving Heath                                          | 1        | common   | Forgotten Realms Commander                  |
-| Esper Panorama                                          | 1        | common   | Forgotten Realms Commander                  |
-| Esper Panorama                                          | 2        | common   | Shards of Alara                             |
-| Exotic Orchard                                          | 1        | rare     | Forgotten Realms Commander                  |
-| Grixis Panorama                                         | 1        | common   | Shards of Alara                             |
-| Temple of the False God                                 | 1        | uncommon | Commander 2021                              |
-| Haunted Fengraf                                         | 1        | common   | Dark Ascension                              |
-| Geier Reach Sanitarium                                  | 1        | rare     | Forgotten Realms Commander                  |
-| Uncharted Haven                                         | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Unknown Shores                                          | 1        | common   | Theros Beyond Death                         |
-| Hall of Oracles                                         | 1        | rare     | Strixhaven: School of Mages                 |
-| Shimmering Grotto                                       | 1        | common   | Planechase Anthology                        |
-| Secluded Courtyard                                      | 1        | uncommon | Kamigawa: Neon Dynasty                      |
-| Scoured Barrens                                         | 4        | common   | Kamigawa: Neon Dynasty                      |
-| Nomad Outpost                                           | 2        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Mystic Monastery                                        | 2        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Turntimber Grove                                        | 2        | common   | Zendikar                                    |
-| Woodland Chasm                                          | 3        | common   | Kaldheim                                    |
-| Ice Tunnel                                              | 2        | common   | Kaldheim                                    |
-| Goldmire Bridge                                         | 2        | common   | Modern Horizons 2                           |
-| Bretagard Stronghold                                    | 2        | uncommon | Kaldheim                                    |
-| Skemfar Elderhall                                       | 1        | uncommon | Kaldheim                                    |
-| Skemfar Elderhall                                       | 1        | uncommon | Kaldheim                                    |
-| Castle Garenbrig                                        | 1        | rare     | Throne of Eldraine                          |
-| Khalni Garden                                           | 2        | common   | Worldwake                                   |
-| Kabira Crossroads                                       | 3        | common   | Zendikar                                    |
-| Quandrix Campus                                         | 2        | common   | Strixhaven: School of Mages                 |
-| Silverquill Campus                                      | 3        | common   | Strixhaven: School of Mages                 |
-| Azorius Chancery                                        | 1        | uncommon | Forgotten Realms Commander                  |
-| Azorius Chancery                                        | 2        | common   | Dissension                                  |
-| Prismari Campus                                         | 1        | common   | Strixhaven: School of Mages                 |
-| Orzhov Basilica                                         | 1        | uncommon | Forgotten Realms Commander                  |
-| Snowfield Sinkhole                                      | 1        | common   | Kaldheim                                    |
-| Fetid Heath                                             | 1        | rare     | Eventide                                    |
-| Riveteers Overlook                                      | 1        | common   | Streets of New Capenna                      |
-| Nephalia Drownyard                                      | 1        | rare     | Innistrad                                   |
-| Thriving Grove                                          | 1        | common   | Jumpstart                                   |
-| Thriving Isle                                           | 1        | common   | Forgotten Realms Commander                  |
-| Rugged Highlands                                        | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Tranquil Cove                                           | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Silverbluff Bridge                                      | 1        | common   | Modern Horizons 2                           |
-| Wind-Scarred Crag                                       | 3        | common   | Kamigawa: Neon Dynasty                      |
-| Bloodfell Caves                                         | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Thornwood Falls                                         | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Blighted Woodland                                       | 1        | uncommon | Battle for Zendikar                         |
-| Ghitu Encampment                                        | 1        | uncommon | Duel Decks: Speed vs. Cunning               |
-| Sulfurous Mire                                          | 1        | common   | Kaldheim                                    |
-| Temple of Malice                                        | 1        | rare     | Theros Beyond Death                         |
-| Blighted Cataract                                       | 1        | uncommon | Battle for Zendikar                         |
-| Arcane Sanctum                                          | 1        | uncommon | Forgotten Realms Commander                  |
-| Furycalm Snarl                                          | 1        | rare     | Strixhaven: School of Mages                 |
-| Swiftwater Cliffs                                       | 2        | common   | Kamigawa: Neon Dynasty                      |
-| Temple of Epiphany                                      | 1        | rare     | Core Set 2021                               |
-| Volatile Fjord                                          | 2        | common   | Kaldheim                                    |
-| Jungle Hollow                                           | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Golgari Guildgate                                       | 1        | common   | Guilds of Ravnica                           |
-| Glacial Fortress                                        | 1        | rare     | Magic 2012                                  |
-| Nimbus Maze                                             | 1        | rare     | Forgotten Realms Commander                  |
-| Prairie Stream                                          | 1        | rare     | Forgotten Realms Commander                  |
-| Port Town                                               | 1        | rare     | Forgotten Realms Commander                  |
-| "Prahv, Spires of Order"                                | 1        | uncommon | Dissension                                  |
-| Swiftwater Cliffs                                       | 1        | common   | Kamigawa: Neon Dynasty                      |
-| Mountain                                                | 31       | common   | Commander Legends: Battle for Baldur's Gate |
-| Snow-Covered Mountain                                   | 9        | common   | Kaldheim                                    |
-| Thriving Isle                                           | 1        | common   | Jumpstart                                   |
-| Thriving Bluff                                          | 1        | common   | Jumpstart                                   |
-| Snow-Covered Forest                                     | 4        | common   | Kaldheim                                    |
-| Forest                                                  | 108      | common   | Commander Legends: Battle for Baldur's Gate |
-| "Vhal, Candlekeep Researcher"                           | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Rasaad yn Bashir                                        | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| "Gluntch, the Bestower"                                 | 1        | rare     | Commander Legends: Battle for Baldur's Gate |
-| "Livaan, Cultist of Tiamat"                             | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Tavern Brawler                                          | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Cultist of the Absolute                                 | 1        | rare     | Commander Legends: Battle for Baldur's Gate |
-| Shiny Impetus                                           | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Stoneskin                                               | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Stoneskin                                               | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Marching Duodrone                                       | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Prophetic Prism                                         | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Navigation Orb                                          | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Candlekeep Inspiration                                  | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Archmage Emeritus                                       | 1        | rare     | Strixhaven: School of Mages                 |
-| "Nashi, Moon Sage's Scion"                              | 1        | mythic   | Kamigawa: Neon Dynasty                      |
-| Exhaustion                                              | 1        | uncommon | Urza's Saga                                 |
-| Energy Field                                            | 1        | rare     | Mystery Booster                             |
-| Run Away Together                                       | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Draconic Lore                                           | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Young Blue Dragon // Sand Augury                        | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Commander Liara Portyr                                  | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| "Cadira, Caller of the Small"                           | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Far Traveler                                            | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Candlekeep Sage                                         | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| "Korlessa, Scale Singer"                                | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Jade Orb of Dragonkind                                  | 1        | common   | Commander Legends: Battle for Baldur's Gate |
-| Horn of Valhalla // Ysgard's Call                       | 1        | rare     | Commander Legends: Battle for Baldur's Gate |
-| Beckoning Will-o'-Wisp                                  | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
-| Slaughter the Strong                                    | 1        | uncommon | Commander Legends: Battle for Baldur's Gate |
+| NAME | PRICE | QUANTITY |
+| --- | --- | --- |
+| <a href='https://api.scryfall.com/cards/e375cfff-7a36-47ba-828c-c9d7402ea68b'>Arcanis the Omnipotent</a> | 1.08 | 1 |
+| <a href='https://api.scryfall.com/cards/a7f570b1-e221-468c-a809-a79a56a51ced'>Call to Mind</a> | 0.21 | 2 |
+| <a href='https://api.scryfall.com/cards/8dc3bd34-4d12-4728-a53a-b5ae434d74b0'>Island</a> | 0.3 | 1 |
+| <a href='https://api.scryfall.com/cards/20c0e608-0208-408a-b473-1e54caa96cea'>Sisay's Ring</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/c2776694-6183-498d-9a38-e4c5c9e78179'>Tolarian Kraken</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/dbfe803d-88d7-4ad2-b3d8-c41c123d8bf3'>Archmage Ascension</a> | 2.53 | 1 |
+| <a href='https://api.scryfall.com/cards/be61e893-4bf5-4550-83f4-42ebe7f1e3b0'>Skywatcher Adept</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/abb327b4-01b0-468c-9916-129c7c64341d'>Echo Mage</a> | 0.35 | 1 |
+| <a href='https://api.scryfall.com/cards/551f905b-4ce0-4071-a721-7e51be14d114'>Island</a> | 1.85 | 2 |
+| <a href='https://api.scryfall.com/cards/3d19d950-9e63-4b15-8531-f4b16f5b82fa'>Elixir of Immortality</a> | 0.62 | 1 |
+| <a href='https://api.scryfall.com/cards/4f8d1bea-58cd-4483-a70a-0330ad5ab4a1'>Coralhelm Commander</a> | 2.84 | 1 |
+| <a href='https://api.scryfall.com/cards/7f8d3740-40e9-40d4-833e-8f191a43ed14'>Island</a> | 0.11 | 4 |
+| <a href='https://api.scryfall.com/cards/1bf05e3d-601a-481b-8880-24058a3442e9'>Beacon of Tomorrows</a> | 3.43 | 1 |
+| <a href='https://api.scryfall.com/cards/1907b1e9-ae1e-43fb-9033-3c4322277fff'>Mysteries of the Deep</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/cb380a5a-a3f9-42fb-ac5c-f54afa3c1079'>Inkwell Leviathan</a> | 0.47 | 1 |
+| <a href='https://api.scryfall.com/cards/c94fcb53-a7bd-4a80-a536-9fb0eb24261a'>Alrund's Epiphany</a> | 2.7 | 1 |
+| <a href='https://api.scryfall.com/cards/b3aeb6af-1727-4fa9-938f-13962efadd74'>Hada Spy Patrol</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/f8a3c4a0-892d-4e74-bb21-00786705766e'>Island</a> | 0.3 | 2 |
+| <a href='https://api.scryfall.com/cards/2d0e725b-2250-4189-9682-73461b5cfed2'>Mnemonic Deluge</a> | 1.67 | 1 |
+| <a href='https://api.scryfall.com/cards/0dcf8c0a-cf91-42a0-a54e-da5e7c697ee3'>Snow-Covered Island</a> | 1.09 | 5 |
+| <a href='https://api.scryfall.com/cards/c56229e1-904b-4761-bb7e-35a0c8202c2e'>Wall of Frost</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/6e70332c-de0b-45ce-bbd1-5de4314c08db'>Time Warp</a> | 13.14 | 1 |
+| <a href='https://api.scryfall.com/cards/3114ce5d-c99c-4c60-b088-48ec440eafdb'>Island</a> | 0.12 | 4 |
+| <a href='https://api.scryfall.com/cards/3fe6e1ce-bc46-4f86-9504-f8cc062ed3c6'>Crab Umbra</a> | 0.28 | 1 |
+| <a href='https://api.scryfall.com/cards/0e606072-a3aa-4300-ba90-ec92a721fa76'>Jace, the Mind Sculptor</a> | 46.08 | 1 |
+| <a href='https://api.scryfall.com/cards/d27b6a46-f9be-437a-a13c-ad8077ac0127'>Reliquary Tower</a> | 3.11 | 1 |
+| <a href='https://api.scryfall.com/cards/3087f7e7-9163-45b5-907d-7667c1075a74'>Lighthouse Chronologist</a> | 15.17 | 1 |
+| <a href='https://api.scryfall.com/cards/855eabf3-1113-410c-b30c-41a94456e408'>Island</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/8b82753b-284c-44ba-9d48-d28913f02a5f'>Swiftfoot Boots</a> | 1.17 | 1 |
+| <a href='https://api.scryfall.com/cards/447c7c8a-ed88-4f4f-9e1c-d97bde20e40c'>Nevinyrral's Disk</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/e2cf16f8-6e69-46b3-8453-1d1a2a5670e2'>Training Grounds</a> | 32.04 | 1 |
+| <a href='https://api.scryfall.com/cards/3bfa5ebc-5623-4eec-89ea-dc187489ee4a'>Snow-Covered Island</a> | 0.8 | 4 |
+| <a href='https://api.scryfall.com/cards/db99b872-77c7-4471-9c44-a36d4ff5d33f'>Anticognition</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/ffaebb4a-cb9b-4ac8-b661-3e63d9d984f4'>Mnemonic Wall</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/1920dae4-fb92-4f19-ae4b-eb3276b8dac7'>Counterspell</a> | 1.93 | 1 |
+| <a href='https://api.scryfall.com/cards/b79bea30-3210-4944-b146-3624c9869f45'>Jace's Ingenuity</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/9e557f54-3d9d-4610-a0d0-5874feacc76e'>Cancel</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/a051b622-fa1d-4694-aef7-0fcdd7bff8d2'>Pull from the Deep</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/324ebb83-b7b5-4f91-a8ec-3284d62da4da'>Deepglow Skate</a> | 2.97 | 1 |
+| <a href='https://api.scryfall.com/cards/172bb1b6-08c3-4ffd-b26d-b1c77dba06c3'>Island</a> | 0.1 | 3 |
+| <a href='https://api.scryfall.com/cards/985bdb0c-ce6c-4506-8163-76f3b2fdf5fb'>Lose Focus</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/19ce4784-139d-442c-86a9-3e45e91038b7'>Thought Vessel</a> | 5.09 | 1 |
+| <a href='https://api.scryfall.com/cards/aacdf4c2-9bc8-400a-8ffc-d6597d8d7da9'>Tidal Barracuda</a> | 1.73 | 1 |
+| <a href='https://api.scryfall.com/cards/6bc62a1e-830b-4b07-91e4-303e66d93648'>Sky Diamond</a> | 0.15 | 2 |
+| <a href='https://api.scryfall.com/cards/d859de3a-0be1-4e66-b438-1c3d4ee756cd'>The Reality Chip</a> | 1.7 | 1 |
+| <a href='https://api.scryfall.com/cards/a01c16a5-bc50-406f-9ab1-e8346acffbca'>Commander's Sphere</a> | 0.16 | 3 |
+| <a href='https://api.scryfall.com/cards/14770537-209a-4260-88a4-30f4e2b5ede0'>Timestream Navigator</a> | 4.56 | 1 |
+| <a href='https://api.scryfall.com/cards/2ef2c956-cf03-462c-8981-ae80edfc0c5a'>Island</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/1ed91aab-9009-4cab-9dd8-b595648df011'>Blue Sun's Zenith</a> | 1.5 | 1 |
+| <a href='https://api.scryfall.com/cards/d851b88b-6ce6-4889-83c2-e191307bcee6'>Island</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/44b34fc0-dc7b-4823-9ff1-5e1e84016204'>Island</a> | 0.16 | 2 |
+| <a href='https://api.scryfall.com/cards/aa9f8662-8294-4924-a4c0-e26b709ea4a6'>Island</a> | 0.27 | 1 |
+| <a href='https://api.scryfall.com/cards/79df5b20-9e04-4b71-b39a-3142306719f9'>Island</a> | 0.24 | 2 |
+| <a href='https://api.scryfall.com/cards/20b4cbcc-c394-4be3-8072-8893b48c866d'>Island</a> | 0.38 | 2 |
+| <a href='https://api.scryfall.com/cards/986a7ea8-a015-4dd8-9938-36b38ccd3980'>Silent Arbiter</a> | 3.81 | 1 |
+| <a href='https://api.scryfall.com/cards/0e7f3fb6-93ce-4bc9-8efd-11af5a46218f'>Stormtide Leviathan</a> | 0.35 | 1 |
+| <a href='https://api.scryfall.com/cards/1ed68800-3fc6-4b0e-a624-8be3beeed92f'>Triskaidekaphile</a> | 1.19 | 1 |
+| <a href='https://api.scryfall.com/cards/63754036-d51e-47bb-925b-564d9dc922ff'>Narset's Reversal</a> | 3.84 | 1 |
+| <a href='https://api.scryfall.com/cards/6fe212ed-31cb-4f10-8ba7-e97af1d30d24'>Steady Progress</a> | 0.22 | 3 |
+| <a href='https://api.scryfall.com/cards/4dd84701-857e-4948-8cb8-39b8a321a177'>Psychosis Crawler</a> | 1.67 | 1 |
+| <a href='https://api.scryfall.com/cards/2763643d-5b53-49d0-bc3d-5626bf00f3f4'>Venser's Journal</a> | 4.2 | 1 |
+| <a href='https://api.scryfall.com/cards/4530fe45-8a3d-48e9-a7a5-abf8fb1485e3'>Rite of Replication</a> | 4.08 | 1 |
+| <a href='https://api.scryfall.com/cards/2dccb765-8f97-4806-87ef-55415ab09d9b'>Burnished Hart</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/3102cec9-1cdc-4946-a2dd-caf04eaa8b97'>Divination</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/6adb7d73-4482-4930-8497-cffd169b57e2'>Jace, Wielder of Mysteries</a> | 5.51 | 1 |
+| <a href='https://api.scryfall.com/cards/c59599de-c781-4c26-a159-cbf0cd72d361'>Grand Architect</a> | 1.0 | 2 |
+| <a href='https://api.scryfall.com/cards/4892c152-1f4a-4616-8e7f-0ca4911e621a'>Pili-Pala</a> | 2.61 | 3 |
+| <a href='https://api.scryfall.com/cards/7de1dfcf-f2e7-4c7c-8b00-c5d30a2d3f98'>Mirari</a> | 0.64 | 1 |
+| <a href='https://api.scryfall.com/cards/20d3b541-40aa-469e-be97-20496a7632d4'>Enclave Cryptologist</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/9ec4d902-8841-4f37-9b07-9e8d0f671071'>Venerated Teacher</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/da35e1ce-cbfa-499d-b4e0-5857b1587506'>Sphinx of Magosi</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/3394cefd-a3c6-4917-8f46-234e441ecfb6'>Rhystic Study</a> | 39.11 | 1 |
+| <a href='https://api.scryfall.com/cards/d1f629fb-b097-4240-8560-ef47f5678f48'>Wizard Class</a> | 1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/a92a4dda-01e6-4324-b714-29c269108336'>Wonder</a> | 0.82 | 1 |
+| <a href='https://api.scryfall.com/cards/7a64c1a4-02ce-49d2-97f2-970b8c33672d'>Karn's Temporal Sundering</a> | 2.66 | 1 |
+| <a href='https://api.scryfall.com/cards/58141ad0-32ea-4e07-a133-ff7812d58c0e'>Anchor to Reality</a> | 0.01 | 4 |
+| <a href='https://api.scryfall.com/cards/08b89af1-7b22-4153-b42d-a2ea4e0f320c'>The Magic Mirror</a> | 2.94 | 1 |
+| <a href='https://api.scryfall.com/cards/0ff68d2f-6758-45ee-8109-4e8909f49de8'>Halimar Wavewatch</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/fdd60081-3942-4e0e-aacd-a0c121bb08c7'>Silver Myr</a> | 0.25 | 3 |
+| <a href='https://api.scryfall.com/cards/29089699-07e7-4dff-86f7-f109b625a159'>Solemn Simulacrum</a> | 1.01 | 1 |
+| <a href='https://api.scryfall.com/cards/cbb9465c-cea2-491f-a6d6-9022cb3e969d'>Whispersilk Cloak</a> | 2.71 | 1 |
+| <a href='https://api.scryfall.com/cards/8ac1fceb-8427-409c-98a4-9a5c1ff980b4'>Snow-Covered Island</a> | 1.73 | 1 |
+| <a href='https://api.scryfall.com/cards/efd86f2a-bd28-4731-838d-78e67be8b49e'>Island</a> | 0.71 | 2 |
+| <a href='https://api.scryfall.com/cards/feed9d83-cbf4-4ebe-af20-915752233fc9'>Hanna, Ship's Navigator</a> | 1.11 | 1 |
+| <a href='https://api.scryfall.com/cards/ac92126c-fb22-4b97-bbc5-b0533a0baad8'>Gold Myr</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/e7e7f15a-074a-4137-88ca-e5d376d146fd'>Mycosynth Lattice</a> | 37.38 | 1 |
+| <a href='https://api.scryfall.com/cards/08e8b5a4-ea2b-42fe-880c-f6a4f5456b66'>Commander's Sphere</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/ee766f7b-4e9c-442d-bf53-31c204646449'>Myr Retriever</a> | 0.57 | 1 |
+| <a href='https://api.scryfall.com/cards/2336faaa-fc6d-4fbb-bdd4-969eae565c72'>Gift of Immortality</a> | 3.46 | 1 |
+| <a href='https://api.scryfall.com/cards/b426b86d-b1d9-4aee-ac17-4eae7a3b69a3'>Sky Diamond</a> | 0.62 | 2 |
+| <a href='https://api.scryfall.com/cards/317ffc8a-4b6e-4ff7-b049-7494cb41e448'>Trophy Mage</a> | 0.63 | 1 |
+| <a href='https://api.scryfall.com/cards/ff3ffe47-53a3-42ec-ae89-afc79793380d'>Island</a> | 0.07 | 149 |
+| <a href='https://api.scryfall.com/cards/afd2730f-878e-47ee-ad2a-73f8fa4e0794'>Snow-Covered Plains</a> | 0.17 | 4 |
+| <a href='https://api.scryfall.com/cards/be8b1acf-dd87-42ca-ad19-c27d21066030'>Leyline of Sanctity</a> | 5.87 | 1 |
+| <a href='https://api.scryfall.com/cards/097f7ab8-01fa-4699-943a-32075aecebc2'>Mycosynth Wellspring</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/98e43870-4bed-4d76-a633-a6326c736d22'>Hindering Light</a> | 0.28 | 1 |
+| <a href='https://api.scryfall.com/cards/ce427213-4ce5-478e-83d8-fe80ec446a58'>Stuffy Doll</a> | 0.74 | 1 |
+| <a href='https://api.scryfall.com/cards/6a6932af-c7e7-49e9-963e-97e680a53da5'>Cancel</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/e55ca835-b7f3-497c-b0bc-50a182cabecf'>Myr Galvanizer</a> | 0.38 | 1 |
+| <a href='https://api.scryfall.com/cards/583d7386-3eb5-4f1d-8da9-f00e020a307b'>Throne of Geth</a> | 0.27 | 1 |
+| <a href='https://api.scryfall.com/cards/b7919474-db2b-441a-b368-9e430ddf70ab'>Platinum Emperion</a> | 12.29 | 1 |
+| <a href='https://api.scryfall.com/cards/00d03b17-75ae-40d2-8570-b219ef0dfd4a'>Mindslaver</a> | 4.76 | 1 |
+| <a href='https://api.scryfall.com/cards/c55bee97-593f-441f-b96c-a998d5212a55'>Expedition Map</a> | 2.54 | 1 |
+| <a href='https://api.scryfall.com/cards/552be01e-cd54-46ba-b38a-96883a48d985'>Arcane Signet</a> | 0.87 | 1 |
+| <a href='https://api.scryfall.com/cards/9203fde4-dbc1-449f-9618-4656f0e25e3c'>Memnarch</a> | 7.76 | 1 |
+| <a href='https://api.scryfall.com/cards/6fb78693-354a-49d0-a493-430a89c6e6f6'>Snow-Covered Plains</a> | 0.16 | 5 |
+| <a href='https://api.scryfall.com/cards/0296c34b-120b-483e-8b49-6d432c04f9a4'>Radiant Fountain</a> | 0.15 | 2 |
+| <a href='https://api.scryfall.com/cards/b079e285-8431-46aa-bb04-70cac586ed0b'>Replicating Ring</a> | 0.2 | 3 |
+| <a href='https://api.scryfall.com/cards/cca62547-7dd3-4bb7-be5f-92c4fa51904d'>Foundry Inspector</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/8f932690-9a38-4a3f-8805-a192208152a3'>Plague Myr</a> | 1.65 | 1 |
+| <a href='https://api.scryfall.com/cards/5c9e6af4-522c-4dfa-895a-6946fe983e3c'>Nevinyrral's Disk</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/e5250db5-6dfc-46ef-a6f7-198a3e0594cc'>Tezzeret the Seeker</a> | 17.79 | 1 |
+| <a href='https://api.scryfall.com/cards/c5d0e808-d67b-4ea3-9c04-d20269fe692c'>Darksteel Citadel</a> | 1.02 | 1 |
+| <a href='https://api.scryfall.com/cards/c768267f-5ad2-4f4d-bbc7-6639325401c7'>Kuldotha Forgemaster</a> | 4.95 | 1 |
+| <a href='https://api.scryfall.com/cards/d8423d8d-744a-4bbe-a853-8ad756451bdb'>Mirrodin Besieged</a> | 4.25 | 1 |
+| <a href='https://api.scryfall.com/cards/c6c8d290-b5d2-412c-8db9-5a6246f430e8'>Guildless Commons</a> | 0.3 | 1 |
+| <a href='https://api.scryfall.com/cards/2c95a0a1-9c2c-44df-b0fe-c22efb6d87ee'>Darksteel Forge</a> | 19.31 | 1 |
+| <a href='https://api.scryfall.com/cards/a9a561bf-bddc-4ea7-bf71-9cdc07a71456'>Platinum Angel</a> | 13.1 | 1 |
+| <a href='https://api.scryfall.com/cards/0a71fb62-acbd-49f5-842f-0fc9fa48afea'>Solemnity</a> | 2.91 | 1 |
+| <a href='https://api.scryfall.com/cards/495d520b-7560-4ecb-ae62-143eeec5682f'>Unwinding Clock</a> | 16.19 | 1 |
+| <a href='https://api.scryfall.com/cards/38d347b7-dc17-417a-ab07-29fe99b9a101'>Sol Ring</a> | 2.0 | 1 |
+| <a href='https://api.scryfall.com/cards/72125260-f4b7-4317-99f1-cbb78646296d'>Marble Diamond</a> | 0.07 | 3 |
+| <a href='https://api.scryfall.com/cards/eb28b35c-28a5-4042-b21d-6d43658a16eb'>Crucible of Worlds</a> | 19.41 | 1 |
+| <a href='https://api.scryfall.com/cards/7980fc3b-71d5-427d-bd42-087256fd2059'>Staff of Domination</a> | 6.76 | 1 |
+| <a href='https://api.scryfall.com/cards/2d32960e-d182-455f-8e74-eb11b10050da'>Conjurer's Bauble</a> | 0.43 | 2 |
+| <a href='https://api.scryfall.com/cards/219ab03a-2b3b-4eef-8a42-2cbe793d2f33'>Ring of Three Wishes</a> | 5.33 | 1 |
+| <a href='https://api.scryfall.com/cards/51b2136c-392c-436d-9263-b3236adc4a10'>Pariah</a> | 3.27 | 1 |
+| <a href='https://api.scryfall.com/cards/e9ecee02-12c0-4aed-a679-41bce95e0cda'>Freed from the Real</a> | 2.83 | 1 |
+| <a href='https://api.scryfall.com/cards/af09af65-0a3b-42df-b0fd-372e2158beac'>Academy Ruins</a> | 12.8 | 1 |
+| <a href='https://api.scryfall.com/cards/e6f342b2-1ba6-4b72-9f03-bc076c795b3d'>Mishra's Self-Replicator</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/7678e008-f054-485d-ae21-6b97f83dd824'>Sanctum Gargoyle</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/18c016ad-bb82-4944-8c06-ab180b808041'>Palladium Myr</a> | 0.5 | 1 |
+| <a href='https://api.scryfall.com/cards/235dd8f1-215a-4b0a-9e94-0d0d5a3c730b'>Mechanized Production</a> | 9.13 | 1 |
+| <a href='https://api.scryfall.com/cards/07815e32-0b64-4c2b-84e6-a72336c45cf5'>Countermand</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/0bec6181-e214-4833-8c2f-8a10d59b2879'>Command Beacon</a> | 5.57 | 1 |
+| <a href='https://api.scryfall.com/cards/0f22bcce-4f9a-4e82-a684-63ab9cce90ed'>Burnished Hart</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/c5474bcc-4ffd-4b6d-98d0-891b766d5961'>Leonin Abunas</a> | 2.2 | 3 |
+| <a href='https://api.scryfall.com/cards/61a25790-29ac-4fc6-afd8-9c4063f4284d'>Island</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/d5439677-d3db-4083-8dd9-0d654016bd79'>Eldrazi Monument</a> | 9.41 | 1 |
+| <a href='https://api.scryfall.com/cards/a13ddda7-da6e-415e-8886-295514f862d4'>Cloudsteel Kirin</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/b7d7108f-635c-423b-988a-bc8fc4c6edef'>Crashing Drawbridge</a> | 0.33 | 3 |
+| <a href='https://api.scryfall.com/cards/b1e3a010-dae3-41b6-8dd8-e31d14c3ac4a'>Snow-Covered Plains</a> | 7.07 | 1 |
+| <a href='https://api.scryfall.com/cards/5da5587d-6b6c-4645-8cc9-2866d1e6911b'>Seat of the Synod</a> | 2.89 | 1 |
+| <a href='https://api.scryfall.com/cards/e22e5250-5285-4d7f-931b-545b73f5187f'>Ancient Den</a> | 1.63 | 1 |
+| <a href='https://api.scryfall.com/cards/85fbed1c-24f4-481f-9029-f5a294a18486'>Alloy Myr</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/b0ae94ed-7314-470b-baba-f2f58bbc894a'>Myr Battlesphere</a> | 0.49 | 1 |
+| <a href='https://api.scryfall.com/cards/3f1b0b1f-a152-4bc8-923c-1b3a7f151295'>Steel Overseer</a> | 0.59 | 1 |
+| <a href='https://api.scryfall.com/cards/773916fd-060e-4abc-a060-e18768807571'>Hangarback Walker</a> | 7.21 | 1 |
+| <a href='https://api.scryfall.com/cards/71a76840-47f7-4e1e-b68b-00cb7da98cdf'>Myr Turbine</a> | 2.63 | 1 |
+| <a href='https://api.scryfall.com/cards/2627acb7-57d9-4429-9bc5-e7dd444d8d48'>Gates of Istfell</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/71e2f832-6601-4232-b250-fd1c88538fbd'>Blasting Station</a> | 16.2 | 1 |
+| <a href='https://api.scryfall.com/cards/9650a717-b1e4-4cd2-894d-766f6b311369'>Fieldmist Borderpost</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/5acefadb-8b2f-4319-a5e9-1e8fd9ef3086'>Plains</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/f2805239-f30a-4eca-a10b-41673daaa287'>Stoic Rebuttal</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/35964fa6-800d-41d6-9f82-fb9c87deee56'>Override</a> | 0.15 | 2 |
+| <a href='https://api.scryfall.com/cards/329a8738-3e17-403a-857a-0ba529ce8cd1'>Walking Ballista</a> | 48.51 | 1 |
+| <a href='https://api.scryfall.com/cards/67b8701c-0f03-4ad0-9097-3caf885abd59'>Guilty Conscience</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/f2fc46e2-5e19-4999-a4cd-1e84697066c1'>Decree of Silence</a> | 10.02 | 1 |
+| <a href='https://api.scryfall.com/cards/22bb8779-ac19-43d6-b818-86eb8ee2f87d'>Archaeomender</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/6ac7672c-c75f-4ce4-8f28-2c5db623e752'>Unbender Tine</a> | 0.29 | 1 |
+| <a href='https://api.scryfall.com/cards/8002de90-93fb-48ea-a849-40fdad0aef5a'>Roadside Reliquary</a> | 0.17 | 2 |
+| <a href='https://api.scryfall.com/cards/b5cbd10a-b9a6-4c00-8280-72bb4add4390'>Hall of Heliod's Generosity</a> | 8.63 | 1 |
+| <a href='https://api.scryfall.com/cards/9d56844f-ee3b-4161-85d2-18b872a9b465'>High Market</a> | 2.62 | 1 |
+| <a href='https://api.scryfall.com/cards/e7ea7395-430e-4036-92c9-17a850ec2371'>Razortide Bridge</a> | 0.22 | 3 |
+| <a href='https://api.scryfall.com/cards/fa36b142-e67e-49da-9080-c5994e275266'>Etrata, the Silencer</a> | 0.44 | 1 |
+| <a href='https://api.scryfall.com/cards/94d1fc0f-5c8b-4e47-aaf8-8888c025f70f'>Strionic Resonator</a> | 14.12 | 1 |
+| <a href='https://api.scryfall.com/cards/4a3ce135-9c2f-45bd-b2db-c0e00c50c964'>Drake-Skull Cameo</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/2f585f52-7b07-4453-b543-9654d314aa36'>Court of Cunning</a> | 1.79 | 1 |
+| <a href='https://api.scryfall.com/cards/1d65d20c-09e5-4139-838b-7e0e48eb2b2b'>Helm of the Host</a> | 13.39 | 1 |
+| <a href='https://api.scryfall.com/cards/9ee1eea2-961f-445d-b035-6baed454f289'>Tezzeret, Master of the Bridge</a> | 14.84 | 1 |
+| <a href='https://api.scryfall.com/cards/e538b359-d893-422d-9d60-5f3e8ee0fa9e'>Capsize</a> | 0.98 | 2 |
+| <a href='https://api.scryfall.com/cards/86424491-a372-40c4-bfb5-faa2b2d41d4c'>Command Tower</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/170e792c-80d5-4775-ad95-37614574ab84'>Mystic Sanctuary</a> | 0.91 | 2 |
+| <a href='https://api.scryfall.com/cards/b1e666d9-d2ba-49a6-a2c7-cd2639bf4663'>Prosperous Thief</a> | 0.09 | 3 |
+| <a href='https://api.scryfall.com/cards/aa213dbb-c52a-4084-92aa-d0b5d97a97d9'>Bloodchief Ascension</a> | 22.94 | 1 |
+| <a href='https://api.scryfall.com/cards/7132999f-6e2d-4689-8131-7b12076a348d'>Island</a> | 1.82 | 2 |
+| <a href='https://api.scryfall.com/cards/105176cc-26b0-42a8-8913-5540f54656f7'>Nemesis of Reason</a> | 6.36 | 1 |
+| <a href='https://api.scryfall.com/cards/8d3f6cd2-0138-40e7-a975-3f7c68db0d93'>Psychotic Haze</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/f0578f26-1396-4e1d-9986-8fc6c55aeb66'>Island</a> | 1.53 | 1 |
+| <a href='https://api.scryfall.com/cards/5e648262-3b9b-4c58-8e29-48356e3cb064'>Clone</a> | 0.29 | 1 |
+| <a href='https://api.scryfall.com/cards/e1efb0d3-2c72-46ff-bdc1-1069967365a0'>Cabal Coffers</a> | 16.97 | 1 |
+| <a href='https://api.scryfall.com/cards/2efecdd9-bd3a-4b79-92da-6485589d5bde'>Deprive</a> | 0.28 | 1 |
+| <a href='https://api.scryfall.com/cards/7935570c-f7e0-4add-864a-4c804b26555e'>Rite of Replication</a> | 4.1 | 2 |
+| <a href='https://api.scryfall.com/cards/7edbde38-1653-4eb5-b196-8881375781cb'>Fleet Swallower</a> | 0.72 | 1 |
+| <a href='https://api.scryfall.com/cards/ce3367f8-5f5a-4205-909a-247b92a9c082'>Blade of Selves</a> | 2.36 | 1 |
+| <a href='https://api.scryfall.com/cards/2dc0bafd-debc-4b62-9fe0-56b4aad02484'>Unsubstantiate</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/a095fed4-0a2a-4092-b923-8f46c8ea22d8'>Swamp</a> | 0.34 | 1 |
+| <a href='https://api.scryfall.com/cards/9160baf7-5796-4815-8e9d-e804af70cb74'>Snow-Covered Swamp</a> | 0.35 | 1 |
+| <a href='https://api.scryfall.com/cards/29982d94-9824-4371-95f6-d5050b1895ce'>Sunken Hollow</a> | 0.48 | 1 |
+| <a href='https://api.scryfall.com/cards/2c52c96d-e20f-4025-b759-674b36cf0db3'>Sol Ring</a> | 1.34 | 1 |
+| <a href='https://api.scryfall.com/cards/f968c5e9-12a8-4542-90b4-84e0238fa375'>Time Stop</a> | 3.8 | 1 |
+| <a href='https://api.scryfall.com/cards/75c43923-7280-4ccb-810b-e8c38dd8a26f'>Moon-Circuit Hacker</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/3db75881-4d4b-4dd9-8d40-c8f89c04f713'>Unsummon</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/47c90f49-d1eb-420e-bfb6-b834a496860d'>Strider Harness</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/64513f0a-067d-4b70-bb23-9ebe606bda1a'>Phantom Steed</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/d6afeb07-ed44-4e15-99b6-436f8365326f'>Phyrexian Metamorph</a> | 7.26 | 1 |
+| <a href='https://api.scryfall.com/cards/7071d294-842c-4539-aba1-c68cd5c79848'>Kormus Bell</a> | 2.45 | 1 |
+| <a href='https://api.scryfall.com/cards/00beba34-54cc-4a30-8424-71a1215647a6'>Mirror Gallery</a> | 9.76 | 2 |
+| <a href='https://api.scryfall.com/cards/f6453040-38a3-4d3a-8e4b-51b72aa80186'>Renegade Doppelganger</a> | 0.33 | 1 |
+| <a href='https://api.scryfall.com/cards/357594c7-a9a6-468d-b262-e5f7d5e35f54'>Mukotai Ambusher</a> | 0.04 | 3 |
+| <a href='https://api.scryfall.com/cards/3009ba46-c9f8-46dc-8ffc-2aa4cef7b17c'>Demonic Tutor</a> | 42.62 | 1 |
+| <a href='https://api.scryfall.com/cards/34469923-9a48-4fa5-aff8-4e09926f039f'>Walker of Secret Ways</a> | 3.94 | 1 |
+| <a href='https://api.scryfall.com/cards/d507daa3-3f16-4ab1-81ea-794e5bb488fc'>Mirror Box</a> | 1.4 | 2 |
+| <a href='https://api.scryfall.com/cards/80dc0310-afd9-49b4-b58f-a0e91120c38c'>Admiral's Order</a> | 0.28 | 1 |
+| <a href='https://api.scryfall.com/cards/fc4111be-6dae-4ca5-bd58-c1ce7cfa9cf6'>Swamp</a> | 0.07 | 183 |
+| <a href='https://api.scryfall.com/cards/d510eece-4f55-4198-83fe-5291a76ffdcc'>Field of Ruin</a> | 0.28 | 1 |
+| <a href='https://api.scryfall.com/cards/9e1a9e38-6ffc-490f-b0be-23ba4e8204c6'>Urborg, Tomb of Yawgmoth</a> | 36.1 | 1 |
+| <a href='https://api.scryfall.com/cards/73866487-33f4-4f64-b100-2c4ddadcd74e'>Vault of Whispers</a> | 2.53 | 1 |
+| <a href='https://api.scryfall.com/cards/145d6d7b-1e87-47b7-baf3-d201458ad996'>Diabolic Revelation</a> | 1.35 | 1 |
+| <a href='https://api.scryfall.com/cards/5573b816-97d0-46c1-8438-f5740fa4759a'>Choked Estuary</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/5c06f58f-0419-4637-8060-4a93670a4c68'>Mistblade Shinobi</a> | 0.84 | 1 |
+| <a href='https://api.scryfall.com/cards/c0516453-3e6a-4b7f-8df6-72a6e207169a'>Clever Impersonator</a> | 2.78 | 2 |
+| <a href='https://api.scryfall.com/cards/9163cb04-ee28-4127-b53a-89c546996d7d'>Planar Incision</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/3a709559-fec3-44f4-a2bf-3396989b9189'>Leaden Myr</a> | 0.23 | 2 |
+| <a href='https://api.scryfall.com/cards/e8f7af1b-97c9-4954-bb21-1e389fcb6361'>Diabolic Tutor</a> | 0.72 | 2 |
+| <a href='https://api.scryfall.com/cards/6aa85af8-15f5-4620-8aea-0b45c28372ed'>Snow-Covered Swamp</a> | 0.39 | 6 |
+| <a href='https://api.scryfall.com/cards/3d99f4cd-7f6d-4f1a-a1d9-f8c3b6645038'>Charcoal Diamond</a> | 0.21 | 2 |
+| <a href='https://api.scryfall.com/cards/cacc36d9-4c4b-43b2-a8b4-d265deb1e6b2'>Silver-Fur Master</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/6d35bcc7-2280-4061-9a6c-e67038cfb114'>Dokuchi Shadow-Walker</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/367a67c7-54db-4336-b55a-3fa27625172a'>Ninja of the Deep Hours</a> | 1.31 | 1 |
+| <a href='https://api.scryfall.com/cards/ca911e9a-bd04-4531-a81e-3485e9cbe89e'>Nezumi Prowler</a> | 0.06 | 3 |
+| <a href='https://api.scryfall.com/cards/89a698a5-f4ac-4b04-96dc-32e1eeef6ac7'>Thousand-Faced Shadow</a> | 0.66 | 1 |
+| <a href='https://api.scryfall.com/cards/b87891cd-b457-4dff-8d18-a7eaf6748fc6'>Witch's Cottage</a> | 0.27 | 2 |
+| <a href='https://api.scryfall.com/cards/3017df51-67ae-4c3d-8210-086f83bc2040'>Biting-Palm Ninja</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/8887f26d-b097-4fbc-9c48-bdc656409a32'>Satoru Umezawa</a> | 0.2 | 2 |
+| <a href='https://api.scryfall.com/cards/1e8b209f-f577-45cc-9d18-03c1d67d391e'>Moonsnare Specialist</a> | 0.04 | 3 |
+| <a href='https://api.scryfall.com/cards/2679a847-7196-4a45-8610-229aa2e124d6'>Mindcrank</a> | 2.34 | 1 |
+| <a href='https://api.scryfall.com/cards/dbae9991-43a2-4afb-a882-fff6b0d89d12'>Covert Technician</a> | 0.04 | 5 |
+| <a href='https://api.scryfall.com/cards/72c72aef-1e32-48af-b8e4-afe1bc9ed346'>Consuming Aberration</a> | 0.42 | 2 |
+| <a href='https://api.scryfall.com/cards/f0016f82-f428-4ee4-bf60-0199b22b8453'>Silent-Blade Oni</a> | 0.56 | 1 |
+| <a href='https://api.scryfall.com/cards/bf700ec0-1fd3-4971-ab03-51365dc8f4f4'>Swiftfoot Boots</a> | 1.3 | 1 |
+| <a href='https://api.scryfall.com/cards/2667f1d1-18d3-4bb4-a071-dd65b237d733'>Cancel</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/6683416a-5820-4cd0-b28a-60a53239e9ef'>Lithoform Engine</a> | 6.97 | 1 |
+| <a href='https://api.scryfall.com/cards/285d22fa-1623-463a-83c0-a9aa7c969ce2'>Psychic Corrosion</a> | 3.4 | 1 |
+| <a href='https://api.scryfall.com/cards/93b04b69-817a-4567-98b3-d188b36a59ea'>Dimir Aqueduct</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/6cb76fa1-a930-468d-bfd4-dd06c2a9fe9e'>Skullsnatcher</a> | 0.21 | 2 |
+| <a href='https://api.scryfall.com/cards/3a5a5a85-b03d-4ab9-9d31-9c85a5e4c1f0'>Sky Diamond</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/9de0981e-54fc-4919-96a4-a9608a5452fc'>Dismal Backwater</a> | 0.08 | 4 |
+| <a href='https://api.scryfall.com/cards/6dfc7060-e374-486f-8029-d3fdfe4b61e7'>Seal of Removal</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/7f36775e-9e48-49cc-a771-d58481712edc'>Orvar, the All-Form</a> | 11.75 | 1 |
+| <a href='https://api.scryfall.com/cards/eb8a16f6-55c1-40eb-998f-592bf31916b1'>Bloodline Pretender</a> | 2.04 | 1 |
+| <a href='https://api.scryfall.com/cards/b1b959af-bb23-42e7-8848-7405ed597c8d'>Lightning-Core Excavator</a> | 0.04 | 4 |
+| <a href='https://api.scryfall.com/cards/fed81c72-743d-4d2a-97a6-22f5651e15d5'>Altar Golem</a> | 0.35 | 1 |
+| <a href='https://api.scryfall.com/cards/71ec1e1d-8c7b-40e9-b916-440f8acf3ea5'>Solemn Simulacrum</a> | 0.74 | 1 |
+| <a href='https://api.scryfall.com/cards/e681f44b-17af-4d4b-a7fa-9445e6001a5f'>Meteor Golem</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/1c4625ad-1c83-4095-a5a2-0fc9fa4dd5f2'>Precursor Golem</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/a6cb10f5-ee9f-49e6-826a-a2a2395daa92'>Mind Flayer</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/415a5946-6f9a-433f-9f1c-b99144daa170'>Mnemonic Wall</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/b83f5aea-80f2-4f3d-8508-9619413e0087'>Quicksilver Gargantuan</a> | 0.89 | 1 |
+| <a href='https://api.scryfall.com/cards/3a55f484-5734-469c-8d41-95ce44473ec1'>Salvager of Secrets</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/117d84f7-45c5-4cfc-a5cd-c44416b48417'>Crafty Cutpurse</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/59d38ef7-5017-4ea3-b97f-a8fe12d03e98'>Shipwreck Dowser</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/8bfa31b5-8a4f-4766-9606-648cb8ee2916'>Scholar of the Ages</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/23ac45cf-4dc8-47b9-8ca8-e72464f745d6'>Ornithopter of Paradise</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/32d0ae8f-3d46-4692-a23c-c461f8aa6a58'>Archaeomancer</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/2d0e3b84-31ea-4ff2-8028-1e983fad22d4'>Peregrine Drake</a> | 2.39 | 1 |
+| <a href='https://api.scryfall.com/cards/eb580daa-0cf3-4816-b8c5-49927682a91d'>Diluvian Primordial</a> | 0.54 | 1 |
+| <a href='https://api.scryfall.com/cards/95e37936-913e-4b16-a5a8-8aed733d702d'>Confounding Conundrum</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/e727bb9e-3510-4c8e-ac49-6d7217667a18'>Frozen Aether</a> | 1.54 | 1 |
+| <a href='https://api.scryfall.com/cards/c575e2cb-3990-4c73-b81c-e16311ec6bbb'>Unnatural Selection</a> | 4.63 | 1 |
+| <a href='https://api.scryfall.com/cards/6a83c2b6-8734-44a8-8b10-c8a6791e0336'>Paradise Plume</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/e0cd769e-1aaf-458c-849f-3b6ebc7fd8c5'>Thought Vessel</a> | 3.48 | 1 |
+| <a href='https://api.scryfall.com/cards/ee40458c-7f3a-4fa6-976f-be1f7a336fdc'>Arcane Signet</a> | 0.84 | 1 |
+| <a href='https://api.scryfall.com/cards/32a52319-e4a5-42a9-b9c5-35df42b46fd9'>Wayfarer's Bauble</a> | 0.62 | 1 |
+| <a href='https://api.scryfall.com/cards/00ff4cb8-a0e0-4527-a77d-03394065ffe0'>Arcane Encyclopedia</a> | 0.08 | 4 |
+| <a href='https://api.scryfall.com/cards/15856326-d943-476a-9d31-898b9f990bb6'>Panharmonicon</a> | 4.19 | 1 |
+| <a href='https://api.scryfall.com/cards/471d2aef-cfd4-4131-bbc7-62eeed9f3343'>Maskwood Nexus</a> | 1.55 | 1 |
+| <a href='https://api.scryfall.com/cards/3906d538-f1ca-4799-b91c-2e0d2934f241'>Delay</a> | 1.27 | 1 |
+| <a href='https://api.scryfall.com/cards/aedbcbaa-40f0-485f-8427-778edc2d2ec0'>Counterspell</a> | 2.51 | 1 |
+| <a href='https://api.scryfall.com/cards/f7a0c25a-8760-44ea-a418-fcd4a9761632'>Whirlwind Denial</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/fbad9449-d09c-4fd0-b2ad-2aa3a29e03bf'>Abjure</a> | 0.38 | 4 |
+| <a href='https://api.scryfall.com/cards/ad1bcb44-a562-4f66-b862-6d0ef3546ab4'>Sublime Epiphany</a> | 3.27 | 1 |
+| <a href='https://api.scryfall.com/cards/59ff8324-42b8-4eeb-8d0b-ea679c984933'>Tortoise Formation</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/63832647-bb4d-4380-8acb-cf11e8727672'>Masterful Replication</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/f5ebe939-fef3-4085-808c-41ff97e83a7e'>Clone Legion</a> | 0.77 | 1 |
+| <a href='https://api.scryfall.com/cards/a7da6982-9e57-41d2-a052-f2a3bb646436'>Clear the Mind</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/4b4f72ef-3939-467c-8fe4-fd1c215f2b1e'>Release to the Wind</a> | 0.57 | 1 |
+| <a href='https://api.scryfall.com/cards/4da50979-1f5d-48d1-9406-dfc785273c04'>Mind Games</a> | 0.3 | 2 |
+| <a href='https://api.scryfall.com/cards/347c6e76-dba4-4448-a4f4-d9591d4539c7'>Learn from the Past</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/c878bdc0-d697-4a2f-bba5-758b27f4247a'>Teferi's Time Twist</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/99f31a77-a4a9-4783-8885-c44552379ae6'>Aether Tradewinds</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/1323d548-e2fe-47c5-8df3-f181aed537c5'>Clockspinning</a> | 0.58 | 1 |
+| <a href='https://api.scryfall.com/cards/e259da60-c8bc-4a77-98ed-e529dc067732'>Whim of Volrath</a> | 20.65 | 1 |
+| <a href='https://api.scryfall.com/cards/f2c79e64-91bf-4e87-a4fd-3136ea67c5bb'>Standardize</a> | 0.9 | 1 |
+| <a href='https://api.scryfall.com/cards/be0110ba-49e4-4729-8a84-4d408b20df53'>Peer Pressure</a> | 0.96 | 1 |
+| <a href='https://api.scryfall.com/cards/2dee6dca-9c7e-4347-bea7-7fecc69e5827'>Slip Through Space</a> | 0.27 | 1 |
+| <a href='https://api.scryfall.com/cards/c2813677-91cc-4c8b-a8ea-403fa776c9f0'>High Tide</a> | 0.87 | 1 |
+| <a href='https://api.scryfall.com/cards/3c4273f6-bcce-4761-80ef-14cd4fc4bb19'>Aquitect's Will</a> | 0.26 | 4 |
+| <a href='https://api.scryfall.com/cards/c781cc80-5f57-4677-a9da-3523191cc7c6'>Moonlace</a> | 0.3 | 1 |
+| <a href='https://api.scryfall.com/cards/0dca4f46-0aad-484f-b4ea-ed61a4fc1a89'>Cerulean Wisps</a> | 1.09 | 1 |
+| <a href='https://api.scryfall.com/cards/fccd7eda-5c10-4aa7-a70c-b52f685972e4'>Ghostly Flicker</a> | 1.11 | 1 |
+| <a href='https://api.scryfall.com/cards/b7aba8e0-34e7-43ec-bce5-b6b472daa841'>Regress</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/8e6d881a-f7b1-471f-bc0b-64a79bb491c9'>Reality Strobe</a> | 0.33 | 1 |
+| <a href='https://api.scryfall.com/cards/6814d15f-e7a5-4a73-9adc-88a1a4dec6cc'>Dread Statuary</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/edbea2b5-eed3-464b-9d5c-9591f309f298'>Mirrorpool</a> | 1.86 | 1 |
+| <a href='https://api.scryfall.com/cards/8b63efb6-249c-4f57-9af1-baffe938520c'>Glimmerpost</a> | 0.22 | 4 |
+| <a href='https://api.scryfall.com/cards/0e013033-3995-4ba8-b0c3-0614c79aaaab'>Lotus Field</a> | 3.75 | 1 |
+| <a href='https://api.scryfall.com/cards/02f99756-d334-4dba-a375-ba3d91ecae62'>Detection Tower</a> | 1.27 | 1 |
+| <a href='https://api.scryfall.com/cards/2f28ecdc-a4f0-4327-a78c-340be41555ee'>Cloudpost</a> | 0.48 | 1 |
+| <a href='https://api.scryfall.com/cards/642054bb-e581-4d8f-b452-908dde035987'>Reliquary Tower</a> | 3.5 | 1 |
+| <a href='https://api.scryfall.com/cards/c5651e5e-2314-4e3d-a2c8-2579239314e1'>Halimar Depths</a> | 0.3 | 1 |
+| <a href='https://api.scryfall.com/cards/513d4c36-6ad4-4ee9-b161-3136eb59504f'>Coat of Arms</a> | 15.51 | 1 |
+| <a href='https://api.scryfall.com/cards/6f75d8c9-c15d-4474-9d3f-d35f49e46477'>Fabricate</a> | 6.27 | 1 |
+| <a href='https://api.scryfall.com/cards/2fb5330d-5c1b-4caa-8d30-3ca8303ff611'>Mulldrifter</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/4ae7a4a1-0da6-44a9-b7e8-a28733580d0c'>Path of Ancestry</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/bb8a103c-b776-4501-9441-a45b90391045'>Spark Double</a> | 9.62 | 1 |
+| <a href='https://api.scryfall.com/cards/f163cfbf-6df6-4af5-9fe4-23b0d511586a'>Nexus of Fate</a> | -1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/bca84fc4-4710-44c8-b90a-73ef888714d8'>Anowon, the Ruin Thief</a> | -1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/f484c817-af85-4e03-9f31-5809cc90eb03'>Nighthowler</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/d5795300-dcfa-4a40-9c23-79a061c26851'>Mind Stone</a> | 0.7 | 1 |
+| <a href='https://api.scryfall.com/cards/0d73c9c4-8955-499f-8f87-6500b35b4977'>Soaring Thought-Thief</a> | 0.07 | 5 |
+| <a href='https://api.scryfall.com/cards/491a3dc5-d297-47e1-acf9-dda103136519'>Marang River Prowler</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/06b56909-65b3-479f-8e52-d025641f4a8e'>Slither Blade</a> | 0.29 | 1 |
+| <a href='https://api.scryfall.com/cards/1b10e23a-7cf5-47dc-9c51-5cbe444a99c7'>Sygg, River Cutthroat</a> | 0.54 | 1 |
+| <a href='https://api.scryfall.com/cards/6d91ba59-4d52-43aa-b894-16d794a8d006'>Bonehoard</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/6d103181-25a1-4928-ac37-adf11038d5b5'>Jwar Isle Refuge</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/8b647204-715a-4f30-9ba3-f0be3410c0a0'>Spinal Embrace</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/a63a6da6-60f0-4adc-a10f-63c631ee5be3'>Stolen Identity</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/c6d60af9-d006-4441-974e-117599283ee3'>In Garruk's Wake</a> | 1.27 | 1 |
+| <a href='https://api.scryfall.com/cards/14d265aa-c1d8-4faa-b282-5c273ab725fd'>Invisible Stalker</a> | 1.22 | 1 |
+| <a href='https://api.scryfall.com/cards/64da2ec1-fca9-4488-8ac7-78d645a8bf62'>Marsh Flitter</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/a105c396-7c69-49ff-be06-891d51d861c6'>Necromantic Selection</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/89ed88b1-c2b8-4c6e-87a6-168035b2f8c8'>Arcane Signet</a> | 0.91 | 1 |
+| <a href='https://api.scryfall.com/cards/0b5579cf-4e3f-4b65-a253-465459f3da81'>Murder</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/f0f85057-5f4b-47d8-bb00-d993bed1a755'>Rise from the Grave</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/cbf32d5c-8d86-4e38-8d70-9ec369edac6e'>Extract from Darkness</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/2bcf89c2-32cc-4c26-8fe4-8cf54f5a2675'>Whispersteel Dagger</a> | 0.22 | 2 |
+| <a href='https://api.scryfall.com/cards/5d168856-5568-4ee0-942d-78865d2bb1ef'>Fated Return</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/3536a97f-565b-45c6-a54b-96afd2a268ec'>Enigma Thief</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/bc538d95-6b0e-4cab-b42f-73b51fc1affa'>Endless Obedience</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/aa4146f0-0c8c-4b8a-8d24-b6c5e33eba3d'>Blackblade Reforged</a> | 0.8 | 1 |
+| <a href='https://api.scryfall.com/cards/dd75155b-a13d-4bed-8014-70f27175aa74'>Stinkdrinker Bandit</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/c610beb6-6fd5-4230-ae74-240a005d5c8c'>Obelisk of Urd</a> | 2.35 | 1 |
+| <a href='https://api.scryfall.com/cards/b2514908-46ac-468b-b097-81449236eb43'>Ogre Slumlord</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/c8be7edf-807a-4a7b-ab48-78f309997210'>Notorious Throng</a> | 0.45 | 1 |
+| <a href='https://api.scryfall.com/cards/7a264eb1-9fd4-4cf3-8eff-0def0ccbfbd7'>Zulaport Cutthroat</a> | 0.9 | 1 |
+| <a href='https://api.scryfall.com/cards/49b11cb5-fe30-418d-abe5-65c4a8d77a8a'>Heirloom Blade</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/4677d5d1-de04-4631-8fcf-5ff754d701b1'>Oona's Blackguard</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/a921ff16-2cd1-4080-80a9-dd73c4eda5c7'>Open into Wonder</a> | 0.4 | 1 |
+| <a href='https://api.scryfall.com/cards/003dc436-a3af-4e65-b4f8-387155fbcb85'>Lazav, Dimir Mastermind</a> | 0.76 | 1 |
+| <a href='https://api.scryfall.com/cards/2ed2b1d9-3c23-4f2e-b816-6f2bea74b797'>Sepulchral Primordial</a> | 1.85 | 1 |
+| <a href='https://api.scryfall.com/cards/fbea42c8-6e9f-499d-9d26-401536afd5c2'>Oona, Queen of the Fae</a> | 0.66 | 1 |
+| <a href='https://api.scryfall.com/cards/6c7cfb9c-58e4-4f4a-9a2c-ba5a7ba34f03'>Silumgar's Command</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/d617970e-e33a-481c-bbae-5ed5197d9a1c'>Fact or Fiction</a> | 0.28 | 1 |
+| <a href='https://api.scryfall.com/cards/08e3dd7a-8378-4368-a5e4-a1ca7899a67b'>Dimir Locket</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/d850a93f-09ad-4c04-85d1-3a9e3652cd23'>Commander's Sphere</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/04692219-8850-4b05-aa60-64f32b0daade'>Faerie Vandal</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/d86d8c25-016b-4607-a3f7-01f7b3158a24'>Triton Shorestalker</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/bec81e20-b644-421a-9c93-5a3dc52eb88b'>Frogtosser Banneret</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/0505053c-8a9c-43ed-b44a-b52c56ba4f77'>Sure-Footed Infiltrator</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/fd8f1665-5884-411a-9449-08938713df6b'>Scytheclaw</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/28ba3c56-94f2-4bb3-86e2-e84d5b9fb013'>Military Intelligence</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/e5cada19-bf8a-47a7-b259-8dd0e1de215e'>Latchkey Faerie</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/ba61e204-825b-49e6-b713-c44f714b7539'>Rogue's Passage</a> | 0.45 | 2 |
+| <a href='https://api.scryfall.com/cards/685faa53-c0b3-4dbb-abd9-bf09067f6f91'>Syr Konrad, the Grim</a> | 2.97 | 1 |
+| <a href='https://api.scryfall.com/cards/703f57d5-d8bb-4fb6-9dc9-71a5b4308f04'>Master Thief</a> | 0.1 | 4 |
+| <a href='https://api.scryfall.com/cards/8a5edac3-855a-4820-b913-44de5b29b7d0'>Sol Ring</a> | 1.42 | 1 |
+| <a href='https://api.scryfall.com/cards/90934b70-d4af-4a3e-81b4-c3f202b12f31'>Dimir Signet</a> | 0.93 | 1 |
+| <a href='https://api.scryfall.com/cards/e20c6b51-48a3-4dbc-90b5-e08f40a58f63'>Dismal Backwater</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/2b7faa71-72f3-4b64-b6e2-d05ebd9c705d'>Dimir Guildgate</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/ec604fd6-5cbe-4066-9324-156eb26dc27b'>Whirler Rogue</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/0dc046ef-eeb9-4ef7-8cc5-172b7346355e'>Changeling Outcast</a> | 0.59 | 1 |
+| <a href='https://api.scryfall.com/cards/8b949b06-210d-4658-97a6-43f54eb18b87'>Submerged Boneyard</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/6a16a2e7-143a-46ce-9fb6-069a28bdd6bc'>Nightveil Sprite</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/26125983-e007-4a73-999d-fb2617a80261'>Price of Fame</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/99d861db-bb12-4fa8-9122-167e7e7898ec'>Myriad Landscape</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/c7c2eba3-a772-48e2-ad32-0b850f8f3bd4'>Scourge of Fleets</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/59356854-e84f-4cf6-92ca-e47a2108a8df'>Gonti, Lord of Luxury</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/50976f27-1878-46b0-a3c9-ac53616905ac'>Command Tower</a> | 0.28 | 1 |
+| <a href='https://api.scryfall.com/cards/e093f17a-8323-4ed7-8056-bf2563a2fa43'>Dimir Aqueduct</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/20f79f1a-690f-4ec1-86b8-49aa7ae8ff08'>Dimir Keyrune</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/8c052464-0e9c-4ac6-af50-ef81711972c8'>Soul Manipulation</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/67d69ddd-fbee-415b-90bc-dfe0ba9fc5d1'>Distant Melody</a> | 0.51 | 1 |
+| <a href='https://api.scryfall.com/cards/f675f509-4343-4568-96dd-265626cb6c2b'>Notion Thief</a> | 2.26 | 1 |
+| <a href='https://api.scryfall.com/cards/a022eacd-1cdd-42d7-8a4c-88e8a6527144'>Aetherize</a> | 0.72 | 1 |
+| <a href='https://api.scryfall.com/cards/112077b8-1514-4320-a70f-b23f3c7ce18a'>Merfolk Windrobber</a> | 0.07 | 5 |
+| <a href='https://api.scryfall.com/cards/fea6c1c8-eff9-4b66-b96d-e23016f0bb62'>Kotori, Pilot Prodigy</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/943f7244-aa62-423f-aaaa-680bdfb4f47e'>Aeronaut Admiral</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/08c5cdbe-2142-4ddc-b9b5-35ca60eb9970'>Crush Contraband</a> | 0.98 | 1 |
+| <a href='https://api.scryfall.com/cards/06bafa7d-1915-487a-96c8-b8aeafed20d4'>Dispatch</a> | 0.38 | 1 |
+| <a href='https://api.scryfall.com/cards/363d4c8e-f7bb-4838-a543-625f71a41257'>Reality Shift</a> | 1.24 | 1 |
+| <a href='https://api.scryfall.com/cards/e1187999-521d-4ed0-8673-6eb8f3c58bb8'>Sol Ring</a> | 1.25 | 1 |
+| <a href='https://api.scryfall.com/cards/d9ed9f21-5dc4-484d-bc31-8efc81254744'>Exotic Orchard</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/14f5f561-39fd-4cdf-b22e-40cfd6a19d12'>Plains</a> | 0.05 | 195 |
+| <a href='https://api.scryfall.com/cards/7eafe88e-ab38-442c-b147-bb01cc81178d'>Command Tower</a> | 0.27 | 1 |
+| <a href='https://api.scryfall.com/cards/4b32891f-ea17-4543-92ea-54097996a3cb'>Dance of the Manse</a> | 0.4 | 1 |
+| <a href='https://api.scryfall.com/cards/b7709220-02e3-4669-bdda-fd3e04981e1e'>Skycloud Expanse</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/40e52996-863b-46ee-893a-6ecb29f23106'>Prairie Stream</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/133424c1-4d10-4da2-9d7c-c6ea00c0c98a'>Armed and Armored</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/db4f8604-4c00-4efa-819f-f643a78e4119'>Spire of Industry</a> | 0.95 | 1 |
+| <a href='https://api.scryfall.com/cards/b45c4bbf-2c61-4d49-96c8-34a0fb0d6d02'>Release to Memory</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/e66a27a1-f15d-46d6-8247-f098603957f1'>Peacewalker Colossus</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/96e109f7-9be2-4ae0-a1e2-cfd296db84f1'>Thoughtcast</a> | 1.02 | 1 |
+| <a href='https://api.scryfall.com/cards/c2c0dfeb-2af0-4c91-bdfe-5270f64dff03'>Ironsoul Enforcer</a> | 0.28 | 1 |
+| <a href='https://api.scryfall.com/cards/d0ef159d-657a-4566-b9e0-f545df230025'>Research Thief</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/9250189d-357d-41cb-8dcf-45bed6599b40'>Raff Capashen, Ship's Mage</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/7c474f31-336d-44df-a7da-27aefd220e22'>Aerial Surveyor</a> | 0.55 | 1 |
+| <a href='https://api.scryfall.com/cards/c2be221c-76e2-4b18-a3c1-90ced436d01f'>Jace, Architect of Thought</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/c7bddb42-b754-4121-8ff7-e4e50df2eac6'>Cultivator's Caravan</a> | 0.32 | 1 |
+| <a href='https://api.scryfall.com/cards/3ebcc053-21c6-4708-b9fc-532e3749962f'>Silver Myr</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/4b2f5584-df67-439b-b0f0-9c0fdf62f18f'>Universal Surveillance</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/20fec02d-77af-4975-b410-7097c7c28e7e'>Emry, Lurker of the Loch</a> | 3.46 | 2 |
+| <a href='https://api.scryfall.com/cards/871279e6-9a59-470e-8acc-fd5fe4fda5b3'>Parhelion II</a> | 1.22 | 1 |
+| <a href='https://api.scryfall.com/cards/2beffa94-862d-4cf1-9272-7fe0425a60e7'>Sai, Master Thopterist</a> | 1.22 | 1 |
+| <a href='https://api.scryfall.com/cards/1642df77-6fe8-47cf-b750-ca4dd9b331ba'>Access Denied</a> | 0.34 | 1 |
+| <a href='https://api.scryfall.com/cards/be21540e-2048-45bf-b029-a6a2112f313a'>Hanna, Ship's Navigator</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/f5997e2d-a028-4863-801b-133c2e5ad209'>Shimmer Myr</a> | 0.15 | 2 |
+| <a href='https://api.scryfall.com/cards/85a89077-b384-4fca-9d26-7297962c1541'>Kappa Cannoneer</a> | 3.76 | 1 |
+| <a href='https://api.scryfall.com/cards/ac9b2c7b-c93b-4b97-999e-86faed8a26ee'>Imperial Recovery Unit</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/412d8300-926a-4f94-9edf-e45f07349fb9'>Foundry Inspector</a> | 0.4 | 1 |
+| <a href='https://api.scryfall.com/cards/fea0f8be-c242-49dd-bae3-0b306107ac0b'>Organic Extinction</a> | 0.53 | 1 |
+| <a href='https://api.scryfall.com/cards/ab4b5ff5-fd6a-4948-9c54-440bf6324bd1'>Katsumasa, the Animator</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/5fec09ec-a300-4d3c-8054-0250bb70b93b'>Solemn Simulacrum</a> | 0.76 | 1 |
+| <a href='https://api.scryfall.com/cards/cf80a8e3-1905-413c-a510-54fef2afde69'>Generous Gift</a> | 2.36 | 1 |
+| <a href='https://api.scryfall.com/cards/2c3bbbe9-91a3-4da5-a1b4-6aed4bd684de'>Vedalken Engineer</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/a24dfde7-0b29-4adb-914a-90eb2dd09ece'>Raiders' Karve</a> | 0.05 | 6 |
+| <a href='https://api.scryfall.com/cards/3c4bf679-01cc-4786-a3bd-89c8ae70fdfa'>Surgehacker Mech</a> | 0.13 | 2 |
+| <a href='https://api.scryfall.com/cards/2680ed41-da35-475a-9d80-ae2f4686feed'>Smuggler's Copter</a> | 0.82 | 1 |
+| <a href='https://api.scryfall.com/cards/4bca6877-4e1d-4ecb-8812-d75d3470ffee'>Fellwar Stone</a> | 1.05 | 1 |
+| <a href='https://api.scryfall.com/cards/93887cc3-888e-479f-9cc2-a0b908e364a5'>Sram, Senior Edificer</a> | 0.38 | 1 |
+| <a href='https://api.scryfall.com/cards/218a4867-e04f-498a-b384-9d7c6d44fb4f'>Myrsmith</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/4f8075be-8932-49b3-990b-4b365fa27e94'>Skysovereign, Consul Flagship</a> | 5.58 | 1 |
+| <a href='https://api.scryfall.com/cards/23f4b149-fad5-4ba2-a484-dd29d97d120d'>Indomitable Archangel</a> | 0.39 | 1 |
+| <a href='https://api.scryfall.com/cards/e98f6c14-dfc4-41a8-a66f-d98ca10b2dc9'>Thopter Spy Network</a> | 0.34 | 1 |
+| <a href='https://api.scryfall.com/cards/2a2c0a2f-07fb-4cc0-9b99-e5ff4303028d'>Cyberdrive Awakener</a> | 2.54 | 1 |
+| <a href='https://api.scryfall.com/cards/4f42d990-a7da-4274-a6c0-4daeb56ba480'>Azorius Signet</a> | 0.47 | 1 |
+| <a href='https://api.scryfall.com/cards/999538db-d65c-481b-82c8-ff7f71736c82'>Temple of Enlightenment</a> | 0.59 | 1 |
+| <a href='https://api.scryfall.com/cards/975dcfab-0281-4fee-92aa-021ea6c524c7'>Swift Reconfiguration</a> | 1.6 | 1 |
+| <a href='https://api.scryfall.com/cards/64d978dd-f194-4f5c-97ca-cadb1a105d39'>Whirler Rogue</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/cf4bb9de-ba7c-4916-b8ed-e2e644c06b58'>Mobilizer Mech</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/12331b1d-a561-4a8c-8e85-ed3a607ce508'>Gold Myr</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/59b7450c-3163-4f12-9af1-2e998a6c36cf'>Imposter Mech</a> | 0.87 | 1 |
+| <a href='https://api.scryfall.com/cards/5b245a5b-5a99-4d22-99ef-3f5bf49c3262'>Arcane Signet</a> | 0.85 | 2 |
+| <a href='https://api.scryfall.com/cards/be046e0a-6509-450b-b34f-29d5a5e3472e'>Prodigy's Prototype</a> | 0.06 | 4 |
+| <a href='https://api.scryfall.com/cards/969ac7dd-f3aa-4888-9ff0-d16a31b5e7a9'>Shorikai, Genesis Engine</a> | 0.95 | 1 |
+| <a href='https://api.scryfall.com/cards/ef51caf8-f9d9-48d7-9145-9dfc91054f70'>Swords to Plowshares</a> | 2.21 | 1 |
+| <a href='https://api.scryfall.com/cards/9849087e-ea39-4667-b879-51ecdff4bf6a'>Arcanist's Owl</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/ed796f1a-683d-4ac5-af48-ca58a557a74f'>Etherium Sculptor</a> | 0.8 | 1 |
+| <a href='https://api.scryfall.com/cards/0392196d-cd02-47e4-be7f-588ebee859fe'>Port Town</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/f284c983-6d8e-4aca-85e5-46af8556fb5c'>Cataclysmic Gearhulk</a> | 0.22 | 2 |
+| <a href='https://api.scryfall.com/cards/c86cf087-c50a-487a-bc1a-eee5410f14d9'>Weatherlight</a> | 0.49 | 1 |
+| <a href='https://api.scryfall.com/cards/53b1bbce-db5b-41a5-ab0a-22c3cd4cfd8e'>Colossal Plow</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/718c7383-d2e0-449b-b5b5-378d7c6e1fcb'>Drumbellower</a> | 3.57 | 1 |
+| <a href='https://api.scryfall.com/cards/640ff8a9-9dff-4fc7-bafa-6afaa3d9c153'>Riddlesmith</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/c1f5dd1b-bc42-44a7-aabf-b1b9a5db584d'>Teshar, Ancestor's Apostle</a> | 0.36 | 1 |
+| <a href='https://api.scryfall.com/cards/4eab5ee9-334d-4f0e-8217-c69dc8b2db8f'>Mirage Mirror</a> | 1.95 | 1 |
+| <a href='https://api.scryfall.com/cards/ab02f8fb-5d1d-4a65-8283-de70d2a8d048'>Master of Etherium</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/dc3d19ff-b618-4b07-99a8-ea6e7ee72459'>Bone Saw</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/1f75f13e-43e6-4118-83a3-0446c2089d84'>Spidersilk Net</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/e83d1ed5-3a49-4cfa-bad2-e342ef28649e'>Psychogenic Probe</a> | 0.36 | 1 |
+| <a href='https://api.scryfall.com/cards/bda22fad-8149-42fb-b915-2c2580efb353'>Bonesplitter</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/9ccb4b1e-ef8f-4c5f-8b5b-6148455442f7'>Ceremonial Knife</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/26f4d2b1-31d7-40d8-bd4e-cdd128076d0f'>Spellbook</a> | 1.38 | 1 |
+| <a href='https://api.scryfall.com/cards/21b589ab-45a0-480a-a891-581c34f8a9bf'>Jack-o'-Lantern</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/2263ceaf-49d2-40fe-86b8-146271b11e46'>Scroll of Griselbrand</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/3a88f807-96ce-432f-aaf5-d0097d234a4b'>Jawbone Skulkin</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/86c9838e-aa72-49fc-bae2-f880bcbc9313'>Trusty Machete</a> | 0.29 | 2 |
+| <a href='https://api.scryfall.com/cards/ea3a9cdb-4842-44b3-8143-0fda31692600'>Explorer's Scope</a> | 0.17 | 2 |
+| <a href='https://api.scryfall.com/cards/bbe257c5-d2f8-4a4f-bf74-f6dc4b6861e4'>Universal Solvent</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/68e25c75-5e20-4990-9b7e-9d04c94fee9f'>Mana Cylix</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/326e178c-29dd-4c2d-a888-fefec04d1be7'>Barbed Sextant</a> | 0.16 | 2 |
+| <a href='https://api.scryfall.com/cards/6d989daa-78eb-4120-81b5-7866a7b04590'>Witches' Eye</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/cbd47a02-5a6e-4daa-9877-f65c8639c569'>Flayer Husk</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/0fc2478f-e624-46fb-85af-1254564cd4d2'>Weathered Runestone</a> | 0.23 | 3 |
+| <a href='https://api.scryfall.com/cards/bbe257c5-d2f8-4a4f-bf74-f6dc4b6861e4'>Universal Solvent</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/0fc2478f-e624-46fb-85af-1254564cd4d2'>Weathered Runestone</a> | 0.44 | 1 |
+| <a href='https://api.scryfall.com/cards/afeb5a30-016a-465f-bdf0-e2df2d1bef8c'>Trailblazer's Boots</a> | 3.51 | 1 |
+| <a href='https://api.scryfall.com/cards/60916ebe-6d84-4873-bd91-351bbe219c57'>Raven Wings</a> | 0.02 | 7 |
+| <a href='https://api.scryfall.com/cards/7fafcefa-d33c-4d73-b3b7-2930f28b845e'>Contagion Clasp</a> | 0.68 | 4 |
+| <a href='https://api.scryfall.com/cards/9bf5e4ad-a6e9-4b7c-a1ec-8246d3a3b6ca'>Goldvein Pick</a> | 0.16 | 3 |
+| <a href='https://api.scryfall.com/cards/4cd40276-016b-475f-906f-74d31dceaf70'>Stuffed Bear</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/c0f828c7-aedc-462b-8455-46e8a90feb85'>Blight Sickle</a> | 0.1 | 3 |
+| <a href='https://api.scryfall.com/cards/9543d454-27d6-42ba-aad8-54811d180cfb'>Tormentor's Trident</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/f4263068-b440-4d43-8f24-014bbe392297'>Wurm's Tooth</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/4f5a3293-f3e7-4f68-af6a-b478959226c1'>Codex Shredder</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/9af87c24-a534-462b-968b-dccf6ac63299'>Bubbling Cauldron</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/16860147-14fd-40bc-804d-0716a77294ad'>Angel's Feather</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/703a03ac-5bb5-4e36-ab9b-a5c007ffc03d'>Armory of Iroas</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/39f6aecb-5420-46e3-8eb0-bb560ad5b37e'>Lich's Mirror</a> | -1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/5d346c67-744c-4605-be62-18d794e83049'>Sunset Pyramid</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/ae9a8e44-f5de-497d-be48-adf1bcbaec97'>Pyre of Heroes</a> | 1.06 | 1 |
+| <a href='https://api.scryfall.com/cards/169356e0-46dc-4096-8e66-36726454f104'>Altar of Dementia</a> | 8.26 | 1 |
+| <a href='https://api.scryfall.com/cards/7de826a0-6e68-4d40-a51c-8d6e7a4148d1'>Spell Satchel</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/38bb3e3c-1a7d-4bc4-b69d-6a8e9f1b3fe7'>Cloak and Dagger</a> | 1.65 | 1 |
+| <a href='https://api.scryfall.com/cards/13d6d9fc-509b-42db-8ac1-85066eb6e9c4'>Iron Apprentice</a> | 0.07 | 3 |
+| <a href='https://api.scryfall.com/cards/217a05a7-557f-4879-8fd1-d6c003f1751e'>Kitesail</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/44da7915-98bd-4f4e-9bcc-801eb10c8a18'>Warmonger's Chariot</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/7e2825f5-8112-4108-910a-4303b2d57356'>Wooden Stake</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/4f707119-ede9-4697-b723-d6cea96e6f2b'>Necrogen Censer</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/eb8a16f6-55c1-40eb-998f-592bf31916b1'>Bloodline Pretender</a> | 0.47 | 1 |
+| <a href='https://api.scryfall.com/cards/34750231-34aa-401c-b192-47b56588923a'>Letter of Acceptance</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/0a7dd6c9-628b-4dde-a385-604501dd0979'>Spectral Searchlight</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/f8c54d41-683e-42fd-8aa4-371dddf3bcb3'>Mana Geode</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/c5dc0635-0cc4-419e-ab64-c07a69f34f75'>Pirate's Cutlass</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/1ef89770-2dbb-4a57-99f7-191591bb8e38'>Runed Crown</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/df6317b0-15fd-4924-9302-41bed2354546'>Obelisk of Naya</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/7c411784-fe96-42c0-baaa-36616d2be0b3'>Grifter's Blade</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/46ad31cd-38dc-4fd3-b9e4-8988f4898719'>Ronin Warclub</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/3453084c-42cc-4241-b244-c79e704f96c8'>Papercraft Decoy</a> | 0.01 | 8 |
+| <a href='https://api.scryfall.com/cards/028506ad-ad36-44e5-b488-d038e2d2445f'>Dungeon Map</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/0b79b30e-e7aa-490e-b130-de7533e6e13b'>Searchlight Companion</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/53515042-e729-4a7c-ac3b-36ef70dbbe8d'>Walking Atlas</a> | 0.76 | 1 |
+| <a href='https://api.scryfall.com/cards/b26e28d4-50e1-41db-984d-c55781295012'>Cold Storage</a> | 0.87 | 1 |
+| <a href='https://api.scryfall.com/cards/d11bc5d8-378a-441f-b92a-a60005745f25'>Skinwing</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/e14613bc-0083-48d6-ac10-b2839657e84b'>Bonehoard</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/520e5505-429b-4da0-b25e-14b8d4e81ce3'>Containment Construct</a> | 0.41 | 3 |
+| <a href='https://api.scryfall.com/cards/6c1e2ca0-7bb1-45eb-a57d-a8f00f5293a1'>Skull Catapult</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/28cbcab8-5593-4ef0-8689-77e71fb1c41a'>Cursed Rack</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/d0d7ff8f-7733-4323-8575-c50b3e730dbc'>Strandwalker</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/10b9a9f6-5be5-47aa-8e2f-576d06c5abb9'>Brainstone</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/814e5257-464e-4451-8bee-780d80d8dec5'>Seer's Sundial</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/e95365a8-514a-4212-9d65-b0cdf2cd06e5'>Loreseeker's Stone</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/77a0b45f-d044-4d59-81fd-c2683beca401'>Dreamstone Hedron</a> | 0.23 | 2 |
+| <a href='https://api.scryfall.com/cards/e94e53f0-cfca-4b40-9867-94ea771463cd'>Extruder</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/1135f3b7-8c6b-47ff-b895-b7127836b0bf'>Trigon of Rage</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/26e215e0-836c-4b37-8f9a-9093a535bff1'>Trigon of Corruption</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/f8da37ba-52e3-417e-8d7b-6c3e060552a4'>Trigon of Thought</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/fba3fe29-067f-4c7e-8b3b-779f3b37712a'>Colossal Plow</a> | 0.06 | 3 |
+| <a href='https://api.scryfall.com/cards/45c48042-178f-432e-9eee-10bfa1e0795f'>Funeral Longboat</a> | 0.01 | 4 |
+| <a href='https://api.scryfall.com/cards/363cb43a-e358-4380-a42f-9b095ca522c6'>Brute Suit</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/7c619116-1eae-439d-9b1f-639643458a23'>High-Speed Hoverbike</a> | 0.09 | 4 |
+| <a href='https://api.scryfall.com/cards/b7d49f9c-2dd3-4aed-9b78-e1bcad354a35'>Thundersteel Colossus</a> | 0.03 | 5 |
+| <a href='https://api.scryfall.com/cards/4900862f-90f4-450b-a775-219da4ce67ef'>Dragonfly Suit</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/75e8d71c-3a0b-4042-a0f7-e99e92a79dc2'>Shrine Steward</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/a29e17ba-d584-4296-9f43-17467edaa25f'>Stonework Packbeast</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/507979fd-5459-4933-8707-adc303750ce9'>Myr Sire</a> | 0.12 | 2 |
+| <a href='https://api.scryfall.com/cards/5a15c8ef-04ad-4aab-a7f1-c7a90c10eb50'>Perilous Myr</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/ba7e563d-964c-4afd-9e21-9d400f8719d4'>Bronze Sable</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/9dbbbbf6-e3ed-4a36-bedf-11c3514ff965'>Runed Servitor</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/ff5ed574-4ff2-4f67-8989-d3e47ba1d750'>Fang Skulkin</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/792e2aed-ce6e-4fa1-a31c-a4574e5cf1f5'>Wall of Tanglecord</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/6422e062-0ce1-4239-8c2d-06449627a55a'>Hedron Scrabbler</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/6f906219-7a6a-427b-93c4-4d958cbd171c'>Void Mirror</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/4fa13084-3e68-49f4-8cc9-6d02286fd150'>Scorn Effigy</a> | 0.08 | 4 |
+| <a href='https://api.scryfall.com/cards/4fa13084-3e68-49f4-8cc9-6d02286fd150'>Scorn Effigy</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/875df3ef-fab4-455f-bfdb-8f6361b27bf6'>Filigree Familiar</a> | 0.04 | 3 |
+| <a href='https://api.scryfall.com/cards/fd401525-b874-4af2-99a3-c2c83e22547e'>Fodder Tosser</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/437a91e7-f98e-4ed8-9ab7-f4db62979f5b'>Reinforced Bulwark</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/49ff9859-92a4-4732-94bf-6c02b0a57338'>Phyrexian Ironfoot</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/07be53ef-c7b7-44fe-9754-b76871c6b55f'>Fellwar Stone</a> | 0.96 | 1 |
+| <a href='https://api.scryfall.com/cards/1d638741-1cfe-4496-8d7e-7849a82dcb24'>Rust Tick</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/05b54aaa-93e2-4f8b-8d06-2a848498d1fd'>Howling Golem</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/7b497153-69a8-480e-b02f-88afec9d5053'>Thaumaturge's Familiar</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/05460615-4c24-487f-841a-ca14106e5688'>Stonework Puma</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/87845cc2-bf5d-491d-bfa2-b33b034557a4'>Blood Servitor</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/ea91be37-aca0-484a-ab94-0186073269d2'>Hoof Skulkin</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/5cad1524-9e75-47e0-b817-47110634802a'>Crossroads Candleguide</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/c0a36448-ca96-4c10-baf9-89c248c3510b'>Hedron Rover</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/90583dcc-6e0e-45e6-9209-8ad3a6c94555'>Patagia Golem</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/c66c9c30-35c4-4813-a766-a54a418baf8b'>Patagia Golem</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/88b449a5-634f-47b1-a757-86a6849f6777'>Pierce Strider</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/02a7e1a6-347e-47bc-8a14-e584a45941e1'>Clockwork Condor</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/ce881675-690f-4d4c-a951-ab8302e904ab'>Chrome Steed</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/d74e1117-0196-4268-be97-a1e81b5dc90e'>Biblioplex Assistant</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/b769231a-768e-48cb-bbab-55df29448047'>Strionic Resonator</a> | 3.36 | 1 |
+| <a href='https://api.scryfall.com/cards/7b608c28-18cc-47d6-861e-2fd783aa3ade'>Soliton</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/8ed3c301-8d8e-45fe-902a-af03a79525be'>Tangle Hulk</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/86111211-b3d9-42eb-bab7-ee2cf9acda5d'>Mantis Engine</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/c200239c-d28e-4c55-a7bc-64a1d138cc2f'>Lumengrid Gargoyle</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/2019a1b4-7f88-4c8a-9ef4-bdfbd2f9e9cc'>Razorfield Rhino</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/4e154012-5922-45d1-8e20-d2a2b1de0785'>Gold-Forged Sentinel</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/94858a1d-7107-4ae4-a519-c3f7904146fa'>Thopter Assembly</a> | 0.45 | 1 |
+| <a href='https://api.scryfall.com/cards/b126ee24-9597-4ee8-9c4d-5caed585424a'>Steel Hellkite</a> | 0.52 | 1 |
+| <a href='https://api.scryfall.com/cards/1e5d9c01-f8db-43ef-bb50-f9e38e99f8d0'>Lightning Greaves</a> | 7.17 | 1 |
+| <a href='https://api.scryfall.com/cards/02551bee-335c-4bf7-b38e-67dd71d1d567'>Locthwain Gargoyle</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/ba2b7213-f0db-4ef9-aab7-37028f9479af'>Sandstone Oracle</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/49b913f3-6581-45ae-9cdb-274c2ccd8899'>Hexplate Golem</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/322491d2-d082-4d38-8d81-8588c011e725'>Maelstrom Colossus</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/7a0c7a2a-85c1-4b20-95b9-04aab0bd0d3b'>Filigree Angel</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/1dc3aa88-2555-4862-a771-e9d5b9eab3ad'>Nullstone Gargoyle</a> | 1.2 | 1 |
+| <a href='https://api.scryfall.com/cards/245a683f-280e-405c-aa2a-dfabb78dc34e'>Traveler's Amulet</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/45fa226c-cc31-4c22-a167-40985706557b'>Bronze Cudgels</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/cd2a474b-5eac-4e0d-b65c-5610385f2011'>Pilgrim's Eye</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/af3ae93e-6094-483d-b2c0-ae117ad01293'>Armillary Sphere</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/1d981026-b2df-4d8d-a9b4-296b011d9925'>Ecologist's Terrarium</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/6c877da3-68fa-41d0-8a24-8c79fcd8ecc1'>Lotus Petal</a> | 20.37 | 1 |
+| <a href='https://api.scryfall.com/cards/53498863-2e69-4b98-b0f0-7ae13dc1033e'>Grindclock</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/7a4e1580-dd26-4f4b-ac98-3e6fa7b879d5'>Patchwork Automaton</a> | 0.43 | 2 |
+| <a href='https://api.scryfall.com/cards/cdd5015e-fe31-42e3-923d-44b9cdece273'>Coldsteel Heart</a> | 1.51 | 1 |
+| <a href='https://api.scryfall.com/cards/ba7665c7-c211-45d7-bde1-f7952548025f'>Culling Dais</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/defaeb68-3f8a-4740-b13f-8c71c7e9c8b4'>Circuit Mender</a> | 0.15 | 3 |
+| <a href='https://api.scryfall.com/cards/513ba8b6-9583-405f-84a5-9d2ca42f9597'>Millikin</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/d61e596f-97ef-4eb3-af42-ddfe50d07667'>Network Terminal</a> | 0.06 | 5 |
+| <a href='https://api.scryfall.com/cards/b490e065-b54a-4015-9768-d0e62f0e2e84'>Dramatist's Puppet</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/da4ccf70-b661-46ea-bea9-4466a3a35562'>Towashi Guide-Bot</a> | 0.04 | 3 |
+| <a href='https://api.scryfall.com/cards/e1691374-e9f2-4a8b-abdb-0bb1dbc96715'>Ominous Parcel</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/958af4ba-f29e-47ef-995e-3985982c75ad'>Walking Skyscraper</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/ad357ed4-b4f2-45b5-b7c4-3c6013a4ea3d'>Sparkhunter Masticore</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/b04fd8e8-ee8d-4cb7-87ab-955303c46ece'>Sea Gate Colossus</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/3eebf6a6-f1fd-40a1-ac27-367deafa6f2a'>Runaway Trash-Bot</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/c3200fa2-182f-4515-b326-ab4fdb95c8c1'>Mycosynth Golem</a> | 17.32 | 1 |
+| <a href='https://api.scryfall.com/cards/9c224bf0-5641-4160-9d5c-46141ea8372a'>Tormod's Crypt</a> | 0.31 | 1 |
+| <a href='https://api.scryfall.com/cards/3cef2e6a-e46b-4425-b507-3213cfd1400c'>Golem Foundry</a> | 0.33 | 1 |
+| <a href='https://api.scryfall.com/cards/56dc98fb-a956-46f7-aca2-97929b4236ee'>Crystal Ball</a> | 0.33 | 1 |
+| <a href='https://api.scryfall.com/cards/43ec9201-06e7-4a70-8dcf-7462a019965d'>Liquimetal Coating</a> | 0.79 | 1 |
+| <a href='https://api.scryfall.com/cards/0eb67150-53e4-4164-bea5-dd3659469b8e'>Tower of Eons</a> | 0.27 | 1 |
+| <a href='https://api.scryfall.com/cards/3bd39a06-c53a-42c2-b2df-028358f03406'>Forgotten Sentinel</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/1e01bcb4-e823-4da5-b433-e75be3356367'>Chrome Replicator</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/991370bd-a96a-4ed0-bdf9-f03b98191abf'>Enormous Energy Blade</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/6319b84b-8a3d-4bc8-af48-8b500f124be1'>Undercity Scrounger</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/24b8efe0-2f7b-4ada-a1b9-9c5f9e6a114d'>Chainflail Centipede</a> | 0.01 | 5 |
+| <a href='https://api.scryfall.com/cards/e7006f43-0b10-4693-b06f-e7cf86ab4129'>Poet's Quill</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/d43a3eb7-3daf-4667-b824-1f5d801c9341'>Witch's Cauldron</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/510af4b7-289a-4de7-9a22-00fe1e8aaabf'>Wand of Orcus</a> | 3.45 | 1 |
+| <a href='https://api.scryfall.com/cards/105b6e18-bcd8-43b7-870d-6c7e5c06f99b'>Mind Carver</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/89e2bc57-8f18-4ba1-a11b-9d69d029f56a'>Malefic Scythe</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/fd4aade3-b1e3-43d1-b4a8-6b55ecdb4327'>Draugr's Helm</a> | 0.03 | 4 |
+| <a href='https://api.scryfall.com/cards/93b68168-e77d-4745-9393-726ef9fb72ec'>Reaper's Talisman</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/84a341a4-8177-41cd-a3bc-eff5dee48c94'>Staff of the Death Magus</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/6bf084fe-7762-49c5-974a-cdecc10666b3'>Cosmos Elixir</a> | 1.08 | 1 |
+| <a href='https://api.scryfall.com/cards/488ee202-0d28-4cc0-8a7d-644d9878e952'>Virus Beetle</a> | 0.06 | 3 |
+| <a href='https://api.scryfall.com/cards/dce72636-08e4-484e-ad81-4d1597a31ffb'>Contagion Engine</a> | 10.35 | 1 |
+| <a href='https://api.scryfall.com/cards/0d8ac24f-3309-453a-b2d6-6363df9a1ddd'>Dimir Cluestone</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/73abe574-6fb8-4809-9c18-0cf989f986f5'>Ironhoof Boar</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/37a00f95-d563-4d51-a5f2-af139261921a'>Simian Sling</a> | 0.03 | 5 |
+| <a href='https://api.scryfall.com/cards/c47931c9-685d-4b83-8299-bc347224b4e8'>Experimental Synthesizer</a> | 0.19 | 6 |
+| <a href='https://api.scryfall.com/cards/5cf531dd-0a93-43e3-880b-f705fa5f533d'>Dragonspark Reactor</a> | 0.09 | 3 |
+| <a href='https://api.scryfall.com/cards/3a0d5f7d-4e8a-42ad-8875-610004bd9796'>Ogre-Head Helm</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/a747e6cf-c687-4c4f-8e07-d51165d6cb62'>Lizard Blades</a> | 0.41 | 1 |
+| <a href='https://api.scryfall.com/cards/f7ff9be1-765f-4001-a0ac-39c8099924eb'>Towashi Songshaper</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/7c8f5da8-13a8-4b39-8ddc-7661892924af'>Bronzeplate Boar</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/719f20d9-2baa-49b3-8c6a-89f21a07d538'>Unstoppable Ogre</a> | 0.01 | 4 |
+| <a href='https://api.scryfall.com/cards/5776e576-5562-45ea-a29b-185410317e17'>Scrapyard Steelbreaker</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/5d33a5b7-797b-4079-8d62-edd124c0fb5a'>Rabbit Battery</a> | 0.21 | 3 |
+| <a href='https://api.scryfall.com/cards/2318d4f8-309e-4645-b6d1-46572edd6996'>Tormentor's Helm</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/28cb7e94-01df-4e80-9b24-bc303a27ffd6'>Meteoric Mace</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/f9cc132f-d4c1-4bc4-9c9e-f63ab5e7d094'>Dwarven Hammer</a> | 0.04 | 3 |
+| <a href='https://api.scryfall.com/cards/5a561484-438b-4ce9-911e-97078ac5b0fa'>Fire Diamond</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/3280f0d0-de0d-4f87-a6ef-c941cb7c9784'>Scavenged Blade</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/08a86009-4637-4b6c-9d36-367151583668'>Twinshot Sniper</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/973685e8-3df1-436b-b5c2-01573a92b61e'>Glittering Stockpile</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/c059e4b4-1542-4b5c-810a-9f0abac5792b'>Goldhound</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/154ed1d3-e24a-48ba-8f7b-be254c08d1cc'>Arcbound Whelp</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/ac00521f-1b7d-478d-afe8-6761ea512d8d'>Enthusiastic Mechanaut</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/c84db1e2-855c-4169-a9cc-a54c73c14e0c'>Oni-Cult Anvil</a> | 0.15 | 2 |
+| <a href='https://api.scryfall.com/cards/dcafff1a-e220-40ff-8c00-de6037219bc6'>Arcbound Slasher</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/e73cc6a7-0a18-488c-b52a-787da95a2e6b'>Webspinner Cuff</a> | 0.05 | 4 |
+| <a href='https://api.scryfall.com/cards/f3017ae1-9744-493b-a1a2-fb2a60f7e7e4'>Bramble Armor</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/34c599c7-bcc1-4005-b830-1fa4811af66e'>Elven Bow</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/9965a54b-8b22-418c-9a0d-bf154932f2e2'>Skyclave Pick-Axe</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/f7d54ec2-a458-4e13-97b8-be99b7338548'>Combine Chrysalis</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/a3152f1f-5d3f-4bc4-9b6f-f2983ab3f691'>Icebind Pillar</a> | 0.03 | 3 |
+| <a href='https://api.scryfall.com/cards/9d8bc0e9-a536-4bca-92a6-8dca85e1e984'>Moonsnare Prototype</a> | 0.06 | 6 |
+| <a href='https://api.scryfall.com/cards/8672f626-3e46-447b-841f-6a04cd380653'>Futurist Sentinel</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/70017989-aaf1-4a70-98aa-e447d6ce793a'>Parasitic Strix</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/ab8b1ec2-9303-4722-8644-b3bc1a5c387f'>Giant's Amulet</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/1a15d8d9-0575-4add-ae8d-4576e8ed2cbe'>Mnemonic Sphere</a> | 0.03 | 5 |
+| <a href='https://api.scryfall.com/cards/7497f147-146d-4a76-b670-bd84e07352b3'>Armguard Familiar</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/c3dd7f1a-5d43-4218-a9d8-7cc4f6a18ecd'>Saiba Trespassers</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/0394c8df-2e8a-4477-93b7-569934d7b936'>Mirrorshell Crab</a> | 0.04 | 5 |
+| <a href='https://api.scryfall.com/cards/0f7f1148-7b1b-4969-a2f8-428de1e2e8ff'>Midnight Clock</a> | 0.39 | 1 |
+| <a href='https://api.scryfall.com/cards/5a37719a-2a87-4870-8f25-12544ca2f2cf'>Network Disruptor</a> | 0.07 | 3 |
+| <a href='https://api.scryfall.com/cards/28273a5b-57b3-4b7a-b017-5886c171c9c9'>Mindlink Mech</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/c9fa6d4c-78dc-4b40-9ce8-a0e593d4001f'>Moonfolk Puzzlemaker</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/480eb74f-9e62-41f7-b48a-b4249aab5752'>Master Transmuter</a> | 2.93 | 1 |
+| <a href='https://api.scryfall.com/cards/8e971a72-31db-4b7e-b9b9-9f45e8c3f87e'>Acquisition Octopus</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/6afc67d1-1018-4a15-ab5f-377fd11dcd3d'>Folio of Fancies</a> | 0.9 | 2 |
+| <a href='https://api.scryfall.com/cards/bd27f71a-cd22-4b5e-9536-3e160111875a'>Spined Thopter</a> | 0.06 | 4 |
+| <a href='https://api.scryfall.com/cards/daff1c8d-0f25-4bec-bd50-208ae2ac0aac'>Vantress Gargoyle</a> | 0.17 | 2 |
+| <a href='https://api.scryfall.com/cards/75cdb2ff-6e30-4766-9166-9036a0bdb809'>Scornful Aether-Lich</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/e3b14d57-a856-49d4-931f-ff5a0407b135'>Faerie Mechanist</a> | 0.05 | 4 |
+| <a href='https://api.scryfall.com/cards/0adf3293-c1e0-447c-8231-26fa9476a262'>Mukotai Ambusher</a> | 0.04 | 3 |
+| <a href='https://api.scryfall.com/cards/0adf3293-c1e0-447c-8231-26fa9476a262'>Mukotai Ambusher</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/095b0fd1-7445-4dba-bb90-ddd5f5ee8573'>Salvage Slasher</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/b865d247-fe0a-4583-b088-ae900ffe521b'>Wayfarer's Bauble</a> | 0.54 | 2 |
+| <a href='https://api.scryfall.com/cards/fc574b42-e1bb-428f-a71f-bc3d7f5451da'>Suspicious Bookcase</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/d64110f4-c4b6-4966-a23a-8da7d1983499'>Quick-Draw Dagger</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/85da50ba-2061-40f0-b3af-950b87f812cd'>Chrome Cat</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/6cc098a4-24fa-492f-91f0-2e8b482c823b'>Vectis Gloves</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/290a80b6-2e9e-495f-81b6-845ee80fb9c2'>Darksteel Ingot</a> | 0.34 | 1 |
+| <a href='https://api.scryfall.com/cards/ad4b5324-bd25-4651-bcbc-5439b74df361'>Meteor Golem</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/710d2782-2b23-441f-9890-6fa9c923b701'>Scalding Cauldron</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/7ae86ac9-23fd-4585-a65e-8248428362f4'>Psychosis Crawler</a> | 1.18 | 1 |
+| <a href='https://api.scryfall.com/cards/dfa8757b-ef7d-44b8-ae80-45c436e85c1e'>Mimic Vat</a> | 0.34 | 1 |
+| <a href='https://api.scryfall.com/cards/513a36a1-b2e3-4779-b8a7-66f01c488bf0'>Bottle Golems</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/618c8ecc-686d-41de-b9b1-1a7ee9cc7c14'>Zuran Orb</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/ecf1f24f-d910-4ec6-95d2-0ecaf9f051aa'>Magistrate's Scepter</a> | 0.51 | 1 |
+| <a href='https://api.scryfall.com/cards/ec3a2c95-4e7a-43c5-90bd-6f1de7c82a5c'>Meteorite</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/29148d7e-b398-4e19-a29e-d9a660ad5016'>Mirage Mirror</a> | 1.87 | 1 |
+| <a href='https://api.scryfall.com/cards/d8dcff03-0ef9-4485-80db-5447e9ca4ef9'>Steel Dromedary</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/9d66e724-49ee-4f08-a160-584350de1d95'>Arcbound Mouser</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/97873c66-6bff-4d79-850c-1e2663098ef4'>Valkyrie's Sword</a> | 0.03 | 3 |
+| <a href='https://api.scryfall.com/cards/fe4a2cb0-4129-451e-a946-a21ea646cc28'>Arcbound Javelineer</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/cfba304c-9cb8-4d5c-b70d-b7f61a365977'>Opaline Unicorn</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/b2cfd2c0-2110-47f1-809e-487b9b0a1043'>Bronze Walrus</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/257f12c2-db58-413f-9896-6e556bd9c0d9'>Mighty Servant of Leuk-o</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/f9a32f17-49c4-4654-a087-1ba474f37377'>Sol Ring</a> | 1.33 | 1 |
+| <a href='https://api.scryfall.com/cards/b794e97e-8b2c-4bde-8028-4348de5aec83'>Paradise Plume</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/a11d8da1-a183-470a-b4ed-2e35ac5ab9a9'>Chrome Courier</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/315ae21a-4d95-488e-812b-0d018219af6c'>Ethersworn Sphinx</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/4a0bb5dc-75a6-4bd6-81f8-611197fb0fba'>Nettlecyst</a> | 1.83 | 1 |
+| <a href='https://api.scryfall.com/cards/441a3345-2507-46ed-bdb3-c5c45d17da51'>Golem Artisan</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/eedce8ab-771a-4247-9504-72ae0629df83'>Prismite</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/02bce846-8049-4d5c-b0ad-8abd484e5a27'>Livio, Oathsworn Sentinel</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/728b802c-969b-4865-b7a0-871c585d097a'>Ardenn, Intrepid Archaeologist</a> | 0.29 | 1 |
+| <a href='https://api.scryfall.com/cards/ff971ba7-68b8-482a-9cb1-741f6893550c'>Jadar, Ghoulcaller of Nephalia</a> | 3.27 | 1 |
+| <a href='https://api.scryfall.com/cards/da70a20f-213e-4d79-a46f-1ef1fc3f4a51'>Brigid, Hero of Kinsbaile</a> | 1.04 | 1 |
+| <a href='https://api.scryfall.com/cards/f5770e8a-045d-42bc-b6aa-17b89488c9d4'>Daxos, Blessed by the Sun</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/a8edd707-5ba3-4978-9a0b-efd0cda367c1'>Taranika, Akroan Veteran</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/45501767-2ba8-443f-af9b-c86ead0aa30d'>Raksha Golden Cub</a> | 0.65 | 1 |
+| <a href='https://api.scryfall.com/cards/588a8f90-4344-4882-9671-4c7295186a58'>Triad of Fates</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/82419eea-a397-41df-b526-f3bea857bbbd'>Ascendant Evincar</a> | 1.05 | 1 |
+| <a href='https://api.scryfall.com/cards/46ecbec4-0f29-4795-a16c-15e7ca55af4f'>Narfi, Betrayer King</a> | 0.15 | 2 |
+| <a href='https://api.scryfall.com/cards/46ecbec4-0f29-4795-a16c-15e7ca55af4f'>Narfi, Betrayer King</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/421376e4-a4ad-427c-bc9c-d315308dcf68'>Narfi, Betrayer King</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/421376e4-a4ad-427c-bc9c-d315308dcf68'>Narfi, Betrayer King</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/c30ff1fa-6639-492a-b257-934e5818c98f'>King Narfi's Betrayal</a> | 0.25 | 2 |
+| <a href='https://api.scryfall.com/cards/86958821-76eb-43a5-974b-7c945e826a66'>Esior, Wardwing Familiar</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/b238485f-ef67-4295-892b-a10235368f74'>Inniaz, the Gale Force</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/3bfcbeab-7a1e-4dcf-99bf-98f42c2b6a6f'>Thada Adel, Acquisitor</a> | 8.38 | 1 |
+| <a href='https://api.scryfall.com/cards/8812e448-241e-4640-9cb6-0cdbe1ad2fcc'>Siani, Eye of the Storm</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/1a0adf34-1a2b-497b-aaab-4b2b998ed8b3'>Eligeth, Crossroads Augur</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/a736df42-18e9-4259-b0b8-54d21143e72e'>Glacian, Powerstone Engineer</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/e4a41506-85c6-4362-b983-36df13db09d9'>Ghost of Ramirez DePietro</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/5ec553af-5254-4812-bb68-cd6d853f693a'>Svella, Ice Shaper</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/a69e6d8f-f742-4508-a83a-38ae84be228c'>The Prismatic Piper</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/b2b365b0-6949-41d2-be60-eb2162b1f882'>Isperia the Inscrutable</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/08eb31f3-7686-4d6b-a0e4-5d6ece6fba82'>Toski, Bearer of Secrets</a> | 7.52 | 1 |
+| <a href='https://api.scryfall.com/cards/7d7a8a90-13c1-4b0c-ab2e-fc8d91ccefd9'>Fynn, the Fangbearer</a> | 0.23 | 2 |
+| <a href='https://api.scryfall.com/cards/2bb2319b-e23b-46df-87e6-c256f0cb111e'>Fynn, the Fangbearer</a> | 0.12 | 2 |
+| <a href='https://api.scryfall.com/cards/2bb2319b-e23b-46df-87e6-c256f0cb111e'>Fynn, the Fangbearer</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/1685676c-19be-4220-993f-494c53f60499'>Jedit Ojanen of Efrava</a> | 1.13 | 3 |
+| <a href='https://api.scryfall.com/cards/6bee6eb2-2708-4596-86ad-40eea88dbb6b'>Halana, Kessig Ranger</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/1a05b3e2-259e-4fce-92ee-c00660e22ae7'>Toggo, Goblin Weaponsmith</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/5a04a833-0ccf-4f59-9d94-2018e2f220e0'>Krenko, Mob Boss</a> | 4.33 | 1 |
+| <a href='https://api.scryfall.com/cards/52558748-6893-4c72-a9e2-e87d31796b59'>Fblthp, the Lost</a> | 0.3 | 1 |
+| <a href='https://api.scryfall.com/cards/83e8fe2e-ec6c-47fc-85c0-6eec185ecdce'>Breeches, Brazen Plunderer</a> | 0.12 | 2 |
+| <a href='https://api.scryfall.com/cards/31f21aae-e25b-4d14-b558-a848a9372f92'>Zurgo Helmsmasher</a> | -1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/81bd293b-07b9-4d7c-826a-948d5b01ab5e'>Jared Carthalion, True Heir</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/c2159949-3d21-448d-bc34-a3dbaf219476'>Eutropia the Twice-Favored</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/dbdb335d-3e45-4dd5-9e3e-c50ca0a4dfb6'>Obeka, Brute Chronologist</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/aec6b2b7-625a-451d-bc0b-4456f5bf2719'>Juri, Master of the Revue</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/c793d594-c319-4e97-8620-de8eddaf247d'>Hamza, Guardian of Arashin</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/c793d594-c319-4e97-8620-de8eddaf247d'>Hamza, Guardian of Arashin</a> | 0.34 | 1 |
+| <a href='https://api.scryfall.com/cards/567dbc64-4d59-4bab-a551-08fc66c085fa'>Abomination of Llanowar</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/57ea0ba2-3ccf-4313-ad1d-161272c48851'>Dalakos, Crafter of Wonders</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/0744f08e-a588-4efe-ad56-5e9ed91dda40'>Gallia of the Endless Dance</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/8cf6b42f-8eb7-4b40-a4e6-8775ee208f7e'>Tuya Bearclaw</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/24a0babe-8da4-4c95-9cdf-626a5c5e2e5c'>Hans Eriksson</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/14dc88ee-bba9-4625-af0d-89f3762a0ead'>Tergrid, God of Fright // Tergrid's Lantern</a> | 4.73 | 1 |
+| <a href='https://api.scryfall.com/cards/82aab532-0f3e-4569-9bef-18ce90654e5d'>Tormod, the Desecrator</a> | -1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/301dacc9-ef92-4515-b907-a70d6c3fd73e'>Olivia, Crimson Bride</a> | 6.68 | 1 |
+| <a href='https://api.scryfall.com/cards/8afceb13-877a-4256-9ba6-851b6924ffd9'>Imoti, Celebrant of Bounty</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/2f68b4de-271b-415f-ad8f-104981bb12ab'>Tevesh Szat, Doom of Fools</a> | 6.04 | 1 |
+| <a href='https://api.scryfall.com/cards/d30255f6-e058-476a-b377-2ee4c9178ed1'>Sefris of the Hidden Ways</a> | -1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/a652ac92-4e61-45ec-866e-baafefd355e5'>Nihiloor</a> | -1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/a7054d48-5ed3-43a1-85e5-9f306b081b4f'>Svella, Ice Shaper</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/28fced7f-3078-4a54-8f76-0ef14c732e97'>Vega, the Watcher</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/ebd1fc45-531e-4e0c-9e1b-c665447e88ef'>Vega, the Watcher</a> | 0.12 | 2 |
+| <a href='https://api.scryfall.com/cards/22a6a5f1-1405-4efb-af3e-e1f58d664e99'>Toralf, God of Fury // Toralf's Hammer</a> | 1.59 | 1 |
+| <a href='https://api.scryfall.com/cards/5af80f3b-229d-43f8-976e-50bee70b32e7'>Toralf, God of Fury // Toralf's Hammer</a> | 1.61 | 1 |
+| <a href='https://api.scryfall.com/cards/68011f60-6202-48f4-8255-fb94764e2951'>Aegar, the Freezing Flame</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/9685e2a0-5573-41bc-a914-f40c3011459b'>Kardur, Doomscourge</a> | 0.34 | 2 |
+| <a href='https://api.scryfall.com/cards/22f68b53-0cf7-434d-9da5-1d18c0828a46'>Koll, the Forgemaster</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/034b8d6d-95ea-434a-967a-e6675a7ce88a'>Subira, Tulzidi Caravanner</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/5d131784-c1a3-463e-a37b-b720af67ab62'>Alrund, God of the Cosmos // Hakka, Whispering Raven</a> | 0.72 | 1 |
+| <a href='https://api.scryfall.com/cards/b76bed98-30b1-4572-b36c-684ada06826c'>Kolvori, God of Kinship // The Ringhart Crest</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/ac81448c-f87b-4ca1-b951-b359216ab1d0'>Zagras, Thief of Heartbeats</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/47b8eb2e-73ac-4ad6-9ab6-4f8da7b41020'>Hama Pashar, Ruin Seeker</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/c57b4876-5387-4f73-b8e2-8e7bdca8b0bc'>Jin-Gitaxias, Progress Tyrant</a> | 9.03 | 1 |
+| <a href='https://api.scryfall.com/cards/9cfe4fbe-277f-410c-9eee-f7617f4cb850'>Zareth San, the Trickster</a> | 0.17 | 3 |
+| <a href='https://api.scryfall.com/cards/efa8dbf0-4e5a-452b-826f-5813e8cd9d85'>Varragoth, Bloodsky Sire</a> | 6.81 | 1 |
+| <a href='https://api.scryfall.com/cards/df87077c-85d8-499e-bce0-27697caada5a'>Firja, Judge of Valor</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/8fc37772-7052-46a9-a34e-f982331595a3'>Harald, King of Skemfar</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/edac3fd7-8124-4614-ae50-651608d45adb'>Aegar, the Freezing Flame</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/93c2c11d-dfc3-4ba9-8c0f-a98114090396'>Rankle, Master of Pranks</a> | 7.75 | 2 |
+| <a href='https://api.scryfall.com/cards/62a6f095-5beb-42a8-af8f-d40eef27150e'>Inga Rune-Eyes</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/d2d1b1a2-3861-4fbb-955b-4f3f8fcca9a7'>Inga Rune-Eyes</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/a9738cda-adb1-47fb-9f4c-ecd930228c4d'>Ragavan, Nimble Pilferer</a> | 66.14 | 1 |
+| <a href='https://api.scryfall.com/cards/ff334bba-0805-4d5d-86c4-99185fe9a77a'>Arni Brokenbrow</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/c697548f-925b-405e-970a-4e78067d5c8e'>Jorn, God of Winter // Kaldring, the Rimestaff</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/4eec1d87-1007-44a1-a45d-0623816de681'>Minn, Wily Illusionist</a> | 0.3 | 1 |
+| <a href='https://api.scryfall.com/cards/4400fd66-1a24-47fb-bc94-37e0aae0e610'>Naomi, Pillar of Order</a> | 0.43 | 5 |
+| <a href='https://api.scryfall.com/cards/cc3707f1-ed9d-412e-a7be-b6d8b554bd6c'>Maja, Bretagard Protector</a> | 0.23 | 2 |
+| <a href='https://api.scryfall.com/cards/7207c416-dc16-40ab-94a0-836ee0710e24'>Sydri, Galvanic Genius</a> | 0.95 | 1 |
+| <a href='https://api.scryfall.com/cards/37748b74-0eda-4b20-a08f-faa418adb9ff'>Raiyuu, Storm's Edge</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/f6cd7465-9dd0-473c-ac5e-dd9e2f22f5f6'>Esika, God of the Tree // The Prismatic Bridge</a> | 17.75 | 1 |
+| <a href='https://api.scryfall.com/cards/2de25ea4-284a-4c16-b823-048ff00c6a03'>Koma, Cosmos Serpent</a> | 6.49 | 1 |
+| <a href='https://api.scryfall.com/cards/22fdbe71-abca-4e48-99b2-1cb6b35d930b'>Moritte of the Frost</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/39555a72-a57b-45ee-9222-ce3b9e8de126'>Light-Paws, Emperor's Voice</a> | 0.29 | 1 |
+| <a href='https://api.scryfall.com/cards/938cee8f-ac2c-49a5-9ff7-1367d0edfabe'>Shaile, Dean of Radiance // Embrose, Dean of Shadow</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/6da09233-952f-4784-995e-0d85d8b56637'>Mirri the Cursed</a> | 0.33 | 1 |
+| <a href='https://api.scryfall.com/cards/c91040c0-f025-4843-8c0e-3ac1b76c8582'>Heiko Yamazaki, the General</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/c91040c0-f025-4843-8c0e-3ac1b76c8582'>Heiko Yamazaki, the General</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/d75a7314-39f2-4e32-a5b0-ac1761b6d238'>Vedalken Outlander</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/9e6474b6-1e1a-4c29-8f01-1cabf729b34f'>Shield of the Righteous</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/125126e1-1e48-42ed-ac94-02f62ab13d05'>Ethercaste Knight</a> | 0.12 | 2 |
+| <a href='https://api.scryfall.com/cards/2c5068ed-8477-4d8d-9e37-c72474208e2d'>Esper Cormorants</a> | 0.06 | 4 |
+| <a href='https://api.scryfall.com/cards/397e6ff5-f5ee-4963-9942-4aa25f5eb64a'>Glassdust Hulk</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/73887514-7644-4b2b-8c67-4b7e64150478'>Sanctum Plowbeast</a> | 0.14 | 2 |
+| <a href='https://api.scryfall.com/cards/0ce33f36-e29e-4cac-a237-a7b932d50bbb'>Ethersworn Shieldmage</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/0cb737b9-e526-47f7-806a-794cad54b23f'>Rod of Ruin</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/1e5ac1be-43e4-4535-8633-730f306c0d00'>Vectis Agents</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/40b62ed0-356c-4552-b76d-48ff54410e70'>Enigma Sphinx</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/568785f1-47c7-4011-926f-44693f7e0233'>Etherwrought Page</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/8d6025a1-2da0-48d0-b7c4-65c85ba51ceb'>Sludge Strider</a> | 0.23 | 4 |
+| <a href='https://api.scryfall.com/cards/896d502a-d9c3-4101-92af-a8c9d945f47b'>Esper Sojourners</a> | 0.04 | 3 |
+| <a href='https://api.scryfall.com/cards/cafcf909-d726-4bc2-adf6-c12ca242f0c1'>Steelclaw Lance</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/75ad0cc1-66bd-43c3-a296-c36cf9a64e85'>Veinfire Borderpost</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/90a788e7-f3c8-41cc-9f1a-2e9f58aabc0e'>Wildfield Borderpost</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/eb37a8bd-6b6c-47f3-b7a0-5a20fa2d507c'>Firewild Borderpost</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/1cfb7589-a53e-4580-bd92-641fd4785934'>Vectis Dominator</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/3bae1a3b-881b-4b10-ac5f-822c809edc36'>Beckon Apparition</a> | 0.11 | 3 |
+| <a href='https://api.scryfall.com/cards/ffd079d8-b191-4f54-bb04-427b3736f745'>Edge of the Divinity</a> | 0.21 | 4 |
+| <a href='https://api.scryfall.com/cards/019ad92d-8803-4569-98c8-4a7416799cfc'>Nip Gwyllion</a> | 0.15 | 4 |
+| <a href='https://api.scryfall.com/cards/1e2a217a-e47b-4874-9861-bb57c7b1f06a'>Mourning Thrull</a> | 0.09 | 3 |
+| <a href='https://api.scryfall.com/cards/70dbda67-3bc4-4c8a-8357-250d84d0d1d8'>Nightsky Mimic</a> | 0.17 | 3 |
+| <a href='https://api.scryfall.com/cards/a11224f8-06ea-4ec3-85e6-d5c8d906840c'>Fracture</a> | 0.86 | 2 |
+| <a href='https://api.scryfall.com/cards/12b5b694-46c8-4cb0-ab6b-4bc67c04cc7f'>Nacatl Outlander</a> | 0.09 | 3 |
+| <a href='https://api.scryfall.com/cards/cd0e9e1b-bd37-43a7-abd3-4582315a268d'>Crystallization</a> | 0.15 | 2 |
+| <a href='https://api.scryfall.com/cards/eb7b9762-740b-4c1c-a411-20dbf023aea5'>Drown in the Loch</a> | 1.23 | 3 |
+| <a href='https://api.scryfall.com/cards/162feb2b-e641-4338-bcf1-1f7e7a11bb9d'>Bant Sureblade</a> | 0.14 | 2 |
+| <a href='https://api.scryfall.com/cards/112c47e4-5ff8-4ea0-ac14-956e4b94119a'>Castigate</a> | 0.23 | 2 |
+| <a href='https://api.scryfall.com/cards/b675c1e6-add5-4959-a5be-f2571ccebcb4'>Azorius First-Wing</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/42d0770e-9084-4aa7-b543-2b6ba18378dc'>Silverquill Apprentice</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/42d0770e-9084-4aa7-b543-2b6ba18378dc'>Silverquill Apprentice</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/7fb66ccd-a930-4757-832c-c4b0259741e2'>Soul Diviner</a> | 0.58 | 1 |
+| <a href='https://api.scryfall.com/cards/b2edd708-46ee-4963-b7e6-b631616d78fe'>Monk Class</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/0727f65b-cfbe-47d5-87c6-239cf8d93ca6'>Rogue Class</a> | 1.52 | 1 |
+| <a href='https://api.scryfall.com/cards/dfe4f48d-179a-47d7-aed6-9751dd2f7d8c'>Corpse Cobble</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/0c0b85d3-ce46-4f12-8315-4cbf338eb8f0'>Goblin Deathraiders</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/fa56b15e-d02d-4306-82a6-ced778fee90f'>Sangrite Backlash</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/2b388381-9e13-4ce7-b5b3-56a74cc23d93'>Grizzled Leotau</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/9277aeeb-5193-4996-9a5f-3ac610d4c742'>Lightning Helix</a> | 0.66 | 1 |
+| <a href='https://api.scryfall.com/cards/59038868-6278-4d8c-a107-35aa85b5648f'>Reborn Hope</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/338f7852-9f69-4406-b6ad-93a2574296f7'>Unmake</a> | 0.27 | 3 |
+| <a href='https://api.scryfall.com/cards/bbf97a71-485e-4d47-98de-bdf6f6dae0c2'>Rise of Extus</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/048157c6-4626-4881-ba19-deddd13622dc'>Lorehold Apprentice</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/404b4c7b-5d40-4ad1-bd40-3da1d08f5c78'>Prismari Pledgemage</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/aa7fbb9b-50a8-4d18-a667-fe965468ca16'>Teach by Example</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/0291c909-bb87-47cb-9b06-5e409e654f15'>Quandrix Apprentice</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/b2e9d132-95f7-4ee7-9c91-be19e4ad7a5d'>Decisive Denial</a> | 0.19 | 2 |
+| <a href='https://api.scryfall.com/cards/dc6480d0-17c5-4ac2-afb2-4d44f089de22'>Restless Apparition</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/24f02a09-e959-438c-ab48-abd34b10d07c'>Souls of the Faultless</a> | 0.33 | 2 |
+| <a href='https://api.scryfall.com/cards/dd66cb50-6ef5-4b1f-b6c3-ad1210d2d380'>Wall of Denial</a> | 1.51 | 1 |
+| <a href='https://api.scryfall.com/cards/f02dcf40-03ad-463c-a14a-5dfc886dea4c'>Plumes of Peace</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/c68b6fc7-e565-4f7d-8efb-c4d29e41c689'>Bloodied Ghost</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/914e6fda-808f-43fb-8024-8b8a8781a7ac'>Gwyllion Hedge-Mage</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/266a6a0d-5c56-47f5-92d0-f883f1bb7630'>Talon Trooper</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/bc293a4b-abd6-47b6-99d1-578bc22580de'>Rendclaw Trow</a> | 0.2 | 2 |
+| <a href='https://api.scryfall.com/cards/d8a2e243-e446-46c6-8a37-e26620951c41'>Adaptive Shimmerer</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/5c0eed33-553a-4865-9b22-30c33fbd1c51'>Stalker Hag</a> | 0.2 | 2 |
+| <a href='https://api.scryfall.com/cards/bd23ae2b-9f69-4d8d-87f9-ebcbccd67342'>Winged Coatl</a> | 0.11 | 2 |
+| <a href='https://api.scryfall.com/cards/893c08b2-1391-4aaf-b79c-d1125b232f73'>Jund Sojourners</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/e81c31c9-d7d7-4b45-893e-7e36d26c645f'>Lorescale Coatl</a> | 0.14 | 2 |
+| <a href='https://api.scryfall.com/cards/96aada87-a880-4d33-8694-9fbc74211755'>Minister of Impediments</a> | 0.11 | 2 |
+| <a href='https://api.scryfall.com/cards/5e638e38-15b9-4081-8340-985d4646e3d7'>Jhessian Balmgiver</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/d319c8a2-ae7b-4077-8b11-97937979fed2'>Obsessive Stitcher</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/6267e19a-a777-4767-8433-86b6624362b6'>Pest Summoning</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/74be6236-4095-419c-9927-fbd874df21f8'>Spirit Summoning</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/c0bf9c79-3a66-4c81-b7c7-9b31b4a67e32'>Necrotic Sliver</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/a3f64ad2-4041-421d-baa2-206cedcecf0e'>Silverquill Pledgemage</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/f74223e1-b66b-42fa-aaac-001f5dab2aac'>Spectacle Mage</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/9c64e954-adfc-40a2-a3b2-85f1b4626976'>Stonebound Mentor</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/79b88b38-6b5a-4a89-80ca-add79c11e8b9'>Lorehold Pledgemage</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/8fc448f6-a7fe-47c4-ac7c-385a77326469'>Brushfire Elemental</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/1b58856a-f88e-4625-8636-62b5c717b956'>Violent Outburst</a> | 5.05 | 1 |
+| <a href='https://api.scryfall.com/cards/7459a075-1a5d-4053-ab49-21bb696b6400'>Vithian Renegades</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/5fdea923-094d-4f43-a5b6-b6e3f4b891d8'>Shambling Remains</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/86ebccf6-96e2-45a6-96db-5f2bfd541e15'>Kathari Bomber</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/b63632a0-1493-4a72-917c-aae1600c6230'>Wilderness Elemental</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/7bd3fb7a-3eed-4b0a-9de0-ed8b7cf03533'>Godtracker of Jund</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/3e35e9ba-a10e-4926-a7a6-3a65efc2a730'>Blood Researcher</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/b41a35ef-dae1-4534-a12a-d3951b285273'>Biomathematician</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/b66b1a84-ab15-48d8-909c-08116dc71c76'>Voracious Hatchling</a> | 0.21 | 3 |
+| <a href='https://api.scryfall.com/cards/eff007af-0329-4872-8621-41e90d9f06e6'>Bant Sojourners</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/8a57cdbd-3cd2-47c1-aec8-7f4fd7a7b804'>Leonin Armorguard</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/6b63ac91-ea7b-4a6f-a53e-f2a216c01d80'>Steam Augury</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/f247aaaf-4d65-4dfc-bab2-3c1331762647'>Exploding Borders</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/70c2ef30-0db5-4ef5-999c-7ffa48769421'>Moldering Karok</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/15931d65-9b4e-4506-8f1d-714d06f9c2f3'>Stormcaller's Boon</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/faaf07b2-57b0-4437-a8d7-51ff8894a7db'>Hussar Patrol</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/c8b103d1-d5f5-4dde-9474-e899d1e51eac'>Hostage Taker</a> | 0.34 | 1 |
+| <a href='https://api.scryfall.com/cards/8468417d-7ef5-43e0-9190-e88f3eed9e82'>Exhilarating Elocution</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/5516e81e-16ea-411c-9df0-ed3b03670220'>Maelstrom Muse</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/60dd9f6e-c848-4670-8de1-06f328ea7f71'>Vanish into Memory</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/8eb6f699-1b5d-412b-a697-ee94b7be07a6'>Midnight Pathlighter</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/3e565e38-43d5-482e-a911-ce525dfee74f'>Reconstruct History</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/7473db42-905b-4fda-af8c-fd24d906b642'>Elemental Expressionist</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/0abda7f5-89c2-43ad-bcc9-8b802881c373'>Utter End</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/1a0491d1-343d-453e-aa52-a3d3daa1478e'>Harvest Gwyllion</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/e400c9b7-c789-49dd-9f72-b9d1df03fcca'>Eureka Moment</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/0d3fc235-d0d7-41f8-b35a-6e08761f7fa4'>Knight of New Alara</a> | 0.97 | 1 |
+| <a href='https://api.scryfall.com/cards/73b0e296-d556-4e76-bb2e-5a640e070bb5'>Horizon Chimera</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/74d2e092-c805-447c-b784-1896b69524e0'>Desecrator Hag</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/237de286-5bf0-4c8e-8504-2d01d3133b55'>Rhox Brute</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/a197e3f2-e69f-4716-9979-a304a87506c3'>Spellbreaker Behemoth</a> | 0.8 | 1 |
+| <a href='https://api.scryfall.com/cards/fcafc9eb-efa3-4f6c-a2ca-aec8692fddc1'>Captured Sunlight</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/384cf91c-6cea-4279-b66d-d81b5791d411'>Lightning Angel</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/f3650f27-7ed5-41a4-80d7-a3101fe8849f'>Flame-Kin Zealot</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/28ebd1f5-55ee-48c9-a8df-85c8c4bf3473'>Drain the Well</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/e3ca9ff7-0dcf-4ecc-879c-957d290ad7f5'>Quandrix Cultivator</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/db6621dd-7220-4b53-a30f-7dd05b2e0134'>Stormchaser Chimera</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/9a795ea0-5a8f-4dc2-863b-d3c00844d873'>Sky Hussar</a> | 0.2 | 2 |
+| <a href='https://api.scryfall.com/cards/2f64ae7d-0bd0-41f8-8f7d-64db4bd2a10b'>Cloudblazer</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/d31a32e7-e709-4524-8752-ad0ec8c77fde'>Marrow Chomper</a> | 0.14 | 2 |
+| <a href='https://api.scryfall.com/cards/ea51991c-1589-4c62-965b-5ae8d233520b'>Elemental Summoning</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/74edd3e3-b2de-4ba0-a508-0418b0151d87'>Practical Research</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/344e9383-5481-4abe-a59d-3a0145b7cca2'>Extract Brain</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/a38329f1-af6e-47b8-86e4-f2a39e1edbf8'>Oggyar Battle-Seer</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/aacb131b-74c9-4e6c-9466-27710bc9441f'>Deadshot Minotaur</a> | 0.15 | 2 |
+| <a href='https://api.scryfall.com/cards/00e5a9be-bfb2-466b-b0fe-3b24694e9f84'>Gorger Wurm</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/b0bc4682-bcaf-4f51-be0b-9f2851a16e3b'>Introduction to Annihilation</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/018a9c98-1cb4-4c53-a765-c15808c4ab44'>Sentry of the Underworld</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/f3dcd1ce-717c-431a-9895-f7701d276743'>Pharika's Mender</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/1e9f43c8-9df6-49df-b145-4a19bc55e8f4'>Rhox Bodyguard</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/c1cb483f-c567-4cfd-9fe8-1503e7b40542'>Relic Sloth</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/6c8157e1-72ae-47ea-84ce-fb0b154215aa'>Deathbringer Liege</a> | 2.45 | 3 |
+| <a href='https://api.scryfall.com/cards/7e2de336-8c61-45b1-affd-6322530b91ca'>Naya Sojourners</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/d1995ab8-7382-4c2a-b8c7-8b9272cab4fb'>Rakeclaw Gargantuan</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/f14c7b9e-eb80-4842-8aa3-1d0c46d9677e'>Carrion Thrash</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/46b394fc-a99c-44e7-9226-da0699167541'>Environmental Sciences</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/62615f86-0431-4709-b41c-af43f7793fdb'>Trapjaw Kelpie</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/13fad19c-fd45-45cf-b58c-82cdcdf49b06'>Pale Recluse</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/e0195ee6-c5d9-402e-8339-2caa50c4e46b'>Sigiled Behemoth</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/2027335a-224b-411d-a59f-f4ad39b38a69'>Valley Rannet</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/3bb8fb53-000a-4a04-afdf-38f2cd052c72'>Dragon Appeasement</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/546b0a74-ebef-4596-b730-2190e20b2e66'>Vagrant Plowbeasts</a> | 0.12 | 3 |
+| <a href='https://api.scryfall.com/cards/dae91853-6487-46db-8f09-8aa4c2e19e5f'>Ashen Rider</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/9a1509ff-387e-4ccd-bda0-86e8738a98fb'>Duskmantle Guildmage</a> | 0.62 | 1 |
+| <a href='https://api.scryfall.com/cards/d00bd457-e1cc-45e1-8b2e-58f886bd6df8'>The Raven's Warning</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/d00bd457-e1cc-45e1-8b2e-58f886bd6df8'>The Raven's Warning</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/233e4774-e701-42d9-aa25-e7e06c14e43d'>Kardur's Vicious Return</a> | 0.06 | 3 |
+| <a href='https://api.scryfall.com/cards/4aa19a68-0d71-4123-a64d-8cb76f93cd74'>The Trickster-God's Heist</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/d93ee644-d7d7-48d8-a04b-fb479b74edb0'>Binding the Old Gods</a> | 0.43 | 2 |
+| <a href='https://api.scryfall.com/cards/e7c5f681-0145-45e9-b943-ca9784cfdea0'>Harald Unites the Elves</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/d7de696a-49c2-421d-a86c-bcffd68870c6'>Fall of the Impostor</a> | 0.05 | 3 |
+| <a href='https://api.scryfall.com/cards/3ce46100-461d-424e-afa4-7a0bb7d0a822'>Forging the Tyrite Sword</a> | 0.13 | 4 |
+| <a href='https://api.scryfall.com/cards/0bf01666-0fbf-4b15-a33d-964165bbfafb'>Ascent of the Worthy</a> | 0.04 | 4 |
+| <a href='https://api.scryfall.com/cards/cd31ec15-2fe0-40ab-b320-bc4333db4787'>Battle for Bretagard</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/7c606af0-f3d1-44a4-b24e-ee1263569b1f'>Elspeth Resplendent</a> | 3.4 | 1 |
+| <a href='https://api.scryfall.com/cards/19312f53-5b9d-4e76-91e8-65f444bb68c9'>Niko Defies Destiny</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/0cbc93cb-8df4-446f-b99f-21238355ad64'>Rocco, Cabaretti Caterer</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/8d6fb3b2-eef2-4699-ab5e-ff7d8de2a1de'>Dire Undercurrents</a> | 11.63 | 1 |
+| <a href='https://api.scryfall.com/cards/c0dad61f-36cd-46af-82b7-a02e04efd676'>Evelyn, the Covetous</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/09cb553c-58c1-4cfd-b441-297b5f09b263'>Norika Yamazaki, the Poet</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/1bacda35-bb91-4537-a14d-846650fa85f6'>Ugin, the Spirit Dragon</a> | 26.9 | 1 |
+| <a href='https://api.scryfall.com/cards/fab2d8a9-ab4c-4225-a570-22636293c17d'>The Wandering Emperor</a> | 22.44 | 1 |
+| <a href='https://api.scryfall.com/cards/ef1e1dff-b559-441d-8df3-b6a418066aca'>Kodama of the West Tree</a> | 6.38 | 1 |
+| <a href='https://api.scryfall.com/cards/4cddb2d2-d813-4b83-a592-380ba4edf54f'>Syr Alin, the Lion's Claw</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/abf42833-43d0-4b05-b499-d13b2c577ee8'>Tatsunari, Toad Rider</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/7dcdcfce-3f32-48f9-83f8-87b9ccbf92e3'>Jolrael, Mwonvuli Recluse</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/8c342309-aef7-4733-ac1c-ff0b704539a7'>Ghalta, Primal Hunger</a> | 2.32 | 1 |
+| <a href='https://api.scryfall.com/cards/44657ab1-0a6a-4a5f-9688-86f239083821'>Birgi, God of Storytelling // Harnfel, Horn of Bounty</a> | 6.48 | 1 |
+| <a href='https://api.scryfall.com/cards/97caaa92-2a7d-4f79-8d42-86733c902072'>Mr. Orfeo, the Boulder</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/080a249a-df47-4769-bb63-0d8ab3f2467c'>Syr Carah, the Bold</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/303ea0c1-cd97-4160-87df-646ad763f5fc'>Zahid, Djinn of the Lamp</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/0152575b-31b0-4142-9cc2-b87a81bd51a8'>Satsuki, the Living Lore</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/467033f7-8d59-4b80-8c2e-c36f3ad93438'>Kaima, the Fractured Calm</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/73b64c17-8a52-4d9d-a28b-7e0e945be059'>Atsushi, the Blazing Sky</a> | 4.36 | 1 |
+| <a href='https://api.scryfall.com/cards/f25aff90-56fd-4f70-bb3b-cabf2900c391'>Hinata, Dawn-Crowned</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/8ab5f2e6-0e0a-4f7d-a959-3d07948ff317'>Kessig Naturalist // Lord of the Ulvenwald</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/5d387b19-a0a7-45c0-b1e9-71ca55fb4adc'>Twinblade Assassins</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/6f1bace4-a327-4eb6-a6ef-8394e76c06b7'>Experimental Overload</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/59a118d1-30b8-42c0-ac42-6fba0778200a'>Invigorating Hot Spring</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/35203138-5237-49aa-a335-7a32829548a1'>Eiganjo Uprising</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/227ac87a-7196-40d0-ab00-98ebafcca09a'>Lightning Helix</a> | 0.52 | 1 |
+| <a href='https://api.scryfall.com/cards/54c410dc-123c-4431-9ccb-3f17e6555d68'>Dawnhart Wardens</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/07633b7f-4150-458b-89c3-d05dc0e3c4bd'>Quandrix Pledgemage</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/021b62d8-d160-47f5-bc51-0474f160d13f'>Quandrix Command</a> | 0.27 | 1 |
+| <a href='https://api.scryfall.com/cards/347d883c-84ab-4547-813b-f4385366fbce'>Tainted Indulgence</a> | 0.46 | 1 |
+| <a href='https://api.scryfall.com/cards/ce205611-15c0-413e-ad2b-b561ae530a30'>Glamorous Outlaw</a> | -1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/29eb0e40-d184-423f-8484-ee288fda00cd'>Spara's Adjudicators</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/0fcb6d47-dccb-4b69-aed4-7a6215857606'>Body Dropper</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/3e5aa701-28e8-47fa-8c26-4da2f943f582'>Jetmir's Fixer</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/de23dfcb-9e17-42bf-9a86-f9e3ce8b4b9c'>Shattered Seraph</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/784a5915-bc42-49d6-8a1b-45da7749f03a'>Riveteers Charm</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/bf86c5f2-0caf-48ca-b7ad-a1cdcd014539'>Syndicate Infiltrator</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/9091e8dc-b546-4b74-9dc9-aef55f60d13a'>Dihada's Ploy</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/314e94ad-0e12-48bb-aae1-2c842943114a'>Terminal Agony</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/b27e8b65-16ec-4aef-ac26-8afd78d8bfe5'>Prophetic Titan</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/aad6576b-605c-4007-a2a7-0d7550520d6d'>Rakdos Headliner</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/9c54b7c6-f94c-4349-8725-319c54240409'>Foundry Helix</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/452abab0-cf23-4b9d-831a-7b9fa1fd582a'>Glamorous Outlaw</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/633a3423-501d-4b22-95a6-743233be521e'>Goblin Anarchomancer</a> | 0.31 | 2 |
+| <a href='https://api.scryfall.com/cards/f03d7c3c-02f2-4c42-bcfa-0b83de30f607'>Graceful Restoration</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/0a269277-7f4e-40de-a2b4-53aa50cfd665'>Wavesifter</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/82e68f3d-ef94-4651-a256-c72017f64b21'>Lazotep Chancellor</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/bed1e957-3df1-4640-9980-783817826602'>Snooping Newsie</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/7f5075a0-c72a-474c-937c-95dc9205d14f'>Invasion of the Giants</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/0c3f372d-259d-4a31-9491-2d369b3f3f8b'>Inspiring Veteran</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/0e09b054-4d33-4a12-bf2a-9b0009f33044'>Fire // Ice</a> | 0.27 | 1 |
+| <a href='https://api.scryfall.com/cards/995529d1-e2b0-4cce-bd40-56c7ef3c33da'>Drey Keeper</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/f7f07a80-05b5-4108-9e68-f8da05866acc'>Goblin Anarchomancer</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/25564fba-5765-457b-8dd3-f26b877221b8'>Faceless One</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/0ab91962-ebad-46f6-9f90-7477c224d93d'>Go-Shintai of Shared Purpose</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/691016a1-8630-423c-9a57-061593d170fd'>Go-Shintai of Boundless Vigor</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/5b915e8d-b972-4ae1-a1c3-74d6623963c8'>Go-Shintai of Ancient Wars</a> | 0.09 | 3 |
+| <a href='https://api.scryfall.com/cards/7ec1192c-25b8-4975-ae6c-86be28ac1840'>Go-Shintai of Lost Wisdom</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/45e1ff1e-916b-4455-84cb-4125a79d76de'>Go-Shintai of Hidden Cruelty</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/0db49f7f-1790-435a-a75a-59129fa1cf97'>Distant Melody</a> | 2.68 | 2 |
+| <a href='https://api.scryfall.com/cards/fb802181-b550-43d1-a510-c46a5617cd97'>Coat of Arms</a> | 16.58 | 1 |
+| <a href='https://api.scryfall.com/cards/bacc3f0e-1333-48e6-8d3d-64e3148694ac'>Virulent Sliver</a> | 0.88 | 2 |
+| <a href='https://api.scryfall.com/cards/2ffd66b5-08fe-416b-a680-2d98e9286b77'>Sliver Overlord</a> | 35.71 | 1 |
+| <a href='https://api.scryfall.com/cards/812c6110-c825-48cd-ba40-ec8e9557f0e7'>Necrotic Sliver</a> | 1.07 | 1 |
+| <a href='https://api.scryfall.com/cards/4a0bf9e6-c497-45bc-83e0-9f50ef424852'>Spined Sliver</a> | 0.54 | 1 |
+| <a href='https://api.scryfall.com/cards/75d4e080-f6a7-4be0-9191-306f55784bbe'>Amoeboid Changeling</a> | 2.76 | 1 |
+| <a href='https://api.scryfall.com/cards/fa861228-5ceb-41f8-8ec0-9b96f1360271'>Brood Sliver</a> | 14.6 | 1 |
+| <a href='https://api.scryfall.com/cards/f20c1c1a-a964-40c7-8d74-2d08ff192bc3'>Armor Sliver</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/486cfc00-9023-4286-bb76-fa45add2cc91'>Heartstone</a> | 5.8 | 1 |
+| <a href='https://api.scryfall.com/cards/61e28b75-e228-450d-adff-f83db96e7186'>Wild Pair</a> | 2.43 | 1 |
+| <a href='https://api.scryfall.com/cards/59e05b04-172b-4556-8984-a903cd7ac613'>Aphetto Dredging</a> | 0.33 | 1 |
+| <a href='https://api.scryfall.com/cards/536c2bce-600f-43ce-9e6d-e6f4716c0309'>Metallic Sliver</a> | 0.37 | 2 |
+| <a href='https://api.scryfall.com/cards/c6dbe3ae-b48d-4186-afdd-95cd7d65a84e'>Rupture Spire</a> | 0.25 | 2 |
+| <a href='https://api.scryfall.com/cards/5dfbf5cb-ce19-4124-9dad-522809487faa'>Rootbound Crag</a> | 4.15 | 1 |
+| <a href='https://api.scryfall.com/cards/102ff1be-cc4a-4c43-9125-0e2699fb3e73'>Ancient Ziggurat</a> | 3.32 | 2 |
+| <a href='https://api.scryfall.com/cards/85976808-b93e-44b3-96a3-103587548d22'>Terramorphic Expanse</a> | 0.68 | 2 |
+| <a href='https://api.scryfall.com/cards/0c412d30-96bf-48fa-90a6-ba3e30aae6e5'>Vivid Grove</a> | 0.29 | 2 |
+| <a href='https://api.scryfall.com/cards/aed60ac3-0374-432f-ab1b-478386b26da0'>Vivid Creek</a> | 0.4 | 2 |
+| <a href='https://api.scryfall.com/cards/17e5f194-5148-4991-9f75-750cb3e41c62'>Forest</a> | 0.37 | 5 |
+| <a href='https://api.scryfall.com/cards/cdab5cee-a90d-4b8b-b4d3-dd6fee87640d'>Swamp</a> | 0.39 | 2 |
+| <a href='https://api.scryfall.com/cards/710d1f9d-ed1b-4134-bf28-7f6bdac9983e'>Mountain</a> | 0.25 | 3 |
+| <a href='https://api.scryfall.com/cards/ad27f8cb-302b-411a-bb86-26ff4cabbd49'>Plains</a> | 0.41 | 2 |
+| <a href='https://api.scryfall.com/cards/542a8f0e-249e-4f07-86c0-7a7cfa8eab1d'>Island</a> | 0.38 | 2 |
+| <a href='https://api.scryfall.com/cards/747d69d4-a7d4-4d6d-8f12-2366655c15d9'>Hibernation Sliver</a> | 4.82 | 1 |
+| <a href='https://api.scryfall.com/cards/90b3df6c-bddd-4680-b8e2-0f9698302f5e'>Victual Sliver</a> | 0.51 | 1 |
+| <a href='https://api.scryfall.com/cards/0f66aa7f-7043-4aeb-91da-ed155580e391'>Crystalline Sliver</a> | 6.99 | 1 |
+| <a href='https://api.scryfall.com/cards/6a2f3f6f-3c41-446f-b3b0-f5059b153092'>Muscle Sliver</a> | 1.47 | 2 |
+| <a href='https://api.scryfall.com/cards/3df0c5b7-c24e-4a4e-b4c4-d46e1a708c4e'>Gemhide Sliver</a> | 1.17 | 2 |
+| <a href='https://api.scryfall.com/cards/f2e23d03-9ee4-44c1-88d3-7708ef5b79c9'>Acidic Sliver</a> | 0.98 | 1 |
+| <a href='https://api.scryfall.com/cards/0122c2d9-7d4b-41a7-b39d-21b52e76e94e'>Might Sliver</a> | 1.2 | 1 |
+| <a href='https://api.scryfall.com/cards/be17c49e-7634-4698-a2e4-7cd3068d9971'>Fungus Sliver</a> | 0.68 | 1 |
+| <a href='https://api.scryfall.com/cards/7142f9b7-3205-4f01-9174-0b48d52d90b2'>Quick Sliver</a> | 4.27 | 1 |
+| <a href='https://api.scryfall.com/cards/43b794b5-4fd4-404a-813a-11020fab0ddc'>Clot Sliver</a> | 1.34 | 1 |
+| <a href='https://api.scryfall.com/cards/8ae7319e-a12f-4e37-b184-0d15921ae72c'>Frenzy Sliver</a> | 0.57 | 1 |
+| <a href='https://api.scryfall.com/cards/cc8da573-72fc-45fd-9024-24eca0804530'>Spectral Sliver</a> | 0.28 | 2 |
+| <a href='https://api.scryfall.com/cards/2a50d5c6-8e9c-4950-8d8d-4aad0ce044cb'>Homing Sliver</a> | 1.35 | 1 |
+| <a href='https://api.scryfall.com/cards/05e5de3c-e615-481a-a8f2-8300864d5e07'>Barbed Sliver</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/eed1b11e-ca86-4b1b-b989-3a59e5772099'>Fury Sliver</a> | 0.75 | 1 |
+| <a href='https://api.scryfall.com/cards/981af400-4293-4b90-9325-8cdc633c4ea8'>Heart Sliver</a> | 4.64 | 1 |
+| <a href='https://api.scryfall.com/cards/f93e951a-ff0a-4629-b296-7cf3397bc583'>Winged Sliver</a> | 2.02 | 1 |
+| <a href='https://api.scryfall.com/cards/914b42b3-03af-4945-9f1f-46c09a1a2314'>Decanter of Endless Water</a> | 0.4 | 2 |
+| <a href='https://api.scryfall.com/cards/13129e63-558d-415d-87eb-616868205341'>Oji, the Exquisite Blade</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/15b8a4a3-20c5-4c6c-85ae-e9e3f5724859'>Duke Ulder Ravengard</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/11c93414-935e-462b-ad89-27ca21d01bf9'>Raised by Giants</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/c876f9b3-b4f6-4177-9c43-443ae2a028d0'>Scion of Halaster</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/da9af754-e96a-46b5-9c28-3420a447b098'>Sivriss, Nightmare Speaker</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/e49228e0-b944-458d-a832-8d374efb69df'>Lozhan, Dragons' Legacy</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/75bf7702-c97d-4b88-b815-769c4906e014'>Fraying Line</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/518bbc36-58ea-44c4-a857-75a3aff058f5'>Decanter of Endless Water</a> | 1.94 | 1 |
+| <a href='https://api.scryfall.com/cards/e142122f-3a04-436e-a958-dc2224b4fc6d'>Universal Solvent</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/f2bde2d6-7c2a-4566-a45a-ccdbbed039b7'>Ghost Lantern // Bind Spirit</a> | 0.14 | 2 |
+| <a href='https://api.scryfall.com/cards/ed8a8cfd-baef-4198-b1f3-4926139588b2'>Llanowar Elves</a> | 0.38 | 3 |
+| <a href='https://api.scryfall.com/cards/199e047c-823b-4d18-a5e9-6de3e6989858'>Llanowar Elves</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/c4d1835a-913f-4979-953b-ddd933214538'>Llanowar Elves</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/0092d7a0-bd00-45e5-a052-c0a9d970bc2e'>Twinblade Slasher</a> | 0.24 | 2 |
+| <a href='https://api.scryfall.com/cards/d74d6cdb-a087-4b3d-bf25-509200ed6d93'>Scattershot Archer</a> | 0.52 | 2 |
+| <a href='https://api.scryfall.com/cards/777633d7-e31c-4ea3-a085-2858d6ee6040'>Elvish Berserker</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/1a68615d-9808-479d-aa80-50651246954e'>Jaspera Sentinel</a> | 0.07 | 5 |
+| <a href='https://api.scryfall.com/cards/450744cf-7eba-491b-97b0-ca80c6368bbb'>Fyndhorn Elves</a> | 0.44 | 1 |
+| <a href='https://api.scryfall.com/cards/88244522-1cf3-40a6-9ff7-bb78f2151b60'>Elvish Pioneer</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/2fa39646-a609-4b37-b8de-97893ae43c49'>Treetop Scout</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/4a1da8da-12b2-47aa-9565-92d305061798'>Elvish Lyrist</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/4ebf3a7c-e065-468b-a73c-6f986cde3a3d'>Norwood Ranger</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/f9f21681-fd36-4106-8395-3153599a08a6'>Nettle Sentinel</a> | 0.28 | 1 |
+| <a href='https://api.scryfall.com/cards/5eb18038-eb6a-4d27-ba52-52a1cee6b512'>Wild Nacatl</a> | 0.37 | 1 |
+| <a href='https://api.scryfall.com/cards/d1abd95a-4ecc-479c-b200-5aaf7c993ef8'>Portcullis Vine</a> | 0.03 | 3 |
+| <a href='https://api.scryfall.com/cards/4b614b21-69ed-4788-97d7-ad502b634abb'>Snarling Wolf</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/240830be-53f8-4f46-a0fb-6ecc439d1349'>Renowned Weaver</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/9d289043-edb5-4a7e-801b-4881709edb32'>Scythe Tiger</a> | 0.35 | 1 |
+| <a href='https://api.scryfall.com/cards/7eb39e97-53c2-4df0-9fb3-a3d6a24ec41f'>Avacyn's Pilgrim</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/4a81be06-b685-461b-80a8-2f23139106e7'>River Boa</a> | 0.14 | 4 |
+| <a href='https://api.scryfall.com/cards/a740584f-2ec2-46a9-9344-eac220759e85'>Nissa's Chosen</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/587eed42-5111-4161-9af5-bf76556c542a'>Guardian Gladewalker</a> | 0.08 | 6 |
+| <a href='https://api.scryfall.com/cards/8be526cd-1480-4661-a05b-e004d7b4656c'>Jukai Trainee</a> | 0.03 | 3 |
+| <a href='https://api.scryfall.com/cards/f0a9c72a-e450-41e3-80e5-06f2f1171245'>Masked Vandal</a> | 0.3 | 5 |
+| <a href='https://api.scryfall.com/cards/129fa334-f561-4fbd-9f51-2fa044b674e1'>Viridian Emissary</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/da15100b-2934-438c-9917-84ad8bdc4181'>Voracious Wurm</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/9dab2ca2-0039-4eac-a7dc-68756362737d'>Sculptor of Winter</a> | 0.04 | 4 |
+| <a href='https://api.scryfall.com/cards/bc8072b1-6080-45cd-b1c7-353b54a55931'>Reckless Amplimancer</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/d3a7bc69-4500-4e7e-94e4-67b85597bd82'>Kappa Tech-Wrecker</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/b9017ff4-d63f-4dd2-9157-c93fe4866bef'>Kappa Tech-Wrecker</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/736c3278-6ee2-47f9-aab0-1457e90137b1'>Orochi Merge-Keeper</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/05231fa1-47b8-49aa-9393-ec4d8384c41b'>Boreal Centaur</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/0e386888-57f5-4eb6-88e8-5679bb8eb290'>Ambush Viper</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/a20d20f7-bc4d-42fa-9f5b-5bb330eb7f38'>Quirion Dryad</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/6eba24f6-8a9c-4398-b2ab-3924b107c7b7'>Coiling Stalker</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/288b056a-ea80-4fdc-990d-0ee1e9a7bf64'>Drowsing Tyrannodon</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/ba462242-82de-4173-98d2-b1b7a1f3d8b4'>Vine Trellis</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/e2686431-8d9c-4b9c-998f-38b5ae113d4a'>Pestilent Wolf</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/fa1569b5-94ef-4ba5-98c6-f1bd4f73c7d5'>Quilled Wolf</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/7d038a59-e589-45f4-b5ef-6d2f9875d560'>Kami of Transience</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/9543cf53-8cf5-49d0-9c60-8b11e21da953'>Harvesttide Sentry</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/46700ccc-0975-49d1-b3fc-edb1eda3b624'>Snarespinner</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/c4bb669c-155e-4002-ba55-7e901760c0e8'>Dawnhart Disciple</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/135946fc-fe67-401f-821d-d7145c63f030'>Kalonian Tusker</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/e2324d0b-ac63-45e5-ba27-a643c61538c7'>Grappler Spider</a> | 0.1 | 3 |
+| <a href='https://api.scryfall.com/cards/68f1d2e6-ffa4-4c4e-8179-671deb9f5a7f'>Drover of the Mighty</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/ad602fba-6a73-4fd0-aff5-802c3be3100e'>Nacatl Savage</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/268bd9d5-4da1-4cbf-83f9-47f7aac1cfc3'>Runeclaw Bear</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/f2e3d197-e978-4ec6-ab69-3c5fd8ac3fc1'>Overgrown Battlement</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/3ed23582-3260-44c6-9884-904d294442ad'>Rushwood Dryad</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/4d3de66c-2283-458f-9d0d-943027520aa2'>Nightshade Peddler</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/1a403b28-f91a-4637-af72-d6fc86c3bb9a'>Rot Shambler</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/6ab810f1-21d6-4a98-b77a-e455370aa6cc'>Deadly Recluse</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/f03f0790-cdc9-4bb4-ae54-2c248435b0a4'>Apprentice Sharpshooter</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/d45daa56-6ad8-4df7-9d81-3193fd32e574'>Heir of the Ancient Fang</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/263feecf-a657-4892-a2bb-cd7080d283c2'>Wood Elves</a> | 0.68 | 1 |
+| <a href='https://api.scryfall.com/cards/da7aa861-556b-43a1-bf57-1efbbd438975'>Wood Elves</a> | 0.5 | 1 |
+| <a href='https://api.scryfall.com/cards/455ae615-20d7-4251-828d-72a3345d06f1'>Boreal Outrider</a> | 0.23 | 3 |
+| <a href='https://api.scryfall.com/cards/09c8c150-a0d8-4254-9169-7697e9c540da'>Kazandu Mammoth // Kazandu Valley</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/02f3aaed-a01f-4c6a-b9bb-cd70b0f6ceb1'>Icehide Troll</a> | 0.02 | 8 |
+| <a href='https://api.scryfall.com/cards/af46c8c8-5dfa-4ebb-b0b9-cd25d01dd432'>Gnottvold Recluse</a> | 0.01 | 6 |
+| <a href='https://api.scryfall.com/cards/a17f4b21-6478-407d-b567-2888349f3b66'>Horizon Seeker</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/b759b0f6-342c-4bba-89f1-8451835d8c45'>Old-Growth Troll</a> | 1.49 | 2 |
+| <a href='https://api.scryfall.com/cards/b32dcf7d-ac19-45c5-8c3a-1155bf25b216'>Matca Rioters</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/df520254-0c72-496b-9222-263ca9d3c5d5'>Pridemalkin</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/8e4a10d0-214d-4e7b-9683-c84034f8f6b7'>Tilling Treefolk</a> | 0.25 | 4 |
+| <a href='https://api.scryfall.com/cards/160335df-8377-4f72-9d3f-4b1492bd23ea'>Sacellum Archers</a> | 0.11 | 3 |
+| <a href='https://api.scryfall.com/cards/160335df-8377-4f72-9d3f-4b1492bd23ea'>Sacellum Archers</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/bda18561-4767-4f8e-bc6d-9117d1a480b1'>Llanowar Sentinel</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/03354b67-7df2-4b4b-a996-a37550e58561'>Centaur Courser</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/03354b67-7df2-4b4b-a996-a37550e58561'>Centaur Courser</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/20471a3b-90f9-4463-9b43-fc7b9b28f5d1'>Orazca Frillback</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/234a09dd-a202-4487-899f-348744143ba5'>Dawnhart Mentor</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/ac558d9d-5c7d-4671-ae0b-94c099e1b111'>Dawnhart Mentor</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/3888e2f0-223b-4509-8071-fe1b87a65b72'>Lys Alana Bowmaster</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/88c329c4-6c40-467a-ab37-95896a0c1159'>Elvish Champion</a> | 15.63 | 1 |
+| <a href='https://api.scryfall.com/cards/ee04dfd8-e704-46d7-bdf8-b0b2ee747a49'>Gloomwidow</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/a016c872-09bd-42e1-94da-f587e8252492'>Gloomwidow</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/abb1d18f-7a94-4a2f-a60c-0af852d44501'>Sporecap Spider</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/8f8dbb4f-4b01-4666-b62f-a2323dac7a19'>Aura Gnarlid</a> | 0.11 | 2 |
+| <a href='https://api.scryfall.com/cards/48484372-325a-4bef-ae86-a7f61816fd65'>Pincher Beetles</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/bb7f2638-d757-4df6-90b0-b616534dd3a0'>Hyrax Tower Scout</a> | 0.06 | 4 |
+| <a href='https://api.scryfall.com/cards/3afe6283-3642-4883-ac6e-83ae3280af9c'>Loathsome Chimera</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/c8212667-7e18-42a5-9f36-4f8a6ad12f83'>Realmwalker</a> | 5.21 | 1 |
+| <a href='https://api.scryfall.com/cards/71ccc444-54c8-4f7c-a425-82bc3eea1eb0'>Bird Admirer // Wing Shredder</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/b5339f6e-9ed7-4734-91c9-c2ed59ca1052'>Eccentric Farmer</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/a9c6a6b9-f00c-46a5-8dab-796483e3a262'>Honor Troll</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/74e22ed6-9d39-4feb-8c64-64cdd8313816'>Bounding Wolf</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/c37ae6b5-225a-410e-ab22-13e923bdfb65'>Spined Karok</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/c6cf27a3-9bcf-475c-a324-7c3af50496dd'>Thrashing Brontodon</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/d4343cb0-6490-496c-9d58-ac1f7d3a91c6'>Daggerback Basilisk</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/bdd0f8c8-1a1f-4d9b-a6e1-3654f3995012'>Borderland Ranger</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/10effbe2-fd8e-44b6-a08c-3984a92254d9'>Ember Weaver</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/55f97b4c-42c7-4986-a150-0b8de11f0537'>Leatherback Baloth</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/37068a41-bc5c-44b9-a307-5d3919794233'>Splinterfright</a> | 0.27 | 1 |
+| <a href='https://api.scryfall.com/cards/a30b4a78-afdd-4067-810e-1fa0ddf8fb0e'>Brindle Boar</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/4ed6122e-670f-4b02-a774-2c230f369147'>Rootwalla</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/10e9dd66-8580-4c96-9ab9-cc392dc6ee74'>Giant Badger</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/44d27fdf-690b-4e93-8412-4f6fb0ed43db'>Karplusan Strider</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/cfa1bf2d-a4b4-44f6-9126-195c602605e0'>Karplusan Strider</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/559d7162-39fc-4d99-8c5f-b40a765b883a'>Geothermal Kami</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/acc283b4-9106-4a32-88b4-000f2a3bed84'>Wickerbough Elder</a> | 0.14 | 3 |
+| <a href='https://api.scryfall.com/cards/4ab37d0e-5542-4ae0-a48e-d0a4e6bf48e7'>Kozilek's Predator</a> | 0.11 | 2 |
+| <a href='https://api.scryfall.com/cards/d68fc3bc-eb3b-4504-93a3-8943d07b23f8'>Timbermaw Larva</a> | 0.07 | 3 |
+| <a href='https://api.scryfall.com/cards/5e8bded3-46c3-474f-9d09-978df8705ad1'>Elderleaf Mentor</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/c11c852d-9c7c-4d9b-8e79-70ea5ac865df'>Broodhunter Wurm</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/220df551-3820-4910-a206-14501ba02e69'>Spirit of the Aldergard</a> | 0.07 | 3 |
+| <a href='https://api.scryfall.com/cards/98518e4a-d1d0-4e41-bae7-242c779f06a1'>Giant Mantis</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/6061113e-7dd8-4739-b4dd-55bb7f9e39a2'>Sarulf's Packmate</a> | 0.1 | 6 |
+| <a href='https://api.scryfall.com/cards/903cb570-d769-4d7f-afbe-90ebad96657c'>Mold Shambler</a> | 0.13 | 2 |
+| <a href='https://api.scryfall.com/cards/b53f5a5f-d851-4ceb-96e7-9ba216062072'>Joraga Bard</a> | 0.08 | 3 |
+| <a href='https://api.scryfall.com/cards/ed04a5a7-f7d0-4dd8-9c23-6a767814316a'>Graypelt Hunter</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/3f3a26c7-e028-4741-803d-6384925b8500'>Mist Leopard</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/7c1c68b1-fec9-4d96-b4ad-8d34719f1952'>Giant Spider</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/cdf40263-603b-46f4-9808-065bbec5c2f6'>Giant Spider</a> | -1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/54a4b031-0919-44aa-a35e-68da7a27235a'>Hookhand Mariner // Riphook Raider</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/54a4b031-0919-44aa-a35e-68da7a27235a'>Hookhand Mariner // Riphook Raider</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/1e91524b-4885-45fc-b22d-f9e5ee55845d'>Ravenous Leucrocota</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/d8610ff1-064b-4c75-a8df-d3b076370d1e'>Rumbling Baloth</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/fe39e38e-76e5-4883-b530-d3e30e88ccad'>Sabertooth Mauler</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/d779b14c-a100-4382-9e7c-0969efda73ec'>Cudgel Troll</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/a92dde51-310e-4f28-bd3b-d43b639785ec'>Littjara Glade-Warden</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/aa88ff5b-44df-40eb-b0bb-37936ae0d854'>Elder Druid</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/daf8b1e5-418f-4e64-a2ac-0e03b387ed33'>Ondu Giant</a> | 0.11 | 2 |
+| <a href='https://api.scryfall.com/cards/32bd6695-ee30-4ab1-a732-26b073c2fec6'>Nantuko Disciple</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/143231b3-23c4-4c6d-8b58-e401e1ac6e29'>Wildheart Invoker</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/255cdc39-6ad8-4831-9718-6712cb17654c'>Master Symmetrist</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/6b04160c-89a7-4dcd-b05d-5dc846824d64'>Canopy Baloth</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/367e7821-44f1-4064-a9a3-d9852c7c235c'>Summit Apes</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/10bf14b5-31d0-42e3-a319-2622b489f7c4'>Emerald Oryx</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/cde88869-5202-43e9-b0eb-4e40a50d311e'>Prized Unicorn</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/8347f2e8-ef70-4879-860a-12f7cab25902'>Professor of Zoomancy</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/0fd09615-bcd2-4a2e-b9bf-8b4fd83291ce'>Briarhorn</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/4e1483d4-bb91-4bf9-a57f-dd46fa31056b'>Armorcraft Judge</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/c2c4a0e7-9ca4-4291-94de-165cc2ded822'>Ornery Dilophosaur</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/19b0e267-c361-4224-9b7a-2a3d1c5ac8b4'>Dawnhart Rejuvenator</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/e92a7141-119f-4bf8-a82d-eb7c0c37185c'>Krosan Drover</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/dc8315bf-03af-4f19-92c7-556e486cb099'>Wildheart Invoker</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/4a1d4473-5317-4bdd-9cb9-93670acf52e9'>Grizzled Outrider</a> | 0.01 | 4 |
+| <a href='https://api.scryfall.com/cards/992aba3f-e1cb-4f5a-8b6f-328a069102a4'>Rootless Yew</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/700bb560-5a4a-4422-9158-1c2edad1913f'>Uktabi Wildcats</a> | 0.34 | 3 |
+| <a href='https://api.scryfall.com/cards/01e7af76-e505-49ca-a91e-8167027560ff'>Sentinel Spider</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/a4c3bd60-1ff6-4136-9188-d0620fd299a7'>Candlelit Cavalry</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/010c3ded-9df5-4880-b178-80f0e3c54731'>Spined Wurm</a> | 0.3 | 1 |
+| <a href='https://api.scryfall.com/cards/c5334998-3c84-4b04-a5c2-d66c9d99e93b'>Spined Wurm</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/0cc42e33-7489-4a32-bb30-adc80ec13521'>Beacon Behemoth</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/b2e4cb09-c99f-4a17-a6fd-55c9a169a808'>Aerie Ouphes</a> | 0.23 | 2 |
+| <a href='https://api.scryfall.com/cards/1636f571-43ed-4b60-b5d9-129ff94dd0fa'>Molder Beast</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/87e65427-1191-4f5a-b4ca-c383eecd274e'>Entourage of Trest</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/65c3274b-3eb0-450a-88bf-fb378e6cf94a'>Pride of Lions</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/a24bba56-3256-489b-82a2-22748388e110'>Turntimber Ranger</a> | 0.35 | 1 |
+| <a href='https://api.scryfall.com/cards/dfaef299-7879-4f52-8ee4-701ed150b930'>Garruk's Packleader</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/74729320-f6ee-4176-9463-397d6e477d7a'>Karok Wrangler</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/3e96f9a6-c215-42b1-aa02-8e6143fe5bd7'>Tireless Hauler // Dire-Strain Brawler</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/04d1fbb7-aa02-4f56-8be7-88a3ba55f7d2'>Marshdrinker Giant</a> | 0.15 | 2 |
+| <a href='https://api.scryfall.com/cards/a19a2e8e-9d8f-4537-838c-ac60e09d78bf'>Pheres-Band Thunderhoof</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/a477e081-949f-4cf0-b0d2-b9bdff6c760d'>Nema Siltlurker</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/9c699b5f-a2de-4c87-a7bc-16be4bc0a8cd'>Thornhide Wolves</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/b3aeb7fb-8618-4595-84b4-20881b824b3e'>Zendikar Farguide</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/f5a33394-d26c-4dcd-948c-e7d370059b11'>Stampeding Rhino</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/8059c52b-5d25-4052-b48a-e9e219a7a546'>Colossal Dreadmaw</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/d6794f92-1895-41fe-931f-42b0744e9f2e'>Soul of the Harvest</a> | 0.82 | 1 |
+| <a href='https://api.scryfall.com/cards/3983a304-5040-4b8d-945a-bf4ede3104a8'>Tovolar's Huntmaster // Tovolar's Packleader</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/3eb7af70-e024-44bf-a52b-209074b005a3'>Fin-Clade Fugitives</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/8f1e75e1-a827-46c1-896f-cd8fbdf79fa8'>Tangle Spider</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/bc5daf96-ceae-4c9a-95cd-f6d706e9b1fa'>Vastwood Gorger</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/19eee2f9-676d-4d98-a19e-ff5d841c636f'>Craw Wurm</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/3875f73d-6108-488b-bd34-4cf2c23ce6b3'>Craw Wurm</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/4aa85e09-a1cd-473d-98cd-c6a7c7aff949'>Woodcloaker</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/9961e3fc-167e-4043-8510-cc5cf08d473e'>Ravenous Lindwurm</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/7536d618-0c98-45bb-913b-b8117b4acf87'>Annoyed Altisaur</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/e06bea52-3db1-4b61-8418-77ace9cd70b5'>Thorn Elemental</a> | 0.29 | 1 |
+| <a href='https://api.scryfall.com/cards/b9cdd08b-7e77-4927-87dd-6e3afffc3ef0'>Walker of the Grove</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/492ff217-1bf6-4942-8d2f-8ddd71da683f'>Sifter Wurm</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/e8676b1f-e37c-4ae1-9dbe-d000369fa422'>Wirewood Guardian</a> | 0.2 | 2 |
+| <a href='https://api.scryfall.com/cards/8e732593-0bdc-4dd4-9b07-9aa1a780e6e8'>Pelakka Wurm</a> | 0.15 | 2 |
+| <a href='https://api.scryfall.com/cards/681faafe-68ce-4b71-bf23-a8028614ede5'>Enormous Baloth</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/54069e65-eef4-4fb8-bb0d-932a4c9889b3'>Enormous Baloth</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/8b43bb9f-1b84-41cc-a4f9-5875ae6d207c'>Bamboo Grove Archer</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/540ba70a-bea8-4512-83ba-92dab6d25b52'>Bearer of Memory</a> | 0.01 | 5 |
+| <a href='https://api.scryfall.com/cards/e66120a5-95a3-4d15-873c-cfba221a2299'>Jukai Preserver</a> | 0.01 | 5 |
+| <a href='https://api.scryfall.com/cards/2dd0fef1-209f-4de5-a736-8f9bca2faa0a'>Fang of Shigeki</a> | 0.08 | 4 |
+| <a href='https://api.scryfall.com/cards/94c8e2d5-2706-4137-bfdc-d65f1cd33bda'>Fang of Shigeki</a> | 0.04 | 4 |
+| <a href='https://api.scryfall.com/cards/b4fbaee3-a10f-4b2d-b07e-d041a96a7e27'>Greater Tanuki</a> | 0.04 | 4 |
+| <a href='https://api.scryfall.com/cards/d1682673-e947-44e2-b9c9-cbcb9a16892b'>Weaver of Harmony</a> | 0.47 | 2 |
+| <a href='https://api.scryfall.com/cards/03508e2b-2b79-4b97-abee-70e762e633bd'>Weaver of Harmony</a> | 1.22 | 1 |
+| <a href='https://api.scryfall.com/cards/54509524-92b9-41a3-8aba-a8955a7dfa1a'>Heir of the Ancient Fang</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/164e663f-6a67-4a10-a737-33ea533a9316'>Jukai Trainee</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/8b4f003c-1e99-4e53-ad6d-81ff3c592b2c'>Nyxborn Colossus</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/f12149b9-b450-4ad6-ab5d-9a0eeb36997e'>Humbler of Mortals</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/ac71491f-3027-4257-a18f-ba4de6041feb'>Spirespine</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/1144014b-f13b-4397-97ed-a8de46371a2c'>Boseiju Reaches Skyward // Branch of Boseiju</a> | 0.05 | 3 |
+| <a href='https://api.scryfall.com/cards/e8a51d2a-1582-4bad-995c-e7fe9f810149'>Azusa's Many Journeys // Likeness of the Seeker</a> | 0.06 | 7 |
+| <a href='https://api.scryfall.com/cards/a22b5f27-f9e7-49e1-8e96-dc5d8e7fbe27'>Jugan Defends the Temple // Remnant of the Rising Star</a> | 0.82 | 2 |
+| <a href='https://api.scryfall.com/cards/4c0c6c2a-4352-4c65-b41d-2a722bbef6c5'>Teachings of the Kirin // Kirin-Touched Orochi</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/512bc867-3a86-4da2-93f0-dd76d6a6f30d'>Tales of Master Seshiro // Seshiro's Living Legacy</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/5ca28cfd-1a1b-4176-8b07-993d3d7b7ae4'>Sanctum of Fruitful Harvest</a> | 0.37 | 1 |
+| <a href='https://api.scryfall.com/cards/606da75d-382a-47a8-9739-644438594700'>Path to the World Tree</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/8cbdd88e-c532-4fc0-a1fe-8aa0c26d1092'>Roaring Earth</a> | 0.16 | 3 |
+| <a href='https://api.scryfall.com/cards/ac0e50fa-5114-4f96-89f4-000906da7c76'>In Search of Greatness</a> | 0.29 | 1 |
+| <a href='https://api.scryfall.com/cards/ac8d1ecb-de7c-4641-81da-13117820195c'>Font of Fertility</a> | 0.33 | 1 |
+| <a href='https://api.scryfall.com/cards/7d4ebdea-78d4-4034-921b-735bdb11a716'>Omen of the Hunt</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/8dce84db-d331-4e5b-bdd8-9b1b3bec50cc'>Garruk's Uprising</a> | 2.01 | 1 |
+| <a href='https://api.scryfall.com/cards/e7a15010-1b70-4b4f-8b5d-cb2d764a1799'>Grafted Growth</a> | 0.04 | 8 |
+| <a href='https://api.scryfall.com/cards/1947f64a-5ca0-4dda-8bbd-8472e72ecf18'>Setessan Training</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/9e2ebad5-0a56-4166-80af-7ebd20ae565a'>Careful Cultivation</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/08b9c400-dc8f-4fe6-a868-fdf0d247086a'>Trollhide</a> | 0.08 | 3 |
+| <a href='https://api.scryfall.com/cards/941f91bb-f5a3-4cca-85b5-b610502460bb'>Historian's Wisdom</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/1013266a-81f4-4441-8dcf-2764d14afceb'>Favor of Jukai</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/7a48a42e-5cc5-4f9a-8745-99936f4cae5f'>Howl of the Hunt</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/c60fbc33-6198-4661-967e-cc94f2788e4a'>Glittering Frost</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/c92ff968-b436-4313-8375-8a3bb41f9892'>Harmonious Emergence</a> | 0.01 | 4 |
+| <a href='https://api.scryfall.com/cards/97ee5083-078f-4e76-a172-8f2edf98aa80'>Blanchwood Armor</a> | 0.22 | 2 |
+| <a href='https://api.scryfall.com/cards/22e558f1-74ef-4d16-8135-2a8dc0c58fe9'>Blanchwood Armor</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/42df372a-af2b-464a-b54c-039132f70d00'>Oakenform</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/2ff4b431-3ca6-436f-aa44-911174538e04'>Oakenform</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/8b8547e0-2928-4edc-a15a-a613cb4d1eac'>Savage Silhouette</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/acbe560b-f7b5-4614-91f1-b669a39abc16'>Arachnoform</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/5c0d507b-fc08-46cb-b092-484fa4adeef6'>Rune of Might</a> | 0.22 | 2 |
+| <a href='https://api.scryfall.com/cards/9bca11e1-3c75-4dba-b4a2-c77595cc3022'>Vastwood Zendikon</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/2e593a5b-0de6-4df2-bbda-54195400dc69'>Spider Umbra</a> | 0.27 | 1 |
+| <a href='https://api.scryfall.com/cards/4a011820-80c6-484f-84be-f07f0e45f1a8'>Snake Umbra</a> | 0.4 | 1 |
+| <a href='https://api.scryfall.com/cards/aa476306-9d6b-45ed-9e6c-fd4aee6592e7'>Gigantiform</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/4fcc34db-60be-4017-adfa-6bdfacec793f'>Canopy Cover</a> | 1.09 | 1 |
+| <a href='https://api.scryfall.com/cards/c259509e-9f95-4566-b78a-ba34107539f7'>Dryad's Favor</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/00b361e3-8aaa-4194-8ae8-45bdb70c97bb'>Gift of Paradise</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/2d21701b-6a99-4e1c-82b2-0219f170b09f'>Riveteers Decoy</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/8bccccf9-3ee5-4485-ae01-4dcbad989d18'>Attended Socialite</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/bad9e58e-c9a3-4a0d-9a59-71c20a3275b6'>Warm Welcome</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/9a8dfb98-a975-41bf-8aac-c0001c9ddaa7'>Caravan Vigil</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/a35ff4dd-bad3-4496-82b3-8253f48af06d'>Commune with Spirits</a> | 0.09 | 4 |
+| <a href='https://api.scryfall.com/cards/f66d2ddc-b4d4-4387-bde0-16d81ef2b1a7'>Commune with Dinosaurs</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/6318918f-34e4-4bbf-9816-8e88f21ae324'>Blizzard Brawl</a> | 0.1 | 4 |
+| <a href='https://api.scryfall.com/cards/805faf2e-97dc-4b77-bc02-a4cae980f041'>Reclaim the Wastes</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/97ac2766-a597-4949-882d-c5e61e6dd268'>Ancient Stirrings</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/d1511d4d-3e70-4688-ab88-37e26cb1a46f'>Irresistible Prey</a> | 0.15 | 2 |
+| <a href='https://api.scryfall.com/cards/0e07a16f-d836-40f9-85e3-a78582a97109'>Channel</a> | 0.28 | 1 |
+| <a href='https://api.scryfall.com/cards/f7444555-da19-4d2d-ad81-233c54fbb78e'>Devouring Tendrils</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/734afb5b-3163-47fa-856f-8a85b9da22d3'>Roots of Wisdom</a> | 0.01 | 4 |
+| <a href='https://api.scryfall.com/cards/734afb5b-3163-47fa-856f-8a85b9da22d3'>Roots of Wisdom</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/effe3fab-6d13-4603-8a21-8a3c2a0d9e08'>Rabid Bite</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/2f573622-877b-4d21-adfc-40a32b7c2e6d'>Rabid Bite</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/a429a983-d28e-46e7-816f-0398428db11a'>Rampant Growth</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/78472540-b085-4ee1-848c-de4631274919'>Rampant Growth</a> | 0.27 | 2 |
+| <a href='https://api.scryfall.com/cards/eb56633e-692c-41bc-9253-ebd1528f4e99'>Monstrous Growth</a> | 0.11 | 2 |
+| <a href='https://api.scryfall.com/cards/db50f988-da46-4b9b-9cc5-78497df2df8b'>Adventure Awaits</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/b41b6c8a-bd76-4b69-ae72-4c8acac379b4'>Track Down</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/ba75dc52-7ab2-43ec-afac-0a9bcf24cde9'>Tapping at the Window</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/b3896717-1e46-4aa2-88b7-1c4fe76edde1'>Cultivate</a> | 0.63 | 1 |
+| <a href='https://api.scryfall.com/cards/71a659b6-c4a8-4c0a-8b2a-07b6c9e27dfc'>King Harald's Revenge</a> | 0.01 | 5 |
+| <a href='https://api.scryfall.com/cards/e781d6ad-950e-49bf-9645-e2354086ae49'>Scale the Heights</a> | 0.08 | 3 |
+| <a href='https://api.scryfall.com/cards/4a433310-3fe2-4156-864d-7a6b2638340b'>Cultivate</a> | 0.54 | 2 |
+| <a href='https://api.scryfall.com/cards/51d4d1c2-671c-498c-a232-7d076e3dc3bb'>Grow from the Ashes</a> | 0.27 | 1 |
+| <a href='https://api.scryfall.com/cards/8be52d88-f430-4437-a0d3-590c2947c838'>Basic Conjuration</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/abdf15ef-91e9-433f-a4c8-e670adef904c'>Savage Stomp</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/f235060a-eb49-4a73-bb5f-01228c3c4070'>Field Trip</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/a67747a9-3299-4b4a-a4e0-e8a269c4f927'>Struggle for Skemfar</a> | 0.01 | 7 |
+| <a href='https://api.scryfall.com/cards/215115fa-50a6-42c0-b3c6-8d18e7f65174'>Feral Contest</a> | 0.08 | 4 |
+| <a href='https://api.scryfall.com/cards/585b52bc-aff5-4406-b55b-1b7decfd80f9'>Monstrify</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/42f01f4d-491e-4f25-a017-a0d9c437ac8c'>Blessing of Frost</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/fb989895-a5c7-4151-8620-ab277d826303'>Break Asunder</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/8f7a6df7-acfc-4047-b119-505f4277225c'>Hunt the Weak</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/8316eb28-9e58-4194-a0c6-cad32bddc391'>Phosphorescent Feast</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/b5c02102-3be7-462f-ab9c-ff404255002d'>Invoke the Ancients</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/f97007af-6642-4105-8d8c-4223681e1cf9'>Spider Spawning</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/d3e16262-a9c1-45e1-b88a-322c752256cf'>Overrun</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/81a1ba0c-1131-4b16-9a11-90947cdb6292'>Strength of the Pack</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/3143fadd-0162-4e0c-89fc-89dc3501d13c'>Rise of the Ants</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/a37ba2c4-dd92-4b23-a830-5dbabc9a972b'>Howl of the Night Pack</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/20fc5ff1-b8bd-44d5-a659-17eeae06736a'>Howl of the Night Pack</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/94d406ed-bf60-4adc-9721-e64d1313f6b7'>Skullwinder</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/5f36ddd7-82c1-45ef-a966-ae2a34c540e1'>Spinning Wheel Kick</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/e692c208-c171-4964-9207-43c2cbc62845'>Snakeskin Veil</a> | 0.13 | 4 |
+| <a href='https://api.scryfall.com/cards/9514c013-bc11-4cc5-af8c-f82fd4098bcf'>Might of Alara</a> | 0.11 | 2 |
+| <a href='https://api.scryfall.com/cards/ed16926f-feb0-481a-8c5e-88ea119752cd'>Charge Through</a> | 0.12 | 2 |
+| <a href='https://api.scryfall.com/cards/9ade9b45-a1f5-4680-8d26-d2ae5879b1b6'>Giant Growth</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/3df3116a-ce5c-44d1-9286-7deb5d516c90'>Giant Growth</a> | 0.07 | 4 |
+| <a href='https://api.scryfall.com/cards/fd4b7ee2-de65-4288-872d-486065a4f226'>Tamiyo's Safekeeping</a> | 0.86 | 7 |
+| <a href='https://api.scryfall.com/cards/3a7fd24e-84d8-405d-86e4-0571a9e23cc2'>Vastwood Fortification // Vastwood Thicket</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/32177b9c-eef3-4eea-b623-74bfea1afad6'>Nature's Panoply</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/4ca76e9a-672f-49eb-86c6-00fac60d3065'>Groundswell</a> | 0.26 | 2 |
+| <a href='https://api.scryfall.com/cards/2d531ba4-df99-41e4-9dd3-a27a420ad63c'>Leaf Arrow</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/02392840-f0c4-462e-84ce-9a7cdd9f5efb'>Ranger's Guile</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/63f7e81a-6f9e-4cad-a911-fba7a431cd55'>Warriors' Lesson</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/6213c038-d231-4e61-b0ec-d1e39637e5c3'>Fog</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/b059cca0-2373-428b-a3a6-c8be5523c96f'>Withstand Death</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/05a5188b-9ae3-4ca0-8289-b8a266a9073b'>Wing Puncture</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/10465f4f-f4ff-45d8-bc97-3ec85e5eea70'>Might of the Masses</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/bd328139-0dc1-403b-ad79-b1cf3479ac33'>Run Afoul</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/6e25c252-4177-4193-914c-b6933d9c0d7d'>Return to Nature</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/3f1b4490-d96d-4448-835b-6cc453c1f344'>Return to Nature</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/7d42ca7c-5b36-45a9-b235-4f90e66f4377'>Master's Rebuke</a> | 0.07 | 5 |
+| <a href='https://api.scryfall.com/cards/06771591-0480-4232-bc67-216b2e0fe738'>Boon of Boseiju</a> | 0.04 | 4 |
+| <a href='https://api.scryfall.com/cards/595f1019-2608-4d00-8b9b-7f22e87acd0d'>Naturalize</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/ae52b4dc-4acd-4fa5-a6b5-613e808cf0ab'>Naturalize</a> | 0.05 | 3 |
+| <a href='https://api.scryfall.com/cards/7531879b-d5fd-4b60-b838-733883571473'>Naturalize</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/a3c4e15b-7460-4d61-a209-6de27e4df6bb'>Tanglesap</a> | 0.08 | 3 |
+| <a href='https://api.scryfall.com/cards/98cd33cc-df39-4db1-a4a0-09756ec8372c'>Aim High</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/ac0b24e7-14e7-45ee-b5d8-bdb8674b669c'>Ram Through</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/80fbf729-00c0-4237-8294-c857f96364d3'>Tangletrap</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/9bb0a0c8-158e-4a6f-976e-3de9f57c3463'>Duel for Dominance</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/5923f9d4-c2ec-466f-9e5b-17d24bda7f37'>Plummet</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/5f6acb5b-b087-4cad-b40f-2de37029847c'>Plummet</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/6a853679-e9dd-4c05-8688-248de8f12760'>Might of the Old Ways</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/5ee76006-5272-400d-b6b2-e1548bca9dbf'>Ancient Animus</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/217bf237-a758-4500-b221-5e88fed9d0fc'>Resounding Roar</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/bf92ae01-9d1e-4b41-b068-096648daadf6'>Aggressive Urge</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/6da62557-9783-4e6c-9b5f-2b77dbf96909'>Titanic Growth</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/9eb94908-4f4a-487e-87ac-8d5bdefe9983'>Broken Wings</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/0e55041f-69a5-4bcf-899f-a4b44c208b4d'>Mammoth Growth</a> | 0.01 | 6 |
+| <a href='https://api.scryfall.com/cards/e309c1fc-3a7c-4624-8b48-9b152c2590ae'>Harrow</a> | 0.39 | 2 |
+| <a href='https://api.scryfall.com/cards/b7adf3cb-2834-49fc-bdd0-9b939a20915c'>Crushing Vines</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/b7adf3cb-2834-49fc-bdd0-9b939a20915c'>Crushing Vines</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/841f0ec2-94c7-4cec-94bb-b365084ca45f'>Season of Renewal</a> | 0.05 | 5 |
+| <a href='https://api.scryfall.com/cards/0b683d3f-025c-4b8d-89d7-3513488649d5'>Fully Grown</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/ccbdfd82-d025-4070-a1f5-4ee759978bcb'>Spidery Grasp</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/01398f5f-f38e-45a7-b755-e65c8fa779f8'>Crushing Canopy</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/c0c8057f-b45b-4f67-90cd-c808b5e9cbfa'>Pulse of Murasa</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/4e1448cf-3ddc-437b-a21e-4f4086492ec6'>Hunter's Insight</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/361399a4-04f3-4eef-8090-2caec7d1bb66'>Living Destiny</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/3e98fb7c-6962-4b57-b7b7-c71899564002'>Natural Reclamation</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/f717c573-e448-400e-a228-d438491f1754'>Sylvan Bounty</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/0e223d99-408a-413d-abb1-cb2f11ae521d'>March of Burgeoning Life</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/1271251b-7d79-4cb4-80bb-98574aa63249'>Bannerhide Krushok</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/b486c9cf-b0a6-44a4-b4c1-b3f5eed6c294'>Funnel-Web Recluse</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/0fb48c2e-ee0f-4fae-9c22-247870c10d5b'>Scurry Oak</a> | 0.23 | 2 |
+| <a href='https://api.scryfall.com/cards/97dbd212-f1e8-429a-bf00-b2ea966d880e'>Rift Sower</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/1af03fc3-5eb6-404e-96d9-e291a1e11ec3'>Duskshell Crawler</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/5ad86b17-3fed-418a-938c-c49adb409531'>Abundant Harvest</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/090b3da4-c942-480e-9997-bb9c20e8d62d'>Strength of Solidarity</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/4ab83a39-d90d-403e-b74d-fe99c8b2aacd'>Urban Daggertooth</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/333f02f7-3b8a-41e3-9ae5-2151539e64ad'>Deepwood Denizen</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/40d0ddcc-e6df-4fe1-9ac9-f895885ccc84'>Outmuscle</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/74237cce-2ca2-4bfd-a846-c7309621a85f'>Garenbrig Squire</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/7bc33252-145f-45c0-bb70-23183c698f66'>Sporecap Spider</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/098bfd71-a47f-4dfc-b516-b88a388fb7b5'>Tall as a Beanstalk</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/8bc518fc-904e-4e39-aeda-ffb222bfcc82'>Tuinvale Treefolk // Oaken Boon</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/2a0d430f-da84-4752-940c-8457c525aac9'>Rosethorn Acolyte // Seasonal Ritual</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/55f76830-369e-4224-9ded-7d1ce04c87e4'>Wildborn Preserver</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/42b77a34-9b69-4b01-9f2c-2ff8de47fc12'>Crack Open</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/8f8db60d-3adf-45e1-b4d0-3b5e24f5e01d'>Jewel-Eyed Cobra</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/6201f78e-ff45-4c59-ac85-c8447c14a496'>Broken Wings</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/ad8d2b97-72b9-4bde-ad31-fd9562512d30'>Carefree Swinemaster</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/0a4813b2-3fd7-4a2b-b87a-9ce5bb18bdd4'>Owlbear Shepherd</a> | 0.13 | 2 |
+| <a href='https://api.scryfall.com/cards/b6918a85-1a10-4a73-917c-23bd0a877a04'>Cloakwood Swarmkeeper</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/4fe31ab9-d217-464e-96b1-d8a1ca6ad005'>Colossal Badger // Dig Deep</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/f631762a-e833-40a5-a6e9-b6cde38f62f0'>Viconia, Drow Apostate</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/cba131bb-b8b3-4577-9f41-4700d9985134'>Dungeon Delver</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/082a8ffc-a052-498f-b457-8d70ea18a943'>Duke Ulder Ravengard</a> | 0.2 | 2 |
+| <a href='https://api.scryfall.com/cards/41796670-081a-41e9-8c1c-e6cf391b5896'>Jon Irenicus, Shattered One</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/f1d41d4f-d2e0-490c-bde0-ce57eb8fda22'>Oji, the Exquisite Blade</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/89149fb5-3afd-4da0-9a44-9366feb20804'>Moss Diamond</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/9f5bb319-29b2-4a7c-82e9-f8b5e47909a1'>Ganax, Astral Hunter</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/0eba2250-0e9b-46fd-a4b5-23f30329e063'>Fearless Pup</a> | 0.03 | 7 |
+| <a href='https://api.scryfall.com/cards/55ba9bea-5549-45cf-896c-501a1c81fd5a'>Impulsive Pilferer</a> | 0.11 | 2 |
+| <a href='https://api.scryfall.com/cards/02fdc551-0b22-49f4-8765-143ad82f16a3'>Hall Monitor</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/3a5ad1c8-3d70-43ed-9539-2aa6289c5c4a'>Akoum Hellhound</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/ee2a0d71-15a2-4061-b5f2-434755094aa4'>Grim Lavamancer</a> | 0.27 | 1 |
+| <a href='https://api.scryfall.com/cards/5028bb39-7f90-4b7e-96a1-060cf55fb763'>Frenzied Goblin</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/74f68014-489d-4f51-a959-0f335541cb4e'>Vault Robber</a> | 0.04 | 7 |
+| <a href='https://api.scryfall.com/cards/22c59e0b-5b78-4cf5-9c2a-92ccf833778f'>Frenzied Raider</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/77da4de2-4d34-40e5-8fc0-850aef05356b'>Immersturm Raider</a> | 0.05 | 6 |
+| <a href='https://api.scryfall.com/cards/ca382425-2454-4300-b903-fdefd31582d3'>Goblin Trailblazer</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/ca382425-2454-4300-b903-fdefd31582d3'>Goblin Trailblazer</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/2411c341-a470-4484-9248-7c1d3ca12978'>Axgard Cavalry</a> | 0.03 | 7 |
+| <a href='https://api.scryfall.com/cards/96f15754-1ca6-45b0-a7de-2fe507df2a1a'>Akki Ronin</a> | 0.03 | 3 |
+| <a href='https://api.scryfall.com/cards/fa16ee8e-d33a-40e9-9956-e345f0511819'>Akki Ronin</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/fa16ee8e-d33a-40e9-9956-e345f0511819'>Akki Ronin</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/62d878c2-a340-4751-adaa-e50b0bb85423'>Upriser Renegade</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/52af0f2d-de2e-4554-ae32-c88bc7ba7c71'>Upriser Renegade</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/4592609d-48f5-4762-b95c-b2eaa2ea4d51'>Blood Petal Celebrant</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/c40998e0-d7d0-4d79-a40a-9a381debd2cb'>Falkenrath Perforator</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/212462b7-e23e-4c87-93aa-9cadefbf1ac8'>Fearless Liberator</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/758724f9-93c9-4178-ae40-3fefc75a010e'>Sokenzan Smelter</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/22331eb5-c791-4d38-a6f7-cc5f4ef815ef'>Sparkmage Apprentice</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/bac6bdd4-b25b-41f6-835d-7d1570cdb951'>Careless Celebrant</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/b4c68bad-c7ee-4dbc-ad06-8c4d9446884e'>Thermo-Alchemist</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/e2093386-ad77-4b35-982b-518ee4c05cc6'>Humble Defector</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/a248363d-40a0-4dc5-a0bb-a826c3ba4499'>Champion of the Flame</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/e2a732ca-cd68-465f-8e44-783e1fe34e44'>Lambholt Harrier</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/a2b4cbb7-c9ad-4320-9322-a6a3afbc4a50'>Ashmouth Hound</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/626b0477-6165-443a-8a75-dfeac26ac9f9'>Festival Crasher</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/f30237cc-27c8-4075-acbd-d75a16588a68'>Blood Age General</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/d6eb23c9-6061-4ad1-a8f3-2c791c49f352'>Breakneck Berserker</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/14057067-2325-4229-8580-d9a6397ae343'>Scrap Welder</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/14057067-2325-4229-8580-d9a6397ae343'>Scrap Welder</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/e5b2176d-8925-4474-9d3e-1c97192715fb'>Peerless Samurai</a> | 0.04 | 3 |
+| <a href='https://api.scryfall.com/cards/247c362c-bf21-4bca-89d4-54eb60806f10'>Peerless Samurai</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/a54d0170-a375-4e65-b98d-3e94a3aeef90'>Tuskeri Firewalker</a> | 0.03 | 7 |
+| <a href='https://api.scryfall.com/cards/a5f03ffd-dcdb-441c-8dfc-4fe06a289b22'>Spelleater Wolverine</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/128f37ff-eb63-4417-87c2-96a3a026fcf4'>Bloodrock Cyclops</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/c6d4ab45-ab42-4144-9c57-ba046b76860c'>Hellraiser Goblin</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/c3661c2d-f211-4e32-8edb-bb73617537e2'>Hell's Thunder</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/345a3696-1496-4726-a48b-6f1f421bf52a'>Goblin Warchief</a> | 0.53 | 1 |
+| <a href='https://api.scryfall.com/cards/28bc2848-b6fb-444d-b909-01c712696547'>Harvesttide Infiltrator // Harvesttide Assailant</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/c32c6192-2f8d-4656-af8b-c488e27a75e1'>Stampede Rider</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/76e42d07-57d9-4de4-8d41-eb42dd1573ed'>Onakke Ogre</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/a7cc9ea8-db4e-4f41-800f-fb0dbcb2c345'>Tome Shredder</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/cd35107b-6aaf-4fd8-bf1c-12b724d1482e'>Riot Devils</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/a5664b7d-b553-4e0a-93ec-3d70e8e4f63b'>Molten Ravager</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/2be804ab-1024-4eee-b339-48ed8b84d363'>Craven Hulk</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/b32aea04-04f7-48a8-a8ab-8b38fa53da3b'>Basalt Ravager</a> | 0.07 | 3 |
+| <a href='https://api.scryfall.com/cards/b6008794-a7ca-4a3e-b88b-e5dbb9e0f39b'>Spitfire Lagac</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/78c3c616-1f95-41b1-a624-79d6362d4f16'>Cinder Elemental</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/a15edad1-ff68-4f20-95f6-99fe549bea98'>Calamity Bearer</a> | 0.17 | 2 |
+| <a href='https://api.scryfall.com/cards/3b267d18-b3fd-49d8-a472-65f4436b518d'>Beetleback Chief</a> | 0.24 | 2 |
+| <a href='https://api.scryfall.com/cards/fdbe6937-ceda-4367-a101-562fd5e0e09d'>Famished Foragers</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/d47e9653-2a3a-4d37-8f3d-3dab4f468338'>Turret Ogre</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/f58592f7-1df5-428d-9dde-e6acd9a5d1d5'>Ardent Elementalist</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/7d509f73-cd62-4116-9652-0ed801ed8b36'>Pillardrop Warden</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/dc5e8221-fc2d-4d90-80f3-729606648c54'>Kinetic Augur</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/45657345-b564-4e5f-a57a-01dc54df7e7c'>Brazen Freebooter</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/019be6df-da52-4cb0-81ee-a684e6f73e43'>Mardu Heart-Piercer</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/0f470a7b-63ef-4efa-855e-f8a3ce1ab534'>Skophos Maze-Warden</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/180f4220-bd76-4a2f-b9e1-414729cd1db2'>Ogre Battledriver</a> | 0.6 | 1 |
+| <a href='https://api.scryfall.com/cards/c90fdccf-30a6-40ee-9b35-83a6ee5c0681'>Crimson Fleet Commodore</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/ec1a2920-6d39-4276-921c-65cc16a45f17'>Thundering Raiju</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/7ce76a38-fc5f-4e29-ba24-4a877179a62c'>Fuming Effigy</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/53c267b7-dbd6-43c5-9741-10f635bff4b1'>Fathom Fleet Swordjack</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/d3d00e61-3007-43da-960b-823e9ead2acf'>Kami of Industry</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/d3b18cdb-bc17-42ae-bfb7-4eafce01cd39'>Hagi Mob</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/d06d9d83-d1e6-4499-a1ac-6f865159f6b6'>Stirring Bard</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/c5bbffb9-1f1c-40e5-97f4-29bf1fc68625'>Quakebringer</a> | 0.83 | 1 |
+| <a href='https://api.scryfall.com/cards/7ff4832a-26c0-4da5-abbb-1941e7084e72'>Ardent Dustspeaker</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/646edf58-4bc5-4d87-af68-b8b006ccb806'>Dragon-Style Twins</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/f9db384e-9555-4ccc-a305-ee448252e685'>Purifying Dragon</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/9dcec0d7-897e-4593-bd09-460207e28c90'>Seismic Elemental</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/625ca28d-d918-440a-acbb-969cf7b1925c'>Scourge Devil</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/00924a16-fb85-41a4-bd7a-88f51f728333'>Ripscale Predator</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/186adacf-434b-475b-9b85-749615ae002b'>Boarding Party</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/186adacf-434b-475b-9b85-749615ae002b'>Boarding Party</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/6075e0a3-a0ab-4a11-8ad2-7dabb071d309'>Bone Pit Brute</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/3841b5f9-f9a3-433d-bcdc-f2aa5c783b6d'>Aurora Phoenix</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/647f0ced-564d-46d4-99f1-fcc2ddfb047d'>Oni of Wild Places</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/a4e125e4-103f-4a68-b85f-1382646da71e'>Doomskar Titan</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/e4802e6c-6921-4dac-bf44-7e09d6942b71'>Cinderheart Giant</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/d98022d2-3b46-41f4-8f31-0a238d881ac6'>Pugnacious Pugilist</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/92691507-b1ce-40d0-87e7-b79e81370511'>Wrecking Crew</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/0f9bb73a-5b4e-4c9b-b0a6-8e531dc27394'>Oread of Mountain's Blaze</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/4d83e837-fcd1-4833-9117-e6f1bb53caad'>Akki Ember-Keeper</a> | 0.03 | 3 |
+| <a href='https://api.scryfall.com/cards/9423318a-c5a8-48d2-92f5-280d15a050a6'>Frost Bite</a> | 0.05 | 6 |
+| <a href='https://api.scryfall.com/cards/6f096de6-995a-4c54-9e9e-b46410d6022d'>Shock</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/5a9b7141-45b9-4629-a4e4-b50f93929717'>Voltage Surge</a> | 0.05 | 7 |
+| <a href='https://api.scryfall.com/cards/780e1bf1-e392-40f2-9e84-764dedc5fcd4'>March of Reckless Joy</a> | 0.12 | 2 |
+| <a href='https://api.scryfall.com/cards/e0dd378c-5050-48c9-9a16-6d91afa62d21'>Raze the Effigy</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/58c8bdce-73a3-4266-b3d6-61dbf4534ea3'>Kindled Fury</a> | 0.01 | 4 |
+| <a href='https://api.scryfall.com/cards/0b44534f-d10c-4754-8585-5fe9db5fd4ea'>Flame Discharge</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/6f1a6c60-a8c4-44c2-b1ea-d3befbabdf43'>Play with Fire</a> | 1.63 | 1 |
+| <a href='https://api.scryfall.com/cards/4620cc3b-e401-4096-b310-fed080806344'>Academic Dispute</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/dd921e27-3e08-438c-bec2-723226d35175'>Tibalt's Trickery</a> | 3.18 | 2 |
+| <a href='https://api.scryfall.com/cards/b045c28a-39f9-4cd9-8f3a-a626b697f409'>Cathartic Pyre</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/44c8136f-2826-476c-a103-7094670506a6'>Run Amok</a> | 0.03 | 6 |
+| <a href='https://api.scryfall.com/cards/bef5d58e-b490-4682-9a44-12cd61a94c0f'>Kami's Flare</a> | 0.05 | 3 |
+| <a href='https://api.scryfall.com/cards/2e807edb-838d-44fe-a37e-fb864d59beaa'>Thrill of Possibility</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/f4af156d-0fbf-4a4e-b0c1-db7e95be4903'>Thrill of Possibility</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/7e22c791-6ef9-4f13-a14d-4f795f48bb1c'>Volcanic Geyser</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/b011707a-471b-41c2-bc73-376a55d26bee'>Sudden Breakthrough</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/e854e6a3-8684-43fa-9560-ef4c3b62c935'>Unleash Fury</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/2975ce11-589a-4da8-a016-854bbaeb869c'>Magma Jet</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/616c5b52-94bc-48e3-8e4f-e2db1eca7536'>Livaan, Cultist of Tiamat</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/a0e47d11-cb21-402b-a39e-588a94cc57b4'>Abrade</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/6ef580f8-efec-4d31-8dc3-2018dd48b6f4'>Dual Strike</a> | 0.2 | 2 |
+| <a href='https://api.scryfall.com/cards/091eb13d-9318-4b12-9f94-6276b11981d1'>First Day of Class</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/feebd1ba-758f-4029-9f5c-19b07146b80d'>Magmaquake</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/4c2029e5-cf7d-461f-b7b9-bf96399d8f49'>Fire Prophecy</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/5516cf97-805f-4a21-a4c6-2d6e55865336'>Cinderclasm</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/064a6f1c-a058-4cc8-b467-5dbecb5eeb99'>Sure Strike</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/d00d618d-abad-475b-b938-e111282ea1c3'>Ambitious Assault</a> | 0.02 | 7 |
+| <a href='https://api.scryfall.com/cards/e55b8ffb-c2e4-4676-9051-ff6c686cad0b'>Seismic Wave</a> | 0.04 | 3 |
+| <a href='https://api.scryfall.com/cards/e55b8ffb-c2e4-4676-9051-ff6c686cad0b'>Seismic Wave</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/4e4023c8-8e7f-42b9-99e5-87e80fc3d6c8'>Open the Omenpaths</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/346cc190-6825-4226-8ea5-71abe788454d'>Welding Sparks</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/3c43bf24-399e-407a-a563-bb04f93a0497'>Demon Bolt</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/239a9f2e-145b-4f31-8128-4d376af1079d'>Soul's Fire</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/eb4f266b-c41c-4047-ae6f-b2226c7459e8'>Moonrager's Slash</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/dee17e12-e08f-4449-9f49-05f20e0d1670'>Neonate's Rush</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/f19b4a80-41e1-4c5f-869a-682f08543f12'>Burn Bright</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/20ff3289-00fb-4e91-b34f-6255e9de8e9e'>Electric Revelation</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/46e05909-48fc-41b6-81a1-598e19883266'>Orcish Cannonade</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/f0c95dee-a480-4878-a967-9e46be9ee372'>Final Flare</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/f40c88e2-28ed-4e5b-bcb3-4397d6a15a6f'>Heated Debate</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/ecba926b-915c-4dd2-84f3-019775e1cc14'>Volcanic Fallout</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/396f1cdf-712b-4518-a0e8-0039303dccdc'>Fiery Cannonade</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/8c8e6ca4-9678-4032-aca5-c74aac7cd897'>Inferno Trap</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/d7ac8bdd-851f-449d-a108-70578eabf254'>Goblin Wizardry</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/ff4d4e6b-564d-46da-8e32-09ed08c8ddc5'>Burn the Accursed</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/2727b05a-0c86-4c59-b7b4-425bdd8e775d'>Provoke the Trolls</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/c22c7383-ba4d-4b3c-91d6-2d6528e19825'>Smashing Success</a> | 0.04 | 5 |
+| <a href='https://api.scryfall.com/cards/1743840f-fe99-4cb4-a558-1763b605b35f'>Nemesis Phoenix</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/10b2b8ca-7433-4bfe-abab-e19128e46a1d'>Patron of the Arts</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/32691e3f-dea9-45ac-96fe-96b34d5116a9'>Skophos Reaver</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/33ab05b5-d6f5-439c-9aed-1a58ceb282ad'>Flametongue Yearling</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/22579ac0-ad3f-4000-a65a-46a17a7f1aa5'>Harmonic Prodigy</a> | 1.18 | 1 |
+| <a href='https://api.scryfall.com/cards/d87f4637-1ad3-4d61-98ff-98c0b0be46a1'>Synchronized Spellcraft</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/a206a7d8-5dd0-4573-b85e-2a352d8753c5'>Fiery Fall</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/7dfa0e65-1ce0-4f8e-a78b-2ade2d25e748'>Renegade Tactics</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/bec748e6-7245-4a71-aeee-cefed8346948'>End the Festivities</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/dc0bb67c-9243-4ae1-b669-b813fefecb91'>Banefire</a> | 0.75 | 1 |
+| <a href='https://api.scryfall.com/cards/4327fd85-eb89-4707-80f8-bdf41179eda5'>Reckless Abandon</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/de1aa8f9-8200-4ddd-9ab5-1a8181cc1792'>Spitting Earth</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/32c00c59-7cf7-4957-83f7-d571a259a40b'>Arc Trail</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/313e89b3-8306-488e-8730-f918f8c6722e'>Krenko's Command</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/983da138-f0f5-46c4-90c2-d3c34cc37d1f'>Abandon the Post</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/6da46103-a14c-4aa2-92fc-fd758335caf4'>Tormenting Voice</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/7ba639ff-fe82-4ac3-9fb4-eac168bef053'>Explosive Entry</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/db743c6e-1385-468e-921a-7a525b88a1b6'>Shackles of Treachery</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/b3b7a69c-75d2-49a6-ab56-ef608d0b0208'>Seize the Spoils</a> | 0.18 | 6 |
+| <a href='https://api.scryfall.com/cards/44f76f49-b04e-4f67-aaa7-abd9e6d028cb'>Act of Treason</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/b251aa7c-d011-4b52-ab92-415d536c0182'>Tundra Fumarole</a> | 0.08 | 3 |
+| <a href='https://api.scryfall.com/cards/875a20c2-1d17-46ea-b4d2-3e70bc05aae3'>Crush the Weak</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/0cb504a0-1dfb-49d0-84c3-7bd318d55481'>Dragon's Approach</a> | 1.79 | 1 |
+| <a href='https://api.scryfall.com/cards/8220f18a-f23f-4fe6-bb58-58b6c5f36c79'>Traitorous Blood</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/7ebadb1e-32cd-41d6-b26e-49134973d05c'>Pack's Betrayal</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/8f0ea66f-1756-4b0d-8ccc-3b3a7370b531'>Mascot Interception</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/6288606e-182a-4260-bbe9-3f8f09c2f33c'>Portent of Betrayal</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/38c18541-e95e-4ae0-be18-3bfcafa24ca2'>Turn to Slag</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/532e079f-55b7-4b92-b489-aed4d3becae7'>Seize the Storm</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/c7e0c0dc-2d35-4e5a-81da-dd5f35b8e579'>Lacerate Flesh</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/da2f3dd5-a943-447b-8c76-8f69f06cefa4'>Explosion of Riches</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/52dd1712-6937-4630-b44c-952699307da4'>Fury of the Horde</a> | 3.84 | 1 |
+| <a href='https://api.scryfall.com/cards/ee31d56a-9b7e-4de0-81cb-3b7c76b6fbd5'>Light 'Em Up</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/40bcc7cb-65dd-4bc6-8606-a162fa6c65f7'>Dwarven Reinforcements</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/ca32fd66-f7f1-4e50-817f-bb259f690f00'>Dragon Mantle</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/f110698e-a343-4eff-ba23-ed7ac5a3f87b'>Akki War Paint</a> | 0.03 | 6 |
+| <a href='https://api.scryfall.com/cards/28d92cad-45b0-479d-97fc-c175f3a3f259'>Kumano Faces Kakkazan // Etching of Kumano</a> | 0.23 | 3 |
+| <a href='https://api.scryfall.com/cards/28d92cad-45b0-479d-97fc-c175f3a3f259'>Kumano Faces Kakkazan // Etching of Kumano</a> | 0.36 | 1 |
+| <a href='https://api.scryfall.com/cards/cb0e6279-8a66-4124-9def-fa0c83c26db9'>Furor of the Bitten</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/70388773-709b-4cd8-a8b7-56093fd77a1d'>Omen of the Forge</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/ef9fc225-71c0-4643-aac9-fe91abfb7bb1'>Goblin Bombardment</a> | 1.38 | 1 |
+| <a href='https://api.scryfall.com/cards/47faee66-b274-466a-890e-bb396dda943d'>Rune of Speed</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/6f77f987-ebb7-4105-a67c-0987f50fc676'>Crackling Emergence</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/9db7aa92-d86a-4986-a661-f3025ca79d3d'>Undying Rage</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/3c33f6d9-be29-4698-96f9-d393a2c8ad68'>Gift of Wrath</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/517392f6-d3fd-4c59-8317-2a3595ab7562'>The Shattered States Era // Nameless Conqueror</a> | 0.02 | 8 |
+| <a href='https://api.scryfall.com/cards/3678fa3d-d41f-4b7a-b25e-6fc5f78876c7'>Sticky Fingers</a> | 0.17 | 2 |
+| <a href='https://api.scryfall.com/cards/3b74a806-ed74-458e-8903-d3d084e9f507'>Scorching Dragonfire</a> | 0.06 | 3 |
+| <a href='https://api.scryfall.com/cards/9bfe337c-4b8c-42ce-8c43-4c95051d09ac'>Barge In</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/8f7005fd-5917-4f7d-9a7d-7ccc044d0f87'>Ferocity of the Wilds</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/c9021f85-7ab4-4a78-a398-1611fe09cd14'>Thrill of Possibility</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/667a356c-b10d-42f2-bb2f-c3fd9affa4bd'>Mount Velus Manticore</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/2bc1e907-0e77-42ee-9eca-eae632020204'>Battle Plan</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/8ab5152d-767a-47d5-acfc-f439810aaeea'>Riveteers Requisitioner</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/5e7a5951-4f71-47a0-ad80-f236f61d3f22'>Warehouse Thief</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/7ba639ff-fe82-4ac3-9fb4-eac168bef053'>Explosive Entry</a> | 0.03 | 3 |
+| <a href='https://api.scryfall.com/cards/c7f05d49-dfc1-4dad-89e0-07174330d98e'>Fire Giant's Fury</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/a3ec95f6-88c8-4daf-882f-8b4bc73452c3'>Rob the Archives</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/e63ed449-d249-4639-85d2-f8fe75496d5c'>Flame Rift</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/7ee1fcbc-3573-42c5-b3e3-1f44a6400cd0'>Glimpse of Tomorrow</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/e3eeb96a-1e2c-47fa-9cfc-7d1ead1cfab6'>Mine Collapse</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/c6ed4077-4ed5-48fb-91c9-a9195d652978'>Faithless Salvaging</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/55082c8a-d792-4cd8-94b1-d80c65804463'>Tavern Scoundrel</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/e3c22bf3-2ba6-4d8f-a2b8-a5d5e26f1316'>Highland Berserker</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/2b73d294-6ab1-4051-9b0f-d8e335d37674'>Unholy Heat</a> | 0.19 | 2 |
+| <a href='https://api.scryfall.com/cards/bb8f3008-a3ba-4f73-afa6-ad81074b3196'>Revolutionist</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/310038c2-685e-4f1b-b91f-7a5ad2b0646f'>Sprouting Thrinax</a> | -1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/3e82f96f-bd2b-4672-b729-c44c943fcac9'>Clan Crafter</a> | 0.33 | 1 |
+| <a href='https://api.scryfall.com/cards/4d9b3d8d-4941-44ca-b829-d53242feba1e'>Memory Plunder</a> | 0.54 | 1 |
+| <a href='https://api.scryfall.com/cards/a587eb67-c2df-486c-9c48-dfeac540efe8'>Invade the City</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/ecbeb845-a7b7-4020-b28a-61f83e78dcc2'>Havengul Lich</a> | 3.57 | 1 |
+| <a href='https://api.scryfall.com/cards/36d3da9c-cb7a-4cea-b6e6-6722bd16c73c'>Sundial of the Infinite</a> | 7.11 | 1 |
+| <a href='https://api.scryfall.com/cards/7f41285b-5961-4653-96a0-fb6d27111390'>Peel from Reality</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/c2fb1fff-12be-4bd5-8dba-c36e84d49651'>Fading Hope</a> | 0.75 | 1 |
+| <a href='https://api.scryfall.com/cards/08050607-b558-4f99-b716-bbbab54e9b68'>Rescue</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/a7c0dcac-f3d4-4d6e-9c6e-9295bb1cd47f'>Larder Zombie</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/04a3059f-92f2-4163-b79a-154118a4e36d'>Wingcrafter</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/06cc574a-f687-4e41-b0a0-62a0eedea7c2'>Phantasmal Bear</a> | 0.07 | 4 |
+| <a href='https://api.scryfall.com/cards/45d100a3-93f2-428c-8f54-8807e71f2638'>Kraken Hatchling</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/cdec8e65-8914-4a7a-9ed0-991a73242f3f'>Faerie Impostor</a> | 0.21 | 2 |
+| <a href='https://api.scryfall.com/cards/48352b88-857d-4386-83c6-0e047d11c15b'>Grixis Illusionist</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/89960a74-9e17-4e30-874a-4286dd4c917d'>Brinebarrow Intruder</a> | 0.02 | 8 |
+| <a href='https://api.scryfall.com/cards/d2897635-b387-485d-932f-5655244a381f'>Eidolon of Philosophy</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/abff6c81-65a4-48fa-ba8f-580f87b0344a'>Delver of Secrets // Insectile Aberration</a> | 0.38 | 1 |
+| <a href='https://api.scryfall.com/cards/6ac0f66a-213f-463e-8ebb-35ff5940ea06'>Wall of Runes</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/4911016c-b92a-47cc-9553-b424d7be196a'>Karfell Harbinger</a> | 0.03 | 7 |
+| <a href='https://api.scryfall.com/cards/f365d82a-88a3-403b-92a6-91c9ccb3421f'>Maritime Guard</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/28e4e99d-5834-4f6c-b915-4f95edc1337f'>Merfolk Looter</a> | 0.11 | 2 |
+| <a href='https://api.scryfall.com/cards/6d740928-bf61-4420-a403-63097538b97d'>Merfolk Looter</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/8c3f76dd-6c72-4a26-a252-18dc2f6d3396'>Merfolk Looter</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/31abba67-1241-4fb3-88b5-4c4668ec5f25'>Alchemist's Apprentice</a> | 0.07 | 3 |
+| <a href='https://api.scryfall.com/cards/00223901-d462-41b0-9749-b093058f682f'>Coral Eel</a> | 0.18 | 2 |
+| <a href='https://api.scryfall.com/cards/03a3ea4b-d292-4602-985f-7a7971ca73ec'>Covetous Castaway // Ghostly Castigator</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/36e71d16-0964-489d-bea2-9cec7991fc99'>Baithook Angler // Hook-Haunt Drifter</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/0d4ddc45-cd67-4b2c-84d0-4604783fd8e7'>Umara Entangler</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/73373421-c43d-4152-818a-55abc85b477a'>Deranged Assistant</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/f55b1b92-575e-4b6f-9179-21d0bc1acd11'>Jhessian Lookout</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/986104a6-16e7-4d4d-af5b-be1150543266'>Fathom Seer</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/8f295833-a83e-4b18-8007-c7f5d78e5624'>Shipwreck Sifters</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/85a61f99-44f8-4a2b-b7f2-7899a694552d'>Sigiled Starfish</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/bab4a68d-5d26-42d8-bc51-15e3c1f95ebe'>Vortex Runner</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/9c5794e4-fc05-4e34-9cac-4c4bc074692d'>Coral Trickster</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/673bebb4-9c82-40ca-8552-b9030e961005'>Oculus</a> | 0.03 | 3 |
+| <a href='https://api.scryfall.com/cards/dbc0f5c0-2c76-4cac-9c4a-3c3fbe2c0ca4'>Willbender</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/f347eb88-7d1d-4ed5-b841-2bf81f00d5f0'>Omenspeaker</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/ea4ff6f3-cc53-4f4a-b884-2e751732f9c8'>Jeskai Elder</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/242cdffb-5037-4d49-b194-4b60274a8758'>Threnody Singer</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/dc2dd336-e457-49a1-88ae-c35f0c846e99'>Thrummingbird</a> | 0.31 | 2 |
+| <a href='https://api.scryfall.com/cards/cce6289e-f665-4faa-8285-c843447f3e52'>Keen Glidemaster</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/33787a5b-d1d1-4d60-ba09-d9c98025e9b3'>Coralhelm Guide</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/d147dce7-b2dd-426a-9ff7-843d50bb8b01'>Halimar Excavator</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/4e5b8297-406e-4aef-ba46-867c1bf4cc8e'>Augury Owl</a> | 0.27 | 3 |
+| <a href='https://api.scryfall.com/cards/aa9b56b7-73f1-47fd-834b-37408482cebc'>Welkin Tern</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/6ae04d82-56f5-4c72-b1c1-40c7d9640b7c'>Sejiri Merfolk</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/9a5817e2-3834-4137-a0ec-c0e61c634ce6'>Thousand Winds</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/aa7084f3-9335-401f-9a62-6f131351338d'>Neurok Commando</a> | 0.1 | 4 |
+| <a href='https://api.scryfall.com/cards/e88f78f4-77d8-4c3e-a5bf-a9dd902aaae1'>Neurok Invisimancer</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/fd056c91-5026-41ea-bc9e-68078d78ca82'>Sea Gate Oracle</a> | 0.17 | 2 |
+| <a href='https://api.scryfall.com/cards/8d3a94c8-a7eb-4f05-8d48-d42e5129b09a'>Backstreet Bruiser</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/5af0ef2e-4273-432a-8d03-3480165f1be7'>Enclave Elite</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/04129038-3b02-418a-862a-229e9dde339b'>Jwari Scuttler</a> | 0.09 | 3 |
+| <a href='https://api.scryfall.com/cards/0b551dab-1a81-406d-b708-b3b7300eb02e'>Aether Adept</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/fa6f04ca-cab7-4c86-a56c-79d6ae3b73e6'>Aether Adept</a> | 0.16 | 3 |
+| <a href='https://api.scryfall.com/cards/46acbabc-9d0a-4fba-9604-7d131c22cdeb'>Frontline Sage</a> | 0.14 | 5 |
+| <a href='https://api.scryfall.com/cards/feb738b9-231c-47e1-980d-1cc1fb71c2f5'>Cloud Elemental</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/8e89ef0e-1bfe-4e12-90ee-38f993cd8110'>Fettergeist</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/783794e3-fe0c-4014-ae5a-6c249af23ddc'>Ancient Crab</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/e856fbd5-0e8b-4f28-bfea-0ad73418d140'>Echo Tracer</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/b50a5772-f411-458a-97f9-9f3967bb79c5'>Lantern Spirit</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/d961c441-b76b-4bd8-b510-a3e073207a1b'>Mistral Singer</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/150cf865-79e2-4f74-a872-44e1e5bc73c4'>Kathari Screecher</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/394dd931-e34e-4314-88c9-774a2f3c8c1b'>Niblis of Dusk</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/a60db38a-1f8a-4b8e-afab-ab9a3ab46ef3'>Wind Drake</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/821cd2dd-aa03-4c55-b9e4-98e0284889d3'>Elite Instructor</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/8a28c9cb-ae41-4f9c-b3f6-151ef95c81b3'>Survivor of the Unseen</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/faabd1d9-e1c0-4f5e-88d6-a8d480cf30ba'>Horned Turtle</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/aec0c914-1188-45c9-a68c-c3b915dbebf7'>Calcite Snapper</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/e324d70f-a6ca-4003-8420-83035fd4cd00'>Brackwater Elemental</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/6f3b2808-58d9-4e27-a6c2-6db66191151e'>Scroll Thief</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/956b74fc-1355-4668-838b-e8927794608c'>Component Collector</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/c1e11f70-06c3-4dc5-aafe-82d65080085e'>Raven Guild Initiate</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/c03c643c-8e4c-4dc9-8756-c253fa057729'>Stitched Mangler</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/0c13bb9b-c4e9-4b82-852a-dbd5602b1aa9'>Vedalken Anatomist</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/31da60a2-d4d3-4954-be59-c7ff61fa2905'>Draugr Thought-Thief</a> | 0.01 | 5 |
+| <a href='https://api.scryfall.com/cards/212e9011-a9b7-4a60-bb47-ce5c3c147280'>Sailor of Means</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/fd79c9cc-0a8c-4d88-96e2-cb177134a18d'>Frost Trickster</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/bc396c69-9773-4d57-a955-280742a10a91'>Skilled Animator</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/50e576ad-3e03-424c-8857-88ec8898a92e'>Mirran Spy</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/92f64b49-327c-473b-a492-f020a322aed7'>Mistwalker</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/eb3991f0-76b8-4f77-9d67-0e2b11fda750'>Wretched Throng</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/b9784c97-3839-4a4b-ae8a-965844dbeb70'>Clever Conjurer</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/c0889e22-deab-48ba-bbd6-f0d49bee5d9c'>Azure Fleet Admiral</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/a2cd015c-0569-4e7f-9daf-b39e67fc7096'>Phantasmal Dragon</a> | 0.12 | 3 |
+| <a href='https://api.scryfall.com/cards/a24de601-1d7b-41c4-aba1-fdb6fd8d5251'>Moon Heron</a> | 0.08 | 3 |
+| <a href='https://api.scryfall.com/cards/69402ba7-5dac-43f6-bba4-429fac35a96b'>Aquamorph Entity</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/02a3062e-8b83-4ee4-8139-8eee84df37fe'>Water Servant</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/234f4131-1e7f-4220-b46c-bb4a6713876e'>Darkslick Drake</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/dee1d595-a998-4652-931f-a1a72446f3a6'>Tide Skimmer</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/66b7833a-a6b6-4aca-b574-66a6aea471ea'>Junk Winder</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/7e4becff-8280-4e29-a370-bf82fb6734d5'>Fatestitcher</a> | 8.17 | 1 |
+| <a href='https://api.scryfall.com/cards/1e4f4db7-913c-4dd2-931e-630d90eb98ab'>Vedalken Infuser</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/6653bce7-b0fc-49e3-8f45-f0bfcade8870'>Azure Drake</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/1854f819-d08e-4a23-bedb-4618b79623e9'>Cloud Manta</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/1aa1afb9-a2e5-44a1-b2f1-9de75efbbe93'>Conundrum Sphinx</a> | 0.36 | 1 |
+| <a href='https://api.scryfall.com/cards/d97b61b6-bf80-4326-a646-a1985e0b50d7'>Sphinx of Lost Truths</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/e2b2f122-0406-44f4-82b0-9f46b52e7d99'>Merrow Levitator</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/a391d681-3530-4f6a-b421-12025e7c3b89'>Giant Octopus</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/eb34c472-c6ff-4d83-ac8b-a8f279593f98'>Galedrifter // Waildrifter</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/fcd356b3-29a9-4526-93a0-33375f65744b'>Kitesail Skirmisher</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/ef46580c-a204-4b0b-8526-2310b1ca32b4'>Snapping Drake</a> | 0.33 | 1 |
+| <a href='https://api.scryfall.com/cards/c18b11f0-19cc-4169-84e0-fbb038a5c848'>Windrider Eel</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/79a639aa-91f4-49df-8671-122710073084'>Cloaked Siren</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/15a31710-c1d6-45e4-9dbe-a75453a74da0'>Cryptoplasm</a> | 1.22 | 1 |
+| <a href='https://api.scryfall.com/cards/0d98f0c4-021a-407a-8b0c-5500d804f959'>Mist Raven</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/67ffa68f-cc21-41c8-ad3d-d6b60a4ccd36'>Tidewater Minion</a> | 0.15 | 3 |
+| <a href='https://api.scryfall.com/cards/5d778bde-f927-419e-8052-6230562bdedd'>Prosperous Pirates</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/88ec4dc0-09ae-437d-a7d6-cb27c2cb7590'>Surrakar Banisher</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/8cbac0e4-f79f-476d-b410-d19ab3696606'>Roaming Ghostlight</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/3fda8b66-fdf1-43e9-9d65-60b991348aac'>Oceanus Dragon</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/01007d7f-e29b-49d5-bc60-44b2fb77ed3d'>Air Servant</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/0f46eb67-a50d-4910-9919-1bb2ca1c0dad'>Air Servant</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/276f8abd-4d39-4b50-876f-9c6713bc4ab5'>Frostpyre Arcanist</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/5cfc4db7-13b5-4c88-91f2-581c9792f1ff'>Sky-Eel School</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/53ef0757-8eb0-4384-bf8e-9a7340144dfa'>Armored Cancrix</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/3b455b0f-a69c-43b4-bbf5-605ed41f10e0'>Armored Cancrix</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/81a95edb-9f5b-4e42-8b27-0b3d978dcefe'>Stormrider Spirit</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/129905ef-5b3b-4860-923c-109a7d7cad80'>Battleground Geist</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/f525d734-7e19-4c1e-a5c2-097b718df7c4'>Serpent of the Endless Sea</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/a05ed233-9b53-4c67-ab1c-0217386c9fe4'>Living Tempest</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/a05ed233-9b53-4c67-ab1c-0217386c9fe4'>Living Tempest</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/5546fbd6-908d-46be-8d17-9470842f78a7'>Faerie Invaders</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/5cd723c8-4b3d-4fbb-a825-79934279382d'>Sea Gate Loremaster</a> | 0.4 | 1 |
+| <a href='https://api.scryfall.com/cards/475bb3b5-b648-460c-b0ea-89ecfe0ff226'>Replication Specialist</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/2e12186e-9c93-4136-9ea3-e8d2ae1ee2e5'>Lone Revenant</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/3f61c85c-03cf-411a-aa66-cbe178aeaa02'>Whitewater Naiads</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/d151fe63-3b3a-4cd4-9a2d-d80e7434e63c'>Skaab Goliath</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/4c7ff97f-fb06-4a61-98cd-50965a6522d4'>Havengul Skaab</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/da106c23-fd1c-461b-9301-159f93ef489b'>Godhunter Octopus</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/e6cbe78f-4325-416b-bf23-282efed5b407'>Zephyr Spirit</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/a4a98047-8e6d-416c-b11d-cc4c2a56b624'>Shoal Serpent</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/aa10b43f-eb63-4999-92a0-56826031b686'>Harbor Serpent</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/550c745b-64e8-4d20-9cf0-024248ddbd57'>Undersea Invader</a> | 0.01 | 8 |
+| <a href='https://api.scryfall.com/cards/e1f69adc-81a8-4009-a958-2a0d414fc4e4'>Sphinx of Uthuun</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/1173ff96-998c-4fe7-9b28-602d990e0339'>Triton Fortune Hunter</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/8387bc7c-2e0a-4ff2-9882-e5e7c92c8463'>Burdened Aerialist</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/fec6b189-97e7-4627-9785-a9ce2f1ad89f'>Scornful Egotist</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/65371de6-13a2-401f-9334-ae9e19619487'>Nyxborn Triton</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/f6455009-030c-4a33-a60b-80863d8f8aaf'>Risen Riptide</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/3f406ce3-dce1-42d3-b76c-8e8c4b2770cb'>Frostpeak Yeti</a> | 0.01 | 6 |
+| <a href='https://api.scryfall.com/cards/eb93c9d2-88eb-403d-bb67-8e8b0462ac27'>Soothsayer Adept</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/a2ae592f-caf6-445a-970b-f8101998e657'>Frost Augur</a> | 0.06 | 3 |
+| <a href='https://api.scryfall.com/cards/f3567bdc-450e-4481-9349-a80fe52fe431'>Berg Strider</a> | 0.01 | 6 |
+| <a href='https://api.scryfall.com/cards/abb47990-a5a9-4a22-a8bb-d229b17132c6'>Waker of Waves</a> | 0.26 | 2 |
+| <a href='https://api.scryfall.com/cards/71b05d44-d987-45e1-bbd9-842dbe58c2b5'>Drownyard Amalgam</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/6d42d3dd-29df-44a1-89b8-994761eda77d'>Spined Megalodon</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/a9947cfd-91d6-479e-a7f6-2a2050f020f3'>Augury Raven</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/98b959ad-8920-4b28-a954-f733bf36bde8'>Curator of Mysteries</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/dfcaeccc-fc8c-4a9e-80d5-b48da71d7ff1'>Frost Lynx</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/77adf375-e7d7-4ebd-8c86-ad7e822a5483'>Pollywog Symbiote</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/c6e466d1-943d-41e6-a47d-c9d951ca4262'>Moon-Circuit Hacker</a> | 0.09 | 4 |
+| <a href='https://api.scryfall.com/cards/53cf9152-da16-4289-9a2d-331e7b9cb839'>Reservoir Kraken</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/e8844c22-7ea4-4f2e-9066-e1df027e3fe3'>Murder of Crows</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/c119f836-0707-49e2-b6d4-25f849d054a4'>Littjara Kinseekers</a> | 0.01 | 4 |
+| <a href='https://api.scryfall.com/cards/89cef049-6a47-4264-b2bc-b9d291a09c4c'>Avalanche Caller</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/ea56de43-c0fd-4627-846d-41a962b95f17'>Ascendant Spirit</a> | 1.01 | 1 |
+| <a href='https://api.scryfall.com/cards/76ee3829-8dec-4c0f-a6c2-ad47a1c94cfc'>Pilfering Hawk</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/a06ac58b-6d72-4eb4-a1c9-61b5314c7769'>Sewer Crocodile</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/4ec318c6-b718-436f-b9e8-e0c6154e5010'>Cosmos Charger</a> | 0.16 | 2 |
+| <a href='https://api.scryfall.com/cards/72d63891-366b-473e-85c6-53886e26ca7a'>Teferi's Protege</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/db50259b-8ca8-4fbe-8ae3-6b0312d70980'>Skyswimmer Koi</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/e9c44d4e-742f-4e4f-9bf4-921075bc427c'>Guardians of Oboro</a> | 0.03 | 7 |
+| <a href='https://api.scryfall.com/cards/95dbd59e-a2f0-4031-b6c6-1b59fb7cb067'>Guardians of Oboro</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/c5858176-9f85-403c-8338-48eb55db5c3d'>Futurist Operative</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/da3f683e-5a28-4ae7-b53b-851b957123ba'>Prosperous Thief</a> | 0.11 | 2 |
+| <a href='https://api.scryfall.com/cards/a52e90c0-b012-4ce5-8462-1e33c7143de5'>Vodalian Arcanist</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/786ae686-0790-4ba1-927f-523984331549'>Body of Knowledge</a> | 0.31 | 1 |
+| <a href='https://api.scryfall.com/cards/a3e23275-2261-4d6d-88d8-124342334391'>Narcomoeba</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/e17664df-e8ba-464d-b338-3e671d2d7f0e'>Omnispell Adept</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/f346d236-528c-4164-9995-74cdc56597a9'>Lunar Mystic</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/14ce909d-a53e-4711-a9fd-b110433d460f'>Grand Architect</a> | 0.95 | 2 |
+| <a href='https://api.scryfall.com/cards/5fc4498e-24e6-40e9-8cd5-f42220366664'>Scholar of Stars</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/f26a79b9-9f09-476e-b914-cade929dd852'>Deadeye Navigator</a> | 16.39 | 1 |
+| <a href='https://api.scryfall.com/cards/5b3ffc69-f21b-410e-8993-8c1b4669fc19'>Mirror Image</a> | 0.73 | 1 |
+| <a href='https://api.scryfall.com/cards/ce1e4aa6-b06d-4b87-9912-a4c403e8d7c6'>Spawnbroker</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/856f804d-0213-4b86-bc6a-6a0a1147c4f9'>Bastion Inventor</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/a7f09ddb-0dec-47a7-92d4-efbeaf8cd85c'>Phantasmal Dreadmaw</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/2a304f7e-0b9e-4ef6-9ad8-34350839f7d9'>Aeromoeba</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/52dd633f-9a07-47df-adb1-36013fc2f43a'>Vantress Paladin</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/cce06cd4-099b-445f-af95-76564ee24668'>Sakashima's Protege</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/ca7f7cd5-4e91-474a-9f60-a66f3f462b1c'>Stinging Barrier</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/0aaf1de7-1476-4f8d-b8b3-67675891df23'>Scourge of Fleets</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/675d6729-23da-4f0b-b222-fe54fe24dd90'>Wonder</a> | 0.28 | 2 |
+| <a href='https://api.scryfall.com/cards/2bdb5850-df1e-4d8a-af7a-15cab080fb8f'>Sky Ruin Drake</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/c1c080cf-a5e8-4d9d-af49-f78588971e87'>Phantasmal Image</a> | 3.27 | 1 |
+| <a href='https://api.scryfall.com/cards/cb33529b-80bd-4f52-94cc-d8371c53ad75'>Library Larcenist</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/348955a0-e988-48d7-a6a0-a8045fcffd25'>Wishcoin Crab</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/71d00175-5e5e-40dd-a71b-5ba56d763134'>Foul Watcher</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/90598bb2-d96c-4f74-864b-1947b7d39e58'>Faerie Swarm</a> | 0.76 | 1 |
+| <a href='https://api.scryfall.com/cards/c859f7cb-ac12-490e-b769-6f019791f2a5'>Aqueous Form</a> | 0.16 | 4 |
+| <a href='https://api.scryfall.com/cards/080be8d1-e453-4250-b917-f0eb26644895'>Bind the Monster</a> | 0.04 | 6 |
+| <a href='https://api.scryfall.com/cards/080be8d1-e453-4250-b917-f0eb26644895'>Bind the Monster</a> | 0.16 | 2 |
+| <a href='https://api.scryfall.com/cards/b212c36a-6d1f-4217-b384-1c2b0e07b68a'>Curiosity</a> | 0.45 | 1 |
+| <a href='https://api.scryfall.com/cards/b04e58e8-cb01-49b0-89b7-26536eb44e97'>Controlled Instincts</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/862fc18f-90d2-430d-aff2-47c1483dee9d'>Psionic Gift</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/68593c6d-8d1b-4c36-84a1-f1144669825e'>Locked in the Cemetery</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/d5c1a271-2107-462a-9d4a-9c7fbcfa8d77'>Rune of Flight</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/ca550605-a0fc-4392-b8b6-a4f06868d9f2'>Eel Umbra</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/37454c1c-4098-4ac2-884e-3f65f1384bdb'>Spreading Seas</a> | 1.06 | 1 |
+| <a href='https://api.scryfall.com/cards/95681c43-ba2e-41a5-8a51-e66db8ec6cb9'>Narcolepsy</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/6cfd4944-790f-4835-a8a1-c23ef7047648'>Mists of Littjara</a> | 0.01 | 6 |
+| <a href='https://api.scryfall.com/cards/c04e6915-39b0-4fbc-9114-2ecf371b6f72'>Pin to the Earth</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/f7149f2a-6917-4ad7-8035-c7a1babd4d4b'>Spectral Flight</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/74fe0fb5-e994-41b1-a73d-4e68f7afdf34'>Short Circuit</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/c82be2ca-8350-4cf5-83b6-e8b60a9e21c6'>Rousing Read</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/e709a18f-b99d-4fa1-ae5c-7f22abd02c0a'>Fall from Favor</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/bca9c638-f923-4e85-bd3c-c95854b4f0fb'>Claustrophobia</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/135db79f-6f07-486c-ae3a-d4244aaf6dc8'>So Shiny</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/4af35801-9280-4ec1-9399-e34501919a8f'>Paralyzing Grasp</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/6c883e75-5c37-44bb-a6c8-f97aa704c739'>Ocular Halo</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/f5ed9f08-56e8-4e24-aae2-05270d7c1ba8'>Capture Sphere</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/f010e4f4-f1a3-4062-834c-eec5f1f443d6'>Sleep Paralysis</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/aee62e43-6a82-4749-972b-e21802642abf'>Tamiyo's Compleation</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/ec7f77af-17d7-4746-bc83-f455b9b6f9ea'>Mind Control</a> | 0.1 | 4 |
+| <a href='https://api.scryfall.com/cards/496f79d6-33ee-4e31-9601-2722b0bc9141'>Mind Control</a> | 0.16 | 2 |
+| <a href='https://api.scryfall.com/cards/37151305-e489-4df1-9b0a-c5e11c77d2f1'>Mind Control</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/09e4a88d-670b-4332-bf36-41c2e2492424'>Confiscate</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/51378e10-2f17-445b-97e9-5c373234ba52'>Awakened Awareness</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/2d3eeddd-c86d-4f35-ba57-3caa9565fcb0'>Escape Protocol</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/3662d1cc-1279-409f-9f0a-9c15c3407103'>Jace's Erasure</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/d5acb8ef-5a57-4d10-b59c-2dbf84635084'>Riddleform</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/fd466b20-d11d-419e-8765-9befb9590299'>Ior Ruin Expedition</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/25de3481-9b0d-4747-a97b-171b6aa41073'>Font of Fortunes</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/fafd3018-1cfe-4c41-a08c-5c2ba3528c7e'>Halcyon Glaze</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/e8e7916c-f39a-48a0-a47d-7e83ebf028fa'>Dictate of Kruphix</a> | 2.14 | 1 |
+| <a href='https://api.scryfall.com/cards/a10c1407-d397-4caa-b7b7-e7d91ffd4ee9'>Mirrormade</a> | 2.44 | 2 |
+| <a href='https://api.scryfall.com/cards/4d90c3b0-f958-4a15-94a1-9bf1b0a9ac2a'>Sphinx's Tutelage</a> | 1.98 | 1 |
+| <a href='https://api.scryfall.com/cards/3a97f019-5ad9-4520-ba79-2c9b259748d9'>Mana Breach</a> | 1.89 | 1 |
+| <a href='https://api.scryfall.com/cards/bc0331b2-7a5b-46f5-9698-f185431ca711'>Propaganda</a> | 4.42 | 1 |
+| <a href='https://api.scryfall.com/cards/daf2b49a-56f9-4093-960f-9ec7af8983b5'>Ominous Roost</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/5516d86e-539a-4ba8-8d25-1a3b27b1267a'>Thopter Spy Network</a> | 1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/fc2877c2-4426-4c07-92a2-8ba5107d5e7e'>Ice Cave</a> | 0.43 | 1 |
+| <a href='https://api.scryfall.com/cards/f0ac06f9-5c9f-4d4f-be57-7c58bd8da568'>Metallurgic Summonings</a> | 2.34 | 1 |
+| <a href='https://api.scryfall.com/cards/2c573d12-4c69-4a54-b1b9-236c003ba98a'>Swarm Intelligence</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/c9850489-c056-4b17-8743-a5b514d8edf4'>Cast Through Time</a> | 3.21 | 1 |
+| <a href='https://api.scryfall.com/cards/ee60a8e9-3201-4a7e-8aa4-2c5e1042c8a5'>The Modern Age // Vector Glider</a> | 0.06 | 4 |
+| <a href='https://api.scryfall.com/cards/1c68954c-4bab-4973-9819-ecd084438303'>The Mirari Conjecture</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/e4d52701-e0dc-474e-b08f-88147200d210'>Behold the Unspeakable // Vision of the Unspeakable</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/ea6d3242-8059-4203-aa06-58a6a3925eda'>Inventive Iteration // Living Breakthrough</a> | 0.12 | 2 |
+| <a href='https://api.scryfall.com/cards/aa18c2c2-f1a1-469d-acd8-9d6e0605bcf9'>Twisted Image</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/b19de7a5-c291-405b-a2e6-8d3ac56e6570'>Rookie Mistake</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/fa0e1a22-8f27-4c5b-a65c-c35abd2ff05b'>Chain to Memory</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/3daede39-8eef-4272-a483-312dbd2dd30f'>Shell Shield</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/ed843c4d-28b5-4a4c-8bae-8f03f329bf2b'>Fleeting Distraction</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/0841423d-7a27-4bc5-9ac2-0ba47648c6f1'>Leap</a> | 0.62 | 1 |
+| <a href='https://api.scryfall.com/cards/2944e5df-eef9-42be-a591-5ac15e306ad8'>Sapphire Charm</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/7ffaa6a2-7c86-45b4-8892-b837e05f11a6'>Dream's Grip</a> | 0.32 | 1 |
+| <a href='https://api.scryfall.com/cards/69220d9b-9030-4234-811b-5ed10b2f451c'>Mind Games</a> | 0.3 | 1 |
+| <a href='https://api.scryfall.com/cards/692a5bfa-9a50-4610-acd7-19fc0a53f798'>Mind Bend</a> | 0.44 | 1 |
+| <a href='https://api.scryfall.com/cards/523ab8a0-906a-43b3-a554-db0d3dcd62d3'>Thermal Flux</a> | 0.36 | 4 |
+| <a href='https://api.scryfall.com/cards/b33e493e-1aef-43b3-9716-52158b002430'>Dive Down</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/ef2609e3-ec28-4a41-884e-3d10be5e31b4'>Triton Tactics</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/79791bd9-aded-48d9-866d-9f7bd6848905'>Crippling Chill</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/60222e91-a688-4113-a8c2-ab08f52bb6e1'>Chill of the Grave</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/393fc485-d3c1-4826-933d-89f66df769d4'>Frost Breath</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/1724ec5b-5437-4688-aa10-b327a0ae2654'>Frost Breath</a> | 0.03 | 4 |
+| <a href='https://api.scryfall.com/cards/59e14910-ee2e-49ae-855e-46a8ab6cad82'>Cancel</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/2422973d-36ee-4b8c-9a47-fcd160aa9f63'>Thirst for Meaning</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/1b069516-1465-4acf-b4b9-ca7f1238b4fe'>Catalog</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/737b859d-d81e-4da3-a8bf-9a8f23c75a50'>Hour of Need</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/4b748d8b-898f-4b55-bc33-f5bbbc823c45'>Spell Contortion</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/f03b5405-6016-405b-a504-a454731b9276'>Lazotep Plating</a> | 0.41 | 1 |
+| <a href='https://api.scryfall.com/cards/04a1f384-9266-425c-b739-09d74871fc7b'>True Polymorph</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/75234f6d-a2da-42dd-a668-8db8f341e7f0'>Sweep Away</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/bfba9fc2-8746-4693-bb75-01b5d78f7fee'>Surging Aether</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/da367981-9d6f-419f-9f58-f969b6183336'>Rain of Revelation</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/93be7d72-927a-40ce-8de4-04a3f21c134b'>Revenge of the Drowned</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/55d51a2b-450c-4e6d-a660-67d58d1dd4ba'>Fact or Fiction</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/351aa3f2-864a-4921-a01c-8712560087bb'>Lethargy Trap</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/5b87a025-ab29-4375-9338-536636051640'>Frantic Search</a> | 1.25 | 1 |
+| <a href='https://api.scryfall.com/cards/0b4fae95-9cce-4f15-8288-987e698b8c7d'>Traumatic Visions</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/d747d5f2-d3b0-44f9-92f0-781839386850'>Run Away Together</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/aeffc3c0-567c-442f-ba06-b7d9617c5789'>Run Away Together</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/8f389872-d1f4-4828-a527-e820a6f2ac21'>Siren's Ruse</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/16a14eeb-1c85-4029-a047-39a4efef3f74'>Deny Existence</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/5dba9972-dd8b-407b-9374-a8f0ed1a96db'>Into the Roil</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/0ec38124-46ae-4a38-aab2-8a73cc22b1ef'>Mental Journey</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/1e5fc39d-590a-436b-ab90-a1741d2ae3da'>Lost in the Mist</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/053ab598-06a4-43ae-b9fd-c291bd05642c'>Disruption Protocol</a> | 0.04 | 3 |
+| <a href='https://api.scryfall.com/cards/877a1bb9-5eae-453a-bec0-a9de20ea6815'>Saw It Coming</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/64cd68be-6e6a-4577-8465-a892463b6d6c'>Alter Reality</a> | 1.4 | 1 |
+| <a href='https://api.scryfall.com/cards/43ab3ed2-2b50-4488-a21f-60965222970a'>Said // Done</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/7691ac89-f8ba-493e-aa11-5674a783dffb'>Disdainful Stroke</a> | 0.06 | 7 |
+| <a href='https://api.scryfall.com/cards/7b5d9323-ddf4-49b0-9d39-c2249c50f1e3'>Contact Other Plane</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/1959f078-4b7b-4df2-a256-d43b2d97e853'>Snap</a> | 4.98 | 1 |
+| <a href='https://api.scryfall.com/cards/8a2a2b93-94dc-4285-a6fd-455a796426bc'>Cackling Counterpart</a> | 1.13 | 1 |
+| <a href='https://api.scryfall.com/cards/63420437-76a9-40cf-aedc-0ca1e73fcc0b'>Depths of Desire</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/267f18b9-efe7-4ff4-9932-7fbb3cfe5436'>Twitch</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/4acaef84-55d1-43dc-b10a-696182e6709b'>Repeal</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/ab830392-4d7e-4b45-93cf-35ed1e935228'>Blink of an Eye</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/e4386e5c-32b1-4096-a93f-fedd1a4801fc'>Graven Lore</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/323db259-d35e-467d-9a46-4adcb2fc107c'>Opt</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/ab59ac4f-2a77-4566-85c0-32666447dcf2'>Opt</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/6b123efa-8631-4a07-970d-ff4f980a0522'>Mana Leak</a> | 0.2 | 4 |
+| <a href='https://api.scryfall.com/cards/9128ec7b-5321-4810-b5e9-5d4c15644ecd'>Mana Leak</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/e92c7477-d453-4fa4-acf4-3835ab9eb55a'>Negate</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/7f21cd05-2fdb-4c37-90a4-220a3eda23ef'>Negate</a> | 0.11 | 3 |
+| <a href='https://api.scryfall.com/cards/ae89bd67-3c72-449f-be72-d04bb7cca916'>Negate</a> | 0.18 | 3 |
+| <a href='https://api.scryfall.com/cards/7eed5a2d-d7a4-4f64-a96b-04c5d4206c5a'>Run Ashore</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/c23cdb0e-2684-4ad1-b7dd-e355e3e9a221'>Galestrike</a> | 0.01 | 4 |
+| <a href='https://api.scryfall.com/cards/f7b877e2-60eb-46cd-acd7-8555b9e7e993'>Mystic Reflection</a> | 1.0 | 2 |
+| <a href='https://api.scryfall.com/cards/9cebee20-869e-45ed-9ddc-843faf4032ad'>Otherworldly Gaze</a> | 0.23 | 2 |
+| <a href='https://api.scryfall.com/cards/724fd1ea-05ad-497c-9989-825ada48e684'>Precognitive Perception</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/c7b2e97a-76f7-438d-9e4f-2447d468366f'>Fleeting Distraction</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/88439b79-f6f4-4d01-8404-a1e02f2aeb55'>Unsummon</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/49bd28e3-1612-41b3-88a0-bb5c1ee60ace'>Essence Scatter</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/c231101e-6620-46fc-a0ad-a53291d12dc2'>Essence Scatter</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/8ba18ec8-e82f-41be-9ed8-b1a4ae9b7426'>Annul</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/4b1d4a59-11a0-4a55-8ac0-07377a9e6dc8'>Annul</a> | 0.05 | 5 |
+| <a href='https://api.scryfall.com/cards/1a110be3-93ec-40ef-94a6-e4c43f1ce211'>Constricting Tendrils</a> | 0.03 | 4 |
+| <a href='https://api.scryfall.com/cards/c4fdfc5b-c2ab-4c4d-b120-301e17f3d9c6'>Enervate</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/09aa7744-680f-4c2a-8fa0-9cb0c176ae8f'>Lost in a Labyrinth</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/2ff7c89c-41dc-4ac3-bbce-38ab86f435ea'>Disperse</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/68cdb00c-ea86-4b72-8f62-570820edfa1b'>Arcane Subtraction</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/2ce0403d-76ed-4eb0-abdd-74ed28f96137'>Depart the Realm</a> | 0.09 | 7 |
+| <a href='https://api.scryfall.com/cards/27855a38-a682-4f97-ad22-ac625e86faec'>Behold the Multiverse</a> | 0.15 | 3 |
+| <a href='https://api.scryfall.com/cards/4dc68a06-9d79-4be8-b4ce-ecd4d0e4ce29'>Flashfreeze</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/c425a629-371f-4624-b7a1-b34818ecccad'>Flashfreeze</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/cb3d3901-e4a6-45ab-a7b5-c65d91e1875e'>Spell Pierce</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/beb42273-935b-4bda-849e-c163606cf89e'>Spell Pierce</a> | 0.12 | 6 |
+| <a href='https://api.scryfall.com/cards/05f5b473-edad-43a9-b4e7-b6d3fc877cf2'>Hubris</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/50870bfd-7779-4a1c-b18f-57fac7e193b1'>Suit Up</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/64832674-beb1-446e-b2f7-8a5e271139a5'>Lofty Denial</a> | 0.14 | 3 |
+| <a href='https://api.scryfall.com/cards/6b927837-8252-4ea7-b2d0-ab624de65bd7'>Thirst for Knowledge</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/c838f08e-7fb6-46e7-83bb-dce8877d6c87'>Into the Story</a> | 0.2 | 2 |
+| <a href='https://api.scryfall.com/cards/6e2b6236-b40c-430c-98b0-7940b942657a'>Test of Talents</a> | 0.85 | 1 |
+| <a href='https://api.scryfall.com/cards/d77f0731-fb40-4dc2-8530-afcb5ce1f27f'>Reject</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/6cb50db7-f1d4-4f9d-ac60-564398af79ea'>Unified Will</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/a1184362-9565-4ecd-b9cb-865b6c9a996b'>Whiplash Trap</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/0dc73034-4886-4855-b6de-392fa053fe9e'>View from Above</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/b5cb6da6-d43b-4ad1-bb77-9eeb6d15240c'>Aetherspouts</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/b454cbdc-b2ff-4b6a-acaf-b7cf52359f0b'>Worldly Counsel</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/871c1931-06b4-4c69-9c2f-0dee3543c632'>Anticipate</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/9b022ba8-07b6-4993-99c8-89c6dcb19e60'>Secrets of the Key</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/ac814159-d7b8-43d2-a277-ea08339059f1'>Impulse</a> | 0.42 | 1 |
+| <a href='https://api.scryfall.com/cards/079cfabe-f072-42c7-82ee-4fcebdc8529c'>Forbidden Alchemy</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/f2a0e716-22b7-4a5e-9b7a-d4a806ee7427'>Curate</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/0e398a02-1456-4fae-be75-4231c968bf47'>Aura Finesse</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/381d84d6-7b34-44cb-a697-54b835ba1281'>Glacial Grasp</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/bf9f85b3-eb8c-43de-aaac-8a887e9c58da'>Gigadrowse</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/35c78973-f2ae-4c76-802f-793d1022fcbd'>Refocus</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/35fa105f-c76b-4fd0-9b83-34b46648e0d6'>Glint</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/bd445b01-34af-4132-a9fe-a03858624492'>Crypsis</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/3d0eea0d-c790-4d91-962f-f05b22d0c8fa'>Jace's Scrutiny</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/1fd4dacb-912e-4e54-ab60-16a5262d0fbb'>Hydrosurge</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/d9859344-4efc-4b87-a3fb-147e496cee68'>Mizzium Skin</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/fce86785-bc03-451e-8422-8bb53082cc12'>Aerial Formation</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/60f9adfd-a940-4d62-894b-84f17c693a10'>Chilling Trap</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/5bc954d7-322a-45b8-9e25-6e9a97fbde61'>Reality Heist</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/eb58d7ba-ba86-433e-8f1e-3f492c380796'>Prying Eyes</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/2201ade5-8add-49f2-8045-ae351aaf061c'>Out of the Way</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/100171d8-7436-44c8-b4cb-0101ffa05c25'>March of Swirling Mist</a> | 1.03 | 2 |
+| <a href='https://api.scryfall.com/cards/422e3475-551f-405e-9467-5d244ce698e7'>Saheeli's Artistry</a> | 0.27 | 1 |
+| <a href='https://api.scryfall.com/cards/57556595-8ede-4a35-b3a4-0e6f8bfc4d9d'>Distortion Strike</a> | 0.49 | 1 |
+| <a href='https://api.scryfall.com/cards/ed9ff175-2e4c-4658-813e-1bfb4b9a6ca0'>Shifting Loyalties</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/92adfcb4-6a0a-46f9-a171-bfa9fade2156'>Mystic Speculation</a> | 3.45 | 2 |
+| <a href='https://api.scryfall.com/cards/37900980-c2e2-4b70-8511-405f0a8389cd'>Shrewd Negotiation</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/f069646c-fae2-40bd-92bc-35459a84d847'>Quasiduplicate</a> | 1.3 | 1 |
+| <a href='https://api.scryfall.com/cards/adcbe115-5482-4e5a-95bb-8ccbb01d3547'>Mercurial Transformation</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/6c5e0d02-4714-4957-97fe-9b457f8c4563'>Mind Spring</a> | 0.27 | 1 |
+| <a href='https://api.scryfall.com/cards/c3621820-4ab5-42bf-8a02-d5c066db4653'>Flood of Tears</a> | 0.73 | 1 |
+| <a href='https://api.scryfall.com/cards/696f2da6-3943-4555-9610-e6b925b3d6bc'>Interpret the Signs</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/d7a84781-b40c-41e0-a0b9-86e466c9b12d'>Rooftop Nuisance</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/e3868c3d-4fcd-444b-866f-0f8e50ce7b67'>Preordain</a> | 0.55 | 4 |
+| <a href='https://api.scryfall.com/cards/1453f92e-df2d-4789-aa1b-a5b5c51567d4'>Preordain</a> | 0.46 | 1 |
+| <a href='https://api.scryfall.com/cards/5ddd1050-8abd-4dfe-9e52-5b56af358653'>Into the Void</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/dc96ebe8-f4b3-4788-a6f5-2a50b6c0d935'>Glimpse the Cosmos</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/29306305-cb71-4fef-bf86-f5deb4e7e561'>Strategic Planning</a> | 0.01 | 6 |
+| <a href='https://api.scryfall.com/cards/2ecf2ee8-6b93-4757-89c4-f1e76509a217'>Foresee</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/684a3631-f2d6-4a64-a04a-893f452e3a60'>Vivisection</a> | 0.06 | 3 |
+| <a href='https://api.scryfall.com/cards/91be6a06-9c36-45a3-a591-183cb5c0f800'>Vivisection</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/2c2cfcd7-b43a-4dad-a033-e661f55ceecd'>Ravenform</a> | 0.2 | 7 |
+| <a href='https://api.scryfall.com/cards/3e56e720-5e8b-4685-969c-e073de78b9a1'>Political Trickery</a> | 4.65 | 1 |
+| <a href='https://api.scryfall.com/cards/2bef942e-9d17-4d40-a4c9-8be715e73a08'>Undo</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/133be4f4-1daa-41b6-b509-9e64c6b00059'>Sleep</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/93ba1c16-eeb2-405d-9f66-6de2f4354224'>Sleep</a> | 0.15 | 3 |
+| <a href='https://api.scryfall.com/cards/7886d4e9-003c-4978-a48d-4743fbc38985'>Arcane Endeavor</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/ad7b423a-bfd1-47aa-bd2c-64a169b96924'>Invoke the Winds</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/4b153c2f-fc87-49bc-9d1e-d5e7e25b2142'>Talrand's Invocation</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/f37d5938-9c8f-4203-8f3f-d6e89ced28ef'>Ugin's Insight</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/b2288f7b-05b1-4a6c-8d02-42ffcadc6f0b'>Pore Over the Pages</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/42dbf049-5c02-4038-86de-fa6b5110cf7e'>Interpret the Signs</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/3d878c10-de5e-4224-98ce-d49902b5ab8b'>Roiling Waters</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/c5688978-1744-4986-bda3-09629541b827'>Step Through</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/05e5dbfd-84cf-4fe1-850f-3d2965ed3120'>Tezzeret's Gambit</a> | 0.31 | 1 |
+| <a href='https://api.scryfall.com/cards/87fe8637-9be1-4b57-832f-38cf92d23482'>Time Warp</a> | 13.35 | 1 |
+| <a href='https://api.scryfall.com/cards/216e8047-6f54-49ce-bf86-27dc8fc8c8f7'>Hidden Strings</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/0f578fbf-c3c7-4407-9fda-3c13b165798c'>Compulsive Research</a> | 0.49 | 1 |
+| <a href='https://api.scryfall.com/cards/ebb0070f-8686-4127-91c3-4f1488e2d995'>Tempt with Reflections</a> | 1.6 | 1 |
+| <a href='https://api.scryfall.com/cards/d651b9e9-d723-4340-a010-d71b2a697e73'>Serpentine Curve</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/94efe426-0fb2-4a24-9b50-914e48105b57'>Void Snare</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/9d3d062c-5853-44f9-b951-a264e9e0d72d'>Switcheroo</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/66c04ee2-c1e0-45fb-aaf5-1b4459df80fc'>Solve the Equation</a> | 1.76 | 1 |
+| <a href='https://api.scryfall.com/cards/413ac8fb-5156-4f90-81f5-1879e273c9e2'>Fractured Sanity</a> | 1.1 | 1 |
+| <a href='https://api.scryfall.com/cards/1f6a20ba-6691-4844-9685-dfcd4184224e'>Ghostform</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/4e058447-7cee-4670-b86b-c95bd6b68144'>Stolen Identity</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/de6ce6aa-e19f-4299-9807-e68920e63c73'>Artful Dodge</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/10a79733-702c-4611-b073-71db7f1158b2'>Maddening Cacophony</a> | 3.74 | 2 |
+| <a href='https://api.scryfall.com/cards/782760d7-59cc-4d40-a885-6a7980094fee'>Mass Manipulation</a> | 1.19 | 1 |
+| <a href='https://api.scryfall.com/cards/ce73b174-2448-4914-bca3-70564191da16'>Treasure Hunt</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/53e47ba6-3a55-41b4-b8fe-580041669408'>Runic Repetition</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/5a70e8fa-b71d-441e-b049-dacb09a9a7af'>Hotshot Mechanic</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/f18f2608-0d44-442c-97a1-12ac94b7abac'>Maul of the Skyclaves</a> | 0.29 | 1 |
+| <a href='https://api.scryfall.com/cards/bf9867e5-9d69-400c-a84f-3b085a4fd510'>Elspeth, Undaunted Hero</a> | 0.31 | 1 |
+| <a href='https://api.scryfall.com/cards/fd20150c-ae49-457d-9f64-b72160745ff9'>Court Homunculus</a> | 0.1 | 5 |
+| <a href='https://api.scryfall.com/cards/1e7162e5-8c56-457e-91eb-b8ae4d1b6adb'>Darklit Gargoyle</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/2616aa0e-8413-4e63-877c-bffd5263f552'>Porcelain Legionnaire</a> | 0.15 | 4 |
+| <a href='https://api.scryfall.com/cards/214c87be-7ce3-48a0-b2eb-26eff75636c9'>Immovable Rod</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/c15852d4-2c79-4841-bb65-6661d88fdfab'>Vanquish the Weak</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/3359f13d-9946-49fa-b621-28b1ea714e55'>Deal Gone Bad</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/902abe4d-5c19-4c96-b825-e6cd4d954a84'>Dig Up the Body</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/6338942d-d650-4571-8ec6-4d658792c53e'>Reckoner's Bargain</a> | 0.28 | 5 |
+| <a href='https://api.scryfall.com/cards/2b85a552-2119-4d9c-b7c1-c09c2d9f2f38'>Finishing Blow</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/f8487884-e991-4feb-823b-90d9125edf19'>Flunk</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/417f71d2-d7da-4279-8847-d27c67e9ea9d'>Tergrid's Shadow</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/5a926c10-029d-4e24-8c3f-1808025e30aa'>Assassin's Ink</a> | 0.06 | 3 |
+| <a href='https://api.scryfall.com/cards/050a604e-6146-4e2e-88a5-863ecb3dfa1f'>March of Wretched Sorrow</a> | 0.17 | 3 |
+| <a href='https://api.scryfall.com/cards/768727ce-4f84-4527-8d69-3c9b7877b748'>You Are Already Dead</a> | 0.09 | 5 |
+| <a href='https://api.scryfall.com/cards/8d8edf8f-c2bd-4fd1-8abf-d3162e068b17'>Lethal Exploit</a> | 0.01 | 5 |
+| <a href='https://api.scryfall.com/cards/342ec072-e581-490c-b5ae-a625bd35a153'>Return to Action</a> | 0.02 | 7 |
+| <a href='https://api.scryfall.com/cards/342ec072-e581-490c-b5ae-a625bd35a153'>Return to Action</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/c1a7e728-ba01-4e3d-b269-9e2dd85a1d1b'>Debt to the Kami</a> | 0.07 | 5 |
+| <a href='https://api.scryfall.com/cards/e97cf3d1-4929-4161-bc5e-f7fa0fb9af68'>Tendrils of Corruption</a> | 0.11 | 2 |
+| <a href='https://api.scryfall.com/cards/607b1066-1ca0-45e1-a55c-30aed77cc8dc'>Blood Pact</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/82ef2567-f798-4447-9735-c7c0d88aba85'>Instill Infection</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/7fbe8cf1-11df-4ca4-9a6b-265193c49250'>Crushing Disappointment</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/7fbe8cf1-11df-4ca4-9a6b-265193c49250'>Crushing Disappointment</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/99a1a75b-20cf-4db9-a244-cc54411446c4'>Feed the Serpent</a> | 0.01 | 5 |
+| <a href='https://api.scryfall.com/cards/99a1a75b-20cf-4db9-a244-cc54411446c4'>Feed the Serpent</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/03eb2163-cce2-4d07-b7d7-9c70a41fa373'>Drag Down</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/1b0c6980-a371-4cb5-b684-3ebddd4890f8'>Induce Despair</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/17597c66-0d9f-41af-9160-0d92be88f450'>Krovikan Rot</a> | 0.12 | 2 |
+| <a href='https://api.scryfall.com/cards/348f480f-8f68-4060-b964-f67515930549'>Last Kiss</a> | 0.04 | 3 |
+| <a href='https://api.scryfall.com/cards/f7dc2716-ed62-4797-ad2b-227eca5408d0'>Dark Banishing</a> | 0.12 | 2 |
+| <a href='https://api.scryfall.com/cards/9beaaa66-0dae-4631-895d-06570834ba7c'>Tomb Hex</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/e4e6794a-feeb-4fc8-a2ee-38c75c18aaae'>Heartless Act</a> | 0.21 | 2 |
+| <a href='https://api.scryfall.com/cards/440bfb8c-f29a-4c11-9fcb-ee935dead03f'>Murder</a> | 0.03 | 4 |
+| <a href='https://api.scryfall.com/cards/1c13ac76-7cd9-456f-9b89-92bfa07c64c5'>Murder</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/7fb94456-5266-47db-b514-a0e17e34b771'>Poison the Cup</a> | 0.15 | 2 |
+| <a href='https://api.scryfall.com/cards/64d4713d-321a-447f-a318-88b552ec5d0c'>Bladebrand</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/89fb59ce-7d40-4784-b96d-2d5a25a8e531'>Bladebrand</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/f8eb4087-3a4c-4de8-8e29-f4cd71acb180'>Eliminate</a> | 0.05 | 3 |
+| <a href='https://api.scryfall.com/cards/c55b2b50-ac83-4a78-8f84-580193d1ca0f'>Eliminate</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/c0efc963-5848-44eb-a654-c08b5bd4501d'>Pharika's Cure</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/bdb1972f-2ef7-4fe2-8c8e-ab07f48a3176'>Grim Harvest</a> | 0.2 | 3 |
+| <a href='https://api.scryfall.com/cards/3f23c487-ac4a-475b-ad5e-ec6f8678e668'>Demonic Gifts</a> | 0.09 | 5 |
+| <a href='https://api.scryfall.com/cards/6fedb37f-4f3c-477c-84c0-aa864e87c111'>Corpse Churn</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/a1c0c764-791d-4181-8f7a-147554d97d97'>Corpse Churn</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/1a67c196-632c-4c7b-a132-de07d894e634'>Raise the Draugr</a> | 0.08 | 5 |
+| <a href='https://api.scryfall.com/cards/6e19acff-f3dd-417a-a9ab-ea3e36c1ba61'>Doom Blade</a> | 0.2 | 3 |
+| <a href='https://api.scryfall.com/cards/685a74bb-f158-4d0e-b840-222ecbf107d4'>Doom Blade</a> | 0.21 | 2 |
+| <a href='https://api.scryfall.com/cards/077d5ca8-2a94-4d79-9314-c5ca2aa4d14b'>Doom Blade</a> | 0.22 | 2 |
+| <a href='https://api.scryfall.com/cards/75d96a37-bdbe-46ae-926f-8742699a0b20'>Doom Blade</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/862fded6-e474-4b20-86d8-fd9af5f25b1a'>Professor's Warning</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/52c2de5f-e486-4cfe-9fb6-be0078ce5f93'>Cling to Dust</a> | 0.2 | 4 |
+| <a href='https://api.scryfall.com/cards/6460a752-e5a7-4fd0-9ae5-e0773b86f19b'>Vampire's Bite</a> | 0.13 | 2 |
+| <a href='https://api.scryfall.com/cards/0fab9ee8-776a-48e5-b309-bcd381e67bf7'>Village Rites</a> | 0.18 | 3 |
+| <a href='https://api.scryfall.com/cards/da3de5c0-acda-4116-b0c5-eceb2c19cb2d'>Village Rites</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/d6b77692-08aa-40b6-b21b-c29a2dc87709'>Wring Flesh</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/609d3ecf-f88d-4268-a8d3-4bf2bcf5df60'>Malakir Rebirth // Malakir Mire</a> | 4.32 | 1 |
+| <a href='https://api.scryfall.com/cards/ce15ab0b-c70d-4ac0-a6ee-dbd31736ce1f'>Supernatural Stamina</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/d0f82007-99f6-4c6c-8182-ee631c33531f'>Tainted Strike</a> | 1.2 | 1 |
+| <a href='https://api.scryfall.com/cards/b3842ad2-a449-4963-8c96-276554125757'>Disfigure</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/97398ad2-675b-4a34-aab7-935dd6714f1c'>Rotten Reunion</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/a53624ee-2925-4a56-8706-e278db5d963d'>Cruel Feeding</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/89c31d9d-fd77-4275-b89c-f9b64073c54b'>Stabbing Pain</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/9c1adede-22ad-4c1c-9501-ad731fbe1742'>Olivia's Midnight Ambush</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/21c8426e-476a-45e4-b3a9-841da54d966c'>Cast Down</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/de07e21e-c12a-47a6-ad2c-ef6fed343407'>Feast of Dreams</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/4dc2eec4-7e68-45d5-8736-6b32a47c671b'>Altar's Reap</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/9d3a1ec1-f362-494d-a23b-6a963ce44fdd'>Rise of the Dread Marn</a> | 0.69 | 1 |
+| <a href='https://api.scryfall.com/cards/df3abdcc-83a8-45c3-9bfd-23f929705018'>Defenestrate</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/760a66bd-2821-4710-8f02-3c30772dd884'>Reaping the Graves</a> | 0.53 | 1 |
+| <a href='https://api.scryfall.com/cards/f4540013-11f9-4a8b-ad54-61f467f04756'>Ravenous Trap</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/1ef4b0fb-d4a5-43ce-a079-10d346e194d5'>Grave Endeavor</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/30a09ee1-99d9-432f-a4e2-a1377edef9d2'>Hideous End</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/56b386bf-4678-43ab-80a2-a79e3c50bac1'>Unburial Rites</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/3f05e478-8712-41de-94af-ecb90432e562'>Desecrated Earth</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/3532105d-c550-4c20-8465-a6a19169efbd'>Liturgy of Blood</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/faf285d7-c414-48ab-ad1f-1f49e586c278'>Voices from the Void</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/96ff9de6-f9ae-4b1c-9fd1-4ba9663922af'>Edgar's Awakening</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/de42a771-4f5c-4295-b070-8cb857a0279e'>Spread the Sickness</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/7aaedf6d-171b-4845-8815-debbe06b5b66'>Mind Sludge</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/9938180e-31dc-45a1-a39a-dbaf12ad429b'>Corrupt</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/177cc55d-e00d-4246-9191-1b457f92a935'>Deadly Tempest</a> | 0.46 | 1 |
+| <a href='https://api.scryfall.com/cards/c76487d3-1d52-4c31-917e-eb929907218d'>Blood Tribute</a> | 2.34 | 1 |
+| <a href='https://api.scryfall.com/cards/7a3f8bc2-ef66-474f-92a3-9c4df1670cec'>Bad Deal</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/d3cec373-0a3f-4628-8706-b7c9c205f150'>Necromantic Selection</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/eb8e00d2-2381-4d45-bed8-c9bf738a9419'>Soul Burn</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/e1951763-be97-400c-aa95-6b101f47bddf'>Confront the Past</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/198ec497-4e95-4386-9ca4-35d2d3f59733'>Incriminate</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/2bdb9df1-4475-45e7-bc9c-40937c8c1722'>Extract the Truth</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/6ffa795d-2211-49b0-a6df-812599758f7b'>Weigh Down</a> | 0.01 | 7 |
+| <a href='https://api.scryfall.com/cards/1f7cced2-390b-499f-ace3-e52fd53d4712'>Illicit Shipment</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/0683d586-a54b-425a-a24d-2efb2342f150'>Mind Drain</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/e9df9c5e-7087-42b2-9001-c89d40a66c68'>Dark Petition</a> | 3.37 | 1 |
+| <a href='https://api.scryfall.com/cards/1ee98955-4c47-4d45-9377-608dfa755337'>Bone Shards</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/d9e4485d-c208-46b4-9b5d-48e55e2ee182'>Okiba Salvage</a> | 0.03 | 3 |
+| <a href='https://api.scryfall.com/cards/5db2f958-947b-4b52-a5cd-e8f8b5576803'>Consume Spirit</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/660ec88f-2063-404a-853e-c985e21d17b0'>Rise Again</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/cb9dd0d9-8e35-4a8c-af6f-83c7d2a3ea7d'>Rise from the Grave</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/7d9bd181-b99f-477e-bcfb-9b78cbf51224'>Crippling Fear</a> | 0.17 | 2 |
+| <a href='https://api.scryfall.com/cards/983f7521-16e3-4057-a482-7d86392daa57'>March of the Returned</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/df14d32d-fe53-4370-8298-fab528ff12db'>Blood Price</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/25657da2-e7bc-4e9b-8ec2-5a5779738436'>Bitter Revelation</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/7c3fac03-a019-4faa-bc1c-09e3a394fff7'>Essence Harvest</a> | 0.23 | 2 |
+| <a href='https://api.scryfall.com/cards/37e34017-0aeb-4a93-9edf-596bf3597a0e'>Call of the Death-Dweller</a> | 0.3 | 1 |
+| <a href='https://api.scryfall.com/cards/ad16a3b8-e99e-47ed-92ce-ef42310f9f46'>Dead Reckoning</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/8ff0f47f-75cb-42b0-ba4d-78522cad9861'>Hunt for Specimens</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/8ff0f47f-75cb-42b0-ba4d-78522cad9861'>Hunt for Specimens</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/b9cf2116-7ae5-4b6a-830a-919a55235690'>Essence Feed</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/bd68e4c4-0216-4f58-a3ce-3432ab5830c6'>Talara's Bane</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/ecb5fb06-d7b3-4871-a530-9004110596ad'>Funeral Rites</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/d9ef6a68-60a4-4a20-8b57-8b7a7c5ed0c6'>No Way Out</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/14171597-9bf3-441c-a844-a0e1ac4bb1db'>Assassinate</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/28476d0d-60ea-4d08-890c-0e6502ee3d2a'>Marsh Casualties</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/87e4b75c-e993-4983-8933-977be314bba6'>Foul Play</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/974bf8cc-4259-48cc-8e7f-1580bb010d3f'>Vampire's Kiss</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/4a5555c5-5d40-4976-ba77-54732108f120'>Disentomb</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/1975ed97-acb8-4bb6-804a-e5da725d876e'>Sign in Blood</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/4eeec3f1-1f12-4237-95ec-54bbc9a901f9'>Grim Discovery</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/dd73fa5a-be0f-49a4-a921-afefbc8fa9c5'>Kaito's Pursuit</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/56e7415f-f014-4ece-81db-d8271444d9e9'>Malicious Malfunction</a> | 0.04 | 4 |
+| <a href='https://api.scryfall.com/cards/35af9d5c-4449-4549-b549-c3ba4a67dee0'>Invoke Despair</a> | 1.08 | 1 |
+| <a href='https://api.scryfall.com/cards/62e4edbd-4a7c-435b-b7c0-f9cfdd3dff68'>Invoke Despair</a> | 1.39 | 1 |
+| <a href='https://api.scryfall.com/cards/d8606f40-0af4-443b-a413-a88dc3e8f32e'>Blood on the Snow</a> | 0.23 | 2 |
+| <a href='https://api.scryfall.com/cards/470601b0-9598-487f-bb14-4bfec7ca6d61'>Return Upon the Tide</a> | 0.05 | 3 |
+| <a href='https://api.scryfall.com/cards/abfcd08a-cfb5-4d34-b950-f57a88c5cb8e'>Sanguine Indulgence</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/4589c520-4db3-47bf-bfb2-5d7e02ede4bf'>Skull Raid</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/4589c520-4db3-47bf-bfb2-5d7e02ede4bf'>Skull Raid</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/e2a129e2-bed5-4ee7-b223-851452f72682'>Soul Reap</a> | 0.2 | 2 |
+| <a href='https://api.scryfall.com/cards/225cd8bf-fd0e-4cab-903b-10c6d0dd4741'>Syphon Life</a> | 0.15 | 3 |
+| <a href='https://api.scryfall.com/cards/09270c65-546e-4737-a6b7-402cbb87917a'>Agonizing Remorse</a> | 0.05 | 3 |
+| <a href='https://api.scryfall.com/cards/71a48d0c-1e5b-43f2-8974-e2e5bb06310d'>Essence Infusion</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/1a7dd5e2-b2a5-46ab-a67c-499451706505'>Feast of Blood</a> | 0.2 | 4 |
+| <a href='https://api.scryfall.com/cards/7ced5797-5de0-43ca-9dc9-e48912333a70'>Raven's Crime</a> | 0.46 | 4 |
+| <a href='https://api.scryfall.com/cards/9d6976c2-f2a0-4993-a428-9469ada5ca37'>Mire's Toll</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/652271a0-80e8-4b9b-8823-26c1528378fc'>Reanimate</a> | 9.38 | 1 |
+| <a href='https://api.scryfall.com/cards/e7975a3c-570a-4bff-a60d-d274f758b93f'>Eaten Alive</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/059e8447-6b1c-4651-a734-a8fea2cbf7b2'>Bloodchief's Thirst</a> | 0.13 | 2 |
+| <a href='https://api.scryfall.com/cards/27ff5fbd-7ce8-4188-8228-0eab0d69a7a1'>Horrifying Revelation</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/e4d42177-dd1b-482c-a549-6f563b3f3249'>Spark Harvest</a> | 0.03 | 3 |
+| <a href='https://api.scryfall.com/cards/d4a4b3a3-b7ae-4210-8037-098fdf5808d0'>Bone Splinters</a> | 0.09 | 3 |
+| <a href='https://api.scryfall.com/cards/d5962a39-1c67-49e1-b4c9-580e6d37b814'>Bone Splinters</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/d759602b-38c9-42fe-902a-0e696ccbdf13'>Duress</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/7e1445d6-ae16-492c-a378-d3aa5746c610'>Duress</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/49c07ea0-27ff-46fb-a41f-3e378c977b5d'>Duress</a> | 0.06 | 3 |
+| <a href='https://api.scryfall.com/cards/5bb89f3f-f3b0-402d-9f3c-5b4b8a9d1e91'>Duress</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/5db19a94-1170-45a0-9f06-893bf58b7233'>Cauldron's Gift</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/397fd49b-a520-4b0e-9ab9-71675ab5969d'>Memory Theft</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/278f7705-01a4-4baf-929b-b93e538a8d77'>Summon Undead</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/7c71b2b8-f5ef-4885-9f8d-284fe335d184'>Cloudkill</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/7873c1f9-572c-4740-82f8-cf3cbc7318d0'>Forever Young</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/621fce96-5933-4e2b-98ec-2589940e24cb'>Clawing Torment</a> | 0.03 | 3 |
+| <a href='https://api.scryfall.com/cards/e4c7919a-de62-46df-a937-593647473ef5'>Twisted Embrace</a> | 0.03 | 3 |
+| <a href='https://api.scryfall.com/cards/597fe119-64a7-4499-8b69-738af5a71a20'>Withercrown</a> | 0.03 | 6 |
+| <a href='https://api.scryfall.com/cards/6f75a5e5-70df-49c3-abe1-8cc6975f5171'>Rune of Mortality</a> | 0.07 | 3 |
+| <a href='https://api.scryfall.com/cards/523c3541-405f-47e5-8730-5c7ce0426a4e'>Unholy Strength</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/8adc48d8-7ff9-46d4-921a-03e63ca41a66'>Unholy Strength</a> | 0.1 | 3 |
+| <a href='https://api.scryfall.com/cards/ab4625e1-4ba4-43cd-8147-059e4d50fd37'>Yoke of the Damned</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/ab4625e1-4ba4-43cd-8147-059e4d50fd37'>Yoke of the Damned</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/9e02ddba-fdc1-4d7b-89eb-00a0417f8963'>Ordeal of Erebos</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/6038cfda-4176-452f-8a9f-4541fe947f98'>Casting of Bones</a> | 0.25 | 2 |
+| <a href='https://api.scryfall.com/cards/3b045121-7742-41ee-be27-591692f42331'>Necromancer's Magemark</a> | 0.14 | 3 |
+| <a href='https://api.scryfall.com/cards/b75b89f1-e032-4d8c-b2b6-1b76e8644801'>Necrosynthesis</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/b75b89f1-e032-4d8c-b2b6-1b76e8644801'>Necrosynthesis</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/c8a7fe66-db40-4eca-8953-0eb2cf98e4e8'>Corrupted Roots</a> | 0.28 | 2 |
+| <a href='https://api.scryfall.com/cards/81ddf81d-1746-41a7-951c-0bd68954505d'>Caustic Tar</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/5b36d12e-9a68-4d3d-92e8-9840cd5320bc'>Lithoform Blight</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/a1a64356-3064-47a2-80be-5e2f56c85556'>Contaminated Bond</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/b26d73e6-9138-43b2-8031-6e3b25fa33f9'>Unhallowed Pact</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/3a5cd9a1-da2e-44ef-9f2e-352dc9f92c50'>Artificer's Hex</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/88810a96-d5f8-4030-93f1-e2ad0d480317'>Predator's Gambit</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/d8fa57eb-e307-4104-a291-c6cbfa235816'>Fear</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/0c841c3e-e0d1-49d7-bcec-3c45f73c13c5'>Brink of Disaster</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/0ec35e03-022b-417c-9987-7379cf3956f9'>Dragon Shadow</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/fe012fd0-9ff0-4436-a890-3ab436e42201'>Blanket of Night</a> | 0.99 | 1 |
+| <a href='https://api.scryfall.com/cards/f174fd76-f28d-4272-8cb0-7f66cd60579e'>Lingering Death</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/ae74624e-3850-4153-b682-d044272269c1'>Vow of Torment</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/2eed3d1b-3142-437c-99e9-85ba76e23e6d'>Ghoulflesh</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/21d56d13-b9de-44db-b235-4f7eea60f424'>Quag Sickness</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/1910d072-1660-4918-a338-d9f87926541d'>Nyx Infusion</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/a6522f01-ae7a-467e-9a05-530a5ccd304d'>Inevitable End</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/56149192-ddc1-45a4-b7aa-be311da5fe8e'>Demonic Embrace</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/60f6a159-b969-4767-802e-409f8bf286fe'>Dogged Pursuit</a> | 0.06 | 6 |
+| <a href='https://api.scryfall.com/cards/902d03cd-2df7-4f87-ab99-fd52f0df6339'>Soul Stair Expedition</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/a2136a82-b535-47f6-9eee-5b7585ac5cf1'>Demonic Rising</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/363bd6a6-e8e4-4626-a43c-0b77339dd28b'>Ghoulish Procession</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/022960a1-8223-4b83-aea2-85359c39f3b8'>Homicidal Seclusion</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/79b0e035-8716-469d-99ae-a530cd96ef09'>Revel in Riches</a> | 8.63 | 1 |
+| <a href='https://api.scryfall.com/cards/8023fc44-fb8e-420d-a68c-b45912c4e5bd'>Omen of the Dead</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/906618e2-2638-4017-9d6e-e6f282967a81'>Triumph of Cruelty</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/b7faf899-96b7-454e-b634-6684c2d72f26'>Warlock Class</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/54613f38-ca91-4764-b1fe-60cd83707fb4'>Tribute to Horobi // Echo of Death's Wail</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/4ec18bf7-bd80-408d-acc4-ffaaf7ef6b5b'>The Long Reach of Night // Animus of Night's Reach</a> | 0.03 | 4 |
+| <a href='https://api.scryfall.com/cards/f7f4adf7-b871-417b-8904-7f024ca21486'>Life of Toshiro Umezawa // Memory of Toshiro</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/4f0582b4-d951-4450-b158-4a34109e48cd'>Okiba Reckoner Raid // Nezumi Road Captain</a> | 0.03 | 4 |
+| <a href='https://api.scryfall.com/cards/5b5490b8-5652-40f5-8678-e1263ef69b5a'>Duskwielder</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/58cd149b-ecf4-43ed-b6e5-98870953b4b8'>Fume Spitter</a> | 0.15 | 4 |
+| <a href='https://api.scryfall.com/cards/675112db-c477-43f4-b755-54162445fb49'>Asphodel Wanderer</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/df99f770-2c39-4025-a8a2-a5890f61eb53'>Thieves' Guild Enforcer</a> | 0.19 | 3 |
+| <a href='https://api.scryfall.com/cards/bd0a2fe3-45ab-4bac-aca7-a6418e28d0be'>Death Cultist</a> | 0.18 | 2 |
+| <a href='https://api.scryfall.com/cards/4b0b14d4-41de-42ac-9894-77bbcebaabfc'>Acolyte of Xathrid</a> | 0.13 | 2 |
+| <a href='https://api.scryfall.com/cards/de74fa19-943e-4606-a793-ab5ccbe8db4a'>Deathgreeter</a> | 0.5 | 3 |
+| <a href='https://api.scryfall.com/cards/36b443bf-74d4-4225-97b6-e9c3ca756cd2'>Insidious Bookworms</a> | 0.12 | 2 |
+| <a href='https://api.scryfall.com/cards/09e49aa4-ac23-49b1-b9b7-49d45b56b21d'>Merrow Bonegnawer</a> | 0.12 | 3 |
+| <a href='https://api.scryfall.com/cards/7c33d20d-8d1c-4cf7-a7ad-3dab9758fafe'>Sanitarium Skeleton</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/b5e78a44-fff3-4cbf-929b-8dfed4e45d62'>Sanitarium Skeleton</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/f3c92575-1c97-48bf-801b-22f34040cf9a'>Guul Draz Vampire</a> | 0.16 | 3 |
+| <a href='https://api.scryfall.com/cards/bc8f0242-35e1-4409-9321-56e742e8fef4'>Serrated Scorpion</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/114eca6c-76de-4b87-8174-78e2d17ad0e3'>Vampire Lacerator</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/d3f7b614-6075-4b7c-acc7-ab63185b570b'>Kjeldoran Dead</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/4604a63c-ebe0-420f-968e-3ffc7641ce22'>Pulse Tracker</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/d49203dd-89b6-4e91-b3ff-5f9f5ce981f8'>Viscera Seer</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/83437022-ba00-4370-83c2-ce1260336fcc'>Archfiend's Vessel</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/72bcfb24-1649-4c8f-ba76-346914d11572'>Plagued Rusalka</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/e1f7a9a7-3679-4a18-a52a-e3a8ab16ad32'>Child of Night</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/a6308a53-de07-4ed9-80a1-3579843466c2'>Bloodsky Berserker</a> | 0.04 | 4 |
+| <a href='https://api.scryfall.com/cards/f2a6556b-a4f1-4ff5-8e6e-a47618c8c66e'>Bloodcrazed Hoplite</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/d1abc9e8-9ecf-4665-9ea5-ee18ab83c148'>Blood Seeker</a> | 0.19 | 3 |
+| <a href='https://api.scryfall.com/cards/1da2dc92-0352-4757-8249-67f08a2464d1'>Ruthless Cullblade</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/34dea310-8738-4fd9-b790-0361afe1e150'>Rotting Rats</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/34dea310-8738-4fd9-b790-0361afe1e150'>Rotting Rats</a> | 2.95 | 1 |
+| <a href='https://api.scryfall.com/cards/7f42bdeb-5a51-4303-96d8-9722f95d2905'>Blister Beetle</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/0cde0f4d-5acc-4a25-a3d6-c6b9b734360c'>Priest of the Haunted Edge</a> | 0.04 | 4 |
+| <a href='https://api.scryfall.com/cards/f990b683-e49e-422e-a4e2-85cd09a6eb0d'>Dregscape Zombie</a> | 0.12 | 2 |
+| <a href='https://api.scryfall.com/cards/b6edd4ea-c587-4d93-a675-4cdec3e0b1ca'>Mesmeric Fiend</a> | 0.24 | 3 |
+| <a href='https://api.scryfall.com/cards/94a6644a-52e6-454e-a479-44b086240974'>Eternal Taskmaster</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/d9dc87b3-60b2-4cf8-b620-334700db1aa9'>Mire Triton</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/a8cce294-f6ee-4b18-8b65-7d01d0317b00'>Discordant Piper</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/cbb6e447-5f40-4039-8a17-257b4a55382c'>Inkrise Infiltrator</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/f66aaba3-4a28-4fcf-926a-34bbbf0dbeb4'>Inkrise Infiltrator</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/7b1264d2-c7c8-477f-84f6-c17b422aa45e'>Elvish Doomsayer</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/a541ac79-a969-42b4-b989-f6e37572ec90'>Novice Occultist</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/9ea61098-2c6a-48d2-b99f-f3065c67d8e3'>Returned Reveler</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/0382cb94-0836-4e23-99b7-034faa363203'>Crypt Creeper</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/bd9f046c-b416-4d80-8998-047b98361352'>Krovikan Scoundrel</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/1b00c711-007d-4c85-9dd9-dd9d52f1649d'>Gloom Surgeon</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/505c6215-4006-4c4f-897a-be051cb73fa7'>Corrupt Court Official</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/425836be-f5cd-4584-a2ff-a8cf166eccc0'>Drudge Skeletons</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/c3e2ea59-36f1-4e95-bfe8-7008b085194f'>Vampire Interloper</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/71db3698-a45c-4eaf-87e6-30502c0c10f4'>Gatekeeper of Malakir</a> | 0.31 | 2 |
+| <a href='https://api.scryfall.com/cards/f272ac54-fea8-4044-83e2-f8fdc10f467d'>Ghastly Gloomhunter</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/48bf0233-1d2e-40cb-9a69-8eeeeb2959ca'>Bloodthrone Vampire</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/853a89c6-63f9-4b12-8a5b-2c382e22b226'>Baleful Eidolon</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/7f3a6148-d005-49c1-a7fc-867c4e8251cd'>Elderfang Disciple</a> | 0.11 | 4 |
+| <a href='https://api.scryfall.com/cards/dd82846e-f119-4b27-a795-7b1ceebab4b0'>Reassembling Skeleton</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/307f9fe7-241b-4eb6-a059-be5384b4a1b6'>Leech Fanatic</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/fad2c6d4-03dd-4dab-861c-77c55bda0db7'>Skemfar Avenger</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/ff1d88a6-a74d-44b5-b7a8-866e866807f1'>Dream Devourer</a> | 0.69 | 1 |
+| <a href='https://api.scryfall.com/cards/80340582-655b-4bf1-88fb-14bcbe17aa04'>Infernal Pet</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/54340c59-03a9-4d9d-bd27-9aed337ce75a'>Grim Draugr</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/af0f1a90-af64-4122-9c1a-954edf8fa240'>Koma's Faithful</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/4a85419a-7ebb-4fe1-891f-b5295e18878f'>Phyrexian Rager</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/f11889da-d5dd-4bb3-b3d0-0d90698f4f34'>Phyrexian Rager</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/bb0d354e-3a63-4dfe-ae6d-5e82cbf419ac'>Phyrexian Rager</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/e2a0410f-95c5-49bf-856d-dea796c96e3b'>Moriok Reaver</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/9dfd36c5-a484-4973-873c-b6a433da8e7a'>Mogis's Marauder</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/2ea0dff9-71c3-4d56-aa7b-e0fb9938529a'>Promising Duskmage</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/44f19fe3-7a17-4c45-adfa-590f73dfebfa'>Vampire Nighthawk</a> | 0.23 | 5 |
+| <a href='https://api.scryfall.com/cards/7fbbc5d7-86d0-4e09-b37c-e40eb88f3f33'>Sedraxis Alchemist</a> | 0.14 | 6 |
+| <a href='https://api.scryfall.com/cards/32779721-b021-4bd4-95d1-4a19b78d9faa'>Blackbloom Rogue // Blackbloom Bog</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/63cf5e98-9d40-4cb0-83de-043751b1382f'>Nighthawk Scavenger</a> | 0.28 | 3 |
+| <a href='https://api.scryfall.com/cards/b8bb97ce-d9cf-47db-93cb-02745ebeb05e'>Gutless Ghoul</a> | 0.14 | 4 |
+| <a href='https://api.scryfall.com/cards/f71e4391-04a8-4df8-9d52-3a3480bcd5b6'>Fleshbag Marauder</a> | 0.3 | 2 |
+| <a href='https://api.scryfall.com/cards/c491fb83-ad9a-4b59-99d6-9fbf50535014'>Fleshbag Marauder</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/9bac0b9c-0077-44c8-8982-4e7b7e7ad398'>Vampire Aristocrat</a> | 0.08 | 3 |
+| <a href='https://api.scryfall.com/cards/98db4317-9850-44c1-884b-d8d3abe1afeb'>Gloomhunter</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/5c03e00b-034d-4a26-9fc2-f25fc2dfc661'>Plaguecrafter</a> | 0.39 | 1 |
+| <a href='https://api.scryfall.com/cards/84a6703c-38d4-4c86-b5b0-ebfde81bb1bf'>Looming Shade</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/aba629ab-a322-4a7c-b6e5-477ca1b709bf'>Looming Shade</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/2d3225e8-9902-4826-9cb3-68ecfaebb1e9'>Doomed Necromancer</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/730ddbcd-0814-4e22-85e9-78b0878324b6'>Marauding Blight-Priest</a> | 0.41 | 1 |
+| <a href='https://api.scryfall.com/cards/94ebd19f-c3ec-41de-bde0-3118b34b76a4'>Bloodrite Invoker</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/ae5d7f15-a86f-4eaa-8280-2e7f73c8ce3a'>Liliana's Devotee</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/68d242d3-a817-4cdb-a51e-5f8202233743'>Liliana's Devotee</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/ff5444cb-0ecd-4482-a8d8-09332f382dbd'>Silversmote Ghoul</a> | 0.16 | 3 |
+| <a href='https://api.scryfall.com/cards/a7e0e09c-ed43-4a37-85f2-c60bdfdb2624'>Yuan-Ti Fang-Blade</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/f35fd9cd-795f-4a8b-b2e9-648f6273927e'>Dutiful Attendant</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/33122581-39fd-44a0-b928-f73e39a0c0f1'>Liliana's Specter</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/97485dbf-2f31-4ed2-a6cd-529ca22c9ac5'>Bloodflow Connoisseur</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/f19d80ce-284a-4d22-9ea8-f8d480377212'>Wall of Bone</a> | 0.2 | 2 |
+| <a href='https://api.scryfall.com/cards/b5d43b60-5bbc-4f9d-a96b-8d886b0c6dbd'>Mindless Null</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/496a9d45-6197-44b6-b0fc-17aeae281b2f'>Arrogant Outlaw</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/4fefd7f9-57ff-41bb-aef6-b1d568a7588b'>Cadaver Imp</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/1b2f83d5-9269-4297-b507-558c2bdec32b'>Cadaver Imp</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/85f4d77d-e0de-48fe-899b-5718cee779e2'>Pawn of Ulamog</a> | 2.37 | 1 |
+| <a href='https://api.scryfall.com/cards/c27221df-ec7a-4c51-b3a8-34b65b236b49'>Giant Scorpion</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/b996743e-7f48-49d8-948b-ceb75bddf215'>Guul Draz Mucklord</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/11fbba08-0d93-4750-9dd6-d6a2779c6cf3'>Nadier's Nightblade</a> | 1.34 | 1 |
+| <a href='https://api.scryfall.com/cards/cfd1c30e-e539-4382-b0fd-724a502a4b7e'>Defiant Salvager</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/beed7579-f4f1-4545-9653-4c1179e88dc8'>Crow of Dark Tidings</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/d8e0654c-8c84-47a7-ba0b-de5b1268c27b'>Crow of Dark Tidings</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/9695f390-f791-4d64-90b2-731d6d37df1c'>Hypnotic Specter</a> | 1.48 | 1 |
+| <a href='https://api.scryfall.com/cards/2c6cc262-ba0c-4cca-ae9c-24a1824753e4'>Warpath Ghoul</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/dba00df7-2c8d-435a-86d1-6bd7b7413585'>Pestilent Kathari</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/55f0666a-5c3e-492b-b4ea-42fa7f24661b'>Shady Traveler // Stalking Predator</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/5ed08a7f-6682-46a4-89df-b9b418df3f1a'>Arrogant Bloodlord</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/88583170-7b0e-4c02-b270-4859ba05d82b'>Barony Vampire</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/e61b3afa-66e0-4f7b-84bc-7ae2cc6d28d4'>Catapult Fodder // Catapult Captain</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/00c57090-c1fe-4100-a03c-95607074280e'>Fleshformer</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/5db99746-8aee-42b8-acb0-ed69933d0ff8'>Covert Cutpurse // Covetous Geist</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/f8067745-35b6-4abd-9ae9-712159a26c89'>Caged Zombie</a> | 0.04 | 3 |
+| <a href='https://api.scryfall.com/cards/b0e237c5-45b4-49df-adb9-62b9f3b62986'>Scavenging Harpy</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/128d1e8a-b80e-4963-aeff-4b364a02a246'>Necroskitter</a> | 8.61 | 1 |
+| <a href='https://api.scryfall.com/cards/41932ef6-0f64-40c1-946c-679976326e2d'>Graveyard Trespasser // Graveyard Glutton</a> | 2.9 | 1 |
+| <a href='https://api.scryfall.com/cards/f5b12c6c-c3d6-4b8a-bed4-d61f67f565b9'>Jarl of the Forsaken</a> | 0.06 | 6 |
+| <a href='https://api.scryfall.com/cards/24c40082-516e-4381-a4cc-e61c5a9a6cac'>Highborn Vampire</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/24c40082-516e-4381-a4cc-e61c5a9a6cac'>Highborn Vampire</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/da57d35a-ca0b-4f93-867c-d0a9fb5108f1'>Gravedigger</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/0fb714a0-e61b-4ccf-8de6-3a6bf87c8315'>Gravedigger</a> | 0.04 | 4 |
+| <a href='https://api.scryfall.com/cards/6d6d2d84-7141-4485-8379-b3c71af47cd1'>Viscera Dragger</a> | 0.17 | 3 |
+| <a href='https://api.scryfall.com/cards/be358357-2abe-4ead-bb18-76cad8274489'>Skinrender</a> | 0.2 | 2 |
+| <a href='https://api.scryfall.com/cards/e7e38e91-696e-4bf9-b46c-c9ed85c82b19'>Howling Banshee</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/e2d40f1e-bb2f-4de2-8481-c11eb5130fa1'>Howling Banshee</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/bb460855-f09d-4460-9d3f-1bfcc7f3e626'>Infectious Horror</a> | 0.09 | 5 |
+| <a href='https://api.scryfall.com/cards/73e3cfbc-7177-4bbc-89c4-560c9c2f97db'>Specter of the Fens</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/c0bba170-5176-4fab-a10d-e23d70128875'>Crypt Lurker</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/76d8e0ff-e720-41ca-af69-35585a2d7ae2'>Draugr Necromancer</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/8f99ec07-8af7-4e80-9f0e-fa304a94d4b4'>Disciple of Tevesh Szat</a> | 0.1 | 3 |
+| <a href='https://api.scryfall.com/cards/8d330058-16af-4486-aa89-b6be759e35d4'>Undead Executioner</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/6b0fe66b-0067-4e5c-9b3a-b014b2f0daf2'>Draugr Recruiter</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/6b0fe66b-0067-4e5c-9b3a-b014b2f0daf2'>Draugr Recruiter</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/80c57801-cc6f-4f1f-b401-7f621fdcfaaa'>Bone Picker</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/61752b13-255a-44d0-9fb0-5ed5680b954e'>Blightcaster</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/5d17210c-be39-4abc-9d4d-4f2eca9573bd'>Bog Wraith</a> | 0.19 | 2 |
+| <a href='https://api.scryfall.com/cards/8c504d12-a3ef-4588-a52d-734c20f6ac58'>Nimana Sell-Sword</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/2b7538ad-cc41-4229-8a39-c1db21f2899a'>Thorn of the Black Rose</a> | 0.11 | 2 |
+| <a href='https://api.scryfall.com/cards/3394a7a2-8f1a-4f07-843a-77db62de49bd'>Hagra Crocodile</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/1d20016d-2b5a-445e-a59b-5305e76f549c'>Heartstabber Mosquito</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/bd4e933b-de65-4089-877f-c598004b8e7e'>Jagwasp Swarm</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/3c6d3187-6994-4d8e-aa7f-3829ef74a5e5'>Balduvian Dead</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/af3fff48-ebc9-4fca-a098-77d973e7d238'>Squelching Leeches</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/df3eed10-7a8f-4c89-8be8-389f979e10b7'>Corpse Traders</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/1091fadf-97c4-4f87-8466-6a1246a72226'>Evernight Shade</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/5b13fbff-8b72-459a-ac72-3429be6e192d'>Baneblade Scoundrel // Baneclaw Marauder</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/30b7806f-c28f-40d4-b79e-f5a7725db298'>Scavenger Drake</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/e340de29-026f-4c76-8cb5-1abfcecbb3b1'>Cavern Lampad</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/5aa96f63-d5c3-47d3-a54d-a67883406fc5'>Erebos's Emissary</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/b46976d4-7266-4359-bf7a-7e81983ae6e3'>Zof Shade</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/25214a91-2f64-46ee-9834-7fbf684800f7'>Oriq Loremage</a> | 0.39 | 1 |
+| <a href='https://api.scryfall.com/cards/28ff52a2-4223-4551-b388-b4dd21cc1437'>Blood Glutton</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/bde7ecbc-b277-437c-ac94-4c3e89f1bda6'>Null Caller</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/214db426-3479-4d16-945e-dfec81ea7839'>Ashen Ghoul</a> | 0.29 | 1 |
+| <a href='https://api.scryfall.com/cards/56fcbe4a-2d98-4fa9-a6c3-e28255171a4d'>Mage Hunter</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/854c99fd-71ba-40b7-98cf-b783f01a77b4'>Vengeful Reaper</a> | 0.16 | 2 |
+| <a href='https://api.scryfall.com/cards/e2286f94-4cf9-4462-b5d7-cee7f6910018'>Falkenrath Noble</a> | 0.38 | 1 |
+| <a href='https://api.scryfall.com/cards/c204130f-0483-49ed-8512-03a74894702e'>Skemfar Shadowsage</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/a5a272b3-aaab-4c98-86a8-85c67a5f3d4d'>Hailstorm Valkyrie</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/cc295834-af33-45ae-be4d-7a1987f85561'>Zombie Goliath</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/8638edec-ddcd-4f50-9c2f-2e1668e3d175'>Zombie Goliath</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/f670c380-6faa-42ec-ab41-6be8137169b2'>Karfell Kennel-Master</a> | 0.01 | 4 |
+| <a href='https://api.scryfall.com/cards/fe491cba-6ec7-4c44-ad1e-832d936986a0'>Zombie Cutthroat</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/1945fc78-8aa4-46fb-9571-eaa1c4729e3d'>Liliana's Steward</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/1ddfdd10-2a99-4376-abee-f868b0d5e7c1'>Wedding Security</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/80076580-23f1-4008-ab91-9dad8c806cfa'>Caustic Crawler</a> | 0.15 | 2 |
+| <a href='https://api.scryfall.com/cards/38dcbad0-267e-411f-8e99-5d90b537bf9b'>Marrow Bats</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/408a2073-d068-44bc-b596-5a3a3a446ee1'>Gravebreaker Lamia</a> | 0.58 | 2 |
+| <a href='https://api.scryfall.com/cards/865ac36f-4c61-468b-a2ed-ed2d1bbbf4e3'>Malakir Bloodwitch</a> | 2.41 | 1 |
+| <a href='https://api.scryfall.com/cards/318fe8a2-a68a-4c7e-9581-ae6800826164'>Morkrut Behemoth</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/395696f8-9be2-4925-852f-b783850e1ca2'>Renegade Demon</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/fea7fbfc-c17d-4a5b-863e-842d4040200a'>Gilt-Leaf Winnower</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/9d3fb5f1-baf5-4934-aac7-ffbaa85b2428'>Briarblade Adept</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/3d4e94d3-0df5-4d2b-a5d9-178fe1350ceb'>Creakwood Ghoul</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/ac988f7b-9a10-4b48-8215-50376dc8678c'>Keepsake Gorgon</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/ba6232c3-f840-450a-8583-540aec0f17ed'>Nightwing Shade</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/0a2b4819-8aeb-49c0-b40a-3ff280604970'>Dreadbringer Lampads</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/f1d6e32e-6479-48b3-93ae-da5378c09bb1'>Gristle Grinner</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/7046acc2-e2fd-43e6-9d46-a729d48ba562'>Nefashu</a> | 0.29 | 2 |
+| <a href='https://api.scryfall.com/cards/ba464b81-2633-4422-a4b5-3593dfb7e7aa'>Void Maw</a> | 0.51 | 1 |
+| <a href='https://api.scryfall.com/cards/205eb029-68a0-4895-b142-2eb09987b5cb'>Dread Rider</a> | 0.01 | 6 |
+| <a href='https://api.scryfall.com/cards/fa715fde-8339-447b-8ac8-3126830bece8'>Maalfeld Twins</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/2a54115f-150a-4ae2-a5c7-20e2ba884dd1'>Caustic Hound</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/4a8cff2f-ba52-4d22-83e8-13c56368f1df'>Loathsome Catoblepas</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/e49bddc9-0b0b-4d6d-a708-019356f9649e'>Tithebearer Giant</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/6b8d53fd-2d3b-4050-b5c5-1b75f525ca2c'>Nightmare</a> | 0.39 | 1 |
+| <a href='https://api.scryfall.com/cards/c191dba2-659d-40e7-a558-c99ece872197'>Carnifex Demon</a> | 1.07 | 1 |
+| <a href='https://api.scryfall.com/cards/9dca75a1-443d-4f8e-b12b-2aada3a8e3e4'>Minotaur Abomination</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/fa1903f8-2863-4203-9552-a75759fa8c94'>Tar Fiend</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/446e672f-87aa-4308-98bb-d00548c5bcef'>Twisted Abomination</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/b54625ac-484f-4522-8048-38e01c545ac3'>Corrupted Harvester</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/c9cd537c-e40e-438f-a751-e0ad8f6e6283'>Goremand</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/dd7a382a-04ef-49d1-8cd6-1f587faa43cd'>Extractor Demon</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/1efdd70a-5a84-48a5-82bf-ba29fda097c0'>Umbra Stalker</a> | 0.31 | 1 |
+| <a href='https://api.scryfall.com/cards/405c096c-a94b-4817-8c7f-f0551f6513e3'>Miasmic Mummy</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/8297ab13-d6f3-487b-86ec-6eb299eb0614'>Nightshade Harvester</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/cd4aee25-496d-453e-95b7-d773fe21cacc'>Angel of Suffering</a> | 1.36 | 1 |
+| <a href='https://api.scryfall.com/cards/e3fbe7f0-8a91-4832-8953-54ab3669372c'>Revel Ruiner</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/5cd9297e-301e-4e70-af9b-3218eacacf8d'>Okiba-Gang Shinobi</a> | 0.65 | 2 |
+| <a href='https://api.scryfall.com/cards/317bdf0d-df7d-4ca2-8131-060ba7cf2602'>Nezumi Bladeblesser</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/fcb8d414-7f80-4a61-a0f2-0f16bf53e1b9'>Skeleton Archer</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/b279a03f-85ab-43f2-b5ca-1bc10563e5ad'>Cabal Initiate</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/f4d089f1-718e-4853-a634-64114735fba5'>Archfiend of Sorrows</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/db209732-c290-4999-a1aa-2369dfa8790c'>Sinister Starfish</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/58f15af6-eaf5-41b8-b93d-5a90ca219478'>Kami of Terrible Secrets</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/bd1a27c1-ff44-47a7-991d-c294e30eea34'>Zhentarim Bandit</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/532c5b14-75cf-4e4c-9b80-2d56a86e2844'>Gravelighter</a> | 0.11 | 3 |
+| <a href='https://api.scryfall.com/cards/62d3be4a-ab4f-46ef-837c-0f7559a701fe'>Kami of Restless Shadows</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/e3185b01-0d91-4927-98e9-bc9df6c20917'>Massacre Wurm</a> | 5.52 | 1 |
+| <a href='https://api.scryfall.com/cards/d80100c3-c81e-4084-8dfe-f8610637fd91'>Dockside Chef</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/18e3ebe5-9350-4781-a30d-4fcad034e7a9'>Shriekmaw</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/256a7a37-6f47-47a3-b149-5692aee8b34a'>Cabal Interrogator</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/a52d30a3-a436-4854-91e9-2c359c40457b'>Intellect Devourer</a> | 0.29 | 1 |
+| <a href='https://api.scryfall.com/cards/c5f6c745-e46a-42eb-8eca-b7b74ab1245e'>Foulmire Knight // Profane Insight</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/36590526-2f1b-4959-ba9e-55f3ebcffd1e'>Vile Entomber</a> | 0.27 | 1 |
+| <a href='https://api.scryfall.com/cards/2d6139d3-5397-4403-9c1e-312c11a7542b'>Lost Legion</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/3d14ea81-d303-47db-90b4-7d10588f7ea6'>Malakir Blood-Priest</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/11a59a6f-6ef0-4acc-8358-a4e2cebdb7d5'>Loathsome Curator</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/d3166b10-5bc3-4db6-bb5b-81045d98e446'>Vermin Gorger</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/f9f2029f-ffda-4374-9a78-79866ac23fca'>Deathknell Berserker</a> | 0.01 | 7 |
+| <a href='https://api.scryfall.com/cards/59fd3f8a-a13b-4a0a-bb27-b9246949ea7b'>Night Clubber</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/56a95546-c45a-4da5-b1e8-d5658b5b7d53'>Fetid Imp</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/053b59b4-a22c-4228-aadc-ae9da6bb465e'>Walking Corpse</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/a1b4f7ec-ea2e-4d90-98cd-0c92bd9f64c1'>Gloom Sower</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/cfb20c08-a84a-4773-a90c-fb007b94644b'>Unforgiving One</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/2ce30c92-c5f2-45d2-819e-177390bc26f5'>Patch Up</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/0913a5e8-7f77-44f2-a7cf-c8c0d6270a86'>Slash the Ranks</a> | 0.45 | 1 |
+| <a href='https://api.scryfall.com/cards/032f6c5a-8d88-4a55-a54b-28df42d801e1'>Legion's Judgment</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/eaeb9fd0-c46a-4246-838f-a5b7a8ea8eef'>Piercing Rays</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/bcdd5e1c-47db-4960-860c-2af14b734b59'>Sacred Nectar</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/e4b8946b-6604-49ca-98db-18a540b1b4e5'>Banishing Slash</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/7bfc408e-34d6-4e94-8678-4cc229cbc6f5'>Reduce to Memory</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/920d7f7e-8df3-4465-be07-83cb340cffc1'>Marshaling Cry</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/6fe080bc-e642-4fce-b4ee-bbe25d735673'>Excommunicate</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/58e84a4a-034f-4f55-a827-e62f2b61f091'>Aerial Assault</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/314e7a88-d721-490f-8b62-23ce58092be8'>Vengeance</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/9a8b0fd3-ae3e-41eb-b31b-d941b84b6c64'>Windborne Charge</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/1af1844a-601a-48c1-bf96-921d2d2e2aa1'>Conqueror's Pledge</a> | 0.29 | 1 |
+| <a href='https://api.scryfall.com/cards/41d6d379-b991-48da-a6b3-a4a38931057c'>Solemn Offering</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/9ca09fed-f9b3-49ee-be89-404581a4cbd2'>Solemn Offering</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/245357c6-b4cd-40f3-b7c2-413eee767239'>Landbind Ritual</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/130ee895-1e5e-4f82-bb66-e1275bac75dd'>Doomskar</a> | 0.89 | 1 |
+| <a href='https://api.scryfall.com/cards/64f7a506-0aa1-4c2d-b322-e0e9179d05fb'>Brilliant Restoration</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/8d8c1677-14aa-4d51-83ff-d1fee9046715'>Open the Vaults</a> | 1.64 | 1 |
+| <a href='https://api.scryfall.com/cards/3d6750dd-2303-493b-885d-1bfb5787b16c'>Imperial Oath</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/24bbdeb0-9165-4874-a853-d19c20c250ef'>Lucky Offering</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/d6fb3163-12ca-4a7f-a0c7-b8ddfc9408a0'>Guiding Voice</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/696a8c12-4a1f-4b96-a921-538fa1a2de43'>Divine Gambit</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/5ae3b199-92a0-4d94-819c-fbf24a87d353'>Divine Gambit</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/e792e689-0cf8-4bd0-b2f1-4edff9972e18'>Iona's Judgment</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/6c2c308c-e681-4eba-8b62-bcc95f1e8548'>Iona's Judgment</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/6c2c308c-e681-4eba-8b62-bcc95f1e8548'>Iona's Judgment</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/4c06b86e-c3fc-4703-affa-0ee2d9613854'>Three Dreams</a> | 3.38 | 1 |
+| <a href='https://api.scryfall.com/cards/d6467d96-e43a-4b1e-b6ce-578d991077b5'>Secure the Scene</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/8a286954-fb40-4440-9f0e-a28367c6823c'>Devout Invocation</a> | 1.56 | 1 |
+| <a href='https://api.scryfall.com/cards/9902b260-82cf-4b10-a353-321231824a3b'>Heroes Remembered</a> | 0.4 | 1 |
+| <a href='https://api.scryfall.com/cards/ce4ec853-411d-40a3-84a7-a62b3cb57cb3'>Austere Command</a> | 0.77 | 2 |
+| <a href='https://api.scryfall.com/cards/6b431711-ac9d-4f05-af66-44f1ca5fabf1'>Soulscour</a> | 0.45 | 1 |
+| <a href='https://api.scryfall.com/cards/8fdcec06-e33c-4737-b81e-b156d6e3fd77'>Vanquish the Foul</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/6d21fb27-e821-4ce1-8f34-fc5d6c69d779'>Revivify</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/9955a344-dcd8-404d-9757-f62ed158ba22'>Unbounded Potential</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/792610fd-736d-43b0-8899-dbb5accddca0'>Blossoming Calm</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/2fe82bbf-9b92-4684-a42d-fbc50c4c5903'>Pressure Point</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/a90c1ad0-83bd-471c-8d4c-e65bc2abaa18'>Swift Response</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/a3bd4bce-8ab0-40b9-aad7-7d57a011bb0b'>Revitalize</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/5c23869b-c99a-49dd-9e29-fcc0eb63fad1'>Defiant Strike</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/340df0d4-9848-4372-9f45-a73a8e94058a'>Allied Assault</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/6d745f35-944a-4157-a351-baa06f67b725'>Seize the Initiative</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/e34fc636-439f-4ce0-8189-5d00b0cf6b1a'>Luminesce</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/8257cc36-4886-449a-bb45-51f6abf09e82'>Stave Off</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/df2cc327-715b-4fb6-8218-9d01711d1022'>Swift Justice</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/be45567a-ca1d-4e3a-a630-ddf4fbd97bc6'>Swords to Plowshares</a> | 2.29 | 1 |
+| <a href='https://api.scryfall.com/cards/93d3a024-6cf3-4008-a4f6-1d96ff5de22a'>Stand Firm</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/2823d9a5-dd2f-4e6a-8e3d-554c4204aa32'>Pitfall Trap</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/f550f44f-8b8f-4c1d-a583-9fd986d3061c'>Shields of Velis Vel</a> | 0.37 | 1 |
+| <a href='https://api.scryfall.com/cards/91b448f4-aa0c-42c7-a771-e8dd20e0520c'>Practiced Tactics</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/1555cdcb-3471-4ee7-99c3-d05311bf433c'>Blessed Defiance</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/cfae21b5-aff2-4191-aa42-d756209beaaa'>Condemn</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/d7e8a22d-a94e-4dfa-86a3-edb80a03d82a'>Harm's Way</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/5adefbeb-c9fc-48b7-9030-cd0d367dd19e'>Holy Day</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/f58a26f8-a2c9-48e5-8662-7cbd43c00411'>Shieldmate's Blessing</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/e77e2fd5-5c46-4f6b-ac43-ec23fab57a1a'>Ajani's Presence</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/846a2f9e-ad4f-4666-b152-fdeab7559d86'>Feeling of Dread</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/65837f39-deb7-4a4b-8b67-125a71cd0d45'>Show of Confidence</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/31c404e8-1241-4675-b259-fbbf1dba15c4'>Celestial Purge</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/e52d260a-e1ca-4228-855e-2e104b86fd6c'>Puncturing Light</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/3d2e8701-f2c3-4cc1-ac81-ba1987d80fec'>Soul's Grace</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/dc697a4c-f219-46fd-90f2-63c638cd5ef7'>Roar of the Kha</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/2f72d4b7-3b65-411b-a072-8218a0202974'>To Arms!</a> | 1.22 | 1 |
+| <a href='https://api.scryfall.com/cards/bf8e0f93-a450-4188-a735-d601a59ab108'>Mighty Leap</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/a74d1bf3-4630-4be0-af5f-590789d27a0c'>Whitesun's Passage</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/a94f356d-4714-4500-8fb0-1ac68ec5c1cf'>Aegis of the Heavens</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/7d967a4c-2323-4361-a907-5ca9140d8793'>Battlewise Valor</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/d8293903-4604-4516-866e-27a306b6fd7c'>Ritual of Hope</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/deb2156a-8a77-4954-b557-1bdaf3ba171a'>Pollen Lullaby</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/ba8d15bc-889d-4fd0-9688-00e22db30036'>Moment of Heroism</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/0832e87f-afef-41a5-ba36-3eaf65551576'>Angelsong</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/ae8a01fb-dd47-44de-b528-8b7ca4b3388b'>Zealous Strike</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/ef7cd813-0781-4fd7-8748-2716e1eeb4b9'>Study Break</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/7e22411c-11c1-4770-8491-7952dd406e01'>Beaming Defiance</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/90fa47c3-3209-4e01-920a-aed2184520c2'>Repel the Darkness</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/b55c31d1-6b05-4ea1-a444-51ad57ebcfa0'>Ray of Dissolution</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/ec609036-dfbf-47de-9a3a-762aea4196d4'>Lapse of Certainty</a> | 0.37 | 1 |
+| <a href='https://api.scryfall.com/cards/3e2c5013-523f-42b2-b947-abe304a6cb84'>Skywhaler's Shot</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/bdedff5d-4c5d-4120-9d9a-4bb5b0b2d2f2'>Pulse of the Fields</a> | 0.33 | 1 |
+| <a href='https://api.scryfall.com/cards/ee507688-9890-47c4-bb04-43c51eb48e22'>Sungold Barrage</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/5f657723-dd5d-4786-9d9b-ac7ed279615a'>Bold Defense</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/15b3dd79-ac4c-4ffc-9442-1efa0082f60f'>Reviving Dose</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/553fb946-2706-475b-89f9-e4355ec9ea2b'>March of Otherworldly Light</a> | 2.3 | 2 |
+| <a href='https://api.scryfall.com/cards/a9044585-4d44-42fb-ad7b-e0e224fbc502'>Crib Swap</a> | 0.25 | 2 |
+| <a href='https://api.scryfall.com/cards/4f89bd01-310e-4ec2-8d42-052c66ff8d0f'>Steeling Stance</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/2c9942a2-11d2-403b-89c6-35c23ac9e9da'>Narrow Escape</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/fc326b79-363e-4c14-86e4-23041f2d6b4f'>Neck Snap</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/ef4743f7-28db-4d72-bfce-09cfbe413514'>Semester's End</a> | 0.99 | 1 |
+| <a href='https://api.scryfall.com/cards/48444e14-c73b-47d1-9c55-0ff4dc3c6034'>Divine Verdict</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/a77fef2c-227e-474e-896e-c0ebe227f494'>Harmless Assault</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/7632585e-28e1-4f45-b5ba-172d44573708'>Stir the Pride</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/5b9a8e0b-bee8-4b0d-b671-a5d8084d82ee'>Gleam of Resistance</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/129c404b-2c1e-4f0b-bb4e-7e8e627a69a8'>Coordinated Charge</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/267185ac-a176-423e-a7f8-ee966d1d9a1e'>Rebuke</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/d453aab0-5e11-4fac-af69-e7950c486d30'>Safe Passage</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/723ec2ef-aa82-449d-88b0-405d06454fc2'>Break Ties</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/3a2fd960-c4ec-4dfa-a61d-f8577b9d3519'>Light the Way</a> | 0.05 | 5 |
+| <a href='https://api.scryfall.com/cards/9a37d5b4-af3a-48b0-895f-91b652108ef6'>Repel the Vile</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/6c7c8527-55f6-494d-b4f7-c427a5735053'>Raise the Alarm</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/a0700298-30d2-45a6-bd64-4fd7fa4d7d30'>Thraben Exorcism</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/88c8e4dc-5378-48d6-85b2-f5ea9ec7cf36'>Karametra's Blessing</a> | 0.06 | 6 |
+| <a href='https://api.scryfall.com/cards/c607ec00-2d44-485e-ad85-24c0c7a284f9'>Inquisitor's Snare</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/097d7838-ae58-4306-ba0f-e914601b31b6'>Brave the Elements</a> | 0.46 | 2 |
+| <a href='https://api.scryfall.com/cards/79243e97-fe45-4988-b299-f59a7c53ad31'>Regent's Authority</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/e0b61fb2-11e5-45ae-873d-85f79f161950'>Surge of Thoughtweft</a> | 0.12 | 3 |
+| <a href='https://api.scryfall.com/cards/43708ec9-a85a-4244-86b4-67b30b41d854'>Wanderer's Intervention</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/43708ec9-a85a-4244-86b4-67b30b41d854'>Wanderer's Intervention</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/1857fc37-1e7e-4b93-9fa9-ec139f16b7fa'>Last Breath</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/1eff4028-d4f9-4822-81d6-9f5e5e6f3011'>Fortify</a> | 0.03 | 3 |
+| <a href='https://api.scryfall.com/cards/fe1eb098-7128-4ec8-8218-51fdde3e8326'>Midnight Haunting</a> | 0.13 | 2 |
+| <a href='https://api.scryfall.com/cards/aae001aa-10a0-482a-86fe-bf6ca7fc0866'>Dauntless Onslaught</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/f5606d36-2b3a-4d67-8392-b9a717fb4a2f'>Dauntless Onslaught</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/5f114a10-0b00-4f3a-bd73-d4c791fbf4d5'>Phalanx Tactics</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/59713368-9626-4466-9be4-8ca08e03a888'>Return to Dust</a> | 0.14 | 2 |
+| <a href='https://api.scryfall.com/cards/37304f74-a925-444c-bff6-7811f7f06966'>Blacksmith's Skill</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/df6e8844-3736-4fb1-bedb-6a6bfa6ccdc8'>Reward the Faithful</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/a5945397-0906-48dd-80d1-c65bfa2b31a6'>Recuperate</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/4edfd70c-2923-4813-bf14-04194518163c'>Patrician's Scorn</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/7be5092f-cd24-4aea-824e-67b9767019b2'>Ephemerate</a> | 1.75 | 1 |
+| <a href='https://api.scryfall.com/cards/d20ee9c8-6d58-42fc-8b27-bfd0ea6d4374'>Hold the Line</a> | 0.21 | 2 |
+| <a href='https://api.scryfall.com/cards/de34d107-8a28-4e88-919e-c7ccf984bcda'>Hold the Line</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/57e547cd-eba4-4a75-9c4e-8eeb6e00ddc4'>Gods Willing</a> | 0.3 | 1 |
+| <a href='https://api.scryfall.com/cards/7213d9e1-e9c6-45d8-bb7f-336c41e7b6f7'>Invoke the Divine</a> | 0.04 | 5 |
+| <a href='https://api.scryfall.com/cards/f28e151f-b61b-486f-b7f8-7abde207c442'>Kaya's Onslaught</a> | 0.06 | 3 |
+| <a href='https://api.scryfall.com/cards/2fb38f5b-a2c2-4b06-8c9c-9615475a43e7'>Iron Verdict</a> | 0.01 | 4 |
+| <a href='https://api.scryfall.com/cards/d6b26c95-f90d-43fb-8c99-2a3aa13ac2c6'>Wings of the Cosmos</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/3a9fb75e-c8e5-417b-83d4-5105af9c66c1'>Revitalize</a> | 0.04 | 7 |
+| <a href='https://api.scryfall.com/cards/3fc98aff-edc0-4f78-ae4f-e08735c9e512'>Warhorn Blast</a> | 0.01 | 4 |
+| <a href='https://api.scryfall.com/cards/d94d5ae2-4d37-4c5f-b490-e578297d87c2'>Arrow Volley Trap</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/b8b3ea52-2338-4499-9100-c4be73cdfc32'>Arrow Volley Trap</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/f79b38c5-4be1-4f33-92e8-6fe0476b5299'>Turn the Tables</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/73148b3b-73d3-4f57-8b67-1e91fbe112b9'>Feat of Resistance</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/a6889030-f4cd-41a3-8596-b552a9539873'>Sinstriker's Will</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/655aefd8-8b0b-4c65-9973-376bbf05375b'>Cage of Hands</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/f77efd36-f9e7-4c34-a6ee-9e1c9b273fb7'>Guard Duty</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/79e234ce-6d61-4d62-a8cd-fa985a6aba60'>Battle Mastery</a> | 0.29 | 1 |
+| <a href='https://api.scryfall.com/cards/32869a36-f21e-4348-a787-871daa6151df'>Candletrap</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/8e742d49-e6f0-4016-ba4c-11878fad89cb'>Faith's Fetters</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/db0775f2-3fd9-42aa-80e3-edac67764fa2'>Angelic Gift</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/5b8ffba3-44a9-41ce-a5a1-37413346db2f'>Faith's Fetters</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/45aa4b29-ce6b-4579-bee6-06a9ccfda55c'>Heart of Light</a> | 0.28 | 1 |
+| <a href='https://api.scryfall.com/cards/c3f048d9-ca13-485d-ad92-de4695b7dc18'>Ghostly Possession</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/67652df1-f2cc-44cd-ac66-9722d4cd86e9'>Mortal Obstinacy</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/cf036489-ef9e-40ee-a1bb-24ee37c554f1'>Spectral Steel</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/ec7b4430-95c0-424b-a365-4ae467bb303d'>Sky Tether</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/107c1b3f-1aab-48a1-a651-8302bc8682f9'>Vow of Duty</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/e83f2148-bb5d-4236-8d12-150deed0577e'>Intercessor's Arrest</a> | 0.03 | 3 |
+| <a href='https://api.scryfall.com/cards/5dae4042-8806-437c-8fc1-2d6996ff38c6'>Nimbus Wings</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/f3a2ec16-bee4-4dfd-81cb-cb81b017170c'>Eland Umbra</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/2ba6c4f3-59cf-4eb8-97fb-c9138005e19c'>Serra's Embrace</a> | 0.3 | 2 |
+| <a href='https://api.scryfall.com/cards/421eac28-d6f2-44f2-b7ca-eb73fbf23887'>Nahiri's Binding</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/53e74a99-11d9-40b8-b1d6-8f68a3f490fa'>Hold for Ransom</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/0d5c2401-da2c-46f9-b850-f37edcbb85cd'>Benevolent Blessing</a> | 0.14 | 2 |
+| <a href='https://api.scryfall.com/cards/1f44e053-95c2-410f-b35d-8ea3e3607e82'>Divine Favor</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/e3c19a11-ff0f-4dbd-b872-30276b8ecf22'>Divine Favor</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/e21264cb-d915-4431-92fd-b0aa32a715fc'>Holy Strength</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/53c28634-337d-458a-bcf0-b7fbf65a41da'>Recumbent Bliss</a> | 0.15 | 2 |
+| <a href='https://api.scryfall.com/cards/83632e73-be3f-43fc-932f-45cb1af4f8fb'>Valor of the Worthy</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/e20c2369-db77-465e-9f0e-bb009225345a'>Dreadful Apathy</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/47772a34-c72f-44e8-b272-4ef2d2af5c82'>Indomitable Will</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/8e78b364-015d-4074-ad9e-55c973ce2f4b'>Dragon Scales</a> | 0.15 | 3 |
+| <a href='https://api.scryfall.com/cards/074d526a-1eef-4045-bd38-f6d68c4bc4b9'>Bound in Gold</a> | 0.02 | 7 |
+| <a href='https://api.scryfall.com/cards/074d526a-1eef-4045-bd38-f6d68c4bc4b9'>Bound in Gold</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/ffdfad1f-d316-4023-9c79-8c24f1cd31d0'>Born to Drive</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/3d34551e-36a4-49ea-9d2a-4c72575fe06a'>Pacifism</a> | 0.05 | 6 |
+| <a href='https://api.scryfall.com/cards/1b0efc23-9284-4aa4-a0ed-1f1dfdce4cbb'>Pacifism</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/783ccfbb-4063-4614-8135-11787227ce97'>Pacifism</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/87c7ff88-c23e-4be6-989b-99d055db36df'>Pacifism</a> | 0.03 | 4 |
+| <a href='https://api.scryfall.com/cards/03f26bc2-53d7-4448-8021-de35aa82fcc6'>Angelic Accord</a> | 0.63 | 1 |
+| <a href='https://api.scryfall.com/cards/9ed24518-dba9-4c25-958d-fbdf2cc6bddc'>Circle of Protection: Black</a> | -1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/9b4833ce-5e7b-402e-97a9-4411aa62a46c'>Circle of Protection: Red</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/f3575259-b019-47d0-a6d3-3fe4963294ae'>Circle of Protection: Red</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/48bc4bb0-350c-424e-976e-b800915f7fb4'>Circle of Protection: White</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/92e1e153-cf5c-429a-9680-53b7c89dbd88'>Circle of Protection: White</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/9f70224d-e723-436d-8493-dcec5049f1a0'>Time of Heroes</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/1c7fffe8-709c-4cb4-bbad-e4a0c35b616a'>Oblivion Ring</a> | 0.27 | 3 |
+| <a href='https://api.scryfall.com/cards/895c270d-84d8-4c7f-9df3-5a595e113dd7'>Oblivion Ring</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/9f2b39be-0fec-4647-ade1-8e1626dc5470'>Rest in Peace</a> | 7.57 | 1 |
+| <a href='https://api.scryfall.com/cards/84e8bee2-9e3d-493c-a937-645bf3dcf0db'>Transcendence</a> | 3.37 | 1 |
+| <a href='https://api.scryfall.com/cards/98ce113c-53da-4fab-b7c9-fc3df248b65e'>Fortifying Provisions</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/4d784409-df6d-45d4-8f8b-6e3fd57a8fde'>The Fall of Lord Konda // Fragment of Konda</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/74f12c23-5c15-4ae6-8f4d-c5e6c1878817'>Michiko's Reign of Truth // Portrait of Michiko</a> | 0.07 | 3 |
+| <a href='https://api.scryfall.com/cards/8ad44884-ae0d-40ae-87a9-bad043d4e9ad'>Befriending the Moths // Imperial Moth</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/ea20208b-1939-4c69-8cfd-c0a42f9dc427'>Elspeth Conquers Death</a> | 0.27 | 2 |
+| <a href='https://api.scryfall.com/cards/74f43827-2b9b-4fc9-a6e2-c682dfbf14f7'>Era of Enlightenment // Hand of Enlightenment</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/e7429a5b-5579-4c4e-89ff-ee7f43db37e4'>Hammers of Moradin</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/ab8324aa-f356-42bc-9664-46803bc8a93b'>Goliath Paladin</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/13762890-6c5e-44e4-9bd8-998bd054db20'>Steadfast Unicorn</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/02d73eb7-4e76-48d4-90fa-fa972dc0fccb'>Fearless Fledgling</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/aeb153e2-345d-4993-9f2d-f0d0ddfbc8a7'>Icewind Stalwart</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/f8b87807-cac5-4e33-a8ed-a9ced0cd83a1'>Rumor Gatherer</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/4e64ff87-2099-4360-94f6-164277b7b514'>Raffine's Informant</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/6dae01c8-15bb-44ad-a2c6-9bcf7a9e8c17'>Doomskar Oracle</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/e1410d10-476a-4ed2-ae44-75383ed0e359'>Observant Alseid</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/4c69995b-ef31-4635-8d5a-b31f73993364'>Hopeful Eidolon</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/0a3dc4ab-1c45-4495-91b6-27d62087380c'>Auramancer</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/b09ab22e-aa22-4d6b-87c6-970563486f21'>Kitsune Dawnblade</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/6b269e27-8e17-4bf2-b28a-a83ecc7d22c0'>Master Skald</a> | 0.03 | 4 |
+| <a href='https://api.scryfall.com/cards/3f602ecc-c264-4f3e-adeb-d0186668653e'>Rambunctious Mutt</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/d2e3b99c-e48e-4f4d-ba7a-e9218137b432'>Gale Swooper</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/583bfbc1-638b-4de5-b865-0b00a69dd073'>Ajani's Chosen</a> | 0.98 | 1 |
+| <a href='https://api.scryfall.com/cards/52d851b9-c290-4fcc-860d-a3250923b850'>Sungrace Pegasus</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/5fecafab-97f4-40ed-bc43-d186eb2f3af6'>Steeple Roc</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/11bb6894-b56a-4a63-859a-65a0c2d160fc'>Kitsune Healer</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/c392a7e5-6ff5-4c2f-9590-f8811a724f44'>Alpine Watchdog</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/db17f25a-32d1-469b-bb5f-f1761e227990'>Staunch Shieldmate</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/82f1ade5-06ff-41ab-9a68-bf901959b01f'>Selfless Samurai</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/d631e7da-bd71-424a-a349-9bce0fd16b1f'>Golden-Tail Disciple</a> | 0.01 | 4 |
+| <a href='https://api.scryfall.com/cards/ef1d446a-8607-45b8-a01f-dad17bab76e7'>Kitsune Ace</a> | 0.04 | 3 |
+| <a href='https://api.scryfall.com/cards/49663acb-582e-495a-b45e-5fc5f4949f22'>Heliod's Emissary</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/877bd423-83ff-4a28-b0d2-447a7821bb8c'>Prized Griffin</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/f657f2dc-adc8-4a66-b081-a71b3a127389'>Mothrider Patrol</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/53343a0c-d97c-4d6f-b696-5343a962e3dd'>Eidolon of Inspiration</a> | 0.09 | 3 |
+| <a href='https://api.scryfall.com/cards/46666fba-d4a7-4687-8747-a42e4c6d853e'>Celestial Enforcer</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/3b0a9cc0-bb6d-47f7-b0d5-3956c46a1b3a'>Eiganjo Exemplar</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/6c85917c-60ea-44d3-8483-fa639564e881'>Eiganjo Exemplar</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/17b59819-4746-4c67-b6e5-4157d498a065'>Vryn Wingmare</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/9d77d1e6-c804-46f7-ba00-6df6bca2ae08'>Seven-Tail Mentor</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/267efff1-cbe6-40b0-959e-72b81cbda1d0'>Seven-Tail Mentor</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/e6c577bb-5e21-4a3e-b0a7-713a4ff7dce6'>Sunblade Samurai</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/a32e2ad3-c5fb-4072-aabf-6cb9538db3ca'>Sunblade Samurai</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/31a500e6-01f5-4a3a-8839-68b9b515e919'>Makeshift Battalion</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/41e7420e-55d0-4f4b-84bb-e5b86616cbb3'>Imperial Subduer</a> | 0.03 | 3 |
+| <a href='https://api.scryfall.com/cards/2bf69645-d1f1-4836-bdc3-76874abcfd5f'>Angel of Salvation</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/4ab62812-acc5-4b4b-97d3-106e399d69da'>Rockcaster Platoon</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/0f57fc0c-cab1-4eb0-a58a-0c7a762f1572'>Eternal Dragon</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/d921128a-ebfd-4e3c-8728-481a8c3c03f3'>Quarry Colossus</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/32412fd8-e295-4d9e-b33a-20a7e9aeb437'>Paladin of Prahv</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/e0f6b7d1-75ea-4153-bbf1-85ed5041fe67'>Sun Titan</a> | 0.5 | 1 |
+| <a href='https://api.scryfall.com/cards/fa0e443a-c479-40ab-9702-8beca3e5ab95'>Radiant Solar</a> | 0.29 | 1 |
+| <a href='https://api.scryfall.com/cards/3f190c65-f939-4453-95d7-9acb36cf97c2'>Jedit's Dragoons</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/49096592-5bd8-4db7-b38b-dcb5dea8c088'>Nacatl Hunt-Pride</a> | 0.11 | 3 |
+| <a href='https://api.scryfall.com/cards/d0dd1e40-a514-42df-8cc1-364998c7700c'>Archon of Falling Stars</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/ce33c84e-008c-48d8-a8e8-77cd19cc4f1f'>Shepherd of the Cosmos</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/6a9ede92-e64f-44a5-afb6-c7495077fb0b'>Noble Templar</a> | 0.11 | 2 |
+| <a href='https://api.scryfall.com/cards/e8e645c8-90ac-4865-b441-e64251d6c9a8'>Gods' Hall Guardian</a> | 0.01 | 6 |
+| <a href='https://api.scryfall.com/cards/e8e645c8-90ac-4865-b441-e64251d6c9a8'>Gods' Hall Guardian</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/15947b20-8c8e-42ed-9599-8b180a382d21'>Gallows Warden</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/5d51355e-55fa-43bb-a5de-fc55ac7b6446'>Geist-Honored Monk</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/62e8128f-9858-4c48-ab43-1beca3db70e5'>Soulbound Guardians</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/764bd86e-4156-4c58-9ce0-ca3dffbc7298'>Supply-Line Cranes</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/d8419d27-8c6e-4f38-98b4-60dd9a910c43'>Blade-Blizzard Kitsune</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/53d244d4-c2c4-4032-b249-794556d79429'>Blade-Blizzard Kitsune</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/71547cb8-b275-4ff2-a7fa-327cb493ce04'>Kithkin Spellduster</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/cc42fe32-5f02-472c-a25e-d03e01546dc6'>Tireless Missionaries</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/2f540b83-67fd-4630-a461-69bc84b88ed3'>Battle Hurda</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/a9e8eb41-3800-4553-843b-ec27a44e8d55'>Archon of Redemption</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/042b0148-5821-4105-9cda-a0e405eb8bee'>Archon of Justice</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/be1031bb-af9f-4446-8b36-b0bb9aa5997a'>Soul-Guide Gryff</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/9e344859-7248-4498-8303-252f196a007b'>Cloudgoat Ranger</a> | 0.22 | 2 |
+| <a href='https://api.scryfall.com/cards/58e86a42-cc53-4731-819a-e76f203a742a'>Aerie Mystics</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/0106caf1-2201-4661-96a5-56af02963fa6'>Dromad Purebred</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/ffdf3a3d-292d-40b9-b28c-34ad33a76bb4'>Caravan Hurda</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/5aa91a9e-2fe2-43bc-aa9c-cfb8a71829ff'>Spirited Companion</a> | 0.16 | 4 |
+| <a href='https://api.scryfall.com/cards/1364a830-36b7-48b9-bf69-6fd35eed9399'>Totem-Guide Hartebeest</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/0884666e-8f9b-44b1-a1e3-c1c8941e2152'>Pillardrop Rescuer</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/93cf5fb3-bb41-4efa-9721-2c2d169b05cd'>Dawnstrike Paladin</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/c48e3d51-1c63-4b39-97df-92c260311dad'>Karmic Guide</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/b9be1142-3ba8-4915-9541-757e59ed046c'>Battlegrace Angel</a> | 0.76 | 1 |
+| <a href='https://api.scryfall.com/cards/7db1e841-04e9-49ab-acbf-defd6d82140a'>Patron of the Valiant</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/d00ffeb5-195c-45ad-a791-ec67f463d552'>Angel of the Dawn</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/475f2a7b-9bd5-4ad7-868a-7652d06f3f6c'>Serra Angel</a> | 0.09 | 3 |
+| <a href='https://api.scryfall.com/cards/71567cb0-f4f3-4e86-a9d3-c207119a3185'>Serra Angel</a> | 0.51 | 1 |
+| <a href='https://api.scryfall.com/cards/24c98bc7-f6a9-4aaf-a6dc-7067c3d8a41a'>Squad Captain</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/24f0c586-a1a5-4907-801a-7815c4dceb39'>Changeling Hero</a> | 0.25 | 2 |
+| <a href='https://api.scryfall.com/cards/f9c1de31-73d4-4c32-9f99-e15df48638e9'>Daybreak Chimera</a> | 0.02 | 5 |
+| <a href='https://api.scryfall.com/cards/2c53b007-96aa-4db6-8c3e-529d1e845b19'>Gavony Silversmith</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/cb9006c1-2e6f-4bca-a1c4-3cf2a8b6e964'>Search Party Captain</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/1ee52bdb-81a6-45c6-942c-373f1dabc8d8'>Wakestone Gargoyle</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/fb4733e6-6fe2-4460-ac9f-82feb583d790'>Falconer Adept</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/6b75855c-88dc-4491-8045-080debfeb7b5'>Duelcraft Trainer</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/83ce09da-6c1d-46ac-870e-ff58ceaba116'>Cloud Crusader</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/88637cc0-3b2a-402c-b491-26fcc2d21fb8'>Charging Griffin</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/6b10d37b-2cbc-4061-b25a-ad8ff3944ad3'>Ballynock Trapper</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/b74f4f8d-2191-4743-aac6-cdcb4a68379c'>Rhox Meditant</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/b6053c20-3632-43e2-8560-259d0c12f235'>Kinsbaile Balloonist</a> | 0.12 | 2 |
+| <a href='https://api.scryfall.com/cards/9e48d34d-063c-4703-870b-4a22d5774c89'>Thoughtweft Trio</a> | 0.34 | 1 |
+| <a href='https://api.scryfall.com/cards/c5b57247-81cc-44ec-b5a9-0702111a98a8'>Aven Gagglemaster</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/53c81719-f820-4674-9cfb-cd5eaf0c1f0d'>Kabira Outrider</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/6ca80b5a-3943-41ca-8cd1-8e3db1b2a1c8'>Attended Healer</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/2630d3b5-8f3a-4aad-a45e-22a7979429f3'>Daru Warchief</a> | 1.29 | 1 |
+| <a href='https://api.scryfall.com/cards/bb65df55-d6a6-4a57-a903-e5eb17637982'>Luminous Broodmoth</a> | 7.41 | 1 |
+| <a href='https://api.scryfall.com/cards/1de43c67-7dfe-4282-b433-4e394366d2e9'>Bartered Cow</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/3f669ac4-98ed-4e23-91a9-281f8277ab04'>Combat Professor</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/754b4061-3009-46e4-8602-8349c6367cbf'>Guardian Kirin</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/2c7b19de-96a6-4590-bfc3-31b0c7b2e25e'>Mausoleum Guard</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/7c733fef-8372-4a40-b340-7aa32922799e'>Wall of Swords</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/37eec618-2c3d-423b-bbb7-72ef7deb38fc'>Keeper of the Accord</a> | 2.66 | 1 |
+| <a href='https://api.scryfall.com/cards/0f82064c-b335-454c-9be6-9fbcb21aa8e5'>Elspeth's Devotee</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/e8df0aed-dd2b-4f1e-8dfe-aec07462b1e1'>Prowling Felidar</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/6063b7ee-94ae-4a5b-9902-6aa0335af593'>Kor Cartographer</a> | 0.13 | 2 |
+| <a href='https://api.scryfall.com/cards/a9cda455-34dc-45b6-aafc-825c1c42b67b'>Skyhunter Patrol</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/89ecb530-e429-4b50-a24c-8437614cf224'>Stalwart Valkyrie</a> | 0.06 | 4 |
+| <a href='https://api.scryfall.com/cards/f79d3bba-18b0-4c56-a90b-8e28935a6a7a'>Pillarfield Ox</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/4de5ff64-6fe7-4fc5-be27-cdbaa14545ab'>Axgard Braggart</a> | 0.02 | 6 |
+| <a href='https://api.scryfall.com/cards/ca363409-cba9-43ed-bf88-3519521e1983'>Battlewise Aven</a> | 0.09 | 4 |
+| <a href='https://api.scryfall.com/cards/7da95097-dbe7-416a-8571-6ab6d88a531a'>Hero of the Winds</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/9d3a7998-ccac-45ad-a4e9-3a2cb057f63b'>Elite Spellbinder</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/0fcfe1b5-e35b-4a23-8ca8-4dee2ef94f32'>Trusty Packbeast</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/2164a728-131f-41ce-9346-8036c86543e2'>Bane's Invoker</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/67930e10-4de8-4d40-af27-4a38d35ab16f'>Paired Tactician</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/0282b59e-78ef-412d-bb76-fb337f32a213'>Treasure Hunter</a> | 0.3 | 1 |
+| <a href='https://api.scryfall.com/cards/8fc88fe0-2424-49a7-9abf-4773a547d010'>Helica Glider</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/f234999b-54e9-40f5-a537-7d6ce169c710'>Warded Battlements</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/95a36e06-39f3-47d0-b6a9-43728afceb4a'>Scholar of Athreos</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/dc4b6fb1-dc06-48f4-aae2-aa8bbb573548'>Eagle of the Watch</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/25193485-7f41-4b05-9a69-4c112679f97c'>Kindly Ancestor // Ancestor's Embrace</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/b9f20a74-7614-4bd9-ac08-0e098f98df0c'>Kemba's Skyguard</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/b40d6626-a85f-4116-9721-19e39b83cba0'>Griffin Sentinel</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/56b2b413-e00f-440d-9d27-92eb069b8c71'>Kinsbaile Courier</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/c45b1d32-5a3a-4ec3-af11-d0ba947de175'>Court Street Denizen</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/c5c54ec5-2917-4acf-b56f-8273781477f6'>Ballynock Cohort</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/c48e9f90-4b13-4281-943c-126be4ff1ce0'>Hedron-Field Purists</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/b9f038f0-6f50-4f89-855c-6bbd68d84436'>Apex Hawks</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/85623f54-1c18-4b1e-a8da-df66de3832a6'>Affa Guard Hound</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/e04751f2-b571-49fa-94b6-ec589d314ee6'>Wingsteed Rider</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/58891dae-1c59-4f53-82ec-5b4c47133182'>Gavony Dawnguard</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/fb79dc85-f85a-4846-9ac3-c75c64ea9c0a'>Battershield Warrior</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/b90157f8-ba3c-479e-80d8-8f9e042c540c'>Slith Ascendant</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/2d7da2c3-95d7-464f-af3d-fd891fd148f1'>Knight Exemplar</a> | 6.87 | 1 |
+| <a href='https://api.scryfall.com/cards/ccaa60be-f989-4aa8-a3fb-a95143d32131'>Palace Guard</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/68b9df54-e78e-4a86-a8b1-b735ec08a812'>Lagonna-Band Elder</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/29adb64e-b584-46de-a96f-57f56587a2b8'>Stonecloaker</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/64735178-3dc5-4a95-92fa-e15bd04e5733'>Kithkin Harbinger</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/44d4cd64-8560-48f5-b0bc-f75286c1c91c'>Goldmaw Champion</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/e76e9555-966c-4fc3-9ef4-a0154ccb8329'>Makindi Shieldmate</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/790cdf67-80d6-4ade-aecf-f77120b509b0'>Chapel Geist</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/96017805-0a26-4beb-8de3-6779c4e5633d'>Orzhov Advokist</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/066bff58-e7cd-4787-a2c1-1afd6ed1b4ff'>Stoic Ephemera</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/a978c49d-483a-42fe-971c-858288d07e40'>Priests of Norn</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/d24d9bd7-5721-4436-a86f-35e376727f46'>Voiceless Spirit</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/099ecf12-b750-4a95-85c8-8612d2a77a0a'>Wild Griffin</a> | 0.1 | 3 |
+| <a href='https://api.scryfall.com/cards/668c4e40-0035-44e0-8401-dd17fa11ecd4'>Soulsworn Jury</a> | 0.16 | 2 |
+| <a href='https://api.scryfall.com/cards/2d3687e2-09e0-4753-aa02-88a19bde3330'>Mourning Patrol // Morning Apparition</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/5e849bec-2ee6-4c83-83e6-bf9f5543e414'>Resplendent Marshal</a> | 0.71 | 2 |
+| <a href='https://api.scryfall.com/cards/85d2ecc7-4a49-48f1-9036-6c3f0f0296c3'>Banisher Priest</a> | 0.1 | 3 |
+| <a href='https://api.scryfall.com/cards/5c5373dd-4aec-4e93-97fb-a639aa096764'>Starnheim Courser</a> | 0.12 | 5 |
+| <a href='https://api.scryfall.com/cards/f23110b5-0dd4-49a2-8991-bc673aed53c9'>Benevolent Ancestor</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/1fb821b6-4e73-4970-b1ac-b67c93990ec0'>Zealous Inquisitor</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/cb032cd3-96a4-4cef-bb89-0843f2ed8189'>Aven Trailblazer</a> | 0.09 | 7 |
+| <a href='https://api.scryfall.com/cards/f2258bd3-e38b-4029-a9fb-f9ae86dbbc3a'>Avian Changeling</a> | 0.21 | 2 |
+| <a href='https://api.scryfall.com/cards/975d0549-e6b6-456b-8693-227591e4db91'>Skyhunter Skirmisher</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/52aa4af5-f0cb-4512-bef5-2e46a43aa27b'>Skyhunter Prowler</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/7e4065bb-8deb-46d5-a57e-d61c77493274'>Skyhunter Prowler</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/87c37e46-a961-4739-8893-f783013e2be6'>Kor Celebrant</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/038b04fe-d77a-4192-a084-654ef39aa9ff'>Kor Sanctifiers</a> | 0.08 | 4 |
+| <a href='https://api.scryfall.com/cards/68ad3199-c202-4b71-8a36-53547e70c39b'>Kor Hookmaster</a> | 0.11 | 4 |
+| <a href='https://api.scryfall.com/cards/68ad3199-c202-4b71-8a36-53547e70c39b'>Kor Hookmaster</a> | -1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/d21c4772-fa03-4b71-a95e-1ad8466d25da'>Paragon of the Amesha</a> | 0.21 | 3 |
+| <a href='https://api.scryfall.com/cards/2c597b1d-d8b5-4922-a3f2-1f173a73ea2a'>Bant Battlemage</a> | 0.13 | 3 |
+| <a href='https://api.scryfall.com/cards/55ecd213-2e03-40a8-9323-7b9e6e521a9a'>Cavalry Pegasus</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/ff87a671-054f-4357-8a62-450d36559a1b'>Daybreak Charger</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/e274a8b3-2d92-43d9-a436-d3f6f619ca95'>Auriok Sunchaser</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/beddd409-0154-45a5-a20d-833cf1b5e1f4'>Squadron Hawk</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/ef3b2961-559f-42b1-be13-ff3d03e62809'>Thunderous Orator</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/7fe8f88e-8a51-494b-a008-fbfe624f97f7'>Angelic Wall</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/4d34bfb9-abc7-4469-9546-aa8988da8259'>Inner-Chamber Guard</a> | 0.52 | 1 |
+| <a href='https://api.scryfall.com/cards/08a47828-a79a-4189-9eef-2a5fc5125b61'>Avacynian Priest</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/600d3517-e370-47ae-ac4f-c7ef8995a89c'>Concordia Pegasus</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/81b56863-a52a-4559-a662-f6d9145d5804'>Hero of the Pride</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/868256bb-d4e2-42eb-a43a-360148aec06f'>Stalwart Shield-Bearers</a> | 0.42 | 1 |
+| <a href='https://api.scryfall.com/cards/6109b54e-56c5-4014-9f6d-d5f7a0fd725d'>Beloved Beggar // Generous Soul</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/9745cc70-d6a0-43c5-b8d7-a930d95e94c7'>Leonin Snarecaster</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/42a5c12b-c947-4a71-b54f-e310150858a3'>Steadfast Guard</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/03c67b91-7f05-44b1-9e99-3e2094434f6a'>Oreskos Swiftclaw</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/b47e4e56-8bde-480d-b59c-17a017665b19'>Spectral Rider</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/621f9a58-0bc8-40dd-aef1-43618274d6fe'>Samite Healer</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/388f2e45-570f-4a35-b205-37e1345b5d06'>Stonerise Spirit</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/19db5386-3ef1-4654-8494-6e7949ed7234'>Mistral Charger</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/975f7752-e981-4046-ae9b-90b20db6b23a'>Armament Master</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/ced43447-fefc-482a-b8fa-33b9616aa532'>Ondu Cleric</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/bb2e9465-f5ba-4c7b-9f03-d40dc8394acd'>Kor Skyfisher</a> | 0.26 | 2 |
+| <a href='https://api.scryfall.com/cards/00006596-1166-4a79-8443-ca9f82e6db4e'>Kor Outfitter</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/5e8332e9-7b02-4d58-b081-11004e690524'>Knight of Cliffhaven</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/1eb33901-1f97-4080-a9dd-922ef29f42c9'>Knight of Meadowgrain</a> | 0.66 | 1 |
+| <a href='https://api.scryfall.com/cards/86a4c348-1012-4339-960a-c7bc7fd84fbb'>Clarion Spirit</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/8359c3a8-d826-4326-a899-9f60ca774308'>Serra Disciple</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/4a0e12f5-7b15-4a8c-b045-35bcbf1fbb90'>Checkpoint Officer</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/95f1e36a-6838-49de-b7dc-697cbcd1e892'>Strict Proctor</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/60301dbd-40d1-4af8-8e2b-797febfa859f'>Aven Squire</a> | 0.13 | 2 |
+| <a href='https://api.scryfall.com/cards/47854e89-4d22-4eb6-a77d-6f04407bd2e5'>Aven Farseer</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/bd641b1d-dab8-415b-9655-09e033df761d'>Kjeldoran Outrider</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/edad0276-45d1-45e5-a6b1-1cd2a99b4f2c'>Traveling Philosopher</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/78802af4-46b5-4bac-8cdf-5b77d0b19895'>Capashen Knight</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/9c9cfa33-dcec-4b34-9218-c08ad932d27b'>Setessan Battle Priest</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/98cbc1c2-b76e-4da3-aa43-00e10b2ce532'>Cathar Commando</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/be04ea4a-087e-4a6d-9973-0778a1ed2b7e'>Beacon Hawk</a> | 0.09 | 3 |
+| <a href='https://api.scryfall.com/cards/fdc00f4b-ca9a-468a-91e1-c81fe6585765'>Lone Missionary</a> | 0.22 | 2 |
+| <a href='https://api.scryfall.com/cards/aeac2463-897d-4be2-ade8-7a6ef04699aa'>Lone Missionary</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/a7610d2f-e35f-42fa-a3fb-fcae54bf5a1d'>Cenn's Heir</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/585f1c8e-6898-4def-8e3f-d45cd263f776'>Wizened Cenn</a> | 0.17 | 2 |
+| <a href='https://api.scryfall.com/cards/5a5320ff-1fe6-492a-b27f-86a84a1768ed'>Leonin Squire</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/da7ad113-b04f-4611-b1cd-494cd2a8c5ac'>Master Decoy</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/c0a47eed-c08e-459c-a1f6-991728020bbd'>Soltari Monk</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/b3275ed0-30b2-4d30-aa03-0dbda913f530'>Ronom Unicorn</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/76f9a29c-9219-424f-a703-dccffbf23cdc'>Kithkin Zealot</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/e75283b6-1b70-4e89-bf21-f85c21454aae'>Kithkin Greatheart</a> | 0.07 | 4 |
+| <a href='https://api.scryfall.com/cards/420de077-7ee0-446c-aefc-ca8d7ac698b5'>Blinding Mage</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/2468c21b-d041-4e26-91cf-d53850e2a57e'>Blinding Mage</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/dfc1df84-9c47-444b-9d58-d9c7bed51c66'>Beskir Shieldmate</a> | 0.01 | 4 |
+| <a href='https://api.scryfall.com/cards/e1be3729-7970-45df-8c26-4fe09e56629d'>Leonin of the Lost Pride</a> | 0.02 | 4 |
+| <a href='https://api.scryfall.com/cards/e3dae817-3db1-4edf-86ba-c2c2b238fcf5'>Story Seeker</a> | 0.03 | 6 |
+| <a href='https://api.scryfall.com/cards/87ae3eb8-b570-4129-9d4e-b7afa8fc4840'>Kor Aeronaut</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/fc71d8ca-c613-4534-bc9d-bc1e13202a2c'>Giant Ox</a> | 0.07 | 5 |
+| <a href='https://api.scryfall.com/cards/4a9555fe-fa1d-4af9-90a4-c3f91e0edd9b'>Ninth Bridge Patrol</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/b3fd4ccb-e632-4fa0-8e36-6103806f020c'>Patrol Signaler</a> | 0.23 | 2 |
+| <a href='https://api.scryfall.com/cards/f427cf73-9f5e-4ef5-bc4f-29ffbfda9d57'>Professor of Symbology</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/6e3510f5-e450-400b-98ea-341dbf212054'>Wall of Omens</a> | 0.44 | 1 |
+| <a href='https://api.scryfall.com/cards/0db4b34f-2d60-4ff3-8ef7-9cedb9b71cdc'>Wall of Omens</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/d2429a15-ccbe-463c-9218-968709d9e878'>Stormfront Pegasus</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/56b2a0f5-e340-4a85-aa5c-340e7f8231b0'>Leonin Shikari</a> | 4.86 | 2 |
+| <a href='https://api.scryfall.com/cards/2f89cf0f-f682-44f8-879c-ed1e22f849b0'>Sunlit Hoplite</a> | 0.14 | 4 |
+| <a href='https://api.scryfall.com/cards/4979748a-4820-4c6a-b4b0-1bfb46e2817a'>Glory Seeker</a> | 0.03 | 4 |
+| <a href='https://api.scryfall.com/cards/7a83543b-3b6f-4e28-96f9-007b814bcfd6'>Eager First-Year</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/24e58478-c6a8-4f86-854a-a489c99bd777'>Usher of the Fallen</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/38a6f533-6acb-4c24-ae9d-fe4977230156'>Lagonna-Band Trailblazer</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/5a1309ea-4411-4116-841f-5aef8611400c'>Gavony Trapper</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/16626f84-00d3-4ec9-b62c-19fff380cd3a'>Kitesail Cleric</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/f24906cd-9ace-4684-94b9-a66dc4fe5162'>Infantry Veteran</a> | -1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/88e2315e-41d9-4e46-bee4-c8f92e91e2a9'>Kitesail Apprentice</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/59c55105-bffc-43dc-b5f3-2e6bb9323230'>Martyr of Sands</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/a3f26c7e-c525-4191-a542-b81343ae95bb'>Glittering Lynx</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/1c43fac2-62fb-4924-848d-a8d739773d6e'>Frontline Strategist</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/caa8bd74-9897-4515-b1a0-50d5f1bda673'>Safehold Sentry</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/0f839a5e-3cbb-4179-9267-02f40645bdbc'>Makindi Griffin</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/d70a8ff1-f0cf-4aef-ad90-06902f98d434'>Pillarfield Ox</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/3223c0ac-cc22-4886-8919-11273b477cc7'>Soul's Attendant</a> | 3.56 | 1 |
+| <a href='https://api.scryfall.com/cards/4edfbb5f-6cb4-4971-b159-ee5f875ba260'>Loam Lion</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/6911759c-7177-402c-a95a-f9f46efaf521'>Selfless Savior</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/dd39dd28-1dc2-46a5-a3cf-9b5d267e16d6'>Healer's Hawk</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/d2704743-2e23-40b9-a367-c73d2db45afc'>Lunarch Veteran // Luminous Phantom</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/10b1a2b5-5be2-43a2-bc35-95df6eb0984f'>Pious Wayfarer</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/b4886566-af41-4d14-8ae1-ce2952db8e42'>Suntail Hawk</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/b6a7508c-2815-40eb-92f7-3e66dfb28484'>Goldmeadow Harrier</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/6a7a9110-6aea-460b-91fa-5f8a507160e7'>Goldmeadow Stalwart</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/12fc09d4-e6ce-428b-818b-b465093af88e'>Yoked Ox</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/12030927-7af2-448f-bc6b-c2035e0b799d'>Goldenglow Moth</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/722b6cc7-16f2-43cd-bac6-42f5e7962d99'>Unholy Officiant</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/5305b5c6-2af6-4b5c-9a57-0a2d2628e2f4'>Goldmeadow Dodger</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/99e9318f-2e17-4b6e-895f-c17cd5d0d282'>Star Pupil</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/37f45133-6134-4664-9952-67c03d60f9a0'>Soulmender</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/e9b766e7-fe4a-47fb-949b-e046b5a38d91'>Leonin Elder</a> | 0.21 | 5 |
+| <a href='https://api.scryfall.com/cards/22700453-e1aa-43d1-9b51-cda8a37fc00d'>Hada Freeblade</a> | 0.15 | 2 |
+| <a href='https://api.scryfall.com/cards/4fd1af74-ba3b-4528-9490-99edd54e9fe1'>Kor Duelist</a> | 0.16 | 3 |
+| <a href='https://api.scryfall.com/cards/652c3bbb-cac8-47ad-81de-41e954e17a29'>Doomed Traveler</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/5a4573af-feba-4c9d-b24b-3d15888a5ce2'>Doomed Traveler</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/389f0045-218d-41cd-bdca-8a9a0ab1b31b'>Battlefield Raptor</a> | 0.05 | 6 |
+| <a href='https://api.scryfall.com/cards/1316a74e-da55-4668-87f2-98389a90a2a4'>Codespell Cleric</a> | 0.03 | 6 |
+| <a href='https://api.scryfall.com/cards/b0aaec1c-8084-4468-82e7-2e4cc5ebe244'>Steppe Lynx</a> | 0.14 | 2 |
+| <a href='https://api.scryfall.com/cards/83ec1486-900b-4763-9b5b-390cb00aff02'>Valiant Guard</a> | 0.11 | 4 |
+| <a href='https://api.scryfall.com/cards/20f208a8-115a-4734-b56a-9330018cb269'>Honor Guard</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/9c8a5add-87af-447d-9fd7-c4aeec3685fb'>Honor Guard</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/0732d372-1000-435e-905b-4a6c852ba427'>Eager Cadet</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/84d602f4-5876-416a-95e5-821a285358bf'>Hand of Emrakul</a> | 0.22 | 5 |
+| <a href='https://api.scryfall.com/cards/3ac80eb8-321d-476a-87e7-d25bdac6a91c'>Artisan of Kozilek</a> | 0.64 | 2 |
+| <a href='https://api.scryfall.com/cards/76bacedb-9fa8-4a21-b0eb-e7ead64360b4'>Ulamog's Crusher</a> | 0.36 | 2 |
+| <a href='https://api.scryfall.com/cards/3fdd84b5-fd93-483e-a131-028d04d9dea7'>Pathrazer of Ulamog</a> | 3.93 | 2 |
+| <a href='https://api.scryfall.com/cards/270f0e5b-2c46-4816-a195-cfce16570bde'>Skittering Invasion</a> | 0.92 | 1 |
+| <a href='https://api.scryfall.com/cards/569e2c39-7a49-4a3b-afe5-1862a7da8026'>Not of This World</a> | 2.81 | 1 |
+| <a href='https://api.scryfall.com/cards/28f26fb7-43cc-4a3b-8ba3-b90101c8ee3a'>Eldrazi Conscription</a> | 13.63 | 1 |
+| <a href='https://api.scryfall.com/cards/ec50c1c3-885e-47d3-ada7-cc0edbf09df1'>Inkmoth Nexus</a> | 31.23 | 1 |
+| <a href='https://api.scryfall.com/cards/a70cb6d9-3955-4064-917b-11dec26440c5'>The World Tree</a> | 4.91 | 1 |
+| <a href='https://api.scryfall.com/cards/bb9465a6-d009-4ecd-9fd1-d046547de902'>Port of Karfell</a> | 0.12 | 3 |
+| <a href='https://api.scryfall.com/cards/682eee5f-7986-45d3-910f-407303fdbcc4'>Highland Forest</a> | 0.46 | 3 |
+| <a href='https://api.scryfall.com/cards/0b02149a-4a8f-4be9-9944-3d216248b549'>Surtland Frostpyre</a> | 0.05 | 3 |
+| <a href='https://api.scryfall.com/cards/da1db084-f235-4e26-8867-5f0835a0d283'>Rimewood Falls</a> | 0.73 | 2 |
+| <a href='https://api.scryfall.com/cards/735470df-65d8-43e9-837e-4869c8e4f052'>Gnottvold Slumbermound</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/12ed97de-736d-43d8-977b-308ac54f88f4'>Immersturm Skullcairn</a> | 0.05 | 3 |
+| <a href='https://api.scryfall.com/cards/f9c77d35-8418-48fb-b7d7-7cfa763545c5'>Axgard Armory</a> | 0.12 | 2 |
+| <a href='https://api.scryfall.com/cards/f09d98db-0176-41a7-b99b-ead29876cdab'>Shimmerdrift Vale</a> | 0.05 | 7 |
+| <a href='https://api.scryfall.com/cards/0582b42f-5ae5-4be2-ba2d-ed62b3cb20c5'>Henge of Ramos</a> | 0.28 | 1 |
+| <a href='https://api.scryfall.com/cards/5d9ebf7d-a88a-4450-adcd-8f526a1e7464'>Sokenzan, Crucible of Defiance</a> | 3.47 | 1 |
+| <a href='https://api.scryfall.com/cards/91f67a64-b97d-473a-be9d-c8044ff86605'>Haunted Ridge</a> | 11.08 | 1 |
+| <a href='https://api.scryfall.com/cards/aa548dcd-c1dd-492d-a69f-c65dfeef0633'>Sokenzan, Crucible of Defiance</a> | 2.37 | 1 |
+| <a href='https://api.scryfall.com/cards/9de5fadd-4559-479f-b45d-abe792f0f6e5'>Glacial Floodplain</a> | 0.21 | 3 |
+| <a href='https://api.scryfall.com/cards/8702d6b9-bb01-4841-a76d-4a576066c772'>Alpine Meadow</a> | 0.26 | 2 |
+| <a href='https://api.scryfall.com/cards/8702d6b9-bb01-4841-a76d-4a576066c772'>Alpine Meadow</a> | 0.35 | 1 |
+| <a href='https://api.scryfall.com/cards/682eee5f-7986-45d3-910f-407303fdbcc4'>Highland Forest</a> | 0.43 | 1 |
+| <a href='https://api.scryfall.com/cards/9e492399-d514-485a-8cdd-a3797a05e47a'>Seafloor Debris</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/006871fd-2641-42cb-a2ac-a33d05fc5a35'>Saprazzan Skerry</a> | 0.5 | 1 |
+| <a href='https://api.scryfall.com/cards/c3b21941-1b7d-4fde-8b1d-7edbd5e5b796'>Eye of Ugin</a> | 11.56 | 1 |
+| <a href='https://api.scryfall.com/cards/b20e3117-f1e4-4449-ae9d-0b66abfc717d'>Arctic Treeline</a> | 0.46 | 3 |
+| <a href='https://api.scryfall.com/cards/501ceec3-c196-4db4-980d-31edf6232acf'>Darkbore Pathway // Slitherbore Pathway</a> | 4.72 | 1 |
+| <a href='https://api.scryfall.com/cards/0ce39a19-f51d-4a35-ae80-5b82eb15fcff'>Blightstep Pathway // Searstep Pathway</a> | 6.53 | 1 |
+| <a href='https://api.scryfall.com/cards/7ef37cb3-d803-47d7-8a01-9c803aa2eadc'>Hengegate Pathway // Mistgate Pathway</a> | 6.14 | 1 |
+| <a href='https://api.scryfall.com/cards/87a4e5fe-161f-42da-9ca2-67c8e8970e94'>Darkbore Pathway // Slitherbore Pathway</a> | 5.4 | 1 |
+| <a href='https://api.scryfall.com/cards/6bf0de91-765a-49e3-bd8a-94f266b3bdd8'>Soaring Seacliff</a> | 0.1 | 3 |
+| <a href='https://api.scryfall.com/cards/91b92d87-776c-490f-9ff1-234e47145df8'>Desert of the Mindful</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/6bf2bb3e-828f-4d53-9d0a-26bbc5e7f3cc'>Littjara Mirrorlake</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/51eb4a44-a5c8-49ed-b440-2462626bb638'>Maestros Theater</a> | 0.32 | 1 |
+| <a href='https://api.scryfall.com/cards/0ce39a19-f51d-4a35-ae80-5b82eb15fcff'>Blightstep Pathway // Searstep Pathway</a> | 4.37 | 1 |
+| <a href='https://api.scryfall.com/cards/29b0027d-c232-4cdd-89c4-75947687aa71'>Skyline Cascade</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/7f8c9ac8-0741-4261-b43b-d745839e11f5'>Evolving Wilds</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/cb471f90-46f2-4037-87fc-f523fc9d004f'>Evolving Wilds</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/71afb548-691d-4c72-b369-85f9b451c71d'>Evolving Wilds</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/bbc8841a-0f6e-4078-a0b9-a4bda642182e'>Evolving Wilds</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/2e10be82-f186-45b1-a12d-7422c9f86a9d'>Evolving Wilds</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/64e72ac3-2b4f-43d8-9708-afe1b67c5d00'>Command Tower</a> | 0.26 | 2 |
+| <a href='https://api.scryfall.com/cards/3edb78c2-0a3c-46e1-a7ff-97dbd8402495'>Command Tower</a> | 0.31 | 1 |
+| <a href='https://api.scryfall.com/cards/c7ef4b15-efab-4255-ac2d-7794f253aa52'>Rupture Spire</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/568df642-3ad7-401c-a133-edb56970c3a1'>Rupture Spire</a> | 0.13 | 3 |
+| <a href='https://api.scryfall.com/cards/61902bad-c322-406d-aa4d-039efd4aa84f'>Terramorphic Expanse</a> | 0.25 | 5 |
+| <a href='https://api.scryfall.com/cards/08ac4e43-4e16-46a2-96f5-58d5550984c4'>Terramorphic Expanse</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/8cd4a965-2f3b-46a4-8e7d-5604877c885d'>Terramorphic Expanse</a> | 0.29 | 2 |
+| <a href='https://api.scryfall.com/cards/ea077cff-b5c9-4a40-8e66-8810c37be5cb'>Piranha Marsh</a> | 0.18 | 3 |
+| <a href='https://api.scryfall.com/cards/b1b2af4a-2e26-4c66-b514-f9c3a96b0943'>Dimir Aqueduct</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/5db9d318-7d50-47fb-9979-abd43641f887'>Darkwater Catacombs</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/9627f9eb-c3fc-4517-9d65-132fdcc217d7'>Dimir Guildgate</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/ddd9463f-d029-459d-a933-432b7bbd7a41'>Jwar Isle Refuge</a> | 0.34 | 1 |
+| <a href='https://api.scryfall.com/cards/0f427f0b-034c-4821-8758-e395c0042d8a'>Creeping Tar Pit</a> | 2.58 | 2 |
+| <a href='https://api.scryfall.com/cards/e3d4fd29-dab5-481f-94c9-eeb70f3c29dd'>Temple of Deceit</a> | 0.37 | 4 |
+| <a href='https://api.scryfall.com/cards/fab0660b-81f8-40ca-8098-5f8d51219a40'>Dismal Backwater</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/b3b1afa0-9bb5-4566-a85e-86a5c03e0187'>Dismal Backwater</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/d97e739f-8675-488e-be2b-4e455fbe390b'>Unstable Frontier</a> | 0.21 | 2 |
+| <a href='https://api.scryfall.com/cards/18756fe5-70f0-48d9-a4f1-ea78f77d2084'>Thriving Moor</a> | 0.11 | 2 |
+| <a href='https://api.scryfall.com/cards/7faa30a1-ca8c-4462-90ea-8e935cad0a53'>Thriving Moor</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/a23c757e-5944-47ce-b06f-27b4c403044c'>Great Hall of Starnheim</a> | 0.07 | 3 |
+| <a href='https://api.scryfall.com/cards/04a19aea-209d-4354-8c59-d08244185eb8'>Desert of the Glorified</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/c6b31722-9626-4fea-9971-54c9aa8238e8'>Mortuary Mire</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/0bda51ef-ee3e-48d4-92e2-c9083bbe0f80'>Cabal Stronghold</a> | 4.87 | 1 |
+| <a href='https://api.scryfall.com/cards/1852c1e1-fbea-4b14-9927-4b1849f9b8a3'>Path of Ancestry</a> | 0.19 | 2 |
+| <a href='https://api.scryfall.com/cards/c093984d-38cd-4b49-b179-1e289ab442d1'>Mech Hangar</a> | 0.15 | 2 |
+| <a href='https://api.scryfall.com/cards/0348247d-0a70-4961-8590-9de41386c69b'>Ancient Ziggurat</a> | 3.14 | 1 |
+| <a href='https://api.scryfall.com/cards/fe424eb3-7df8-4317-8776-6d960afbb90a'>Thriving Heath</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/5677c5a9-e63f-4d13-91dc-beeb6875f675'>Thriving Heath</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/73fbd385-c5c4-45da-8a6d-9597bf904294'>Esper Panorama</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/03324b45-dd69-45d2-a1c0-e3cc4cf1eaf5'>Esper Panorama</a> | 0.26 | 2 |
+| <a href='https://api.scryfall.com/cards/c5a8de0f-726a-4ea3-9215-5188f7181951'>Exotic Orchard</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/ca30ea9e-9302-4dd0-a572-b5c6e6894851'>Grixis Panorama</a> | 0.28 | 1 |
+| <a href='https://api.scryfall.com/cards/dfc7261b-cf34-4bdb-a0f4-704e22ac3865'>Temple of the False God</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/84bca9e1-c0b7-4dce-9ee4-370db2c322b6'>Haunted Fengraf</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/cdb751d3-580f-44dd-a1e2-0f1240f2b891'>Geier Reach Sanitarium</a> | 0.66 | 1 |
+| <a href='https://api.scryfall.com/cards/1d4ad89a-3a00-4bf4-a357-4a8a089d4a82'>Uncharted Haven</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/492181e4-5825-45d4-b8a1-37f29c32a845'>Unknown Shores</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/7642dddd-4461-46dd-b396-9e0a89f7232e'>Hall of Oracles</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/86841a67-0536-47ac-8b69-16e04694ac1f'>Shimmering Grotto</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/0539b1a5-8704-476f-ba1f-2fe01190e157'>Secluded Courtyard</a> | 1.33 | 1 |
+| <a href='https://api.scryfall.com/cards/00538414-90f3-41da-b67e-d81cfa643de3'>Scoured Barrens</a> | 0.11 | 6 |
+| <a href='https://api.scryfall.com/cards/34f492d6-8ca9-4360-8608-9183bdb0eed8'>Nomad Outpost</a> | 0.84 | 2 |
+| <a href='https://api.scryfall.com/cards/58fd5f88-2739-493e-9232-610f3a4645c3'>Mystic Monastery</a> | 0.34 | 2 |
+| <a href='https://api.scryfall.com/cards/fc92d6ef-a578-4320-b5c8-3da192eea1f3'>Turntimber Grove</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/b2dd0b71-5a60-418c-82fc-f13d1b5075d0'>Woodland Chasm</a> | 1.08 | 3 |
+| <a href='https://api.scryfall.com/cards/8cff3ef0-4dfb-472e-aa1e-77613dd0f6d8'>Ice Tunnel</a> | 0.18 | 2 |
+| <a href='https://api.scryfall.com/cards/dbe2a1fa-196f-497f-a15f-0b3b04da9cbb'>Goldmire Bridge</a> | 0.13 | 2 |
+| <a href='https://api.scryfall.com/cards/24a0f2e2-cfd7-4374-a172-4357d5de47bb'>Bretagard Stronghold</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/82c2a0f7-0f53-4627-8be8-227fde331a69'>Skemfar Elderhall</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/82c2a0f7-0f53-4627-8be8-227fde331a69'>Skemfar Elderhall</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/e3c2c66c-f7f0-41d5-a805-a129aeaf1b75'>Castle Garenbrig</a> | 5.39 | 1 |
+| <a href='https://api.scryfall.com/cards/1cc6a5e6-0b73-4488-8954-4b168ce7106d'>Khalni Garden</a> | 0.25 | 2 |
+| <a href='https://api.scryfall.com/cards/a776decb-cdb5-4f41-8a3a-c0cece18eb35'>Kabira Crossroads</a> | 0.28 | 3 |
+| <a href='https://api.scryfall.com/cards/f788da28-481b-41fa-a70c-b53db6b0f068'>Quandrix Campus</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/42583850-ba5c-4a71-8717-406b5c6d048f'>Silverquill Campus</a> | 0.06 | 3 |
+| <a href='https://api.scryfall.com/cards/cdcce65a-5645-4444-9f49-0270fab0e440'>Azorius Chancery</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/e58365d2-e4db-444b-b1a9-795668ad3038'>Azorius Chancery</a> | 0.31 | 2 |
+| <a href='https://api.scryfall.com/cards/768120f5-9401-4e52-924e-3374bde65b3d'>Prismari Campus</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/fc063704-f0d3-46b5-9340-f80d431ce5dc'>Orzhov Basilica</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/6611dc5e-6acc-48df-b8c4-4b327314578b'>Snowfield Sinkhole</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/0fbb9790-3744-4dcb-881a-452573298822'>Fetid Heath</a> | 8.69 | 1 |
+| <a href='https://api.scryfall.com/cards/1d161f81-c01a-4c91-b025-52dcb1881638'>Riveteers Overlook</a> | 0.34 | 1 |
+| <a href='https://api.scryfall.com/cards/ef058312-6926-49f8-ae72-a8d60fedbf6c'>Nephalia Drownyard</a> | 0.46 | 1 |
+| <a href='https://api.scryfall.com/cards/79cabbe0-1c44-4888-8ebc-25a4c3e2c5d7'>Thriving Grove</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/d50646a7-f5a7-4106-b660-98ee4bd4d93b'>Thriving Isle</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/58d511be-60e0-4755-abec-18eebb530605'>Rugged Highlands</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/68f822b7-efc5-42c8-93ea-7dd17b4c3e7a'>Tranquil Cove</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/d80dc025-c2c4-48c2-8354-7d9ddb430eb9'>Silverbluff Bridge</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/cf9b1d47-11ef-4f06-94b2-94b6727de3bd'>Wind-Scarred Crag</a> | 0.08 | 3 |
+| <a href='https://api.scryfall.com/cards/ba06fcda-7ab8-48d4-8656-2a911e73dc44'>Bloodfell Caves</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/d5af3569-3e66-4a50-aca0-c17c799dca28'>Thornwood Falls</a> | 0.07 | 4 |
+| <a href='https://api.scryfall.com/cards/7508d531-da52-41fb-a729-3f5704c9a194'>Blighted Woodland</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/b6af3085-a24c-4a76-b4c0-a27a50993f1c'>Ghitu Encampment</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/35ebe245-ebb5-493c-b9c1-56fbfda9bd66'>Sulfurous Mire</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/9490a495-9f17-45a8-b10c-7de4fcbd2778'>Temple of Malice</a> | 0.81 | 1 |
+| <a href='https://api.scryfall.com/cards/8908b6b0-a488-426c-954d-458456be0651'>Blighted Cataract</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/48d87619-6a6d-42ba-8a69-910d3cc7aede'>Arcane Sanctum</a> | 0.44 | 1 |
+| <a href='https://api.scryfall.com/cards/53e33f37-7fd1-4431-a032-cd61b644401c'>Furycalm Snarl</a> | 1.34 | 1 |
+| <a href='https://api.scryfall.com/cards/ea6c2670-e6fd-40d6-afe0-7d3c4db96a4d'>Swiftwater Cliffs</a> | 0.07 | 3 |
+| <a href='https://api.scryfall.com/cards/1652bb3c-c365-4046-b07e-3d861fa324c6'>Temple of Epiphany</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/f2392fbb-d9c4-4688-b99c-4e7614c60c12'>Volatile Fjord</a> | 0.43 | 2 |
+| <a href='https://api.scryfall.com/cards/deadca61-0be9-4eeb-ba12-bc73a49bae74'>Jungle Hollow</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/86706d8e-de08-4778-94ba-ae75ed522472'>Golgari Guildgate</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/8b3601d4-4091-465e-8c18-0cd717258211'>Glacial Fortress</a> | 3.76 | 1 |
+| <a href='https://api.scryfall.com/cards/711dbdb1-7ec3-4fb4-8364-d34f5e143fd1'>Nimbus Maze</a> | 1.44 | 1 |
+| <a href='https://api.scryfall.com/cards/9b724d9e-89d5-4e2f-9331-a60ee0d1893d'>Prairie Stream</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/e6a12a68-a88c-440d-a6ee-b235afbbbfb8'>Port Town</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/2a315f63-96ad-4a5f-8eb4-d81361797348'>Prahv, Spires of Order</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/ea6c2670-e6fd-40d6-afe0-7d3c4db96a4d'>Swiftwater Cliffs</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/0ab63e49-0869-4c7c-a033-d8e50032dd13'>Mountain</a> | 0.08 | 34 |
+| <a href='https://api.scryfall.com/cards/5474e67c-628f-41b0-aa31-3d85a267265a'>Snow-Covered Mountain</a> | 0.24 | 9 |
+| <a href='https://api.scryfall.com/cards/7eb8fd94-2b59-4b05-b4d0-c93497301d19'>Thriving Isle</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/15481459-3703-4185-ad27-105d95691e9d'>Thriving Bluff</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/ca17acea-f079-4e53-8176-a2f5c5c408a1'>Snow-Covered Forest</a> | 0.55 | 4 |
+| <a href='https://api.scryfall.com/cards/3cf23791-1b15-43ee-b81a-5fe068709bc1'>Forest</a> | 0.1 | 109 |
+| <a href='https://api.scryfall.com/cards/46738fb3-ab5e-486c-b66a-1526ba1cdfa8'>Vhal, Candlekeep Researcher</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/f6597ec7-0fc8-4aa5-a8a6-ea5f95f4ce15'>Rasaad yn Bashir</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/3b3e889a-5865-4464-9923-bffa25c50cd2'>Gluntch, the Bestower</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/616c5b52-94bc-48e3-8e4f-e2db1eca7536'>Livaan, Cultist of Tiamat</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/b07f8fc3-83a5-4e0a-b87f-ce415292c790'>Tavern Brawler</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/b0c7b4af-d521-4f4f-8910-7e05f2f60eb6'>Cultist of the Absolute</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/57520d99-744f-41bb-9134-f28397a5cb2a'>Shiny Impetus</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/16b9fdaa-9da9-48ff-b271-e6a41aabf073'>Stoneskin</a> | 0.8 | 1 |
+| <a href='https://api.scryfall.com/cards/16b9fdaa-9da9-48ff-b271-e6a41aabf073'>Stoneskin</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/5eec4350-cd61-4520-98a4-4a14fcbc226f'>Marching Duodrone</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/1b837b21-9165-4965-a7b5-c59811647951'>Prophetic Prism</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/d512a77e-2435-4695-9408-df8e17dd1fbd'>Navigation Orb</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/33464767-45f3-42b8-8d83-33b090eead93'>Candlekeep Inspiration</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/761df6cd-0928-4167-8902-58fdb50181a0'>Archmage Emeritus</a> | 3.38 | 1 |
+| <a href='https://api.scryfall.com/cards/2893b070-a610-4273-beb2-7609a2da0499'>Nashi, Moon Sage's Scion</a> | 2.23 | 1 |
+| <a href='https://api.scryfall.com/cards/666efc89-b566-4b2b-a0e2-52f1dedc9e10'>Exhaustion</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/84913a14-5452-4a10-9e67-7e7089c0ee20'>Energy Field</a> | 0.74 | 1 |
+| <a href='https://api.scryfall.com/cards/b43c6427-6d7d-4a90-b4b9-529895082d60'>Run Away Together</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/557f2aa6-0b82-4f60-9617-610b613c2a48'>Draconic Lore</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/56b0f66b-dca9-4a01-9394-20a513c2b225'>Young Blue Dragon // Sand Augury</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/6cb052fe-c834-4c72-a6b1-4cb64505e3ee'>Commander Liara Portyr</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/101af06e-24fa-40e5-9e53-77ef571b7f71'>Cadira, Caller of the Small</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/cabc3688-2362-4757-a5be-087e577c4691'>Far Traveler</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/59fcbcce-bcce-4806-9c73-e4a82a630b76'>Candlekeep Sage</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/fe2d08ac-6c24-4158-87a1-c59d1cd447a8'>Korlessa, Scale Singer</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/1b32bae4-65e4-4bdb-8bc5-b98a5aac1568'>Jade Orb of Dragonkind</a> | 0.75 | 1 |
+| <a href='https://api.scryfall.com/cards/b2419408-e907-4d62-b158-c97afc388c04'>Horn of Valhalla // Ysgard's Call</a> | 0.49 | 1 |
+| <a href='https://api.scryfall.com/cards/dc02d647-b95b-4442-a924-64a4c94a4e8d'>Beckoning Will-o'-Wisp</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/6c9f8aea-0c9a-4686-b551-35e2a72ef701'>Slaughter the Strong</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/99074b05-f252-4626-a96a-6bc286e8d03a'>Mulldrifter</a> | 0.95 | 1 |
+| <a href='https://api.scryfall.com/cards/309a6684-ecb3-491c-899a-3aa15a51130b'>Cryptic Spires</a> | 0.1 | 3 |
+| <a href='https://api.scryfall.com/cards/7084fc02-8941-4a4f-805d-3c1625cf1d58'>Azorius Chancery</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/2207467a-b82a-47ae-8867-15a859328fe9'>Rustvale Bridge</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/57d2b895-8921-4615-a674-fb85eed5ea3f'>Tanglepool Bridge</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/d9b4ce37-f102-4f2b-9651-9d0a9d231d6d'>Balustrade Spy</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/6738c356-734a-4930-acd3-31dead241bea'>Eyeblight's Ending</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/ae7ba1de-48f9-423b-867a-22bd3f6c06c2'>Shadowborn Apostle</a> | 1.6 | 1 |
+| <a href='https://api.scryfall.com/cards/113d96bc-6c19-4dec-9e9d-c6ea50a30cbc'>Disfigure</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/c95efd3d-ee88-4908-908a-830595f03c5d'>Strands of Undeath</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/affc1d27-55f6-46e9-a67c-f15b6832813d'>Tragic Fall</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/39eb0e67-f989-4430-b2d6-b8b647f0b7ca'>Echoing Return</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/6c7c1b08-3184-478f-92be-88db6cda33c5'>World-Weary</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/d890ae71-da2b-44fa-8cfa-9c3016c9f696'>Vile Entomber</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/2ed4901c-9b1e-4e0e-ae71-81cb10779f07'>Tizerus Charger</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/b279a03f-85ab-43f2-b5ca-1bc10563e5ad'>Cabal Initiate</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/c15852d4-2c79-4841-bb65-6661d88fdfab'>Vanquish the Weak</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/f5172be3-4379-43fc-98bd-e77c579dea55'>Deadly Dispute</a> | 1.29 | 1 |
+| <a href='https://api.scryfall.com/cards/bdef7fea-2bd0-42a2-96f6-6def18bd7f0c'>Murder</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/e4fc28d1-61d5-4a78-8fbb-6566128486ce'>Judith, the Scourge Diva</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/4d5edf4f-5695-42fc-9e57-c4faef60fbc3'>Firesong and Sunspeaker</a> | 0.33 | 1 |
+| <a href='https://api.scryfall.com/cards/5e185e5c-b6f9-4d36-a6b1-d7315de38fca'>Halsin, Emerald Archdruid</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/91844266-8b2f-421f-a944-544c51734e64'>Popular Entertainer</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/34806912-daf8-4e5c-804f-af0858500438'>Amber Gristle O'Maul</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/44498893-3ff8-4d1e-abdf-4579e0c67020'>Hardy Outlander</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/b33ee002-fbd4-4bbe-a17c-876972750646'>Arcus Acolyte</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/f0d7413b-2ad3-4e8f-8728-5649f938d06e'>Auger Spree</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/28194ca7-3b2a-49b8-8f03-56a2c97859d9'>Bear's Companion</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/df03ac18-1ab4-4264-9821-3f92333c3ed8'>Fireblade Artist</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/cdddab31-1455-4b31-ba81-c346e608c34e'>Bloodwater Entity</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/c0119777-70da-4cba-8104-a7e78604d515'>Mistmeadow Witch</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/1757a916-60d3-4f6b-8759-32a1645dadd2'>Abzan Charm</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/61cd85ec-13b3-4d63-b144-5baa39ad6524'>Phyrexian Tyranny</a> | 0.49 | 1 |
+| <a href='https://api.scryfall.com/cards/0f28e081-7994-468d-8505-9981b90c001c'>Boartusk Liege</a> | 0.4 | 1 |
+| <a href='https://api.scryfall.com/cards/df03ac18-1ab4-4264-9821-3f92333c3ed8'>Fireblade Artist</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/7ce1c2a8-688b-4f63-8d58-e325efc6052a'>Captured by Lagacs</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/400862ac-f229-4f73-949c-779f6bfa868b'>Winged Coatl</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/b31a81e8-df0e-4540-93c1-c30c31ea9be9'>Lullmage's Familiar</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/68aa496d-15c0-4da0-b3c9-4bb7e57d9a31'>Scab-Clan Giant</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/cf31f32f-bbca-4e70-93ca-f74c20202939'>Call to the Feast</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/ca5817ce-a8ba-4007-b8ca-6d39a421a9bc'>Heroic Reinforcements</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/cda10c3b-ee16-4de5-9e54-d0187cd5cc80'>Palliation Accord</a> | 0.3 | 1 |
+| <a href='https://api.scryfall.com/cards/87cc2855-6b14-44dd-a398-7dc2bbae081f'>Kaldra Compleat</a> | 3.9 | 1 |
+| <a href='https://api.scryfall.com/cards/05900f1d-f065-4656-a8a2-2f719d3fdea8'>Tormod's Cryptkeeper</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/c32b5b2e-dabf-4672-b476-4873781f636e'>Breya's Apprentice</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/e8c71a1f-191b-45f6-bb34-fba3e981a711'>Caprichrome</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/4736aae2-5136-4f8f-9283-baf6b542a6a8'>Monoskelion</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/881175c4-fee5-4c39-ad25-145ef73569ce'>Arcbound Tracker</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/b68ab416-3394-4cb6-bfc6-33e62964dd1c'>Treasure Keeper</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/1969ddc0-ee6c-4c3d-a9dd-7f1c491609be'>Mind Stone</a> | 0.42 | 2 |
+| <a href='https://api.scryfall.com/cards/8c99e6e1-3b88-4d2f-bc5d-70439585a063'>Stonespeaker Crystal</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/1097e866-9d24-43b6-bafb-b6da05b47a30'>Pirate's Pillage</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/f10b4edf-5f0e-4edd-88f9-2e3e7d9cad0a'>Sparkmage's Gambit</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/5b310b01-f9cb-48ce-8af3-5957d3abf098'>Grotag Bug-Catcher</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/3457e346-a5de-4624-b577-f59d4c186537'>Viashino Lashclaw</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/c8f8ee19-3a88-40fa-85d8-386ffe06efd7'>Gorilla Shaman</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/4b672c59-7376-455d-961e-ce94d47a5ca4'>Gargadon</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/cf20cfd7-81f4-423c-a662-c4b6676edfdd'>Goblin Banneret</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/bd35664f-b99d-46b6-988e-8f2814b0a854'>Dark-Dweller Oracle</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/e8b9d59d-bac9-4092-901e-2b861c186868'>Monastery Swiftspear</a> | 0.6 | 1 |
+| <a href='https://api.scryfall.com/cards/569c9e8c-7808-49d0-82c1-72d5b835f51c'>Sneaking Guide</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/30084dc1-f501-4b7c-972d-1a3b9137083a'>Expedition Champion</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/3de4bf10-a502-4748-9118-5459684542a7'>Poison the Blade</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/c874c79e-18e5-4c33-8580-1269e6b0fc55'>Grapple with the Past</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/4c1b91d8-39c4-4ab1-996b-2a5a78243fd4'>Chatterstorm</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/43c8bdb1-fa35-462e-ac3f-6953fe7f3476'>Thrive</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/89572b1f-f65a-4bd4-b52a-4e84eb373e90'>Rampant Growth</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/7383f71d-3f51-4632-9ea0-27d47fa2fa50'>Summer Bloom</a> | 0.39 | 1 |
+| <a href='https://api.scryfall.com/cards/31740fe9-27d2-416e-93de-509ac1a7b7cd'>Festerhide Boar</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/f4072640-0f9b-4f0a-84cc-eda415cc92e7'>Avenging Hunter</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/52b1b4a2-52a7-4fcd-aa96-f7d9e459657b'>Dauntless Survivor</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/e1894cf9-7d53-4b7e-aaae-8db42bdd8e49'>Tajuru Snarecaster</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/e524ddf0-9a2f-4c1c-ae72-4b5b48f55645'>Veteran Adventurer</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/61f42823-8a48-4b81-a037-664ba1c69f29'>Scute Swarm</a> | 3.77 | 1 |
+| <a href='https://api.scryfall.com/cards/5c5be54d-660e-42ab-b5ea-5e1cf3bad0bc'>Tireless Provisioner</a> | 1.51 | 1 |
+| <a href='https://api.scryfall.com/cards/4d42e22d-f60e-40c5-b069-5e1708f3bebc'>Sanctum Weaver</a> | 1.9 | 1 |
+| <a href='https://api.scryfall.com/cards/c8511fe7-63f9-4942-8972-d40bf5d7e949'>Yavimaya Elder</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/589d8494-58c0-4584-a878-37d498621992'>Experiment One</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/fd06fc1f-d8f6-43b0-a795-d759fcdf8272'>Bloom Tender</a> | 8.12 | 1 |
+| <a href='https://api.scryfall.com/cards/f6cc0f1f-191a-4141-965f-8d159bf54732'>Hyena Umbra</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/680f7d5c-d518-4ebb-92d5-e835cd9eafe0'>Sunblast Angel</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/393fb9f7-ec03-4831-96d4-a26c89b91830'>Anointer of Valor</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/300f4c1d-dbe7-4d9f-9974-b2d1a2989ddf'>Relief Captain</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/be517a58-b7ee-4213-98a5-8c19e1b2def6'>Expel</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/7d92f037-a121-428a-ac53-98437366ecfd'>Lens Flare</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/79d5ed22-c0af-47dd-b6e8-49b51e354c7d'>Scale Blessing</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/938ef232-1bf5-4290-abd9-3da653cf2e85'>Kasmina's Transmutation</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/24cd21f5-94fd-4609-9e6a-d052aa81fe57'>Capture Sphere</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/890eee8d-a339-4143-adfa-1b17ec10c099'>Umara Wizard // Umara Skyfalls</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/2ff414bc-6736-428b-bb60-9d62793a5ae5'>Tide Shaper</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/a5b1ac05-bd87-4605-8443-0469276e1e3a'>Floodhound</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/7e7ca8b6-d7e0-4af2-a578-bf45a8731c19'>Steelfin Whale</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/2cc9b5ee-4d6d-42ea-8b13-b8a7059781c9'>Aethersnipe</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/e8a2dd0d-8034-47f7-801d-c893f32f0708'>Mistfire Adept</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/98aeda3d-3741-4b80-bfef-63bcc599d75b'>Lucid Dreams</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/90296536-a56d-482e-8548-132a99894bde'>Deep Analysis</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/b43c6427-6d7d-4a90-b4b9-529895082d60'>Run Away Together</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/b95cc841-4e4f-4896-a073-f2e246ca62e4'>Recalibrate</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/4afee6b3-55a4-44e5-b08c-85e0c813cd09'>Thought Scour</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/8c6f39b4-f428-483f-999a-6ebee7659c5a'>Forbidden Alchemy</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/f5013fde-4714-4bea-b368-5b14684a05fc'>Pull from Tomorrow</a> | 1.14 | 1 |
+| <a href='https://api.scryfall.com/cards/8ad659f3-11c8-4cc0-a716-43bb3ad18a9c'>Paradoxical Outcome</a> | 0.94 | 1 |
+| <a href='https://api.scryfall.com/cards/3eda8c7b-ce35-482a-bece-52a30cc78a9a'>Spelljack</a> | 3.91 | 1 |
+| <a href='https://api.scryfall.com/cards/919cd266-b796-4a1c-937f-76b565c82495'>Ingenious Infiltrator</a> | 1.44 | 1 |
+| <a href='https://api.scryfall.com/cards/8d1fb805-1382-458c-b98d-4491f13833b6'>Vanishing</a> | 0.31 | 1 |
+| <a href='https://api.scryfall.com/cards/247694c5-5813-4256-9fd8-478d4be52081'>Dissipation Field</a> | 0.88 | 1 |
+| <a href='https://api.scryfall.com/cards/f46894d1-2503-43fa-938e-7bbf19101d13'>Artificial Evolution</a> | 1.7 | 1 |
+| <a href='https://api.scryfall.com/cards/0befed63-07ba-4728-9078-57bbccbeeeb1'>Foundry Street Denizen</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/a04c8c6f-14e9-427c-918e-208ccd39ec4a'>Act of Treason</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/95da027e-34c1-4098-827d-1647693ad8f4'>Oko, Thief of Crowns</a> | 71.1 | 1 |
+| <a href='https://api.scryfall.com/cards/63ba8eef-b834-4031-b0a1-0f8505d53813'>Edgar, Charmed Groom // Edgar Markov's Coffin</a> | 0.87 | 1 |
+| <a href='https://api.scryfall.com/cards/e21827eb-fa49-4784-a86b-aef164a5018e'>Niambi, Esteemed Speaker</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/76614523-e51a-44ff-83ad-5be9e322697a'>Light-Paws, Emperor's Voice</a> | 1.5 | 1 |
+| <a href='https://api.scryfall.com/cards/c2303f11-2c82-44d5-893a-8e71dece7746'>Lantern of the Lost</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/0b33162d-8d8f-4312-b31e-04ce86e3b914'>Bronze Sword</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/db9b1de4-9aba-4145-804d-2072f258af3b'>Myriad Construct</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/a53baf25-1782-427b-a9dd-fc9b8dc6444f'>Spare Supplies</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/b7d49f9c-2dd3-4aed-9b78-e1bcad354a35'>Thundersteel Colossus</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/b8c30ffb-b4f5-40b0-87b8-800a42bded2b'>Automated Artificer</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/e3ef8f96-3e3c-4b1b-8180-3b38c7deaaff'>Wings of Hubris</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/9f738ca6-5254-4dbc-9f59-854e81c8dac2'>Crystal Slipper</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/525142c3-f17c-4e02-a02d-fa385215aa12'>Golden Egg</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/c058d01e-f705-4407-bd9e-a2d127afdf04'>Mantle of Tides</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/d290ec6b-15a6-49e8-abd2-b8c4d0f556eb'>Blossoming Sands</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/9a72fb5b-5c55-4ce9-b9d0-98f924d6f338'>Wandermare</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/f77e09c3-917c-4bbb-bb94-60f4e9417832'>Allure of the Unknown</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/a14afed6-ca42-442d-ba86-621179e6957c'>Acolyte of Affliction</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/7d3e97d8-92c7-43c4-bdaf-7b0a6ce7cb5f'>Dream Trawler</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/a3d13d84-01e4-4429-93db-e5afff811527'>Rimrock Knight // Boulder Rush</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/24b7a774-ca49-4291-8a19-cb5e475b10d5'>Sundering Stroke</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/9fa10a18-5059-46ab-9983-0ea78b507331'>Fissure Wizard</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/85a74392-4056-428c-a807-b062957e838e'>Infuriate</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/1d872736-fafb-44e8-a809-48c5436c665a'>Sure Strike</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/924b1c15-811a-4d11-a481-f904002a6740'>Belligerent Guest</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/dfdfb481-3446-42f4-a1c3-a88b69f2189a'>Heroes of the Revel</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/a04eef82-fd53-41f4-9c7e-28b9ac039032'>Underworld Rage-Hound</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/f67d0091-1925-44a5-89f3-21c2afd5665c'>Aspect of Manticore</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/0568341b-f972-407f-92ce-1b7c9ef742f6'>Grotag Night-Runner</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/a32fa360-6c41-4146-931b-c19e9a766803'>Ardenvale Paladin</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/5c37ba56-e22c-4b10-821a-2827c5cd81ad'>Disenchant</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/299d60b9-0ba7-40ee-b9d0-ee8f1ea288c9'>Tazeem Raptor</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/6ae4634e-1487-4b66-8f70-bcb4b1fa6e77'>Sea Gate Banneret</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/3b43d7bc-173c-41eb-bba9-a9d94dcfc5fa'>Tempered Veteran</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/61c7d889-8cc0-4e80-b6d5-d41961820224'>Estwald Shieldbasher</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/3b8e6878-06aa-4505-b3a5-172083b7d258'>Heliod's Punishment</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/366e9845-019d-47cc-adb8-8fbbaad35b6d'>Kabira Takedown // Kabira Plateau</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/52e28f5a-55ee-4fcc-bc16-e59944592fcd'>Sunmane Pegasus</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/5949bb9a-b4e8-4992-a12d-8e31953aff0d'>Farsight Adept</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/f2a37dcb-4a18-4f03-b28c-27188a1a5ec1'>Turn into a Pumpkin</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/899540b0-c17a-4a73-912c-9b8925203de1'>Into the Roil</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/f39bf1fa-b530-4353-a683-843466227109'>Essence Capture</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/1bfba7a0-d5ca-4197-9e58-21f28345f1a6'>Bubble Snare</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/0162a0b8-a2d1-4664-a445-331aee6d5175'>Stinging Lionfish</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/64cd9d60-826c-4b35-9684-dccb0880399e'>Witness of Tomorrows</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/38b5fdf4-3884-436f-8066-bc7593e72b02'>Diver Skaab</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/cc4ba296-950c-4e39-ab5e-06be07e4a190'>Riptide Turtle</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/4007572b-a6c8-4a56-b1a7-ff099189c9c0'>Sleep of the Dead</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/a48c3a2f-678b-4e70-a53f-258457d88d29'>Field Research</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/0b4c7268-60c6-4038-8ce9-d9d51bed4577'>Zulaport Duelist</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/6bc7e996-151f-4d88-8e1e-91bb88f5db02'>Malevolent Noble</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/3474289a-193e-452d-b248-e53ee99e22c0'>Revenge of Ravens</a> | 0.91 | 1 |
+| <a href='https://api.scryfall.com/cards/730ddbcd-0814-4e22-85e9-78b0878324b6'>Marauding Blight-Priest</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/98496d5b-1519-4f0c-8b46-0a43be643dfb'>Zof Consumption // Zof Bloodbog</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/fc4a61aa-75d2-46bc-b13f-b863f5f49d32'>Temple Thief</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/30aa6796-0cb6-426b-9e3f-4d7e4959a6a4'>Funeral Rites</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/b7e92c82-840f-4c75-b617-7b58a07be5b4'>Grim Physician</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/88496096-fd9a-451a-85d9-31ccc3580623'>Kitesail Freebooter</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/7fb728de-0d6e-4b32-b0c4-edd7382d1391'>Ragged Recluse // Odious Witch</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/3db65755-f104-4de9-bcc9-0a4a7bc66b51'>Bleed Dry</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/1eafefd0-3a9e-400e-8c75-0825aeb2ded1'>Rot-Tide Gargantua</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/de6bf7fb-11ca-4878-8072-cebaa763a549'>Mogis's Favor</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/66e577a0-e5d7-4e6a-919c-d85c2ae819ce'>Fruit of Tizerus</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/3538eba1-475a-4388-8a72-55ab7cd1027e'>Wildwood Tracker</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/fcd2e01e-a143-4b62-8b01-d253fb35c590'>Inscription of Abundance</a> | 0.62 | 1 |
+| <a href='https://api.scryfall.com/cards/b23c8b5a-2e18-4dd8-b236-5b1fd356f867'>Inspire Awe</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/b9017ff4-d63f-4dd2-9157-c93fe4866bef'>Kappa Tech-Wrecker</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/076ec900-345d-4720-96b6-441bce01618a'>Skola Grovedancer</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/d6e23afa-7e08-4049-baf0-d4d0134ba2c8'>Llanowar Visionary</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/8f16f137-4ceb-469c-a381-e575d58f456b'>Bramble Wurm</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/eae67d98-5167-442b-8586-0b2bcb0c56eb'>Crushing Canopy</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/ecd271d7-a3c8-4448-b8e2-bcef5d7e9118'>Snarling Wolf</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/50d50576-c3ee-479a-8533-6c147f5cb1c4'>Nessian Wanderer</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/2a4fe89a-0d2b-493f-883e-a1e0b0918340'>Nylea's Huntmaster</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/d52e90d3-d356-4b23-8f5c-a4004b20394c'>Canopy Baloth</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/7327289d-eed8-44b1-8495-7172e2b49d5f'>Gnarlid Colony</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/f4e3214a-0f76-4c60-8df9-4984b8d56d89'>Temple of Deceit</a> | 0.5 | 1 |
+| <a href='https://api.scryfall.com/cards/08be60eb-15ec-4112-919c-995062a9ed54'>Ninja of the New Moon</a> | 0.05 | 4 |
+| <a href='https://api.scryfall.com/cards/69641e64-d4f5-4654-8da8-9eb9a71e51c8'>Callaphe, Beloved of the Sea</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/2b27e6b2-13ad-42b2-a121-70935913723d'>Renata, Called to the Hunt</a> | 0.3 | 1 |
+| <a href='https://api.scryfall.com/cards/a2b441c0-261e-4094-b694-5e11ea3c14ab'>Slaughter-Priest of Mogis</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/e7624e84-93ce-4983-8624-ebc934cab67f'>Mirror Shield</a> | 0.45 | 1 |
+| <a href='https://api.scryfall.com/cards/590926db-279c-494a-b92d-680b8abf9699'>Traveler's Amulet</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/32b21297-be34-445e-8a5a-6c297ab0ee77'>Sky Diamond</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/bbbc615a-708a-444b-acab-871cce22694d'>Guardians of Koilos</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/7536292c-da25-41c8-ba28-1e35758a7f3d'>Minamo, School at Water's Edge</a> | 32.58 | 1 |
+| <a href='https://api.scryfall.com/cards/aadc1809-d6bb-455c-b6ce-dd11521808b6'>Memory Drain</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/c0ef436b-e82e-4e1f-9da0-5e35f0c37bde'>Aligned Hedron Network</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/a391da36-0b40-46ea-b771-50d2b920207e'>Nyxbloom Ancient</a> | 17.51 | 1 |
+| <a href='https://api.scryfall.com/cards/46739993-6afe-428d-bf63-b57649e38a65'>Setessan Skirmisher</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/752b9560-b1d6-441c-8bc8-bf6988112d25'>Relentless Pursuit</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/efa2bccb-0e01-4629-b9a8-5c0ea26239b3'>Voracious Typhon</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/7cdf8ab8-f221-4f7b-9af9-3849cad1f596'>Ilysian Caryatid</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/988a7993-eb7d-4ae2-8a22-1676f517558b'>Magma Spray</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/59c39c70-8360-4c7c-b5fa-61c42828609a'>Skophos Warleader</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/49b5b348-1415-4062-a2a7-017694424c05'>The Triumph of Anax</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/55405dca-3555-45ff-be1c-e276fe1a0c2e'>Irreverent Revelers</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/baefa06e-28ba-41b9-866e-1ed0c4969852'>Spellgorger Weird</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/386e5cb2-39c8-453d-a642-c5d9f8495601'>Havoc Jester</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/bfe6a3a9-8d62-47c4-a78b-9baa9133a540'>Destructive Tampering</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/5681db91-5dab-41e6-96f2-275ec9495e5b'>Impending Doom</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/c11f5d27-37f3-430a-833c-84e249b5e744'>Dreamshaper Shaman</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/ee10eaa0-dbe0-45ee-9a7d-395ec5d27e08'>Dreamstalker Manticore</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/9abd74bb-01b8-4382-90d4-0ffc43e5295d'>Hero of the Games</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/59e19bac-176c-4e37-bfc8-27c00de7c37f'>Flicker of Fate</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/75d6eb18-a49d-4fa5-a333-78aafbc4abcb'>Triumphant Surge</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/32adc118-b81e-48c2-b7ef-b62e8c3308d6'>Sentinel's Eyes</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/c3de35fd-425d-46b8-bc7d-c2f05d86858d'>Dub</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/24e2f681-918e-4f1f-afb1-0f9587c0d7bf'>Commanding Presence</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/a9241289-28d2-4827-970e-81bdecbb5c16'>Transcendent Envoy</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/0fd32240-c003-4e18-adf1-e2e992c702b1'>Nyxborn Courser</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/f7e152ae-43ec-4b9d-a43f-786c2f6c7366'>Dawn Evangel</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/13893599-0b87-4fc0-863d-f3e0ae51cc31'>Captivating Unicorn</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/0ce89a0b-d0e4-4c71-b131-0d3b0b76bc3b'>Daybreak Chaplain</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/8f14abb0-0e9f-448e-85d7-6cb71f756c56'>Frantic Inventory</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/6811a9dc-e521-4c9e-accb-1efb8346c1db'>Brine Giant</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/e4763b6c-6471-41bd-b3e4-785564bcf06f'>Ichthyomorphosis</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/68c53625-6928-494a-af87-7eee2f6643a5'>Starlit Mantle</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/a5f30ecd-d009-4d44-aef4-c926ed55a521'>Omen of the Sea</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/d3bc7176-abe0-47cf-a242-cf22a1f590be'>Enthralling Hold</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/f52f08e1-b234-42e4-8f1f-485a4f6edb3b'>Xenograft</a> | 0.92 | 1 |
+| <a href='https://api.scryfall.com/cards/8af2c79f-a151-4628-90fe-c0ff7ccd9c2c'>Necrotic Ooze</a> | 1.31 | 2 |
+| <a href='https://api.scryfall.com/cards/812d0f15-f738-4644-9d29-2589d7e66915'>Hateful Eidolon</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/ac38a51f-9a3b-451c-b72d-6d4e0b296fbd'>Hooded Blightfang</a> | 0.56 | 1 |
+| <a href='https://api.scryfall.com/cards/55e2f383-d2a0-4424-bf7a-79e82d6f691f'>Soulreaper of Mogis</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/1f76d7c4-a5d6-4144-b5f3-e43b96b695b7'>Rage-Scarred Berserker</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/fd2a923a-1f9c-4a29-9c6b-344ae4d5ae8f'>Nyxborn Marauder</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/f2dd847f-0db2-4f6a-bdfb-5c88ce7802f9'>Underworld Charger</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/a0fae55a-6edd-42ea-b909-ccc39a64a0ed'>Eat to Extinction</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/77ffd913-8efa-48e5-a5cf-293d3068dbbf'>Nezumi Graverobber // Nighteyes the Desecrator</a> | 0.32 | 1 |
+| <a href='https://api.scryfall.com/cards/72e4548b-c171-4f10-b896-af37543dcf0f'>Marrow-Gnawer</a> | 46.15 | 1 |
+| <a href='https://api.scryfall.com/cards/c4dcfdb4-c2ff-4fc5-aa2a-0c6e311d2910'>Throat Slitter</a> | 7.01 | 1 |
+| <a href='https://api.scryfall.com/cards/d91bb516-f9b1-4efa-8e4f-a1dbacd19b61'>Ink-Eyes, Servant of Oni</a> | 19.78 | 1 |
+| <a href='https://api.scryfall.com/cards/9a021caf-d9e7-470b-85be-3af42a3adfd3'>Dimir House Guard</a> | 0.53 | 1 |
+| <a href='https://api.scryfall.com/cards/24437641-85a1-4fcd-93dc-bd19a7abf969'>Clutch of the Undercity</a> | 0.26 | 1 |
+| <a href='https://api.scryfall.com/cards/8ab850c5-6f5e-41b7-ab52-094579caca12'>Displace</a> | 0.38 | 1 |
+| <a href='https://api.scryfall.com/cards/b1c1d05b-92be-40d7-859f-75293a531a84'>Crystal Shard</a> | 0.95 | 1 |
+| <a href='https://api.scryfall.com/cards/3df927c0-9aa9-450b-ab2a-ae12c5489d57'>Supplant Form</a> | 0.3 | 1 |
+| <a href='https://api.scryfall.com/cards/4cc785b0-0a77-4b02-b0b4-2bda2fc621cc'>Muddle the Mixture</a> | 4.72 | 1 |
+| <a href='https://api.scryfall.com/cards/b92aafa5-9a21-4564-8b33-dab414cd5dca'>The Wandering Emperor</a> | 71.74 | 1 |
+| <a href='https://api.scryfall.com/cards/1e7fb6c8-3407-4c57-964f-354607485a01'>Greasefang, Okiba Boss</a> | 1.18 | 1 |
+| <a href='https://api.scryfall.com/cards/c0f27ff7-c7e4-4099-b3ac-6560c6ccba41'>Nezumi Bone-Reader</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/61740668-9f85-43ed-aaa0-33ce7101da6e'>Patron of the Nezumi</a> | 0.34 | 1 |
+| <a href='https://api.scryfall.com/cards/3aa17062-4355-468f-b8ba-352b7511b847'>Journeyer's Kite</a> | 0.5 | 1 |
+| <a href='https://api.scryfall.com/cards/1e5aba90-c8c7-4f06-b7b3-1b4758d2791a'>Soul Transfer</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/499037cc-a577-41cb-8ca2-5e117945634f'>Takenuma, Abandoned Mire</a> | 4.6 | 1 |
+| <a href='https://api.scryfall.com/cards/efb74ccc-5ae5-4437-a0b4-c621ab4c2257'>Ordeal of Purphoros</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/81496a81-c986-4749-a28c-45341764e28f'>Dokuchi Shadow-Walker</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/55174ab7-9f2e-42e5-a61b-57458cfd33f3'>Fade into Antiquity</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/13246172-7554-4edc-b6db-23dc91e4290a'>Imperial Subduer</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/0218923a-b685-4492-8fdd-2d2d22ef532e'>Reito Sentinel</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/6db14cb8-9ff8-41ee-a733-4f1130e73b29'>When We Were Young</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/d00d618d-abad-475b-b938-e111282ea1c3'>Ambitious Assault</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/8297592c-3036-434a-9dbb-5f0af804dd13'>Coiling Stalker</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/a2b50751-7f65-4321-86da-eef735bf8b67'>Gloomshrieker</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/a0abf36e-a038-4645-ba39-12e610b9e135'>Ink-Eyes, Servant of Oni</a> | -1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/068518d2-f061-4061-b208-158e991156b6'>Amoeboid Changeling</a> | 0.44 | 1 |
+| <a href='https://api.scryfall.com/cards/b94cc636-de31-41b2-9c35-0bdfcdd0c1c1'>Dimir Infiltrator</a> | 1.29 | 4 |
+| <a href='https://api.scryfall.com/cards/0db57459-29f0-4ef6-b256-56955036c0ef'>Perplex</a> | 0.49 | 1 |
+| <a href='https://api.scryfall.com/cards/43bc65cf-4444-4db3-9bb3-a7d91e560470'>Groom's Finery</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/c8265c39-d287-4c5a-baba-f2f09dd80a1c'>Nezumi Shortfang // Stabwhisker the Odious</a> | 7.97 | 1 |
+| <a href='https://api.scryfall.com/cards/1f70baa3-5232-4e10-80b4-a9ead6ed6ec3'>Shepherd of Heroes</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/4e183069-096d-4977-8154-e7b60f17a787'>Clinging Anemones</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/0b649145-426f-4576-a71c-6ee5d3981243'>Spark Double</a> | -1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/f7b96d12-6309-48d1-bbdc-7bc88f4e2518'>Higure, the Still Wind</a> | 14.4 | 1 |
+| <a href='https://api.scryfall.com/cards/6f706ac3-0ad8-44ac-a99e-21c04075951d'>Candlekeep Sage</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/582dffab-2851-4498-ad69-c4d072617f32'>Stunning Strike</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/ce26ccff-91dc-4564-8b5d-d9adf1c55821'>Mari, the Killing Quill</a> | 1.73 | 1 |
+| <a href='https://api.scryfall.com/cards/d80100c3-c81e-4084-8dfe-f8610637fd91'>Dockside Chef</a> | 0.31 | 1 |
+| <a href='https://api.scryfall.com/cards/b005eef6-75f3-454f-a42b-d851bc84ac4e'>Tolaria West</a> | 1.51 | 1 |
+| <a href='https://api.scryfall.com/cards/bdedbb84-7abe-420d-8429-c2d77ee0ae36'>Call to Heel</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/a07550a2-51dc-420c-87bc-d43195ff110d'>Trade Routes</a> | 5.18 | 1 |
+| <a href='https://api.scryfall.com/cards/04bdcdce-68fb-460b-874d-40df7afd99ca'>Nezumi Shadow-Watcher</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/8a9c29bf-a177-40d5-9ade-129221222900'>Nezumi Cutthroat</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/26594b52-3e9c-4cde-88df-1f4e9e16676e'>Tameshi, Reality Architect</a> | 0.28 | 1 |
+| <a href='https://api.scryfall.com/cards/c9c7ba6f-c58e-4347-92e4-51ae8f2d5a88'>Sky-Blessed Samurai</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/3e1766e9-2fa7-4446-a255-7beea1467ece'>Lion Sash</a> | 1.4 | 1 |
+| <a href='https://api.scryfall.com/cards/743e38d1-b1cd-4828-ad3d-529a9f882115'>Deathmask Nezumi</a> | 0.13 | 3 |
+| <a href='https://api.scryfall.com/cards/5753e654-f02c-46eb-b5f5-cba1a99a0253'>Goggles of Night</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/18da890e-0f8d-41e9-a29f-24cb5393c464'>Guardian Naga // Banishing Coils</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/7ad8aa76-b643-4bd2-aaeb-036c1d50db54'>Your Temple Is Under Attack</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/201f06ef-c180-4ce3-afaf-bec3b14c0222'>Dawnbringer Cleric</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/8647092a-9d09-42cb-bcda-4e5e7a6c8a1c'>Coronation of Chaos</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/cfcd60dc-9534-412d-af48-31fcd8ea0843'>Sharpshooter Elf</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/bc420f2c-09fa-4f90-a1c3-7d151ecaa8b3'>Giant Ankheg</a> | 0.11 | 2 |
+| <a href='https://api.scryfall.com/cards/8aeee54a-5e16-4519-b04a-49eaaf896b9a'>Passageway Seer</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/d418c62c-ba1f-4399-a06c-cc3a0d23b117'>Hardy Outlander</a> | -1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/20b0cf66-c6ec-4ff6-96a5-334e2c9c7818'>Pact Weapon</a> | 1.12 | 1 |
+| <a href='https://api.scryfall.com/cards/7ad8aa76-b643-4bd2-aaeb-036c1d50db54'>Your Temple Is Under Attack</a> | 0.87 | 1 |
+| <a href='https://api.scryfall.com/cards/0c9e944b-98fa-4aea-825d-b8b8a9d7ed47'>Minthara, Merciless Soul</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/d4e19be3-8bf7-4f20-926b-76aa69fe36d3'>Jan Jansen, Chaos Crafter</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/72aed540-7833-4442-90a9-aa5468014c65'>Spire Garden</a> | 4.17 | 1 |
+| <a href='https://api.scryfall.com/cards/faadf72f-b2d5-4271-8d5c-a586acf63453'>Descent into Avernus</a> | 0.56 | 1 |
+| <a href='https://api.scryfall.com/cards/a73d1cb0-d0dc-4f2a-9cf2-954d5889dd08'>Rug of Smothering</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/f99ecf8e-3819-4a14-b2e8-8fcd3fef5846'>Viconia, Drow Apostate</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/d97f31e1-bcaf-4316-a2de-49e2cf7566ec'>Sea Gate</a> | 1.49 | 1 |
+| <a href='https://api.scryfall.com/cards/0bbfb7ae-9a32-428d-903c-99d0d8669b8d'>Sword Coast Serpent // Capsizing Wave</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/174ee9e7-8040-4b53-8d0d-177ce924521c'>Dread Linnorm // Scale Deflection</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/4a306025-d429-4006-b7ed-bdb287e83f57'>Basilisk Gate</a> | 0.7 | 1 |
+| <a href='https://api.scryfall.com/cards/5e185e5c-b6f9-4d36-a6b1-d7315de38fca'>Halsin, Emerald Archdruid</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/88e833a9-d82f-4942-a488-67d9c02817db'>Feywild Visitor</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/44c435b6-4010-4bb6-b645-67732b1ebeab'>Charcoal Diamond</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/2c5a3d8f-5513-42b1-a3d7-09cf781eaf94'>Teferi's Ageless Insight</a> | 2.29 | 1 |
+| <a href='https://api.scryfall.com/cards/b4810704-beb8-499c-a921-26f672fd33b2'>Piper of the Swarm</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/5d9a0771-072c-4b0c-afcb-15a6406473c6'>Silver-Fur Master</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/1e301a46-f321-4fa6-a8c4-08dd4079a458'>Kuro's Taken</a> | 0.23 | 4 |
+| <a href='https://api.scryfall.com/cards/eeaba189-b215-4d1c-9135-a86ce5ec955d'>Trade Routes</a> | 5.23 | 1 |
+| <a href='https://api.scryfall.com/cards/af5535db-696f-4c43-a8b9-c8e521b62c9c'>Tymora's Invoker</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/3fd3e535-8412-4f79-a2b1-dfda9db1c496'>Bhaal's Invoker</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/f1dd1bb8-013b-4028-becd-e0cb4b84f1ad'>Silvanus's Invoker</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/c6b0ed9c-9a99-4a50-80a9-396420a8dcf9'>Roving Harper</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/7fc8d802-33bd-48c1-bb4f-31fefac85a5a'>Saddle of the Cavalier</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/c301b389-d802-4a8b-8681-9b50c8667423'>Dynaheir, Invoker Adept</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/b534b1cb-0cd7-4b8c-bb25-42207fcba209'>Master Chef</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/c876f9b3-b4f6-4177-9c43-443ae2a028d0'>Scion of Halaster</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/6836cfea-c203-49f4-b8d1-f1e8aa790db5'>Call to the Void</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/aa74e656-480a-4c1b-963d-1b207075c27f'>Dungeoneer's Pack</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/06667c02-a78e-4cd8-b1dd-8d52a04d82e4'>Reality Hemorrhage</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/af5a237a-31e7-43ee-8d47-3eb12dd1a60c'>Territorial Hammerskull</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/0c3b8d6f-c60a-4107-b931-31b10f497237'>Nezumi Ronin</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/3132c128-e0bd-4524-9526-914b3c7181fc'>Lab Rats</a> | 0.24 | 4 |
+| <a href='https://api.scryfall.com/cards/afbd2822-d161-41df-9f48-abecd5da19c4'>Recruitment Drive</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/81fa8865-c600-4d8d-976d-789cd565802e'>Fire Diamond</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/5ac424e1-7806-46ee-84a9-ca2f0dd468a4'>Genasi Enforcers</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/0c4f76ae-e93b-4ca1-ac62-753707f6319e'>Trailblazer's Torch</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/c912e984-1d27-4da2-9733-d56e437bcf58'>Reckless Barbarian</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/b0260e1f-ff6a-4ef3-bef7-8c77f8413500'>Acolyte of Bahamut</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/e2f9233c-9d9f-480b-89fb-54d74d63a17a'>Skanos Dragonheart</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/e06ad968-ca7a-470b-ba3b-e0afc597b2cd'>Dragon Cultist</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/75994e0b-b0c7-4b0d-8f48-4be303429bd6'>Cadira, Caller of the Small</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/f6d5249c-52b6-4349-adcd-dafdc21f572b'>Street Urchin</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/6f706ac3-0ad8-44ac-a99e-21c04075951d'>Candlekeep Sage</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/27223ee4-970a-438a-beff-a1b13b14aff4'>Monster Manual // Zoological Study</a> | 1.8 | 1 |
+| <a href='https://api.scryfall.com/cards/aba79021-39af-4e74-beb5-f2f508c865b2'>Cast Down</a> | 0.24 | 1 |
+| <a href='https://api.scryfall.com/cards/e6c577bb-5e21-4a3e-b0a7-713a4ff7dce6'>Sunblade Samurai</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/f1c51ee1-d6f6-42d7-9be6-fe3f982984ba'>Gnat Miser</a> | 0.49 | 1 |
+| <a href='https://api.scryfall.com/cards/55bf4dda-0ce8-4e35-88d9-18a22400e6cb'>Locust Miser</a> | 1.97 | 1 |
+| <a href='https://api.scryfall.com/cards/4c6ee4eb-70b2-4f99-9d54-5caf2d3713be'>Beloved Princess</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/7f78a570-d776-42f2-a609-6da0156c8de7'>Curious Pair // Treats to Share</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/89ca22d2-3ba5-4173-9c8c-6587a901ff4a'>Weapon Rack</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/d2f11135-e9ce-4e4c-bea7-72a46d326e40'>Searing Barrage</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/769cddf0-2078-456b-a622-057571464fe7'>Flutterfox</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/421650f2-1b34-4a36-9675-9424997c9d0b'>So Tiny</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/da6f21a8-3dd0-42af-8a93-84f98968c781'>Locthwain Paladin</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/77c49e0e-4375-4e45-a57b-8df667e45ce6'>Brimstone Trebuchet</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/b42e1359-c79d-4848-a0f1-3f274e0bf0d9'>Arcanist's Owl</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/7645247b-e65a-4912-ac22-e6a0fa806dd7'>Faerie Vandal</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/79f591cd-d277-4ba5-b1bf-1c09cac9cb8a'>Torbran, Thane of Red Fell</a> | 1.38 | 1 |
+| <a href='https://api.scryfall.com/cards/ceb7308d-608c-4ede-9496-d795fc5bb271'>Merfolk Secretkeeper // Venture Deeper</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/4dc774b4-3f70-4351-b1b8-8a0193cb3a50'>Reaper of Night // Harvest Fear</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/3b583cc8-95e6-4772-afe3-d405b65836e0'>Gingerbread Cabin</a> | 0.1 | 2 |
+| <a href='https://api.scryfall.com/cards/e8bbece8-9620-44d9-b991-350fe952538a'>Faerie Guidemother // Gift of the Fae</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/f9358d5d-726e-43e0-a58e-4cfe7c755913'>Wishful Merfolk</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/71cd91b2-0f9b-4582-ad90-32fa3ee1fde7'>Wicked Guardian</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/464adbae-70ea-48e1-b8ae-b404766f7a5a'>Seven Dwarves</a> | 0.36 | 1 |
+| <a href='https://api.scryfall.com/cards/1100b898-31a8-4fdf-a54f-a1470ec032f3'>Shambling Suit</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/807a570a-b5eb-420d-9fa5-6e5364025510'>Inquisitive Puppet</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/0cf282fe-83fd-4208-b46f-dae76e3a7f62'>Bog Naughty</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/dcf70844-18b1-4046-ae1d-ef41790bdcde'>Castle Vantress</a> | 0.64 | 1 |
+| <a href='https://api.scryfall.com/cards/a9e80f06-ea05-4151-920f-7ddc88952169'>Tolaria West</a> | 1.75 | 1 |
+| <a href='https://api.scryfall.com/cards/28de0281-0370-44df-9ee0-6e1bb9925a92'>Relentless Rats</a> | 2.2 | 1 |
+| <a href='https://api.scryfall.com/cards/8d59d264-87ee-4305-bffb-110549331a82'>Altar of the Brood</a> | 5.45 | 1 |
+| <a href='https://api.scryfall.com/cards/87761f00-bfbc-42dc-b96d-9f4258b43a8b'>Stronghold Rats</a> | 0.21 | 5 |
+| <a href='https://api.scryfall.com/cards/43d93cfd-06d1-4c6a-87f6-9b6eaa2a995f'>Cathartic Reunion</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/5c40fd33-bb95-48f3-a10f-a33eb27c48f1'>Tentative Connection</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/3adc0288-acdf-4a99-9bfb-919cae1aeb69'>Blazing Volley</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/5fb22ac0-3863-4165-8c93-f2ec1775474f'>Frenzied Raptor</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/0a21d76d-d86c-4348-be45-f65167d2b5a9'>Geth's Grimoire</a> | 3.99 | 1 |
+| <a href='https://api.scryfall.com/cards/b1845806-7585-40d5-9d3a-f13667e6a9d2'>Ghitu Amplifier</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/5aec2b2c-0764-4869-814d-aad921122af9'>Impulse</a> | 0.11 | 3 |
+| <a href='https://api.scryfall.com/cards/1b1af9be-7f5e-48e9-a6e7-9261e199812e'>Yavimaya Iconoclast</a> | 0.09 | 3 |
+| <a href='https://api.scryfall.com/cards/b44b4e8b-7675-4c6a-a16a-92f8b6a0259f'>Queen Allenal of Ruadach</a> | 0.09 | 3 |
+| <a href='https://api.scryfall.com/cards/e2a54461-1f75-4304-b6d7-635171419456'>The Weatherseed Treaty</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/3e11ad33-b9d7-43ef-840a-61955683b599'>Resolute Reinforcements</a> | 0.13 | 1 |
+| <a href='https://api.scryfall.com/cards/216b4613-9b2a-472b-bc9a-49ad6c9b9f03'>Uurg, Spawn of Turg</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/a6f97236-1497-4811-8189-0545707451da'>Urborg Lhurgoyf</a> | 0.47 | 1 |
+| <a href='https://api.scryfall.com/cards/73e40916-3502-448a-a509-f6a6ff3cd73d'>Flowstone Kavu</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/6fde9404-b734-4f92-95eb-027443643d85'>Repay in Kind</a> | 0.98 | 1 |
+| <a href='https://api.scryfall.com/cards/7e57e1d7-da1d-4a2b-867f-85b8331b7bbc'>Shield-Wall Sentinel</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/0674b340-420d-4864-92fe-7b268fe0874c'>Gibbering Barricade</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/8382b7c7-762e-43f6-b285-e0cebe749fab'>Floriferous Vinewall</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/037cb79c-163d-4b36-bd93-954eca8fe26e'>Clockwork Drawbridge</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/d2028115-f0de-4e8b-99bc-7369352e1e07'>Academy Wall</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/b16f2cf2-5908-4f49-9c5c-6c9e22a65a4d'>Hurler Cyclops</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/9a25855f-abfc-482d-a36b-088b023a7df6'>Bortuk Bonerattle</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/6f342de7-f179-4894-96e4-56339d32f801'>Bortuk Bonerattle</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/a573c574-754a-4994-881c-ca5177727775'>Vohar, Vodalian Desecrator</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/d0f81814-2870-4aab-9c50-bad78aad4e36'>Nael, Avizoa Aeronaut</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/5da59e8f-cbe5-4c14-a5a9-28d56048dc23'>Nael, Avizoa Aeronaut</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/cc8331ab-adc9-45c6-9728-66afc72d901c'>Rona, Sheoldred's Faithful</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/af90bf02-5732-4666-8dfd-50370e478711'>Rona, Sheoldred's Faithful</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/0d446cb9-519a-4889-b057-029db9400021'>Tatyova, Steward of Tides</a> | 0.08 | 3 |
+| <a href='https://api.scryfall.com/cards/74c3f2dd-8745-4e2e-b01c-6b692c6ff8af'>Tatyova, Steward of Tides</a> | 0.09 | 2 |
+| <a href='https://api.scryfall.com/cards/c839d302-bf85-4a30-a49a-dbbd48695b5c'>Tura Kennerüd, Skyknight</a> | 0.03 | 3 |
+| <a href='https://api.scryfall.com/cards/d710ba7b-b0c9-4372-8f6e-1938bd114ac4'>Tura Kennerüd, Skyknight</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/d710ba7b-b0c9-4372-8f6e-1938bd114ac4'>Tura Kennerüd, Skyknight</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/1c3f0ffe-cf51-4c30-8cd5-9e3c7e92c019'>Elas il-Kor, Sadistic Pilgrim</a> | 0.47 | 1 |
+| <a href='https://api.scryfall.com/cards/552fbde6-515d-457e-81c9-d67157eaaf37'>Elas il-Kor, Sadistic Pilgrim</a> | 0.18 | 1 |
+| <a href='https://api.scryfall.com/cards/1f643d78-d8d8-4645-9357-a68ebd0d3517'>Baird, Argivian Recruiter</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/07177a8e-5ded-4084-a22f-2d8fe933de7a'>Stenn, Paranoid Partisan</a> | 0.28 | 3 |
+| <a href='https://api.scryfall.com/cards/d67be074-cdd4-41d9-ac89-0a0456c4e4b2'>Sheoldred, the Apocalypse</a> | 52.1 | 1 |
+| <a href='https://api.scryfall.com/cards/6d872c10-4126-4130-a74a-1331ed418ca8'>Pilfer</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/6d872c10-4126-4130-a74a-1331ed418ca8'>Pilfer</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/18b1a4ee-437f-4a08-b176-8342d526143f'>Valiant Veteran</a> | 0.67 | 1 |
+| <a href='https://api.scryfall.com/cards/90dc4122-4f7a-4d9f-8427-de36e3e8a913'>Elvish Hydromancer</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/acd5a635-bcf5-4a05-b00b-bf40322823fe'>Hexbane Tortoise</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/9d933bf1-14f0-4150-a0d2-6b845b9624cf'>Shore Up</a> | 0.13 | 3 |
+| <a href='https://api.scryfall.com/cards/73e40916-3502-448a-a509-f6a6ff3cd73d'>Flowstone Kavu</a> | 0.05 | 4 |
+| <a href='https://api.scryfall.com/cards/0eacd3de-b803-4322-8d88-d533761aa748'>Bite Down</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/40141353-c0d6-4529-b26a-34dfccbcf231'>Frostfist Strider</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/7e528d36-cea6-4013-83d5-ba837d570713'>Mossbeard Ancient</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/2d841faa-9e0b-45ff-9dfd-f8a169d9af76'>Founding the Third Path</a> | 0.15 | 2 |
+| <a href='https://api.scryfall.com/cards/ce295f1e-fb31-4275-a5d3-8c6f29afff40'>Serra Paragon</a> | 9.78 | 1 |
+| <a href='https://api.scryfall.com/cards/409189da-53c9-4daf-b6b2-d155fc14f91a'>Samite Herbalist</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/1d6e23d2-3740-443d-9ea0-1d5f22a4d365'>Treasure Hunter</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/bb078448-9e9f-4994-8aff-7e7c4fb62efc'>Shadow Prophecy</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/106b5c96-d1bd-433d-955e-ace0b60d3bc3'>Bone Splinters</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/0f33284f-bdb1-4982-8636-8f2e12896053'>In Thrall to the Pit</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/c35bab2f-8464-4968-8c50-8807638d687b'>Balduvian Berserker</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/d13d40b9-319b-4630-a5cd-228ff2f24367'>Dragon Whelp</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/feeec740-7ffc-4f57-b52c-92209da91d69'>Mesa Cavalier</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/3bd9e99a-ae8c-4323-aa86-b19288c877d4'>Yotia Declares War</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/699d8655-d250-4ab6-92c5-376979bbabc7'>Inscribed Tablet</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/881cc4a3-252b-4155-a34f-63d4b4f44442'>Defiler of Dreams</a> | 0.8 | 1 |
+| <a href='https://api.scryfall.com/cards/a83d571b-ad91-43f5-8498-115cede4867d'>Warhost's Frenzy</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/554c422f-2a1b-47c0-9358-42b85cdbb84e'>Coalition Warbrute</a> | 0.03 | 3 |
+| <a href='https://api.scryfall.com/cards/5fc22ecb-5d87-464e-8c7d-5d40a52e1e4f'>Salvaged Manaworker</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/10a544d7-ead7-42fd-a35a-c1b672771d5b'>Urza Assembles the Titans</a> | 0.27 | 2 |
+| <a href='https://api.scryfall.com/cards/f8611a53-e54e-4625-8e28-03511f1550e8'>Golden Argosy</a> | 0.39 | 1 |
+| <a href='https://api.scryfall.com/cards/d939d4bc-b7e8-4ee8-b904-68f0bff0fde1'>Magnigoth Sentry</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/89c46e9c-ae7c-466c-bb11-4f4d01ea7a63'>Gaea's Might</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/15cc59c7-6478-4f84-898a-7e0fed10f004'>Linebreaker Baloth</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/1f08749e-05e0-4fb4-a4ae-35e7187584ab'>Viashino Branchrider</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/e2d714d8-0e9b-4761-a0ef-3429b4e2f5b7'>Llanowar Stalker</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/afbadc37-1b4f-4237-a3c0-772bafb18aa0'>Argivian Phalanx</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/90dc4122-4f7a-4d9f-8427-de36e3e8a913'>Elvish Hydromancer</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/f55606da-de3e-4375-925b-cc16b03b6365'>Djinn of the Fountain</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/9c0e3882-1f97-48eb-b9e3-2f9683ff5897'>Coral Colony</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/851e842e-a497-4c36-90ee-8d64f806c378'>Take Up the Shield</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/8d858e9e-452b-4281-9379-641ef6ebef39'>Hammerhand</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/ac809fca-664a-4e7d-a39f-2bc1dea0fbd8'>Aggressive Sabotage</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/9752ed44-dc5e-4f73-9422-c1d267b60a3c'>Thrill of Possibility</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/bb6db604-8bbe-4719-88bd-f3cad8c4725d'>Protect the Negotiators</a> | 0.08 | 2 |
+| <a href='https://api.scryfall.com/cards/0fae6a19-6a16-443e-adae-78a7380ee012'>Bramble Sovereign</a> | 3.25 | 1 |
+| <a href='https://api.scryfall.com/cards/64395505-914c-4e10-aed1-818425709b12'>Minthara, Merciless Soul</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/e2ef30c5-a6a6-4cd9-805f-dc6f66f28997'>Pack Attack</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/c454312c-ba0d-4b93-a3f5-e7764fcfbe20'>Band Together</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/9fddbd7a-799c-4432-810c-d839c5c354b9'>You Meet in a Tavern</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/21e34888-f57c-4f5d-bb5c-b82be980d145'>Two-Handed Axe // Sweeping Cleave</a> | 0.41 | 1 |
+| <a href='https://api.scryfall.com/cards/2255d1e4-f387-4187-8c10-7d0009f6ec79'>Thrakkus the Butcher</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/ec122c9f-5513-4ba7-ae04-3c2060121d73'>Flaming Fist</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/5c92d2a9-a4f9-4fff-a57f-9cd2370bb5bf'>Dynaheir, Invoker Adept</a> | 0.2 | 1 |
+| <a href='https://api.scryfall.com/cards/4d79c221-e07a-41e1-b92f-dc057802449c'>Mazzy, Truesword Paladin</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/6d67e95e-c4a7-45bc-ae83-0b532ad530db'>Lulu, Loyal Hollyphant</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/e8c9ada9-ea25-4a96-a4be-e4cf8f7a014f'>Lampad of Death's Vigil</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/e1f2a587-443d-4626-a6f6-9a26838a42b1'>Altar of the Pantheon</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/f5ba5d4b-5dbb-43d6-8f44-a2f80944df98'>Indomitable Will</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/05bc4236-566f-401b-b9d7-f58126fa228b'>Nyxborn Brute</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/a1ddd113-140f-49c9-b45c-cf1b0d1dffd8'>Banishing Light</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/03919c86-1c4a-43b0-a2db-54ca6ae1ac57'>Underworld Dreams</a> | 0.45 | 2 |
+| <a href='https://api.scryfall.com/cards/2b1d890f-7ef8-47b9-9ec8-f3884a1d09db'>Siona, Captain of the Pyleas</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/dbc0d2c3-8060-4155-b10e-d641648a4e6b'>Kunoros, Hound of Athreos</a> | 0.31 | 1 |
+| <a href='https://api.scryfall.com/cards/f82541f2-b17c-45b4-87ff-f9b46d23578c'>Smitten Swordmaster // Curry Favor</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/d63a6be2-ae9a-4758-9d5c-0297ef9af57c'>Fierce Witchstalker</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/62d3132f-f897-4a7a-9de4-c6388e83f5ad'>Witching Well</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/04ef8493-d986-45f8-a718-617b028f7ad4'>Witch's Oven</a> | 1.17 | 1 |
+| <a href='https://api.scryfall.com/cards/330cc452-4382-401d-9432-ac27ae6e27ad'>Order of Midnight // Alter Fate</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/8659092e-4fe8-42be-ab03-efc99ed37436'>Overwhelmed Apprentice</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/e3435fd6-8f51-4d99-a278-4ddb088acfe1'>Fae of Wishes // Granted</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/7328a565-966d-4053-b32b-25bdce031d9f'>Caves of Koilos</a> | 1.29 | 1 |
+| <a href='https://api.scryfall.com/cards/ca2c611c-3a6f-44b0-9daa-837a465845e0'>Idyllic Grange</a> | 0.44 | 2 |
+| <a href='https://api.scryfall.com/cards/e8e31184-dca4-48b1-be9d-581247c41d99'>Wooded Ridgeline</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/a82f782e-abc8-4b92-a193-17b2c383f765'>Mountain</a> | 0.04 | 2 |
+| <a href='https://api.scryfall.com/cards/5a846f00-ccb9-4ee2-8358-7c7722258601'>Swamp</a> | 0.08 | 3 |
+| <a href='https://api.scryfall.com/cards/64e7580a-92bd-4b50-84fc-ee42e47c9014'>Island</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/e67477a4-6878-4356-8037-807f41590ad1'>Island</a> | 1.59 | 1 |
+| <a href='https://api.scryfall.com/cards/52097f6a-58d3-4176-b3bf-dc94f44adf30'>Forest</a> | 0.06 | 3 |
+| <a href='https://api.scryfall.com/cards/52097f6a-58d3-4176-b3bf-dc94f44adf30'>Forest</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/a9891b7b-fc52-470c-9f74-292ae665f378'>Plains</a> | 0.83 | 1 |
+| <a href='https://api.scryfall.com/cards/5822b027-369d-46da-b6dd-c31207e2f449'>Plains</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/be849ad5-9f96-4605-a0dc-8b9588ac7dd6'>Plains</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/a18b8768-4126-4636-990e-21b4308740dc'>Liliana of the Veil</a> | 21.84 | 1 |
+| <a href='https://api.scryfall.com/cards/2a501319-59a7-45d4-a6ca-666276095f87'>Quirion Beastcaller</a> | 0.76 | 2 |
+| <a href='https://api.scryfall.com/cards/4af4031e-b14e-4568-b047-b3d470d9b18e'>Keldon Strike Team</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/0c7ed7e0-0e80-44d3-a7af-b4c321239df8'>Captain's Call</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/5ccd67d4-1a22-4378-804d-6e2c93dc4938'>Scout the Wilderness</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/ef2dc99b-083d-473e-b352-e8264353e85b'>Elfhame Wurm</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/5b7c0d2d-7107-4599-8d49-c7c57d21e467'>Hero's Heirloom</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/b25ab334-1060-457e-b212-3d7a697c545e'>Joint Exploration</a> | 0.17 | 1 |
+| <a href='https://api.scryfall.com/cards/e4dce5e7-c864-4239-bab7-af6a3adcb731'>Join Forces</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/93dd512f-9f77-4f54-9081-f14ae0aa8c7a'>Lagomos, Hand of Hatred</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/31274707-3e16-4f46-8450-6927d936064b'>Tribute to Urborg</a> | 0.02 | 3 |
+| <a href='https://api.scryfall.com/cards/ecb8dab0-ecce-4321-b382-c58b296c2fd3'>Urborg Repossession</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/16f5e958-56e6-4666-a534-24deba6f652d'>Haunted Mire</a> | 0.22 | 2 |
+| <a href='https://api.scryfall.com/cards/25e3ba0f-0879-4eea-9911-14b874f039b3'>Balmor, Battlemage Captain</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/a15e0c8b-3609-4a59-8e9b-bf2ce93d775f'>Zar Ojanen, Scion of Efrava</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/e4b1aa1e-b4e3-4346-8937-76b312501c70'>Jodah, the Unifier</a> | 3.72 | 2 |
+| <a href='https://api.scryfall.com/cards/ea61871b-9295-4ea0-86ef-e7a11e23bda8'>Volshe Tideturner</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/37f920f0-4dfc-477b-af7e-a17dfc9ba455'>Patriar's Seal</a> | 2.45 | 1 |
+| <a href='https://api.scryfall.com/cards/e0f9dca6-e5ae-4714-8a59-2ef1d8f1e82d'>Radiant Grove</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/b21203c8-a935-4ce0-a742-148587e32145'>Micromancer</a> | 0.1 | 3 |
+| <a href='https://api.scryfall.com/cards/65617a8f-4bd8-4edb-b5ec-e20b4482390b'>Phyrexian Vivisector</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/0d4d7293-657f-48ac-931b-fb6a44128e6d'>Artillery Blast</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/0b51c3b5-db70-4976-986d-ed3fc8584d1a'>Snarespinner</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/d397fb84-8573-4b2c-be2c-f8fd820342f0'>Tidepool Turtle</a> | 0.01 | 3 |
+| <a href='https://api.scryfall.com/cards/aef37244-deb9-464e-ab8c-4308369ae09b'>Vanquisher's Axe</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/8b12da45-aff4-406d-83a3-39ecaff6ff56'>Coalition Skyknight</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/81f90e4d-f60f-4175-830f-c2ce04c5a945'>Llanowar Greenwidow</a> | 0.16 | 1 |
+| <a href='https://api.scryfall.com/cards/a00881c4-5bef-47b1-ad00-eb7422bd2225'>Stitch Together</a> | 1.9 | 1 |
+| <a href='https://api.scryfall.com/cards/64a2809e-c441-416c-90ff-6fb1e246dff3'>Relic of Legends</a> | 1.76 | 1 |
+| <a href='https://api.scryfall.com/cards/6bb570f4-de68-4d8c-a9f3-8a3294163aa8'>Contaminated Aquifer</a> | 0.23 | 2 |
+| <a href='https://api.scryfall.com/cards/20aff4af-5128-432f-a8c8-65b6909d31ac'>Molten Tributary</a> | 0.17 | 2 |
+| <a href='https://api.scryfall.com/cards/2a3cc789-cbb8-4dae-a749-af169832dd7b'>Voda Sea Scavenger</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/f346defa-ee4a-404e-8154-0e33ebe9102c'>Stall for Time</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/18b8721c-371b-454c-8ccd-5e57779fc4d0'>Garna, Bloodfist of Keld</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/86a42355-ead5-48b9-813a-1e9be9a45747'>Radha, Coalition Warlord</a> | 0.03 | 2 |
+| <a href='https://api.scryfall.com/cards/9d243099-94b1-4571-96af-4c5a34241911'>Drag to the Bottom</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/e8e31184-dca4-48b1-be9d-581247c41d99'>Wooded Ridgeline</a> | 1.08 | 1 |
+| <a href='https://api.scryfall.com/cards/f435329e-6de7-4b05-ba70-cb63d121116e'>Toxic Abomination</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/d4101cf9-4e05-414a-843e-b2fda0db917c'>Queen Allenal of Ruadach</a> | 0.05 | 3 |
+| <a href='https://api.scryfall.com/cards/390fd5d1-3ce9-456e-b130-30ad0557f4cf'>Briar Hydra</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/adcd556d-351f-4faf-9456-0e47def69a69'>Nemata, Primeval Warden</a> | 0.35 | 1 |
+| <a href='https://api.scryfall.com/cards/2a3cc789-cbb8-4dae-a749-af169832dd7b'>Voda Sea Scavenger</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/cc0cba4c-d9f0-421f-acf4-ab1adcd59c80'>Raff, Weatherlight Stalwart</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/40a791df-2483-406d-90b0-a8d402d615d6'>Irenicus's Vile Duplication</a> | 4.59 | 1 |
+| <a href='https://api.scryfall.com/cards/1c2b0f20-7b6a-4dc5-b1c9-b11554da9a05'>Ramses, Assassin Lord</a> | -1.0 | 1 |
+| <a href='https://api.scryfall.com/cards/7fcda1a2-87e0-4b9e-acb9-0bab521792fe'>Heirloom Blade</a> | 0.22 | 1 |
+| <a href='https://api.scryfall.com/cards/21146226-ff05-40d5-bc4e-42f2263104b1'>Mortal Combat</a> | 5.04 | 1 |
+| <a href='https://api.scryfall.com/cards/276f49f9-019b-44cb-a551-0fba9851ecc7'>Myriad Landscape</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/dd7153be-ad6c-47ff-8f45-bc8df17973cb'>Sand Strangler</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/fb1e610e-a4a2-460b-8e4c-13674badbce3'>Diplomatic Immunity</a> | 1.27 | 1 |
+| <a href='https://api.scryfall.com/cards/b4f2bf63-e3cf-4a58-86b7-f3bab3b90712'>Quicksilver Fountain</a> | 3.09 | 1 |
+| <a href='https://api.scryfall.com/cards/7f334767-4353-4379-a934-fa67075db439'>Cliffhaven Sell-Sword</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/9a2119bc-a377-4156-89d4-56e7b5b494a8'>Vesuvan Duplimancy</a> | 5.55 | 1 |
+| <a href='https://api.scryfall.com/cards/fae25afd-0d16-431c-a85e-7ac91cef9050'>Dark Ritual</a> | 0.71 | 1 |
+| <a href='https://api.scryfall.com/cards/beebe533-29b9-4041-ab66-0a8233c50d56'>Sol Ring</a> | 1.92 | 1 |
+| <a href='https://api.scryfall.com/cards/7adbe69f-326d-4b4f-850f-c57a1860d17c'>Vorpal Sword</a> | 1.02 | 2 |
+| <a href='https://api.scryfall.com/cards/e262f723-0e0b-44a4-bfc6-f48f17a805d9'>Heart-Piercer Bow</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/b748341f-557c-4b6a-a36c-c08c9cc05b90'>Meteor Golem</a> | 0.14 | 1 |
+| <a href='https://api.scryfall.com/cards/3c065cae-1ed5-445e-ace3-e81cf4c773de'>Haunted Crossroads</a> | 4.62 | 1 |
+| <a href='https://api.scryfall.com/cards/d2e46d3d-7c7f-487f-8cc6-078b17c113a0'>Cowardice</a> | 0.77 | 1 |
+| <a href='https://api.scryfall.com/cards/3fca3c65-f20e-4978-bfbb-ee7f9e1d829f'>Embargo</a> | 2.12 | 1 |
+| <a href='https://api.scryfall.com/cards/e283db9e-6a51-4b28-9f6c-0c040a9d6d8c'>Meandering River</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/e83b1b87-01d5-4624-8a2b-4b771e13e59c'>Karn, Living Legacy</a> | 5.51 | 1 |
+| <a href='https://api.scryfall.com/cards/ef074a2e-a387-4af8-a180-74b145d93992'>Thran Portal</a> | 0.47 | 1 |
+| <a href='https://api.scryfall.com/cards/8bafc217-3d83-4551-b2e3-3494ec14b2f9'>Island</a> | 0.07 | 2 |
+| <a href='https://api.scryfall.com/cards/2ef6cb5f-0ab3-4652-9b39-c2cbf6d693d5'>Nishoba Brawler</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/76bdc912-61da-428d-b0d7-3a38676a402a'>Phoenix Chick</a> | 0.31 | 1 |
+| <a href='https://api.scryfall.com/cards/c58096e5-3cd4-4edd-b71a-3bdb47ab2536'>Fires of Victory</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/3fa49711-473d-4774-99b8-2bfbabc6b735'>Rulik Mons, Warren Chief</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/9d690340-75f1-4733-bde5-2d60fd02f060'>Temporal Firestorm</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/d397fb84-8573-4b2c-be2c-f8fd820342f0'>Tidepool Turtle</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/e5e8dc1b-bae7-494c-b568-83bcd6f15218'>Pillaging Horde</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/c50ec22c-decb-419f-ae52-78ea1706eb11'>Idyllic Beachfront</a> | 0.21 | 1 |
+| <a href='https://api.scryfall.com/cards/171bfcb2-dd43-4d63-b2e2-6ca594c2ec40'>Pixie Illusionist</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/10d1d701-841c-4bf3-9122-b01842a22ac6'>Griffin Protector</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/0b0979f9-aae3-4fc7-beae-c8c6637ae596'>Soaring Drake</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/9017ee70-761b-434e-bc44-705cf14336fa'>Najal, the Storm Runner</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/ff252e80-c155-467b-8df3-9bddc5cc45c3'>Hurloon Battle Hymn</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/bc531409-26cb-4c58-ba69-f39dd8aee3d1'>Twinferno</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/65c903e3-d622-415e-9144-a5b2f3f7b9ed'>Zar Ojanen, Scion of Efrava</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/e8e9959a-b422-4906-8d35-8b05c5dd6de1'>Forest</a> | 1.24 | 4 |
+| <a href='https://api.scryfall.com/cards/0a4b9afe-aeb7-4c56-8a22-96e19a7a938c'>Talas Lookout</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/1f08749e-05e0-4fb4-a4ae-35e7187584ab'>Viashino Branchrider</a> | 0.01 | 2 |
+| <a href='https://api.scryfall.com/cards/f0588fbf-3c05-452a-b3f7-67604c1f921d'>Sunlit Marsh</a> | 0.21 | 2 |
+| <a href='https://api.scryfall.com/cards/f54413be-7d73-478d-a25a-8fe06f6491a5'>Runic Shot</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/3d1ed3b1-9c7d-44ff-8f0a-2a7a08313863'>Raff, Weatherlight Stalwart</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/673a8676-0a93-4ca3-a786-63f138027e8a'>Karn's Sylex</a> | 4.45 | 1 |
+| <a href='https://api.scryfall.com/cards/25175622-7b68-4916-adf2-3bf2d82e8356'>Yavimaya Steelcrusher</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/b0244a1f-e696-4223-9c14-22c2ca3cb738'>Herd Migration</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/d9142f35-75f4-44c7-b03c-79c4a2d43c88'>Colossal Growth</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/0a135e09-b534-4836-9a10-3a9a4a9f8c53'>Grafdigger's Cage</a> | 2.18 | 1 |
+| <a href='https://api.scryfall.com/cards/acd5a635-bcf5-4a05-b00b-bf40322823fe'>Hexbane Tortoise</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/32e9a83f-be4b-4116-8e0d-61c159286ae0'>Robaran Mercenaries</a> | 0.28 | 1 |
+| <a href='https://api.scryfall.com/cards/4aab611c-64e0-4b38-97b9-b29a1c6a79b7'>Heroic Charge</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/57746e72-ba9f-4717-a4a2-6c6a039080c3'>Argivian Cavalier</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/f42167ef-7858-4c66-b1bc-41c3288a8ee8'>Phyrexian Warhorse</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/be849ad5-9f96-4605-a0dc-8b9588ac7dd6'>Plains</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/dd3fc36c-682b-4352-a66f-eddd2baf0bf6'>Uurg, Spawn of Turg</a> | 0.05 | 2 |
+| <a href='https://api.scryfall.com/cards/6c44738c-706f-40b2-a09d-b21cd0889049'>Combat Research</a> | 0.25 | 1 |
+| <a href='https://api.scryfall.com/cards/34ec0f4f-e6f7-4a49-81a3-a1fbad102a9d'>Island</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/4016c6f7-7cb4-46c2-af73-3bd6d682ea5e'>Negate</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/9806370b-51e3-4144-a847-6b367fb937ef'>Citizen's Arrest</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/d14b07ea-18e4-41fb-8136-759d5349e88a'>Haunting Figment</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/4f7862ef-2c8d-4d28-9e50-7cc41861f245'>Destroy Evil</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/b7c7a54e-4df6-4745-8bae-aeefda934d82'>Knight of Dawn's Light</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/9c873c5b-61f6-49b9-8993-2d5e9823de62'>Tori D'Avenant, Fury Rider</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/ba537452-3dab-4ecd-b65f-9e311a130d31'>Choking Miasma</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/ae12fd10-c13e-4777-a233-96204ec75ac1'>Annihilating Fire</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/7b68c607-27f2-4a00-9876-186b5a426764'>Alchemist's Greeting</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/e8685c8e-935f-49f2-acf2-8e3c41c5b330'>Ardent Electromancer</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/72776f25-48f5-4d7f-84a9-310928b9d7ad'>Mountain</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/5dd5f389-fea2-4aed-a218-eca162902775'>Tolarian Geyser</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/ea61871b-9295-4ea0-86ef-e7a11e23bda8'>Volshe Tideturner</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/bd250c9d-c65f-4293-a6b0-007fac634d3d'>Crystal Grotto</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/7ae6f015-2ad6-4b8e-8590-c2c2d01b6d98'>Sunbathing Rootwalla</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/be69f87e-3fbb-4b37-953f-623443573fca'>Rulik Mons, Warren Chief</a> | 0.02 | 2 |
+| <a href='https://api.scryfall.com/cards/10eca3b1-f35a-4984-bfc0-818e619b1ece'>King Darien XLVIII</a> | 0.39 | 1 |
+| <a href='https://api.scryfall.com/cards/747881c7-3788-4dd6-b78d-b2a5ded20e14'>Smash to Dust</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/5cd3287d-e4d8-4670-a2dd-b683055ae4b9'>Stone Haven Pilgrim</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/4a325fb4-fe71-47f1-9a2f-05b8cfe88fe6'>Tangled Islet</a> | 0.19 | 1 |
+| <a href='https://api.scryfall.com/cards/33eb2032-50af-4fd6-bdc7-7cae2211956c'>Meteorite</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/6544a289-3b27-4980-8ed7-22f50ae92c1a'>Cleaving Skyrider</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/629aa907-9533-4681-9bf2-9e56450a4cc2'>Tear Asunder</a> | 0.71 | 1 |
+| <a href='https://api.scryfall.com/cards/95a39b26-8c83-40ea-b492-036251366d73'>Tail Swipe</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/9315812d-03e8-4eb4-a693-e7adf281f7fb'>Ratadrabik of Urborg</a> | 0.45 | 1 |
+| <a href='https://api.scryfall.com/cards/409189da-53c9-4daf-b6b2-d155fc14f91a'>Samite Herbalist</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/335f3146-743c-4a25-86b5-c45e9c66eb15'>Eerie Soultender</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/88dee3d1-0496-40ea-b208-7362a932f531'>Deathbloom Gardener</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/0368e91c-31ee-4b81-a361-30a4555b1a42'>Tattered Apparition</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/54a1b0b3-f224-408f-a2da-1b8f9517f640'>Wooden Stake</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/47b38c68-8e72-4afc-bb5e-0b40880fdda9'>Grave Betrayal</a> | 4.34 | 1 |
+| <a href='https://api.scryfall.com/cards/d0be2d6e-e8c4-48e0-8fef-880642b0c7f4'>Syphon Mind</a> | 0.6 | 1 |
+| <a href='https://api.scryfall.com/cards/752bf7fd-c49e-42fa-bbdd-8ca5d4c89b2b'>Profane Command</a> | 0.53 | 1 |
+| <a href='https://api.scryfall.com/cards/ed0ace28-9a33-4f0d-b8c8-f5517f20ccf1'>Ayara, First of Locthwain</a> | 6.22 | 1 |
+| <a href='https://api.scryfall.com/cards/d4a66e33-af5c-42b5-bef6-0ff0197ecc14'>Rosethorn Halberd</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/8f42d773-c742-4465-b6d5-31feaba49146'>Fling</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/974e84ce-5b51-4bd7-9a4d-b64d8f8f62d4'>Trapped in the Tower</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/e04ad850-5801-4654-a388-f86be20a43bf'>Tome Raider</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/050c03f9-ccbd-4dcc-9789-8013875ef470'>Giant's Skewer</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/686cf5c4-6ba3-4fa0-9732-0a350c637c7a'>Redcap Raiders</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/6716f46c-806d-4b3e-8a1c-fd6dcedacf8e'>Fireborn Knight</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/83b5b110-c430-4ffe-9fc1-8e6987f52d1e'>Slaying Fire</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/548d7ff0-70b6-4221-b50b-3ee8547e1b0a'>Rally for the Throne</a> | 0.11 | 1 |
+| <a href='https://api.scryfall.com/cards/9b5fbeae-9bd5-4741-80a2-9b646b374328'>Plains</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/00daa026-aba3-421e-9eaa-aa5649b36eb2'>Swamp</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/000376ef-8b6c-490d-98cb-d6de15b2e585'>Battlewing Mystic</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/676bc62e-f685-45cb-bcdd-d8adbe9c4ccb'>Tori D'Avenant, Fury Rider</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/5b8127b5-3a65-411a-84bc-54e5c1be1477'>Anointed Peacekeeper</a> | 0.57 | 1 |
+| <a href='https://api.scryfall.com/cards/6129b0d3-b50a-4a4b-9111-39f8fc6718dd'>Ertai's Scorn</a> | 0.43 | 1 |
+| <a href='https://api.scryfall.com/cards/6129b0d3-b50a-4a4b-9111-39f8fc6718dd'>Ertai's Scorn</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/807c7812-c108-45a7-a5b2-08cc693bc500'>Vohar, Vodalian Desecrator</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/48aa964f-99b5-4b6b-b158-42f39514c910'>Meria's Outrider</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/63d05659-bfff-4b73-80f7-a9f31a7ef957'>Furious Bellow</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/294c5f08-08e7-458f-8838-ff321dc5d9f2'>Garna, Bloodfist of Keld</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/a83d571b-ad91-43f5-8498-115cede4867d'>Warhost's Frenzy</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/2cec235e-7ce0-4947-b221-a555b2c865bd'>Radha, Coalition Warlord</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/ed719f25-1aab-4a1e-8c9f-dd574db5de0c'>Sheoldred's Restoration</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/31274707-3e16-4f46-8450-6927d936064b'>Tribute to Urborg</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/64e7580a-92bd-4b50-84fc-ee42e47c9014'>Island</a> | 0.09 | 1 |
+| <a href='https://api.scryfall.com/cards/62405700-d42c-4c96-9678-dd72d7b7c807'>Fire Elemental</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/0dcc2699-03e6-47d1-b976-1453fe9d27b7'>Blight Pile</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/f5800f3d-b2e0-4c74-94bf-f29b27f82130'>Wingmantle Chaplain</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/8418c504-24fe-470f-8102-dcad68ba1520'>Strength of the Coalition</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/6b7acac3-cb41-46bb-ae5e-98dc60620e53'>Baird, Argivian Recruiter</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/0b983366-385f-41a3-aa46-20151e68d140'>Phyrexian Espionage</a> | 0.05 | 1 |
+| <a href='https://api.scryfall.com/cards/03cd5953-37fc-4a8a-89f8-0b5dd8412dc9'>Mountain</a> | 1.46 | 1 |
+| <a href='https://api.scryfall.com/cards/314e97b5-cd43-4f5e-acdd-a107208e061c'>Kotose, the Silent Spider</a> | 0.12 | 1 |
+| <a href='https://api.scryfall.com/cards/9d77d1e6-c804-46f7-ba00-6df6bca2ae08'>Seven-Tail Mentor</a> | 0.03 | 1 |
+| <a href='https://api.scryfall.com/cards/6ee530f3-118c-45cc-9b42-7f19f5786134'>Boiling Blood</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/9e64bc76-c6df-4b3c-b37f-f9386d30cab9'>Roving Keep</a> | 0.07 | 1 |
+| <a href='https://api.scryfall.com/cards/c3669391-8f64-4904-b432-0f0582f30449'>Opt</a> | 0.1 | 1 |
+| <a href='https://api.scryfall.com/cards/6d361328-8b0a-40a0-b5c0-215398fdfb47'>Steelgaze Griffin</a> | 0.01 | 1 |
+| <a href='https://api.scryfall.com/cards/42a4d090-1bb7-4334-ab22-e2527391e79b'>Bake into a Pie</a> | 0.06 | 2 |
+| <a href='https://api.scryfall.com/cards/3d1a3fec-39de-4223-9da2-22749a58cd62'>Youthful Knight</a> | 0.04 | 1 |
+| <a href='https://api.scryfall.com/cards/5d21c15f-378e-4abf-992f-9743aa6ab6b8'>Wolf's Quarry</a> | 0.02 | 1 |
+| <a href='https://api.scryfall.com/cards/8a665794-513f-4f78-92c9-1844ec27c79c'>Oakhame Ranger // Bring Back</a> | 0.06 | 1 |
+| <a href='https://api.scryfall.com/cards/9fb4e77f-e189-4ad3-9fca-8da04289e396'>Oakhame Adversary</a> | 0.23 | 1 |
+| <a href='https://api.scryfall.com/cards/6bd1dd34-d480-4dfd-9f82-73c4e24a11fc'>Redcap Melee</a> | 0.15 | 1 |
+| <a href='https://api.scryfall.com/cards/663b3e6f-1099-4de8-a0a7-6f1919c38010'>Hushbringer</a> | 1.05 | 1 |
+| <a href='https://api.scryfall.com/cards/e52fa771-eaff-48e0-8c23-d118dc4b3438'>Forest</a> | 0.08 | 1 |
+| <a href='https://api.scryfall.com/cards/166775be-c3b7-4a17-9376-aa4229b147f9'>Mukotai Soulripper</a> | 0.09 | 1 |
