@@ -29,7 +29,7 @@ To emphasis that point:
 
 This is a list that contains the values `+`, `1`, and `2` and since it hasn't been told _not_ to evaluate it, it _will_ evaluate it and produce the number `3`.
 
-`'(+ 1 2)'`
+`'(+ 1 2)`
 
 This however, is a quoted list and the `'` at the beginning forces this to be treated as a list, irrespective of the contents, this list _could_ be evaluated, it's certainly syntactically correct, but just because we have a list that doesn't necessarily mean we _want_ to execute it now... or ever.
 
@@ -47,7 +47,7 @@ Fun fact, the `'(+ 1 2)`, the single quote is actually a `reader macro` around t
 
 ### Intro
 
-In this project I will demonstrate how one can use macros in a simple manner. We will be using a feature we looked at when writing the [tic tac toe](https://nmunro.github.io/2020/05/15/cl-tic-tac-toe-pt1.html) tutorial, the quoting and escaping with ``` and `,`, you might remember something like this:
+In this project I will demonstrate how one can use macros in a simple manner. We will be using a feature we looked at when writing the [tic tac toe](https://nmunro.github.io/2020/05/15/cl-tic-tac-toe-pt1.html) tutorial, the quoting and escaping with `` ` `` and `,`, you might remember something like this:
 
 {% highlight common_lisp linenos %}
 (let ((x 1)
@@ -57,7 +57,7 @@ In this project I will demonstrate how one can use macros in a simple manner. We
 
 Which evaluates to: `(x 1 y 2)`
 
-We were able to construct a list that looks like that because the `,` character inside a quoted list with ``` will place the value, not the literal symbol into the list. We will be using this feature when writing macros.
+We were able to construct a list that looks like that because the `,` character inside a quoted list with `` ` `` will place the value, not the literal symbol into the list. We will be using this feature when writing macros.
 
 While I was learning Common Lisp, I found an inconsistency that bothered me a little, and so I wrote a small library to address this, it is this small library I will use as a base.
 
@@ -94,7 +94,7 @@ Before we can understand the macro, let's ensure we understand what `mapcar` doe
 
 This small snippet will return `(1 4 9 16 25)` because `mapcar` takes two parameters, a function and a list. The first argument (the function) is a function of 1 parameter (1-arity for those who have been paying attention) and while the function can do anything, in this example we will simply square the number. The second argument (the list) is used as an input as a whole, and `mapcar` takes each item from the list, uses the function to do _something_ (in our case square) with the value and `mapcar` will return a new list which is each value in the input list run through the function.
 
-So because we can see that `mapcar` will return a list, there's something else regarding the ``` quote character and `,` escape character, if you use `,@` then a list will be unpacked into the new list (that's under construction).
+So because we can see that `mapcar` will return a list, there's something else regarding the `` ` `` quote character and `,` escape character, if you use `,@` then a list will be unpacked into the new list (that's under construction).
 
 #### Rest args
 
