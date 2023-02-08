@@ -79,7 +79,7 @@ The _implementation_ of the macro looks like this:
 
 {% highlight common_lisp linenos %}
 (defmacro with-multiple-eq (&rest args)
-  `(and ,@(mapcar #'(lambda (x) `(eq ,(first args) ,x)) (rest args))))
+  `(and ,@(mapcar (lambda (x) `(eq ,(first args) ,x)) (rest args))))
 {% endhighlight %}
 
 This is both not a lot, and also, quite a lot! There are however quite a few things that we haven't yet looked at before, so we need to explore these before we bring it all together.
@@ -90,7 +90,7 @@ We looked at a generalized `map` function in our [hangman](https://nmunro.github
 
 Before we can understand the macro, let's ensure we understand what `mapcar` does.
 
-`(mapcar #'(lambda (x) (* x x)) '(1 2 3 4 5))`
+`(mapcar (lambda (x) (* x x)) '(1 2 3 4 5))`
 
 This small snippet will return `(1 4 9 16 25)` because `mapcar` takes two parameters, a function and a list. The first argument (the function) is a function of 1 parameter (1-arity for those who have been paying attention) and while the function can do anything, in this example we will simply square the number. The second argument (the list) is used as an input as a whole, and `mapcar` takes each item from the list, uses the function to do _something_ (in our case square) with the value and `mapcar` will return a new list which is each value in the input list run through the function.
 
@@ -149,7 +149,7 @@ The good news is... that's really it! The other three macros are basically the s
 
 {% highlight common_lisp linenos %}
 (defmacro with-multiple-eql (&rest args)
-  `(and ,@(mapcar #'(lambda (x) `(eql ,(first args) ,x)) (rest args))))
+  `(and ,@(mapcar (lambda (x) `(eql ,(first args) ,x)) (rest args))))
 
 (defmacro with-multiple-equal (&rest args)
   `(and ,@(mapcar #'(lambda (x) `(equal ,(first args) ,x)) (rest args))))
