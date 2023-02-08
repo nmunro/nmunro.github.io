@@ -101,10 +101,10 @@ So because we can see that `mapcar` will return a list, there's something else r
 The next thing to be aware of is the `(&rest args)` in the macro definition, this isn't something we have seen before, but it is very common, not just in Common Lisp, but in many other programming languages. These are what are known as `rest` arguments. You might be used to defining a function with parameters like so.
 
 {% highlight common_lisp linenos %}
-(defun sayHi (name age)
+(defun say-hi (name age)
   (format t "Hello ~A you are ~A years old~%" name age))
   
-(sayHi "Bob" 24)
+(say-hi "Bob" 24)
 {% endhighlight %}
 
 And this hopefully makes sense to you, this is a 2-arity function (name and age) so the real question is, how do functions like `=` take extra arguments? This is where rest arguments come in!
