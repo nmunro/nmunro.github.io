@@ -162,7 +162,7 @@ As you can see above, the macros are identical, except for the fact that `eql`, 
 
 ## Conclusion
 
-This was our first introduction to what is, really not a simple subject, so congratulations for sticking with it so far. Our next session will go a little bit further into it, I hope that you have not been put off the subject!
+This was our first introduction to what is, really not a simple subject, so congratulations for sticking with it so far. Our next session will return (briefly) to the Tic Tac Toe game from two previous tutorials and will look at applying this macro to the code, I hope that you have not been put off the subject!
 
 ## Complete listing
 
