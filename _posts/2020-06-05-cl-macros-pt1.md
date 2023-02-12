@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Common Lisp Tutorial 6a: Macros, Part 1"
-date:   2020-05-01 12:30:00 +0000
+date:   2020-06-05 12:30:00 +0000
 tags: CommonLisp Lisp tutorial YouTube
 author: NMunro
 ---
@@ -143,7 +143,7 @@ It sounds rather complicated, but there's a way to see what it actually does!
 (macroexpand-1 '(with-multiple-eq 1 2 3))
 {% endhighlight %}
 
-The preceeding code will return the following: `(and (eq 1 2) (eq 1 3))` which makes it _much_ easier to read and see what has actually happened. In effect, we have wrapped around `eq` by simply calling it repeatedly with different inputs and use `and` to ultimate check that it's all equal. As mentioned at the beginning of this tutorial, we see here that some code is being generated based on our inputs.
+The preceeding code will return the following: `(and (eq 1 2) (eq 1 3))` which makes it _much_ easier to read and see what has actually happened. In effect, we have wrapped around `eq` by simply calling it repeatedly with different inputs and use `and` to ultimately check that it's all equal. As mentioned at the beginning of this tutorial, we see here that some code is being generated based on our inputs.
 
 The good news is... that's really it! The other three macros are basically the same, but with a single change to use different equality functions.
 
