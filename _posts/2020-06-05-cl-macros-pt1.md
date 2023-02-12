@@ -116,7 +116,7 @@ And this hopefully makes sense to you, this is a 2-arity function (name and age)
 (add 1 2 3 4 5)
 {% endhighlight %}
 
-The answer here will be `(1 2 3 4 5)` but the question is, how? Well, `&rest` is a special keyword in Common Lisp functions, if there are extra arguments beyond the listed parameters, then any extra arguments will be played in a variable called (in this case) `args`, which will always be a list, a list of the "rest" of the arguments!
+The answer here will be `(1 2 3 4 5)` but the question is, how? Well, `&rest` is a special keyword in Common Lisp functions, if there are extra arguments beyond the listed parameters, then any extra arguments will be placed in a variable called (in this case) `args`, which will always be a list, a list of the "rest" of the arguments!
 
 It is this feature that will allow us to make our macro into an n-arity macro!
 
