@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-# [About](about.markdown) | [Blog](blog.markdown) | [Projects](projects.markdown) | [Magic: The Gathering](mtg.markdown)
+# [About](about.markdown) | [Blog](blog.markdown) | [Projects](projects.markdown)
 
 ## Personal
 
