@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-# [About](about.markdown) | [Blog](blog.markdown) | [Projects](projects.markdown)
+# [About](about.markdown) | [Blog](blog.markdown) | [Projects](projects.markdown) | [Ningle Tutorial](_posts/ningle-1.md)
 
 ## Personal
 

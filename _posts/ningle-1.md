@@ -1,0 +1,169 @@
+---
+layout: post
+title:  "Ningle Tutorial 1: Hello World"
+date:   2024-12-29 22:24:00 +0000
+tags: CommonLisp Lisp tutorial YouTube
+author: NMunro
+---
+
+## Introduction
+
+Welcome, you are about to begin your web development journey with [Common Lisp](https://common-lisp.net/) and [Ningle](https://github.com/fukamachi/ningle). Ningle is often the framework that comes up when searching for web development in Common Lisp, and having spent some time experimenting with it, I wanted to share my learning and ensure there was a tutorial that others could follow.
+
+In this first chapter of what is likely to be an on-going sage, you will learn how to create basic web applications. It will be little more than simple routes but it will highlight the foundations upon which we will build.
+
+There will be a github link for each chapter which you can download if you wish, however, nothing helps learn like typing things out yourself, trust me, the muscle memory is a useful thing to have.
+
+Unless otherwise stated however, each chapter will build upon the last, growing the application as a whole, and you do not need to create new projects each time.
+
+## Prerequisites
+
+It is assumed that you already have `Common Lisp` installed and have installed `quicklisp`, installing these is beyond the scope of this tutorial. 
+
+If you need a setup guide, you can consult [my guide from 2020](https://nmunro.github.io/2020/05/10/cl-setup.html).
+
+I will also be using my project setup [nmunro-project](https://github.com/nmunro/nmunro-project), this is not in `quicklisp`, and as such you will want to `git clone` it into your `quicklisp/local-projects/` directory (wherever that happens to be on your system) or download and extract the zip.
+
+For the purposes of illustration I will assume you have `quicklisp` installed in `~` and your `local-projects` is at `~/quicklisp/local-projects`. If this is different, please adjust the commands accordingly.
+
+Once `nmunro-project` is installed into your local-projects, simply run:
+
+    (ql:quickload :nmunro-project)
+    (nmunro-project:make-project #p"~/quicklisp/local-projects/ningle-tutorial-project")
+    
+This will create a new project within which we can get started.
+
+NOTE: If you want to use [cl-project](https://github.com/fukamachi/cl-project) you are also welcome to use that, the only reason I had build my own project skeleton was that for a time `cl-project` was broken on my system and I never switched back.
+
+## Setting Up A Ningle Project
+
+If you used my project builder you should have a directory listing like so:
+
+    ├── README.md
+    ├── ningle-tutorial-project.asd
+    ├── src
+    │   └── main.lisp
+    └── tests
+        └── main.lisp
+
+The first thing that needs to be done, is to install ningle and mark is as a dependency of this project. To install `ningle` you can use quicklisp like so:
+
+    (ql:quickload :ningle)
+    
+This will also install [clack](https://github.com/fukamachi/clack), and [lack](https://github.com/fukamachi/lack), which we will be using quite a bit in later tutorials, at this point in time however it's a bit much to go into them in depth at this point, however, as with most other programming languages, there's multiple different web servers and as such an abstraction layer is needed to easily switch between them if required, this is what `clack` is analogous to. `Lack` is more the nuts and bolts of web development as we will see in time.
+
+Now that `ningle` and its dependencies have been installed we must integrate it into our project, the `ningle-tutorial-project.asd` file is where we would do this.
+
+Within this file is a line `:depends-on ()`, you must edit this line to include `ningle` and `clack`:
+
+    :depends-on (:ningle
+                 :clack)
+    
+This is all that is required to setup the project with the required dependencies. Considering `ningle`, `clack`, and `lack` all work togehter you might expect `ningle` to directly depend on `clack` and `lack`, however to ensure things stay loosely coupled `ningle` was made somewhat agnostic to how it would connect to a web server and presumably some other connection framework could replace `clack`.
+
+## Building Your First Ningle Application
+
+To get started on your first `ningle` powered application you will need to edit `src/main.lisp`:
+
+### Set Up Package
+
+Is simple Common Lisp packaging rules to create a package in which to store our application code and switching into the package. The real work begins with the line:
+
+    (defvar *app* (make-instance 'ningle:app))
+    
+This will use the `make-instance` function to create a new instance of the class `app` inside the `ningle` package.
+
+### Defining A Route
+
+Defining the routes our application will have is quite simple, `Ningle` has adopted `sinatra style routing` which is colloquial way to express web routes in application code, it comes from `Ruby` and has a popular following.
+
+In the following code, we can see that we use Common Lisp `setf` function to set a function to run when a given route is accessed on the server. In this case the root route ("/"). You could define functions somewhere and reference them here or just use a `lambda` function for convenience. When this route is accessed, the string "Hello World" will be sent to the client.
+
+    (setf (ningle:route *app* "/")
+      (lambda (params)
+        "Hello world"))
+
+We will be looking at routes in more detail in a future tutorial.
+
+### Handling 404
+
+The error code we love to hate, but it's absolutely essential to have! Handling errors is very important in web development, the simplest and easiest error to handle is the `404`! If we do not define this error handler, our server would never send a response to the client at all, which is even worse.
+
+    (defmethod ningle:not-found ((app ningle:<app>))
+        (declare (ignore app))
+        (setf (lack.response:response-status ningle:*response*) 404)
+        "Not Found")
+
+In this code we must write a method that overrides the default `ningle:not-found` method, and since the application object isn't actually used in this method, we ensure we `declare` that the app object is `ignore`-d. While I said `lack` wouldn't feature heavily at this point, we do see it used here, perhaps it's obvious to you, perhaps it isn't. Like in defining a route above we use `setf` to set the response-status of the `lack` response to be the value `404`.
+
+`Lack` is where `request` and `response` objects live and when we come to needing to work with them in greater depth we will, for now, however, just accept that this is how we correctly set the server response status-code to be the 404 we need.
+
+As above, we return a string from this method "Not Found" will be sent as the response content to the client.
+
+### Starting The Server
+
+To start the server we must use some `clack` tooling, it is common to create a start function that will instruct `clack` to bring a web server online and run our application.
+
+    (defun start (&key (server :woo) (address "127.0.0.1") (port 8000))
+        (clack:clackup
+         *app*
+         :server server
+         :address address
+         :port port))
+
+There's many different ways to configure `clack`, with `hunchentoot`, `woo`, and `wookie`, all being supported web servers, in my example I have settled on using `woo` and setting the address to be the standard loopback address of `127.0.0.1` and a port of `8000`. The `clackup` function takes our application object and the key arguments and brings it all online for us. 
+
+### Stopping The Server
+
+Similarly to starting the server `clack` is also responsible for bringing the server down and cleaning up for us. `clack`:`stop` requires a running instance (the object returned by `clackup`) to shut down, and as such we will need to store the object returned by our `start` function somewhere in the event that we want to bring it down later.
+
+    (defun stop (instance)
+        (clack:stop instance))
+
+### Running It
+
+So, because we need to store the application somewhere you can include the following in your code as your develop in your editor, evaluating them as needed.
+
+    (defvar *instance* (start))
+    (stop *instance*)
+    
+NOTE: Should you be starting this from within the Common Lisp repl, please remember that the application will come online and immediately be shut down, and that the above two lines are shown for interactive development only and will now be shown in the complete listing below, and certainly should not be included in production!
+
+### Full Listing
+
+{% highlight common_lisp %}
+(defpackage ningle-tutorial-project
+  (:use :cl)
+  (:export #:start
+           #:stop))
+
+(in-package ningle-tutorial-project)
+
+(defvar *app* (make-instance 'ningle:app))
+
+(setf (ningle:route *app* "/")
+      (lambda (params)
+        "Hello world"))
+
+(defmethod ningle:not-found ((app ningle:<app>))
+    (declare (ignore app))
+    (setf (lack.response:response-status ningle:*response*) 404)
+    "Not Found")
+
+(defun start (&key (server :woo) (address "127.0.0.1") (port 8000))
+    (clack:clackup
+     *app*
+     :server server
+     :address address
+     :port port))
+
+(defun stop (instance)
+    (clack:stop instance))
+
+{% endhighlight %}
+
+## Conclusion
+
+I hope this has given you a taste for the basics of web development in Common Lisp, in the [next tutorial](_posts/ningle-2.md) we will look at using `djula` to allow us to create and re-use templates. 
+
+## Resources
