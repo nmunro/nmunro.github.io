@@ -1,0 +1,23 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.14.0/.schema/devbox.schema.json",
+  "packages": [
+    "git@latest",
+    "ruby@latest"
+  ],
+  "shell": {
+    "init_hook": [
+      "echo 'Welcome to devbox!' > /dev/null"
+    ],
+    "scripts": {
+      "build": [
+        "bundle exec jekyll build --future"
+      ],
+      "serve": [
+        "bundle exec jekyll serve --livereload --future"
+      ],
+      "clean": [
+        "bundle exec jekyll clean"
+      ]
+    }
+  }
+}
