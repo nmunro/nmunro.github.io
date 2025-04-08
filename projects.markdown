@@ -3,7 +3,7 @@ layout: default
 title:  "Projects"
 ---
 
-# [About](about.markdown) | [About](about.markdown) | [Sponsors](sponsors.markdown) | [Ningle Tutorial](/2024/12/29/ningle-1.html)
+# [Home](index.markdown) | [About](about.markdown) | [Sponsors](sponsors.markdown) | [Ningle Tutorial](/2024/12/29/ningle-1.html)
 
 ## Projects
 
