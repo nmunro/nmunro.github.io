@@ -17,3 +17,4 @@ As a commercial dev much of my work has been private and not publicly available,
 | Common Lisp | A Common Lisp Ningle tutorial series.                                                                             | [Ningle Tutorial](https://nmunro.github.io/2024/12/29/ningle-1.html) |
 | Common Lisp | A library for colorizing output to a stream using ansi color codes.                                               | [cfmt](https://github.com/nmunro/cfmt)                               |
 | Common Lisp | A repo for the code used in my [Common Lisp tutorials](https://www.youtube.com/channel/UC1J47RqBfY6VgLUZ5YSYkqw). | [Tutorials](https://github.com/nmunro/cl-tutorials)                  |
+| Common Lisp | A calculator for figuring out the number of dev days a task took. | [Dev Days Calculator](https://github.com/nmunro/dev-days-calculator) |
