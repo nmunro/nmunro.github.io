@@ -9,6 +9,9 @@
       "echo 'Welcome to devbox!' > /dev/null"
     ],
     "scripts": {
+      "install": [
+	"bundle install"
+      ],
       "build": [
         "bundle exec jekyll build --future"
       ],
