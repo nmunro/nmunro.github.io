@@ -11,6 +11,7 @@ As a commercial dev much of my work has been private and not publicly available,
 
 | Language    | Description                                                                                                       | Name                                                                 |
 |:-----------:|:-----------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------:|
+| Common Lisp | A nanoid implementation | [cl-nanoid](https://github.com/nmunro/cl-nanoid) |
 | Common Lisp | A wrapper to configure [ningle](https://github.com/fukamachi/ningle) middleware using [envy](https://github.com/fukamachi/envy).                                                                                        | [envy-ningle](https://github.com/nmunro/envy-ningle)                 |
 | Common Lisp | A Common Lisp authentication system for [ningle](https://github.com/fukamachi/ningle).                            | [Cu-Sith](https://github.com/nmunro/cu-sith/)                        |
 | Common Lisp | A Common Lisp project builder.                                                                                    | [nmunro-project](https://github.com/nmunro/nmunro-project)           |
