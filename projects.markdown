@@ -11,6 +11,7 @@ As a commercial dev much of my work has been private and not publicly available,
 
 | Language    | Description                                                                                                       | Name                                                                 |
 |:-----------:|:-----------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------:|
+| Common Lisp | A authentication app for [ningle](https://github.com/fukamachi/ningle) projects | [ningle-auth](https://github.com/nmunro/ningle-auth) |
 | Common Lisp | A getpass implementation | [cl-getpass](https://github.com/nmunro/cl-getpass) |
 | Common Lisp | A nanoid implementation | [cl-nanoid](https://github.com/nmunro/cl-nanoid) |
 | Common Lisp | A wrapper to configure [ningle](https://github.com/fukamachi/ningle) middleware using [envy](https://github.com/fukamachi/envy).                                                                                        | [envy-ningle](https://github.com/nmunro/envy-ningle)                 |
