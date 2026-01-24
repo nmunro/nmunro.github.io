@@ -5,7 +5,7 @@ date:   2020-12-11 21:33:23 +0000
 categories: jekyll update
 ---
 
-# [Home](index.markdown) | [About](about.markdown) | [Projects](projects.markdown) | [Sponsors](sponsors.markdown) | [Ningle Tutorial](/2024/12/29/ningle-1.html)
+# [Home](index.markdown) | [About](about.markdown) | [Projects](projects.markdown) | [Ningle Tutorial](/2024/12/29/ningle-1.html)
 
 - [2020/12/11 - Common Lisp Tutorial 10b: Basic Classes](_posts/2020-12-11-cl-tut-10b-classes1.md)
 - [2020/06/05 - Common Lisp Tutorial 4c: Tic Tac Toe (pt3)](_posts/2020-06-10-cl-tic-tac-toe-pt3.md)

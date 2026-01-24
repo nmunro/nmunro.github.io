@@ -3,7 +3,7 @@ layout: default
 title: "Home"
 ---
 
-# [About](about.html) | [Blog](blog.html) | [Projects](projects.html) | [Sponsors](sponsors.html) | [Ningle Tutorial](/2024/12/29/ningle-1.html)
+# [About](about.html) | [Blog](blog.html) | [Projects](projects.html) | [Ningle Tutorial](/2024/12/29/ningle-1.html)
 
 ## Personal
 
