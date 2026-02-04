@@ -10,7 +10,7 @@
     ],
     "scripts": {
       "install": [
-	"bundle install"
+        "bundle install"
       ],
       "build": [
         "bundle exec jekyll build --future"
