@@ -11,7 +11,7 @@ As a commercial dev much of my work has been private and not publicly available,
 
 | Language    | Description                                                                                                       | Name                                                                 |
 |:-----------:|:-----------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------:|
-| Common Lisp | A pagination library for [ningle](https://github.com/fukamachi/ningle) projects | [ningle-pager](https://github.com/nmunro/ningle-pager) |
+| Common Lisp | A pagination library for [mito](https://github.com/fukamachi/mito) projects | [mito-pager](https://github.com/nmunro/mito-pager) |
 | Common Lisp | A authentication app for [ningle](https://github.com/fukamachi/ningle) projects | [ningle-auth](https://github.com/nmunro/ningle-auth) |
 | Common Lisp | A getpass implementation | [cl-getpass](https://github.com/nmunro/cl-getpass) |
 | Common Lisp | A nanoid implementation | [cl-nanoid](https://github.com/nmunro/cl-nanoid) |
